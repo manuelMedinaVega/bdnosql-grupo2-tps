@@ -3,7 +3,7 @@ import redis
 
 # Ubicacion del archivo CSV con el contenido provisto por la catedra
 archivo_entrada = './datos/full_export.csv'
-nombre_archivo_resultado_ejercicio = 'tpY_ejXX.txt'
+nombre_archivo_resultado_ejercicio = 'tp2_ej04.txt'
 
 # Objeto de configuracion para conectarse a la base de datos usada en este ejercicio
 conexion = {
