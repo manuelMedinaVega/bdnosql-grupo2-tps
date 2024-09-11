@@ -58,7 +58,6 @@ def procesar_fila(db, fila):
         db.hset(
             f"deportista:{fila['id_deportista']}",
             mapping={
-                "id": fila['id_deportista'],
                 "nombre": fila['nombre_deportista'],
                 "fecha_nacimiento": fila['fecha_nacimiento'],
                 "pais_nacimiento": fila['nombre_pais_deportista']
@@ -75,7 +74,7 @@ def generar_reporte(db):
     for id in ['10', '20', '30', '229']:
         data = db.hgetall(f"deportista:{id}")
         num_especialidades = db.scard(f'especialidades:{id}')
-        grabar_linea(archivo, f"{data.get('id')} - {data.get('nombre')} - {data.get('fecha_nacimiento')} - {data.get('pais_nacimiento')} - {num_especialidades}")
+        grabar_linea(archivo, f"{id} - {data.get('nombre')} - {data.get('fecha_nacimiento')} - {data.get('pais_nacimiento')} - {num_especialidades}")
 
 
 # Funcion para el borrado de estructuras generadas para este ejercicio
