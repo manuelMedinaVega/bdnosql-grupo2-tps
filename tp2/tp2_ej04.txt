@@ -1,0 +1,4 @@
+ID Tipo Especialidad: 1, Nombre: tiempo, Cantidad de Especialidades: 12
+ID Tipo Especialidad: 4, Nombre: lanzamiento, Cantidad de Especialidades: 4
+ID Tipo Especialidad: 2, Nombre: altura, Cantidad de Especialidades: 2
+ID Tipo Especialidad: 3, Nombre: largo, Cantidad de Especialidades: 2

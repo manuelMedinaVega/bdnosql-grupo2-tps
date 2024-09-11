@@ -2,8 +2,8 @@ import csv
 import redis
 
 # Ubicacion del archivo CSV con el contenido provisto por la catedra
-archivo_entrada = 'full_export.csv'
-nombre_archivo_resultado_ejercicio = 'tp2/tp2_ej03.txt'
+archivo_entrada = './datos/full_export.csv'
+nombre_archivo_resultado_ejercicio = 'tpY_ejXX.txt'
 
 # Objeto de configuracion para conectarse a la base de datos usada en este ejercicio
 conexion = {
@@ -53,30 +53,29 @@ def inicializar(conn):
 # necesarios
 # Debe ser implementada por el alumno
 def procesar_fila(db, fila):
-    # insertar elemento en entidad para el ejercicio actual
-    if not db.exists(f"deportista:{fila['id_deportista']}"):
-        db.hset(
-            f"deportista:{fila['id_deportista']}",
-            mapping={
-                "id": fila['id_deportista'],
-                "nombre": fila['nombre_deportista'],
-                "fecha_nacimiento": fila['fecha_nacimiento'],
-                "pais_nacimiento": fila['nombre_pais_deportista']
-            }
-        )
-    db.sadd(f"especialidades:{fila['id_deportista']}", f"{fila['nombre_especialidad']}")
+    id_tipo_especialidad = fila['id_tipo_especialidad']
+    tipo_especialidad = fila['nombre_tipo_especialidad']
+    nombre_especialidad = fila['nombre_especialidad']
+
+    db.hset(f"especialidades", id_tipo_especialidad, tipo_especialidad)
+    db.sadd(f"especialidades_tipo:{id_tipo_especialidad}", nombre_especialidad)
+
 
 # Funcion que realiza el o los queries que resuelven el ejercicio, utilizando la base de datos.
 # Debe ser implementada por el alumno
 def generar_reporte(db):
-    archivo = open(nombre_archivo_resultado_ejercicio, 'w')
-    # luego para cada linea generada como reporte:
-    
-    for id in ['10', '20', '30', '229']:
-        data = db.hgetall(f"deportista:{id}")
-        num_especialidades = db.scard(f'especialidades:{id}')
-        grabar_linea(archivo, f"{data.get('id')} - {data.get('nombre')} - {data.get('fecha_nacimiento')} - {data.get('pais_nacimiento')} - {num_especialidades}")
+    tipos_especialidad = db.hgetall("especialidades")
 
+    with open(nombre_archivo_resultado_ejercicio, 'w') as archivo:
+        for id_tipo, nombre_tipo in tipos_especialidad.items():
+            cantidad_especialidades = db.scard(f"especialidades_tipo:{id_tipo}")
+
+            linea = (
+                f"ID Tipo Especialidad: {id_tipo}, "
+                f"Nombre: {nombre_tipo}, "
+                f"Cantidad de Especialidades: {cantidad_especialidades}"
+            )
+            grabar_linea(archivo, linea)
 
 # Funcion para el borrado de estructuras generadas para este ejercicio
 def finalizar(db):
