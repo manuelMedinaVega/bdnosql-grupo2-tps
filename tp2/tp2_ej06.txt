@@ -1,0 +1,80 @@
+Especialidad: 1
+1. Intento: 1, nombre: Aleia HOBBS - Marca: 9760.0
+2. Intento: 1, nombre: Mario BURKE - Marca: 9760.0
+3. Intento: 1, nombre: ShaCarri RICHARDSON - Marca: 9760.0
+Especialidad: 2
+1. Intento: 1, nombre: Mario BURKE - Marca: 19500.0
+2. Intento: 1, nombre: Elaine THOMPSON - Marca: 19500.0
+3. Intento: 1, nombre: Kayla WHITE - Marca: 19500.0
+Especialidad: 3
+1. Intento: 1, nombre: Phyllis FRANCIS - Marca: 43450.0
+2. Intento: 1, nombre: Courtney OKOLO - Marca: 43451.0
+3. Intento: 1, nombre: Sharrika BARNETT - Marca: 43452.0
+Especialidad: 4
+1. Intento: 1, nombre: Francine NIYONSABA - Marca: 101892.0
+2. Intento: 1, nombre: Raevyn ROGERS - Marca: 101893.0
+3. Intento: 1, nombre: Natalya PRYSHCHEPA - Marca: 101893.0
+Especialidad: 5
+1. Intento: 1, nombre: Sifan HASSAN - Marca: 208771.0
+2. Intento: 1, nombre: Matthew CENTROWITZ - Marca: 208772.0
+3. Intento: 1, nombre: Dawit SEYAUM - Marca: 208772.0
+Especialidad: 6
+1. Intento: 1, nombre: Sifan HASSAN - Marca: 772098.0
+2. Intento: 1, nombre: Birhanu BALEW - Marca: 772110.0
+3. Intento: 1, nombre: Selemon BAREGA - Marca: 772111.0
+Especialidad: 7
+1. Intento: 1, nombre: Lopez LOMONG - Marca: 1608036.0
+2. Intento: 1, nombre: Abdallah Kibet MANDE - Marca: 1608063.0
+3. Intento: 1, nombre: Rodgers KWEMOI - Marca: 1608075.0
+Especialidad: 8
+1. Intento: 1, nombre: Evaline CHIRCHIR - Marca: 3481005.0
+2. Intento: 1, nombre: Zeineba YIMER - Marca: 3481062.0
+3. Intento: 1, nombre: Roza DEREJE - Marca: 3481121.0
+Especialidad: 9
+1. Intento: 1, nombre: Zeineba YIMER - Marca: 7301146.0
+2. Intento: 1, nombre: Kinde ATANAW - Marca: 7301386.0
+3. Intento: 1, nombre: Kinde ATANAW - Marca: 7301499.0
+Especialidad: 10
+1. Intento: 1, nombre: Payton CHADWICK - Marca: 12098.0
+2. Intento: 1, nombre: Anna COCKRELL - Marca: 12098.0
+3. Intento: 1, nombre: Wenjun XIE - Marca: 12098.0
+Especialidad: 11
+1. Intento: 1, nombre: Lindsay HANEKOM - Marca: 46092.0
+2. Intento: 1, nombre: Ashley SPENCER - Marca: 46092.0
+3. Intento: 1, nombre: TJ HOLMES - Marca: 46094.0
+Especialidad: 12
+1. Intento: 1, nombre: Andrew BAYER - Marca: 481036.0
+2. Intento: 1, nombre: Chala BEYO - Marca: 481040.0
+3. Intento: 1, nombre: Norah JERUTO - Marca: 481044.0
+Especialidad: 13
+1. Intento: 7, nombre: Yuliya LEVCHENKO - Marca: 261.0
+2. Intento: 7, nombre: Nafissatou THIAM - Marca: 261.0
+3. Intento: 4, nombre: Tihomir IVANOV - Marca: 261.0
+Especialidad: 14
+1. Intento: 3, nombre: Katie NAGEOTTE - Marca: 667.0
+2. Intento: 5, nombre: Michaela MEIJER - Marca: 667.0
+3. Intento: 2, nombre: Nikoleta KIRIAKOPOULOU - Marca: 667.0
+Especialidad: 15
+1. Intento: 9, nombre: Ese BRUME - Marca: 956.0
+2. Intento: 8, nombre: Keturah ORJI - Marca: 956.0
+3. Intento: 1, nombre: Jianan WANG - Marca: 956.0
+Especialidad: 16
+1. Intento: 6, nombre: Darya NIDBAYKINA - Marca: 1996.0
+2. Intento: 2, nombre: Jordan Alejandro DÍAZ FORTUN - Marca: 1996.0
+3. Intento: 9, nombre: Dmitriy SOROKIN - Marca: 1996.0
+Especialidad: 17
+1. Intento: 7, nombre: Danniel THOMAS-DODD - Marca: 2521.0
+2. Intento: 2, nombre: Michał HARATYK - Marca: 2521.0
+3. Intento: 9, nombre: Anita MÁRTON - Marca: 2521.0
+Especialidad: 18
+1. Intento: 1, nombre: Kelsey CARD - Marca: 7905.0
+2. Intento: 8, nombre: Kristin PUDENZ - Marca: 7905.0
+3. Intento: 3, nombre: Reggie JAGERS III - Marca: 7905.0
+Especialidad: 19
+1. Intento: 10, nombre: Serhiy PEREVOZNIKOV - Marca: 8992.0
+2. Intento: 2, nombre: Iryna KLYMETS - Marca: 8992.0
+3. Intento: 1, nombre: Zalina PETRIVSKAYA - Marca: 8992.0
+Especialidad: 20
+1. Intento: 10, nombre: Arshad NADEEM - Marca: 9968.0
+2. Intento: 5, nombre: Martina RATEJ - Marca: 9968.0
+3. Intento: 7, nombre: Martina RATEJ - Marca: 9968.0
