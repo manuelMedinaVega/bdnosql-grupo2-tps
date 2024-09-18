@@ -54,42 +54,28 @@ def inicializar(conn):
 # Funcion que dada una linea del archivo CSV (en forma de objeto) va a encargarse de insertar el (o los) objetos
 # necesarios
 # Debe ser implementada por el alumno
-def procesar_fila(db, fila):    
+def procesar_fila(db, fila):   
     
-    # insertar elemento en entidad para el ejercicio actual
-    # usé hset de esta forma ya que con mapping me devolvía error
-    if not db.exists(f"{fila['id_especialidad']}:{fila['id_torneo']}:{fila['intento']}:{fila['id_deportista']}"):
-        db.hset(f"{fila['id_especialidad']}:{fila['id_torneo']}:{fila['intento']}:{fila['id_deportista']}", 
-                'nombre', fila['nombre_deportista'])
-        db.hset(f"{fila['id_especialidad']}:{fila['id_torneo']}:{fila['intento']}:{fila['id_deportista']}", 
-                'marca', fila['marca'])
+    
+    sorted_set_key = f"ranking:{fila['id_especialidad']}"
+
+    marca = fila['marca']
+    nombre = fila['nombre_deportista']            
+    torneo = fila['id_torneo']
+    intento = fila['intento']            
+
+    elemento_zset = f"{torneo}:{intento}:{nombre}"
+    score_marca = float(marca)
+
+    db.zadd(sorted_set_key, {elemento_zset: score_marca})
+
+    
         
 
 # Funcion que realiza el o los queries que resuelven el ejercicio, utilizando la base de datos.
 # Debe ser implementada por el alumno
 def generar_reporte(db):
-    archivo = open(nombre_archivo_resultado_ejercicio, 'w', encoding="utf-8")
-    # luego para cada linea generada como reporte:
-    
-    for id in range(1,21):
-        print(f"zset: {id}")
-        claves = db.keys(f"{id}:*")
-
-        # Armo zset
-        for clave in claves:
-            sorted_set_key = f"ranking:{id}"
-
-            marca = db.hget(clave, 'marca')
-            nombre = db.hget(clave, 'nombre')
-            
-            partes_key = clave.split(":")
-            torneo = partes_key[1]
-            intento = partes_key[2]              
-
-            elemento_zset = f"{torneo}:{intento}:{nombre}"
-            score_marca = float(marca)  # Asegúrate de que 'marca' es un número
-
-            db.zadd(sorted_set_key, {elemento_zset: score_marca})
+    archivo = open(nombre_archivo_resultado_ejercicio, 'w', encoding="utf-8")      
 
     for id in range(1,21):
             print(f"sset: {id}")
