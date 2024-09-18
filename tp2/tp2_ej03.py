@@ -2,7 +2,7 @@ import csv
 import redis
 
 # Ubicacion del archivo CSV con el contenido provisto por la catedra
-archivo_entrada = 'full_export.csv'
+archivo_entrada = 'tp2/full_export.csv'
 nombre_archivo_resultado_ejercicio = 'tp2/tp2_ej03.txt'
 
 # Objeto de configuracion para conectarse a la base de datos usada en este ejercicio
@@ -53,18 +53,14 @@ def inicializar(conn):
 # necesarios
 # Debe ser implementada por el alumno
 def procesar_fila(db, fila):
-    # insertar elemento en entidad para el ejercicio actual
-    if not db.exists(f"deportista:{fila['id_deportista']}"):
-        db.hset(
-            f"deportista:{fila['id_deportista']}",
-            mapping={
-                "id": fila['id_deportista'],
-                "nombre": fila['nombre_deportista'],
-                "fecha_nacimiento": fila['fecha_nacimiento'],
-                "pais_nacimiento": fila['nombre_pais_deportista']
-            }
-        )
-    db.sadd(f"especialidades:{fila['id_deportista']}", f"{fila['nombre_especialidad']}")
+    # insertar elemento en entidad para el ejercicio actual    
+
+        if not db.exists(f"deportista:{fila['id_deportista']}"):
+            db.hset(f"deportista:{fila['id_deportista']}", 'name', 'John Doe')
+            db.hset(f"deportista:{fila['id_deportista']}", 'email', 'john.doe@example.com')
+            db.hset(f"deportista:{fila['id_deportista']}", 'password', 's3cr3t')
+        
+        db.sadd(f"especialidades:{fila['id_deportista']}", f"{fila['nombre_especialidad']}")
 
 # Funcion que realiza el o los queries que resuelven el ejercicio, utilizando la base de datos.
 # Debe ser implementada por el alumno
