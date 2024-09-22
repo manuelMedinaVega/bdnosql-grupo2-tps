@@ -1,9 +1,10 @@
 import csv
 import redis
+import os
 
 # Ubicacion del archivo CSV con el contenido provisto por la catedra
 archivo_entrada = r'C:\Users\Kalou\OneDrive\Escritorio\BasesDatosNoSQL\full_export.csv'
-nombre_archivo_resultado_ejercicio = r'C:\Users\Kalou\OneDrive\Escritorio\BasesDatosNoSQL\tp2_ej07.txt'
+nombre_archivo_resultado_ejercicio = r'C:\Users\Kalou\OneDrive\Escritorio\BasesDatosNoSQL\\TP 2\\tp2_ej07.txt'
 
 # Objeto de configuracion para conectarse a la base de datos usada en este ejercicio
 conexion = {
@@ -66,12 +67,8 @@ def procesar_fila(db, fila):
 # Funcion que realiza el o los queries que resuelven el ejercicio, utilizando la base de datos.
 # Debe ser implementada por el alumno
 def generar_reporte(db):
+        
     archivo = open(nombre_archivo_resultado_ejercicio, 'w', encoding="utf-8")
-    # luego para cada linea generada como reporte:
-    
-        # luego para cada linea generada como reporte:
-    # Función para obtener la mejor y peor marca de un deportista en una especialidad
-    # Función para obtener la mejor y peor marca de un deportista en una especialidad
 
 
     # Obtener todas las claves que siguen el patrón 'deportista:{id_deportista}:{especialidad}'
