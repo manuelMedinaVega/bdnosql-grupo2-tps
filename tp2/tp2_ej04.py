@@ -5,7 +5,7 @@ import os
 # Ubicacion del archivo CSV con el contenido provisto por la catedra
 directorio_actual = os.path.dirname(os.path.abspath(__file__))
 archivo_entrada =  os.path.join(directorio_actual, '..', 'datos', 'full_export.csv')
-nombre_archivo_resultado_ejercicio = os.path.join(directorio_actual, 'tp2_ej01.txt')
+nombre_archivo_resultado_ejercicio = os.path.join(directorio_actual, 'tp2_ej04.txt')
 
 # Objeto de configuracion para conectarse a la base de datos usada en este ejercicio
 conexion = {
@@ -18,7 +18,7 @@ conexion = {
 # base de datos
 def ejecutar(file, conn):
     import time
-    
+
     start = time.time()
     db = inicializar(conn)
     df_filas = csv.DictReader(open(file, "r", encoding="utf-8"))
@@ -56,17 +56,30 @@ def inicializar(conn):
 # Debe ser implementada por el alumno
 def procesar_fila(db, fila):
     # insertar elemento en entidad para el ejercicio actual
-    db.set(f"deportista:{fila['id_deportista']}", fila['nombre_deportista'], nx=True)
+    id_tipo_especialidad = fila['id_tipo_especialidad']
+    tipo_especialidad = fila['nombre_tipo_especialidad']
+    nombre_especialidad = fila['nombre_especialidad']
+
+    db.hset(f"especialidades", id_tipo_especialidad, tipo_especialidad)
+    db.sadd(f"especialidades_tipo:{id_tipo_especialidad}", nombre_especialidad)
 
 # Funcion que realiza el o los queries que resuelven el ejercicio, utilizando la base de datos.
 # Debe ser implementada por el alumno
 def generar_reporte(db):
     archivo = open(nombre_archivo_resultado_ejercicio, 'w')
     # luego para cada linea generada como reporte:
-    for id in ['10', '20', '30']:
-        grabar_linea(archivo, f"{id} - {db.get(f'deportista:{id}')}")
+    
+    tipos_especialidad = db.hgetall("especialidades")
+    
+    for id_tipo, nombre_tipo in tipos_especialidad.items():
+        cantidad_especialidades = db.scard(f"especialidades_tipo:{id_tipo}")
 
-
+        linea = (
+            f"ID Tipo Especialidad: {id_tipo}, "
+            f"Nombre: {nombre_tipo}, "
+            f"Cantidad de Especialidades: {cantidad_especialidades}"
+        )
+        grabar_linea(archivo, linea)
 
 # Funcion para el borrado de estructuras generadas para este ejercicio
 def finalizar(db):

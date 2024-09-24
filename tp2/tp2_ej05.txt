@@ -1,0 +1,803 @@
+Deportista: deportista_697, Especialidad: lanzamiento de disco,   Mejor marca: 7905.0 en Torneo de Argentina, intento 3  Peor marca: 7188.0 en Torneo de Bulgaria, intento 7
+Deportista: deportista_341, Especialidad: carrera 42000 m,   Mejor marca: 7303562.0 en Torneo de Russia, intento 1  Peor marca: 8030363.0 en Torneo de Uganda, intento 1
+Deportista: deportista_563, Especialidad: salto largo,   Mejor marca: 955.0 en Torneo de Scotland, intento 3  Peor marca: 869.0 en Torneo de Bulgaria, intento 8
+Deportista: deportista_422, Especialidad: carrera 400 m con vallas,   Mejor marca: 46106.0 en Torneo de Kazakhstan, intento 1  Peor marca: 50679.0 en Torneo de Bahrain, intento 1
+Deportista: deportista_181, Especialidad: carrera 1500 m,   Mejor marca: 208772.0 en Torneo de Niger, intento 1  Peor marca: 229629.0 en Torneo de Saint Kitts and Nevis, intento 1
+Deportista: deportista_141, Especialidad: carrera 800 m,   Mejor marca: 101906.0 en Torneo de Czechia, intento 1  Peor marca: 112056.0 en Torneo de Rwanda, intento 1
+Deportista: deportista_33, Especialidad: carrera 100 m,   Mejor marca: 9760.0 en Torneo de United States, intento 1  Peor marca: 10736.0 en Torneo de Sao Tome and Principe, intento 1
+Deportista: deportista_249, Especialidad: carrera 21000 m,   Mejor marca: 3482018.0 en Torneo de Syria, intento 1  Peor marca: 3828474.0 en Torneo de Switzerland, intento 1
+Deportista: deportista_385, Especialidad: carrera 110 m con vallas,   Mejor marca: 12102.0 en Torneo de Papua New Guinea, intento 1  Peor marca: 13305.0 en Torneo de Vanuatu, intento 1
+Deportista: deportista_695, Especialidad: lanzamiento de disco,   Mejor marca: 7901.0 en Torneo de Somalia, intento 4  Peor marca: 7186.0 en Torneo de Chile, intento 2
+Deportista: deportista_613, Especialidad: salto triple,   Mejor marca: 1996.0 en Torneo de United Kingdom, intento 2  Peor marca: 1814.0 en Torneo de French Guiana, intento 1
+Deportista: deportista_409, Especialidad: carrera 400 m con vallas,   Mejor marca: 46120.0 en Torneo de United Arab Emirates, intento 1  Peor marca: 50698.0 en Torneo de Georgia, intento 1
+Deportista: deportista_366, Especialidad: carrera 110 m con vallas,   Mejor marca: 12109.0 en Torneo de Kuwait, intento 1  Peor marca: 13304.0 en Torneo de Jordan, intento 1
+Deportista: deportista_110, Especialidad: carrera 400 m,   Mejor marca: 43458.0 en Torneo de Gabon, intento 1  Peor marca: 47781.0 en Torneo de Chad, intento 1
+Deportista: deportista_494, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Venezuela, intento 9  Peor marca: 237.0 en Torneo de Armenia, intento 3
+Deportista: deportista_299, Especialidad: carrera 21000 m,   Mejor marca: 3481732.0 en Torneo de Japan, intento 1  Peor marca: 3827379.0 en Torneo de Brazil, intento 1
+Deportista: deportista_311, Especialidad: carrera 42000 m,   Mejor marca: 7303234.0 en Torneo de Gambia, intento 1  Peor marca: 8023527.0 en Torneo de Syria, intento 1
+Deportista: deportista_79, Especialidad: carrera 200 m,   Mejor marca: 19503.0 en Torneo de Peru, intento 1  Peor marca: 21434.0 en Torneo de Zambia, intento 1
+Deportista: deportista_670, Especialidad: lanzamiento de bala,   Mejor marca: 2521.0 en Torneo de Ivory Coast, intento 8  Peor marca: 2291.0 en Torneo de Qatar, intento 7
+Deportista: deportista_642, Especialidad: salto triple,   Mejor marca: 1996.0 en Torneo de Switzerland, intento 9  Peor marca: 1814.0 en Torneo de Macedonia, intento 7
+Deportista: deportista_277, Especialidad: carrera 10000 m,   Mejor marca: 1609113.0 en Torneo de Netherlands, intento 1  Peor marca: 1768515.0 en Torneo de Mali, intento 1
+Deportista: deportista_490, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Vietnam, intento 3  Peor marca: 237.0 en Torneo de Botswana, intento 8
+Deportista: deportista_735, Especialidad: lanzamiento de martillo,   Mejor marca: 8991.0 en Torneo de United States, intento 4  Peor marca: 8175.0 en Torneo de Mauritius, intento 6
+Deportista: deportista_140, Especialidad: carrera 800 m,   Mejor marca: 101918.0 en Torneo de Barbados, intento 1  Peor marca: 112066.0 en Torneo de Rwanda, intento 1
+Deportista: deportista_497, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Panama, intento 5  Peor marca: 237.0 en Torneo de Barbados, intento 7
+Deportista: deportista_587, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Liechtenstein, intento 2  Peor marca: 869.0 en Torneo de Cameroon, intento 5
+Deportista: deportista_195, Especialidad: carrera 1500 m,   Mejor marca: 208796.0 en Torneo de Burundi, intento 1  Peor marca: 229463.0 en Torneo de Sierra Leone, intento 1
+Deportista: deportista_154, Especialidad: carrera 800 m,   Mejor marca: 101926.0 en Torneo de Bosnia and Herzegovina, intento 1  Peor marca: 112071.0 en Torneo de Tonga, intento 1
+Deportista: deportista_93, Especialidad: carrera 800 m,   Mejor marca: 101910.0 en Torneo de Japan, intento 1  Peor marca: 112026.0 en Torneo de Tuvalu, intento 1
+Deportista: deportista_500, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Senegal, intento 6  Peor marca: 237.0 en Torneo de Belize, intento 1
+Deportista: deportista_566, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Namibia, intento 8  Peor marca: 869.0 en Torneo de Saint Vincent and the Grenadines, intento 2
+Deportista: deportista_536, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Slovakia, intento 10  Peor marca: 606.0 en Torneo de Nicaragua, intento 4
+Deportista: deportista_723, Especialidad: lanzamiento de disco,   Mejor marca: 7904.0 en Torneo de United Arab Emirates, intento 5  Peor marca: 7186.0 en Torneo de Albania, intento 8
+Deportista: deportista_677, Especialidad: lanzamiento de bala,   Mejor marca: 2521.0 en Torneo de Bhutan, intento 3  Peor marca: 2291.0 en Torneo de Malawi, intento 2
+Deportista: deportista_551, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Tonga, intento 1  Peor marca: 606.0 en Torneo de Angola, intento 7
+Deportista: deportista_222, Especialidad: carrera 5000 m,   Mejor marca: 772442.0 en Torneo de Saudi Arabia, intento 1  Peor marca: 849132.0 en Torneo de Myanmar, intento 1
+Deportista: deportista_466, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481492.0 en Torneo de Mauritius, intento 1  Peor marca: 528951.0 en Torneo de Indonesia, intento 1
+Deportista: deportista_752, Especialidad: lanzamiento de martillo,   Mejor marca: 8992.0 en Torneo de New Zealand, intento 10  Peor marca: 8179.0 en Torneo de Hungary, intento 2
+Deportista: deportista_313, Especialidad: carrera 42000 m,   Mejor marca: 7304491.0 en Torneo de Azerbaijan, intento 1  Peor marca: 8029156.0 en Torneo de Gambia, intento 1
+Deportista: deportista_496, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Turkey, intento 4  Peor marca: 237.0 en Torneo de Azerbaijan, intento 9
+Deportista: deportista_17, Especialidad: carrera 100 m,   Mejor marca: 9760.0 en Torneo de San Marino, intento 1  Peor marca: 10733.0 en Torneo de Belize, intento 1
+Deportista: deportista_622, Especialidad: salto triple,   Mejor marca: 1995.0 en Torneo de Panama, intento 7  Peor marca: 1814.0 en Torneo de Solomon Islands, intento 7
+Deportista: deportista_96, Especialidad: carrera 400 m,   Mejor marca: 43473.0 en Torneo de Comoros, intento 1  Peor marca: 47774.0 en Torneo de Chad, intento 1
+Deportista: deportista_520, Especialidad: salto largo,   Mejor marca: 955.0 en Torneo de Singapore, intento 7  Peor marca: 869.0 en Torneo de Belgium, intento 10
+Deportista: deportista_631, Especialidad: salto triple,   Mejor marca: 1996.0 en Torneo de Luxembourg, intento 9  Peor marca: 1815.0 en Torneo de Madagascar, intento 4
+Deportista: deportista_321, Especialidad: carrera 21000 m,   Mejor marca: 3484087.0 en Torneo de Bangladesh, intento 1  Peor marca: 3827707.0 en Torneo de Turkey, intento 1
+Deportista: deportista_454, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481113.0 en Torneo de Costa Rica, intento 1  Peor marca: 528870.0 en Torneo de Namibia, intento 1
+Deportista: deportista_129, Especialidad: carrera 800 m,   Mejor marca: 101920.0 en Torneo de Vanuatu, intento 1  Peor marca: 111991.0 en Torneo de Cuba, intento 1
+Deportista: deportista_218, Especialidad: carrera 10000 m,   Mejor marca: 1608510.0 en Torneo de Chile, intento 1  Peor marca: 1768122.0 en Torneo de South Korea, intento 1
+Deportista: deportista_127, Especialidad: carrera 800 m,   Mejor marca: 101989.0 en Torneo de Hungary, intento 1  Peor marca: 111995.0 en Torneo de Slovenia, intento 1
+Deportista: deportista_352, Especialidad: carrera 42000 m,   Mejor marca: 7301386.0 en Torneo de Guyana, intento 1  Peor marca: 8025039.0 en Torneo de Lithuania, intento 1
+Deportista: deportista_416, Especialidad: carrera 400 m con vallas,   Mejor marca: 46130.0 en Torneo de Botswana, intento 1  Peor marca: 50625.0 en Torneo de Ivory Coast, intento 1
+Deportista: deportista_571, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Scotland, intento 1  Peor marca: 869.0 en Torneo de Luxembourg, intento 4
+Deportista: deportista_444, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481433.0 en Torneo de Italy, intento 1  Peor marca: 528674.0 en Torneo de New Zealand, intento 1
+Deportista: deportista_155, Especialidad: carrera 800 m,   Mejor marca: 101899.0 en Torneo de South Korea, intento 1  Peor marca: 111989.0 en Torneo de Canada, intento 1
+Deportista: deportista_758, Especialidad: lanzamiento de martillo,   Mejor marca: 8990.0 en Torneo de Iraq, intento 10  Peor marca: 8175.0 en Torneo de Ivory Coast, intento 2
+Deportista: deportista_18, Especialidad: carrera 100 m,   Mejor marca: 9764.0 en Torneo de Gambia, intento 1  Peor marca: 10733.0 en Torneo de Timor-Leste, intento 1
+Deportista: deportista_632, Especialidad: salto triple,   Mejor marca: 1995.0 en Torneo de Suriname, intento 4  Peor marca: 1814.0 en Torneo de Mozambique, intento 7
+Deportista: deportista_39, Especialidad: carrera 200 m,   Mejor marca: 19501.0 en Torneo de United Kingdom, intento 1  Peor marca: 21444.0 en Torneo de Dominican Republic, intento 1
+Deportista: deportista_772, Especialidad: lanzamiento de jabalina,   Mejor marca: 9966.0 en Torneo de Bulgaria, intento 6  Peor marca: 9072.0 en Torneo de Lithuania, intento 1
+Deportista: deportista_205, Especialidad: carrera 10000 m,   Mejor marca: 1608319.0 en Torneo de Zambia, intento 1  Peor marca: 1768601.0 en Torneo de Azerbaijan, intento 1
+Deportista: deportista_243, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481175.0 en Torneo de Ivory Coast, intento 1  Peor marca: 529133.0 en Torneo de Afghanistan, intento 1
+Deportista: deportista_701, Especialidad: lanzamiento de disco,   Mejor marca: 7899.0 en Torneo de Sri Lanka, intento 1  Peor marca: 7187.0 en Torneo de Albania, intento 5
+Deportista: deportista_581, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Nicaragua, intento 7  Peor marca: 869.0 en Torneo de Comoros, intento 1
+Deportista: deportista_401, Especialidad: carrera 110 m con vallas,   Mejor marca: 12100.0 en Torneo de Palau, intento 1  Peor marca: 13305.0 en Torneo de Mongolia, intento 1
+Deportista: deportista_736, Especialidad: lanzamiento de martillo,   Mejor marca: 8986.0 en Torneo de Thailand, intento 5  Peor marca: 8182.0 en Torneo de Malawi, intento 2
+Deportista: deportista_206, Especialidad: carrera 10000 m,   Mejor marca: 1608136.0 en Torneo de Eritrea, intento 1  Peor marca: 1767755.0 en Torneo de Scotland, intento 1
+Deportista: deportista_136, Especialidad: carrera 800 m,   Mejor marca: 101925.0 en Torneo de Monaco, intento 1  Peor marca: 112059.0 en Torneo de Nicaragua, intento 1
+Deportista: deportista_558, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Tunisia, intento 4  Peor marca: 606.0 en Torneo de French Guiana, intento 1
+Deportista: deportista_162, Especialidad: carrera 800 m,   Mejor marca: 101994.0 en Torneo de Haiti, intento 1  Peor marca: 112017.0 en Torneo de Spain, intento 1
+Deportista: deportista_40, Especialidad: carrera 100 m,   Mejor marca: 9761.0 en Torneo de Guinea-Bissau, intento 1  Peor marca: 10736.0 en Torneo de Guyana, intento 1
+Deportista: deportista_617, Especialidad: salto triple,   Mejor marca: 1995.0 en Torneo de Myanmar, intento 7  Peor marca: 1814.0 en Torneo de Greece, intento 9
+Deportista: deportista_59, Especialidad: carrera 200 m,   Mejor marca: 19502.0 en Torneo de Saint Kitts and Nevis, intento 1  Peor marca: 21429.0 en Torneo de Ethiopia, intento 1
+Deportista: deportista_583, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Mauritania, intento 5  Peor marca: 869.0 en Torneo de Zimbabwe, intento 9
+Deportista: deportista_804, Especialidad: lanzamiento de jabalina,   Mejor marca: 9966.0 en Torneo de Niger, intento 5  Peor marca: 9069.0 en Torneo de Romania, intento 2
+Deportista: deportista_202, Especialidad: carrera 1500 m,   Mejor marca: 208920.0 en Torneo de Lesotho, intento 1  Peor marca: 229633.0 en Torneo de Comoros, intento 1
+Deportista: deportista_698, Especialidad: lanzamiento de disco,   Mejor marca: 7898.0 en Torneo de Vietnam, intento 8  Peor marca: 7192.0 en Torneo de Tanzania, intento 3
+Deportista: deportista_733, Especialidad: lanzamiento de martillo,   Mejor marca: 8988.0 en Torneo de El Salvador, intento 9  Peor marca: 8178.0 en Torneo de Comoros, intento 6
+Deportista: deportista_707, Especialidad: lanzamiento de disco,   Mejor marca: 7903.0 en Torneo de Nigeria, intento 5  Peor marca: 7189.0 en Torneo de Solomon Islands, intento 5
+Deportista: deportista_438, Especialidad: carrera 400 m con vallas,   Mejor marca: 46122.0 en Torneo de United States, intento 1  Peor marca: 50701.0 en Torneo de Kiribati, intento 1
+Deportista: deportista_761, Especialidad: lanzamiento de martillo,   Mejor marca: 8992.0 en Torneo de Spain, intento 8  Peor marca: 8174.0 en Torneo de Equatorial Guinea, intento 6
+Deportista: deportista_578, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Saint Vincent and the Grenadines, intento 5  Peor marca: 869.0 en Torneo de Gabon, intento 7
+Deportista: deportista_768, Especialidad: lanzamiento de jabalina,   Mejor marca: 9960.0 en Torneo de Grenada, intento 6  Peor marca: 9065.0 en Torneo de Lithuania, intento 4
+Deportista: deportista_731, Especialidad: lanzamiento de martillo,   Mejor marca: 8991.0 en Torneo de Argentina, intento 9  Peor marca: 8174.0 en Torneo de Bangladesh, intento 10
+Deportista: deportista_359, Especialidad: carrera 42000 m,   Mejor marca: 7311718.0 en Torneo de Congo Republic of the, intento 1  Peor marca: 8030767.0 en Torneo de Andorra, intento 1
+Deportista: deportista_725, Especialidad: lanzamiento de disco,   Mejor marca: 7892.0 en Torneo de Sweden, intento 4  Peor marca: 7192.0 en Torneo de Indonesia, intento 10
+Deportista: deportista_99, Especialidad: carrera 400 m,   Mejor marca: 43477.0 en Torneo de Estonia, intento 1  Peor marca: 47769.0 en Torneo de Taiwan, intento 1
+Deportista: deportista_117, Especialidad: carrera 400 m con vallas,   Mejor marca: 46095.0 en Torneo de Jamaica, intento 1  Peor marca: 50649.0 en Torneo de Costa Rica, intento 1
+Deportista: deportista_714, Especialidad: lanzamiento de disco,   Mejor marca: 7903.0 en Torneo de Zimbabwe, intento 8  Peor marca: 7189.0 en Torneo de Latvia, intento 3
+Deportista: deportista_159, Especialidad: carrera 800 m,   Mejor marca: 101893.0 en Torneo de Bhutan, intento 1  Peor marca: 111904.0 en Torneo de Tuvalu, intento 1
+Deportista: deportista_126, Especialidad: carrera 800 m,   Mejor marca: 101918.0 en Torneo de Netherlands, intento 1  Peor marca: 112019.0 en Torneo de Virgin Islands (British), intento 1
+Deportista: deportista_404, Especialidad: carrera 400 m con vallas,   Mejor marca: 46102.0 en Torneo de Israel, intento 1  Peor marca: 50697.0 en Torneo de Ivory Coast, intento 1
+Deportista: deportista_462, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481256.0 en Torneo de Australia, intento 1  Peor marca: 529130.0 en Torneo de United Arab Emirates, intento 1
+Deportista: deportista_658, Especialidad: lanzamiento de bala,   Mejor marca: 2520.0 en Torneo de Burkina Faso, intento 5  Peor marca: 2294.0 en Torneo de Luxembourg, intento 1
+Deportista: deportista_570, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de India, intento 1  Peor marca: 869.0 en Torneo de Lesotho, intento 4
+Deportista: deportista_117, Especialidad: carrera 400 m,   Mejor marca: 43453.0 en Torneo de United States, intento 1  Peor marca: 47793.0 en Torneo de Iceland, intento 1
+Deportista: deportista_147, Especialidad: carrera 800 m,   Mejor marca: 101894.0 en Torneo de Monaco, intento 1  Peor marca: 112077.0 en Torneo de Liberia, intento 1
+Deportista: deportista_346, Especialidad: carrera 42000 m,   Mejor marca: 7303206.0 en Torneo de Botswana, intento 1  Peor marca: 8023472.0 en Torneo de Australia, intento 1
+Deportista: deportista_626, Especialidad: salto triple,   Mejor marca: 1994.0 en Torneo de Slovenia, intento 2  Peor marca: 1815.0 en Torneo de Oman, intento 6
+Deportista: deportista_435, Especialidad: carrera 400 m con vallas,   Mejor marca: 46104.0 en Torneo de Serbia, intento 1  Peor marca: 50693.0 en Torneo de Germany, intento 1
+Deportista: deportista_671, Especialidad: lanzamiento de bala,   Mejor marca: 2513.0 en Torneo de South Sudan, intento 4  Peor marca: 2291.0 en Torneo de Brazil, intento 10
+Deportista: deportista_560, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Iran, intento 7  Peor marca: 606.0 en Torneo de Antigua and Barbuda, intento 4
+Deportista: deportista_157, Especialidad: carrera 800 m,   Mejor marca: 101909.0 en Torneo de China, intento 1  Peor marca: 112032.0 en Torneo de Turkmenistan, intento 1
+Deportista: deportista_791, Especialidad: lanzamiento de jabalina,   Mejor marca: 9968.0 en Torneo de Syria, intento 6  Peor marca: 9063.0 en Torneo de Equatorial Guinea, intento 4
+Deportista: deportista_605, Especialidad: salto triple,   Mejor marca: 1996.0 en Torneo de Togo, intento 6  Peor marca: 1815.0 en Torneo de Canada, intento 4
+Deportista: deportista_520, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Syria, intento 1  Peor marca: 237.0 en Torneo de Bangladesh, intento 8
+Deportista: deportista_685, Especialidad: lanzamiento de disco,   Mejor marca: 7905.0 en Torneo de Saint Kitts and Nevis, intento 3  Peor marca: 7189.0 en Torneo de Austria, intento 8
+Deportista: deportista_281, Especialidad: carrera 10000 m,   Mejor marca: 1611081.0 en Torneo de Mexico, intento 1  Peor marca: 1768816.0 en Torneo de Kiribati, intento 1
+Deportista: deportista_757, Especialidad: lanzamiento de martillo,   Mejor marca: 8992.0 en Torneo de Italy, intento 1  Peor marca: 8175.0 en Torneo de San Marino, intento 9
+Deportista: deportista_305, Especialidad: carrera 21000 m,   Mejor marca: 3482162.0 en Torneo de Brunei, intento 1  Peor marca: 3828690.0 en Torneo de Uzbekistan, intento 1
+Deportista: deportista_616, Especialidad: salto triple,   Mejor marca: 1996.0 en Torneo de Malta, intento 10  Peor marca: 1816.0 en Torneo de Cabo Verde, intento 4
+Deportista: deportista_418, Especialidad: carrera 400 m con vallas,   Mejor marca: 46099.0 en Torneo de Bahamas, intento 1  Peor marca: 50687.0 en Torneo de Armenia, intento 1
+Deportista: deportista_647, Especialidad: lanzamiento de bala,   Mejor marca: 2521.0 en Torneo de Panama, intento 6  Peor marca: 2291.0 en Torneo de Nigeria, intento 1
+Deportista: deportista_635, Especialidad: salto triple,   Mejor marca: 1996.0 en Torneo de Tunisia, intento 9  Peor marca: 1814.0 en Torneo de Philippines, intento 10
+Deportista: deportista_102, Especialidad: carrera 400 m,   Mejor marca: 43454.0 en Torneo de Equatorial Guinea, intento 1  Peor marca: 47788.0 en Torneo de Congo Republic of the, intento 1
+Deportista: deportista_15, Especialidad: carrera 100 m,   Mejor marca: 9760.0 en Torneo de Lebanon, intento 1  Peor marca: 10733.0 en Torneo de Uruguay, intento 1
+Deportista: deportista_729, Especialidad: lanzamiento de martillo,   Mejor marca: 8991.0 en Torneo de Djibouti, intento 10  Peor marca: 8174.0 en Torneo de Greece, intento 5
+Deportista: deportista_473, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481272.0 en Torneo de Tunisia, intento 1  Peor marca: 529080.0 en Torneo de Sweden, intento 1
+Deportista: deportista_724, Especialidad: lanzamiento de disco,   Mejor marca: 7905.0 en Torneo de Jordan, intento 1  Peor marca: 7187.0 en Torneo de Chad, intento 4
+Deportista: deportista_232, Especialidad: carrera 21000 m,   Mejor marca: 3481586.0 en Torneo de North Korea, intento 1  Peor marca: 3825784.0 en Torneo de Cuba, intento 1
+Deportista: deportista_12, Especialidad: carrera 100 m,   Mejor marca: 9765.0 en Torneo de Burundi, intento 1  Peor marca: 10735.0 en Torneo de Latvia, intento 1
+Deportista: deportista_411, Especialidad: carrera 400 m con vallas,   Mejor marca: 46118.0 en Torneo de Vietnam, intento 1  Peor marca: 50697.0 en Torneo de Gambia, intento 1
+Deportista: deportista_608, Especialidad: salto triple,   Mejor marca: 1996.0 en Torneo de Cabo Verde, intento 7  Peor marca: 1815.0 en Torneo de Niger, intento 3
+Deportista: deportista_92, Especialidad: carrera 400 m con vallas,   Mejor marca: 46107.0 en Torneo de Estonia, intento 1  Peor marca: 50610.0 en Torneo de United States, intento 1
+Deportista: deportista_449, Especialidad: carrera 3000 m con vallas,   Mejor marca: 482078.0 en Torneo de Moldova, intento 1  Peor marca: 528354.0 en Torneo de Turkmenistan, intento 1
+Deportista: deportista_562, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de United Arab Emirates, intento 7  Peor marca: 606.0 en Torneo de Greece, intento 3
+Deportista: deportista_219, Especialidad: carrera 5000 m,   Mejor marca: 772722.0 en Torneo de Guyana, intento 1  Peor marca: 848625.0 en Torneo de Montenegro, intento 1
+Deportista: deportista_372, Especialidad: carrera 110 m con vallas,   Mejor marca: 12098.0 en Torneo de Timor-Leste, intento 1  Peor marca: 13306.0 en Torneo de Lesotho, intento 1
+Deportista: deportista_674, Especialidad: lanzamiento de bala,   Mejor marca: 2521.0 en Torneo de Honduras, intento 9  Peor marca: 2291.0 en Torneo de Dominica, intento 5
+Deportista: deportista_402, Especialidad: carrera 110 m con vallas,   Mejor marca: 12105.0 en Torneo de New Zealand, intento 1  Peor marca: 13305.0 en Torneo de Niger, intento 1
+Deportista: deportista_213, Especialidad: carrera 5000 m,   Mejor marca: 773126.0 en Torneo de Angola, intento 1  Peor marca: 849223.0 en Torneo de Estonia, intento 1
+Deportista: deportista_732, Especialidad: lanzamiento de martillo,   Mejor marca: 8992.0 en Torneo de Iraq, intento 9  Peor marca: 8177.0 en Torneo de Malaysia, intento 8
+Deportista: deportista_728, Especialidad: lanzamiento de martillo,   Mejor marca: 8991.0 en Torneo de Colombia, intento 8  Peor marca: 8175.0 en Torneo de Nepal, intento 9
+Deportista: deportista_165, Especialidad: carrera 5000 m,   Mejor marca: 772184.0 en Torneo de Argentina, intento 1  Peor marca: 849290.0 en Torneo de Colombia, intento 1
+Deportista: deportista_113, Especialidad: carrera 400 m,   Mejor marca: 43452.0 en Torneo de Czechia, intento 1  Peor marca: 47776.0 en Torneo de Afghanistan, intento 1
+Deportista: deportista_777, Especialidad: lanzamiento de jabalina,   Mejor marca: 9964.0 en Torneo de Cabo Verde, intento 2  Peor marca: 9064.0 en Torneo de Morocco, intento 9
+Deportista: deportista_786, Especialidad: lanzamiento de jabalina,   Mejor marca: 9958.0 en Torneo de Finland, intento 10  Peor marca: 9065.0 en Torneo de Nigeria, intento 2
+Deportista: deportista_230, Especialidad: carrera 21000 m,   Mejor marca: 3481952.0 en Torneo de Cambodia, intento 1  Peor marca: 3828843.0 en Torneo de Monaco, intento 1
+Deportista: deportista_158, Especialidad: carrera 800 m,   Mejor marca: 101933.0 en Torneo de Guyana, intento 1  Peor marca: 111967.0 en Torneo de Armenia, intento 1
+Deportista: deportista_539, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Qatar, intento 9  Peor marca: 606.0 en Torneo de Liberia, intento 10
+Deportista: deportista_450, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481126.0 en Torneo de French Guiana, intento 1  Peor marca: 528963.0 en Torneo de Maldives, intento 1
+Deportista: deportista_599, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de New Zealand, intento 8  Peor marca: 871.0 en Torneo de French Guiana, intento 9
+Deportista: deportista_36, Especialidad: carrera 100 m,   Mejor marca: 9763.0 en Torneo de Germany, intento 1  Peor marca: 10734.0 en Torneo de Lesotho, intento 1
+Deportista: deportista_287, Especialidad: carrera 21000 m,   Mejor marca: 3483548.0 en Torneo de Suriname, intento 1  Peor marca: 3827918.0 en Torneo de Rwanda, intento 1
+Deportista: deportista_155, Especialidad: carrera 1500 m,   Mejor marca: 208805.0 en Torneo de Togo, intento 1  Peor marca: 229610.0 en Torneo de Guinea, intento 1
+Deportista: deportista_19, Especialidad: carrera 100 m,   Mejor marca: 9769.0 en Torneo de Macedonia, intento 1  Peor marca: 10728.0 en Torneo de Barbados, intento 1
+Deportista: deportista_172, Especialidad: carrera 1500 m,   Mejor marca: 208797.0 en Torneo de United States, intento 1  Peor marca: 229496.0 en Torneo de Argentina, intento 1
+Deportista: deportista_184, Especialidad: carrera 1500 m,   Mejor marca: 208771.0 en Torneo de South Sudan, intento 1  Peor marca: 229521.0 en Torneo de Ghana, intento 1
+Deportista: deportista_30, Especialidad: carrera 100 m,   Mejor marca: 9764.0 en Torneo de Canada, intento 1  Peor marca: 10733.0 en Torneo de Mauritius, intento 1
+Deportista: deportista_755, Especialidad: lanzamiento de martillo,   Mejor marca: 8992.0 en Torneo de Slovenia, intento 4  Peor marca: 8181.0 en Torneo de Chile, intento 5
+Deportista: deportista_664, Especialidad: lanzamiento de bala,   Mejor marca: 2521.0 en Torneo de United States, intento 7  Peor marca: 2292.0 en Torneo de Micronesia, intento 1
+Deportista: deportista_481, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481379.0 en Torneo de Saint Vincent and the Grenadines, intento 1  Peor marca: 529087.0 en Torneo de Bolivia, intento 1
+Deportista: deportista_802, Especialidad: lanzamiento de jabalina,   Mejor marca: 9968.0 en Torneo de New Zealand, intento 3  Peor marca: 9064.0 en Torneo de Bangladesh, intento 1
+Deportista: deportista_549, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Kenya, intento 3  Peor marca: 606.0 en Torneo de Comoros, intento 9
+Deportista: deportista_190, Especialidad: carrera 1500 m,   Mejor marca: 208819.0 en Torneo de Kuwait, intento 1  Peor marca: 229437.0 en Torneo de Bolivia, intento 1
+Deportista: deportista_579, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Bangladesh, intento 4  Peor marca: 869.0 en Torneo de Mexico, intento 2
+Deportista: deportista_24, Especialidad: carrera 200 m,   Mejor marca: 19507.0 en Torneo de Jamaica, intento 1  Peor marca: 21441.0 en Torneo de Kosovo, intento 1
+Deportista: deportista_262, Especialidad: carrera 10000 m,   Mejor marca: 1608971.0 en Torneo de Switzerland, intento 1  Peor marca: 1766456.0 en Torneo de Azerbaijan, intento 1
+Deportista: deportista_389, Especialidad: carrera 110 m con vallas,   Mejor marca: 12107.0 en Torneo de Virgin Islands (British), intento 1  Peor marca: 13303.0 en Torneo de Samoa, intento 1
+Deportista: deportista_35, Especialidad: carrera 100 m,   Mejor marca: 9760.0 en Torneo de Vatican City, intento 1  Peor marca: 10726.0 en Torneo de North Korea, intento 1
+Deportista: deportista_259, Especialidad: carrera 10000 m,   Mejor marca: 1608516.0 en Torneo de Uruguay, intento 1  Peor marca: 1768095.0 en Torneo de Mali, intento 1
+Deportista: deportista_488, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de South Sudan, intento 9  Peor marca: 237.0 en Torneo de Armenia, intento 10
+Deportista: deportista_511, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Virgin Islands (British), intento 2  Peor marca: 237.0 en Torneo de Canada, intento 8
+Deportista: deportista_184, Especialidad: carrera 5000 m,   Mejor marca: 772098.0 en Torneo de Australia, intento 1  Peor marca: 849167.0 en Torneo de Panama, intento 1
+Deportista: deportista_762, Especialidad: lanzamiento de martillo,   Mejor marca: 8990.0 en Torneo de Bahamas, intento 1  Peor marca: 8180.0 en Torneo de China, intento 6
+Deportista: deportista_668, Especialidad: lanzamiento de bala,   Mejor marca: 2521.0 en Torneo de Oman, intento 5  Peor marca: 2293.0 en Torneo de Slovenia, intento 9
+Deportista: deportista_229, Especialidad: carrera 10000 m,   Mejor marca: 1608326.0 en Torneo de Liberia, intento 1  Peor marca: 1768785.0 en Torneo de Lebanon, intento 1
+Deportista: deportista_362, Especialidad: carrera 42000 m,   Mejor marca: 7307905.0 en Torneo de Slovakia, intento 1  Peor marca: 8024238.0 en Torneo de Myanmar, intento 1
+Deportista: deportista_368, Especialidad: carrera 110 m con vallas,   Mejor marca: 12113.0 en Torneo de Cuba, intento 1  Peor marca: 13308.0 en Torneo de Mauritius, intento 1
+Deportista: deportista_348, Especialidad: carrera 42000 m,   Mejor marca: 7303410.0 en Torneo de Sierra Leone, intento 1  Peor marca: 8026576.0 en Torneo de Cambodia, intento 1
+Deportista: deportista_433, Especialidad: carrera 400 m con vallas,   Mejor marca: 46101.0 en Torneo de Georgia, intento 1  Peor marca: 50656.0 en Torneo de Benin, intento 1
+Deportista: deportista_407, Especialidad: carrera 400 m con vallas,   Mejor marca: 46094.0 en Torneo de Timor-Leste, intento 1  Peor marca: 50689.0 en Torneo de Bahrain, intento 1
+Deportista: deportista_140, Especialidad: carrera 1500 m,   Mejor marca: 208842.0 en Torneo de Mongolia, intento 1  Peor marca: 229580.0 en Torneo de Armenia, intento 1
+Deportista: deportista_43, Especialidad: carrera 400 m,   Mejor marca: 43463.0 en Torneo de Ghana, intento 1  Peor marca: 47737.0 en Torneo de Guinea-Bissau, intento 1
+Deportista: deportista_610, Especialidad: salto triple,   Mejor marca: 1996.0 en Torneo de Sweden, intento 4  Peor marca: 1814.0 en Torneo de Turkey, intento 3
+Deportista: deportista_61, Especialidad: carrera 400 m,   Mejor marca: 43457.0 en Torneo de South Korea, intento 1  Peor marca: 47771.0 en Torneo de Trinidad and Tobago, intento 1
+Deportista: deportista_493, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Ukraine, intento 8  Peor marca: 237.0 en Torneo de Bahamas, intento 8
+Deportista: deportista_149, Especialidad: carrera 800 m,   Mejor marca: 101893.0 en Torneo de Malaysia, intento 1  Peor marca: 112038.0 en Torneo de Bahamas, intento 1
+Deportista: deportista_165, Especialidad: carrera 1500 m,   Mejor marca: 208949.0 en Torneo de Jamaica, intento 1  Peor marca: 229578.0 en Torneo de Finland, intento 1
+Deportista: deportista_134, Especialidad: carrera 800 m,   Mejor marca: 101895.0 en Torneo de Germany, intento 1  Peor marca: 111997.0 en Torneo de Poland, intento 1
+Deportista: deportista_22, Especialidad: carrera 200 m,   Mejor marca: 19500.0 en Torneo de Grenada, intento 1  Peor marca: 21444.0 en Torneo de Luxembourg, intento 1
+Deportista: deportista_212, Especialidad: carrera 5000 m,   Mejor marca: 772524.0 en Torneo de Kosovo, intento 1  Peor marca: 847578.0 en Torneo de Fiji, intento 1
+Deportista: deportista_278, Especialidad: carrera 10000 m,   Mejor marca: 1608920.0 en Torneo de Pakistan, intento 1  Peor marca: 1767881.0 en Torneo de Panama, intento 1
+Deportista: deportista_399, Especialidad: carrera 110 m con vallas,   Mejor marca: 12098.0 en Torneo de Tunisia, intento 1  Peor marca: 13301.0 en Torneo de Uzbekistan, intento 1
+Deportista: deportista_61, Especialidad: carrera 200 m,   Mejor marca: 19504.0 en Torneo de Luxembourg, intento 1  Peor marca: 21443.0 en Torneo de Malawi, intento 1
+Deportista: deportista_589, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Sierra Leone, intento 8  Peor marca: 870.0 en Torneo de Bahamas, intento 2
+Deportista: deportista_360, Especialidad: carrera 42000 m,   Mejor marca: 7313756.0 en Torneo de Luxembourg, intento 1  Peor marca: 8024020.0 en Torneo de Singapore, intento 1
+Deportista: deportista_269, Especialidad: carrera 10000 m,   Mejor marca: 1608408.0 en Torneo de Mexico, intento 1  Peor marca: 1767554.0 en Torneo de New Zealand, intento 1
+Deportista: deportista_322, Especialidad: carrera 21000 m,   Mejor marca: 3482593.0 en Torneo de Puerto Rico, intento 1  Peor marca: 3826947.0 en Torneo de Scotland, intento 1
+Deportista: deportista_439, Especialidad: carrera 400 m con vallas,   Mejor marca: 46153.0 en Torneo de Ivory Coast, intento 1  Peor marca: 50617.0 en Torneo de Zambia, intento 1
+Deportista: deportista_201, Especialidad: carrera 1500 m,   Mejor marca: 208772.0 en Torneo de Oman, intento 1  Peor marca: 229624.0 en Torneo de Equatorial Guinea, intento 1
+Deportista: deportista_206, Especialidad: carrera 5000 m,   Mejor marca: 772664.0 en Torneo de Honduras, intento 1  Peor marca: 848703.0 en Torneo de Sweden, intento 1
+Deportista: deportista_94, Especialidad: carrera 400 m,   Mejor marca: 43476.0 en Torneo de Burkina Faso, intento 1  Peor marca: 47760.0 en Torneo de Malaysia, intento 1
+Deportista: deportista_673, Especialidad: lanzamiento de bala,   Mejor marca: 2519.0 en Torneo de Egypt, intento 10  Peor marca: 2292.0 en Torneo de Micronesia, intento 6
+Deportista: deportista_216, Especialidad: carrera 10000 m,   Mejor marca: 1608123.0 en Torneo de Seychelles, intento 1  Peor marca: 1768131.0 en Torneo de United States, intento 1
+Deportista: deportista_316, Especialidad: carrera 42000 m,   Mejor marca: 7310801.0 en Torneo de Zimbabwe, intento 1  Peor marca: 8030831.0 en Torneo de Haiti, intento 1
+Deportista: deportista_650, Especialidad: lanzamiento de bala,   Mejor marca: 2521.0 en Torneo de Jamaica, intento 2  Peor marca: 2293.0 en Torneo de Myanmar, intento 3
+Deportista: deportista_249, Especialidad: carrera 10000 m,   Mejor marca: 1609354.0 en Torneo de Argentina, intento 1  Peor marca: 1768375.0 en Torneo de Monaco, intento 1
+Deportista: deportista_499, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Scotland, intento 2  Peor marca: 237.0 en Torneo de Bahrain, intento 8
+Deportista: deportista_393, Especialidad: carrera 110 m con vallas,   Mejor marca: 12109.0 en Torneo de Iraq, intento 1  Peor marca: 13293.0 en Torneo de Afghanistan, intento 1
+Deportista: deportista_442, Especialidad: carrera 400 m con vallas,   Mejor marca: 46117.0 en Torneo de Malawi, intento 1  Peor marca: 50694.0 en Torneo de Philippines, intento 1
+Deportista: deportista_776, Especialidad: lanzamiento de jabalina,   Mejor marca: 9965.0 en Torneo de India, intento 8  Peor marca: 9071.0 en Torneo de Trinidad and Tobago, intento 8
+Deportista: deportista_662, Especialidad: lanzamiento de bala,   Mejor marca: 2516.0 en Torneo de Nauru, intento 1  Peor marca: 2291.0 en Torneo de Kiribati, intento 9
+Deportista: deportista_34, Especialidad: carrera 100 m,   Mejor marca: 9760.0 en Torneo de Namibia, intento 1  Peor marca: 10736.0 en Torneo de Haiti, intento 1
+Deportista: deportista_233, Especialidad: carrera 5000 m,   Mejor marca: 772169.0 en Torneo de Germany, intento 1  Peor marca: 848869.0 en Torneo de Cuba, intento 1
+Deportista: deportista_628, Especialidad: salto triple,   Mejor marca: 1994.0 en Torneo de Ukraine, intento 1  Peor marca: 1816.0 en Torneo de Benin, intento 5
+Deportista: deportista_365, Especialidad: carrera 110 m con vallas,   Mejor marca: 12105.0 en Torneo de Georgia, intento 1  Peor marca: 13283.0 en Torneo de Malta, intento 1
+Deportista: deportista_475, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481045.0 en Torneo de Barbados, intento 1  Peor marca: 528968.0 en Torneo de Congo Republic of the, intento 1
+Deportista: deportista_699, Especialidad: lanzamiento de disco,   Mejor marca: 7898.0 en Torneo de Iraq, intento 1  Peor marca: 7188.0 en Torneo de Bolivia, intento 4
+Deportista: deportista_470, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481060.0 en Torneo de Ecuador, intento 1  Peor marca: 528623.0 en Torneo de Guyana, intento 1
+Deportista: deportista_555, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Zambia, intento 7  Peor marca: 606.0 en Torneo de Ghana, intento 2
+Deportista: deportista_166, Especialidad: carrera 1500 m,   Mejor marca: 208813.0 en Torneo de Sierra Leone, intento 1  Peor marca: 229579.0 en Torneo de Suriname, intento 1
+Deportista: deportista_107, Especialidad: carrera 400 m,   Mejor marca: 43501.0 en Torneo de Sweden, intento 1  Peor marca: 47762.0 en Torneo de Gambia, intento 1
+Deportista: deportista_253, Especialidad: carrera 10000 m,   Mejor marca: 1609982.0 en Torneo de Montenegro, intento 1  Peor marca: 1768566.0 en Torneo de Vatican City, intento 1
+Deportista: deportista_10, Especialidad: carrera 100 m,   Mejor marca: 9761.0 en Torneo de United States, intento 1  Peor marca: 10733.0 en Torneo de Virgin Islands (British), intento 1
+Deportista: deportista_195, Especialidad: carrera 5000 m,   Mejor marca: 772460.0 en Torneo de Cameroon, intento 1  Peor marca: 849050.0 en Torneo de Congo Democratic Republic of the, intento 1
+Deportista: deportista_514, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Yemen, intento 1  Peor marca: 237.0 en Torneo de Bangladesh, intento 9
+Deportista: deportista_142, Especialidad: carrera 800 m,   Mejor marca: 101929.0 en Torneo de Lesotho, intento 1  Peor marca: 112052.0 en Torneo de Cyprus, intento 1
+Deportista: deportista_345, Especialidad: carrera 42000 m,   Mejor marca: 7306906.0 en Torneo de Albania, intento 1  Peor marca: 8027660.0 en Torneo de Senegal, intento 1
+Deportista: deportista_25, Especialidad: carrera 200 m,   Mejor marca: 19501.0 en Torneo de Sudan, intento 1  Peor marca: 21420.0 en Torneo de Mauritius, intento 1
+Deportista: deportista_654, Especialidad: lanzamiento de bala,   Mejor marca: 2521.0 en Torneo de Benin, intento 6  Peor marca: 2292.0 en Torneo de Monaco, intento 5
+Deportista: deportista_550, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Papua New Guinea, intento 3  Peor marca: 606.0 en Torneo de Kosovo, intento 4
+Deportista: deportista_229, Especialidad: carrera 5000 m,   Mejor marca: 772303.0 en Torneo de Algeria, intento 1  Peor marca: 849287.0 en Torneo de Australia, intento 1
+Deportista: deportista_97, Especialidad: carrera 400 m,   Mejor marca: 43500.0 en Torneo de Dominican Republic, intento 1  Peor marca: 47724.0 en Torneo de Papua New Guinea, intento 1
+Deportista: deportista_429, Especialidad: carrera 400 m con vallas,   Mejor marca: 46143.0 en Torneo de Tajikistan, intento 1  Peor marca: 50701.0 en Torneo de Syria, intento 1
+Deportista: deportista_666, Especialidad: lanzamiento de bala,   Mejor marca: 2521.0 en Torneo de Bahrain, intento 5  Peor marca: 2291.0 en Torneo de Kazakhstan, intento 5
+Deportista: deportista_596, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Panama, intento 3  Peor marca: 869.0 en Torneo de Algeria, intento 8
+Deportista: deportista_744, Especialidad: lanzamiento de martillo,   Mejor marca: 8992.0 en Torneo de Australia, intento 10  Peor marca: 8174.0 en Torneo de Liechtenstein, intento 5
+Deportista: deportista_29, Especialidad: carrera 100 m,   Mejor marca: 9764.0 en Torneo de Northern Ireland, intento 1  Peor marca: 10732.0 en Torneo de Iraq, intento 1
+Deportista: deportista_509, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Denmark, intento 8  Peor marca: 237.0 en Torneo de Cambodia, intento 9
+Deportista: deportista_602, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Palau, intento 8  Peor marca: 869.0 en Torneo de Thailand, intento 2
+Deportista: deportista_89, Especialidad: carrera 400 m,   Mejor marca: 43494.0 en Torneo de South Africa, intento 1  Peor marca: 47772.0 en Torneo de Singapore, intento 1
+Deportista: deportista_268, Especialidad: carrera 10000 m,   Mejor marca: 1608528.0 en Torneo de Israel, intento 1  Peor marca: 1768742.0 en Torneo de Gabon, intento 1
+Deportista: deportista_521, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Saint Vincent and the Grenadines, intento 1  Peor marca: 237.0 en Torneo de Bahrain, intento 8
+Deportista: deportista_118, Especialidad: carrera 400 m,   Mejor marca: 43451.0 en Torneo de Iraq, intento 1  Peor marca: 47791.0 en Torneo de Cyprus, intento 1
+Deportista: deportista_356, Especialidad: carrera 42000 m,   Mejor marca: 7302147.0 en Torneo de Tanzania, intento 1  Peor marca: 8030629.0 en Torneo de Cambodia, intento 1
+Deportista: deportista_556, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Latvia, intento 2  Peor marca: 606.0 en Torneo de Burundi, intento 2
+Deportista: deportista_606, Especialidad: salto triple,   Mejor marca: 1995.0 en Torneo de Barbados, intento 6  Peor marca: 1814.0 en Torneo de Kazakhstan, intento 10
+Deportista: deportista_785, Especialidad: lanzamiento de jabalina,   Mejor marca: 9967.0 en Torneo de Austria, intento 9  Peor marca: 9062.0 en Torneo de Gambia, intento 2
+Deportista: deportista_37, Especialidad: carrera 100 m,   Mejor marca: 9763.0 en Torneo de Kuwait, intento 1  Peor marca: 10735.0 en Torneo de Brunei, intento 1
+Deportista: deportista_790, Especialidad: lanzamiento de jabalina,   Mejor marca: 9966.0 en Torneo de Portugal, intento 8  Peor marca: 9062.0 en Torneo de Guinea-Bissau, intento 4
+Deportista: deportista_100, Especialidad: carrera 400 m,   Mejor marca: 43456.0 en Torneo de Laos, intento 1  Peor marca: 47706.0 en Torneo de Liberia, intento 1
+Deportista: deportista_4, Especialidad: carrera 100 m,   Mejor marca: 9766.0 en Torneo de Liberia, intento 1  Peor marca: 10736.0 en Torneo de Gabon, intento 1
+Deportista: deportista_767, Especialidad: lanzamiento de jabalina,   Mejor marca: 9963.0 en Torneo de Mexico, intento 7  Peor marca: 9066.0 en Torneo de Netherlands, intento 3
+Deportista: deportista_225, Especialidad: carrera 10000 m,   Mejor marca: 1608740.0 en Torneo de Russia, intento 1  Peor marca: 1768146.0 en Torneo de Iran, intento 1
+Deportista: deportista_388, Especialidad: carrera 110 m con vallas,   Mejor marca: 12099.0 en Torneo de Italy, intento 1  Peor marca: 13305.0 en Torneo de Wales, intento 1
+Deportista: deportista_7, Especialidad: carrera 100 m,   Mejor marca: 9765.0 en Torneo de Palau, intento 1  Peor marca: 10736.0 en Torneo de Mali, intento 1
+Deportista: deportista_693, Especialidad: lanzamiento de disco,   Mejor marca: 7903.0 en Torneo de Rwanda, intento 4  Peor marca: 7186.0 en Torneo de Cambodia, intento 6
+Deportista: deportista_391, Especialidad: carrera 110 m con vallas,   Mejor marca: 12103.0 en Torneo de France, intento 1  Peor marca: 13302.0 en Torneo de Uganda, intento 1
+Deportista: deportista_703, Especialidad: lanzamiento de disco,   Mejor marca: 7905.0 en Torneo de Lithuania, intento 5  Peor marca: 7191.0 en Torneo de Iraq, intento 5
+Deportista: deportista_722, Especialidad: lanzamiento de disco,   Mejor marca: 7905.0 en Torneo de Qatar, intento 9  Peor marca: 7194.0 en Torneo de Sweden, intento 6
+Deportista: deportista_218, Especialidad: carrera 5000 m,   Mejor marca: 772147.0 en Torneo de Saint Vincent and the Grenadines, intento 1  Peor marca: 848824.0 en Torneo de Azerbaijan, intento 1
+Deportista: deportista_200, Especialidad: carrera 5000 m,   Mejor marca: 772270.0 en Torneo de Samoa, intento 1  Peor marca: 848915.0 en Torneo de Brunei, intento 1
+Deportista: deportista_340, Especialidad: carrera 42000 m,   Mejor marca: 7301667.0 en Torneo de Turkey, intento 1  Peor marca: 8030158.0 en Torneo de Japan, intento 1
+Deportista: deportista_619, Especialidad: salto triple,   Mejor marca: 1996.0 en Torneo de Scotland, intento 7  Peor marca: 1814.0 en Torneo de Australia, intento 3
+Deportista: deportista_204, Especialidad: carrera 5000 m,   Mejor marca: 772121.0 en Torneo de Samoa, intento 1  Peor marca: 849204.0 en Torneo de Sierra Leone, intento 1
+Deportista: deportista_479, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481081.0 en Torneo de Mongolia, intento 1  Peor marca: 528670.0 en Torneo de Japan, intento 1
+Deportista: deportista_93, Especialidad: carrera 400 m,   Mejor marca: 43498.0 en Torneo de Kiribati, intento 1  Peor marca: 47765.0 en Torneo de Madagascar, intento 1
+Deportista: deportista_261, Especialidad: carrera 10000 m,   Mejor marca: 1609056.0 en Torneo de Monaco, intento 1  Peor marca: 1768428.0 en Torneo de Uzbekistan, intento 1
+Deportista: deportista_121, Especialidad: carrera 400 m,   Mejor marca: 43462.0 en Torneo de Monaco, intento 1  Peor marca: 47792.0 en Torneo de Czechia, intento 1
+Deportista: deportista_709, Especialidad: lanzamiento de disco,   Mejor marca: 7905.0 en Torneo de Sudan, intento 9  Peor marca: 7189.0 en Torneo de India, intento 3
+Deportista: deportista_737, Especialidad: lanzamiento de martillo,   Mejor marca: 8988.0 en Torneo de Venezuela, intento 10  Peor marca: 8181.0 en Torneo de Denmark, intento 7
+Deportista: deportista_688, Especialidad: lanzamiento de disco,   Mejor marca: 7902.0 en Torneo de Ecuador, intento 6  Peor marca: 7187.0 en Torneo de Hungary, intento 6
+Deportista: deportista_78, Especialidad: carrera 200 m,   Mejor marca: 19506.0 en Torneo de Saudi Arabia, intento 1  Peor marca: 21433.0 en Torneo de Liechtenstein, intento 1
+Deportista: deportista_369, Especialidad: carrera 110 m con vallas,   Mejor marca: 12119.0 en Torneo de Netherlands, intento 1  Peor marca: 13308.0 en Torneo de South Africa, intento 1
+Deportista: deportista_25, Especialidad: carrera 100 m,   Mejor marca: 9760.0 en Torneo de Latvia, intento 1  Peor marca: 10732.0 en Torneo de Mexico, intento 1
+Deportista: deportista_224, Especialidad: carrera 5000 m,   Mejor marca: 772409.0 en Torneo de Nepal, intento 1  Peor marca: 849204.0 en Torneo de Nicaragua, intento 1
+Deportista: deportista_53, Especialidad: carrera 200 m,   Mejor marca: 19506.0 en Torneo de Algeria, intento 1  Peor marca: 21436.0 en Torneo de Albania, intento 1
+Deportista: deportista_585, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Burundi, intento 9  Peor marca: 869.0 en Torneo de Gabon, intento 7
+Deportista: deportista_358, Especialidad: carrera 42000 m,   Mejor marca: 7303429.0 en Torneo de Bahrain, intento 1  Peor marca: 8026434.0 en Torneo de Luxembourg, intento 1
+Deportista: deportista_741, Especialidad: lanzamiento de martillo,   Mejor marca: 8987.0 en Torneo de Wales, intento 4  Peor marca: 8176.0 en Torneo de Nigeria, intento 10
+Deportista: deportista_347, Especialidad: carrera 42000 m,   Mejor marca: 7308190.0 en Torneo de Mongolia, intento 1  Peor marca: 8024575.0 en Torneo de Uzbekistan, intento 1
+Deportista: deportista_415, Especialidad: carrera 400 m con vallas,   Mejor marca: 46115.0 en Torneo de Mexico, intento 1  Peor marca: 50682.0 en Torneo de Chile, intento 1
+Deportista: deportista_247, Especialidad: carrera 10000 m,   Mejor marca: 1608863.0 en Torneo de Philippines, intento 1  Peor marca: 1768687.0 en Torneo de Thailand, intento 1
+Deportista: deportista_443, Especialidad: carrera 400 m con vallas,   Mejor marca: 46108.0 en Torneo de Haiti, intento 1  Peor marca: 50698.0 en Torneo de Botswana, intento 1
+Deportista: deportista_691, Especialidad: lanzamiento de disco,   Mejor marca: 7899.0 en Torneo de Nepal, intento 8  Peor marca: 7188.0 en Torneo de Belarus, intento 10
+Deportista: deportista_179, Especialidad: carrera 1500 m,   Mejor marca: 208786.0 en Torneo de Costa Rica, intento 1  Peor marca: 229632.0 en Torneo de Azerbaijan, intento 1
+Deportista: deportista_214, Especialidad: carrera 10000 m,   Mejor marca: 1608036.0 en Torneo de Bhutan, intento 1  Peor marca: 1768421.0 en Torneo de Maldives, intento 1
+Deportista: deportista_465, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481064.0 en Torneo de Saint Lucia, intento 1  Peor marca: 528477.0 en Torneo de Vietnam, intento 1
+Deportista: deportista_5, Especialidad: carrera 100 m,   Mejor marca: 9767.0 en Torneo de Ecuador, intento 1  Peor marca: 10731.0 en Torneo de United States, intento 1
+Deportista: deportista_629, Especialidad: salto triple,   Mejor marca: 1996.0 en Torneo de Norway, intento 2  Peor marca: 1815.0 en Torneo de Egypt, intento 2
+Deportista: deportista_540, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Syria, intento 2  Peor marca: 606.0 en Torneo de Austria, intento 10
+Deportista: deportista_775, Especialidad: lanzamiento de jabalina,   Mejor marca: 9963.0 en Torneo de Albania, intento 3  Peor marca: 9072.0 en Torneo de Burkina Faso, intento 8
+Deportista: deportista_771, Especialidad: lanzamiento de jabalina,   Mejor marca: 9940.0 en Torneo de Morocco, intento 8  Peor marca: 9087.0 en Torneo de Jamaica, intento 1
+Deportista: deportista_467, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481044.0 en Torneo de Honduras, intento 1  Peor marca: 529121.0 en Torneo de Costa Rica, intento 1
+Deportista: deportista_799, Especialidad: lanzamiento de jabalina,   Mejor marca: 9959.0 en Torneo de Marshall Islands, intento 9  Peor marca: 9061.0 en Torneo de Scotland, intento 2
+Deportista: deportista_26, Especialidad: carrera 100 m,   Mejor marca: 9765.0 en Torneo de Algeria, intento 1  Peor marca: 10732.0 en Torneo de Syria, intento 1
+Deportista: deportista_20, Especialidad: carrera 100 m,   Mejor marca: 9770.0 en Torneo de Denmark, intento 1  Peor marca: 10733.0 en Torneo de Eritrea, intento 1
+Deportista: deportista_743, Especialidad: lanzamiento de martillo,   Mejor marca: 8991.0 en Torneo de Eritrea, intento 2  Peor marca: 8174.0 en Torneo de Nepal, intento 8
+Deportista: deportista_661, Especialidad: lanzamiento de bala,   Mejor marca: 2519.0 en Torneo de Zimbabwe, intento 2  Peor marca: 2291.0 en Torneo de Russia, intento 7
+Deportista: deportista_243, Especialidad: carrera 5000 m,   Mejor marca: 772375.0 en Torneo de Djibouti, intento 1  Peor marca: 849135.0 en Torneo de Czechia, intento 1
+Deportista: deportista_270, Especialidad: carrera 21000 m,   Mejor marca: 3484446.0 en Torneo de Saint Lucia, intento 1  Peor marca: 3826906.0 en Torneo de Sweden, intento 1
+Deportista: deportista_13, Especialidad: carrera 100 m,   Mejor marca: 9762.0 en Torneo de Niger, intento 1  Peor marca: 10733.0 en Torneo de Libya, intento 1
+Deportista: deportista_580, Especialidad: salto triple,   Mejor marca: 1996.0 en Torneo de San Marino, intento 7  Peor marca: 1814.0 en Torneo de Iraq, intento 3
+Deportista: deportista_681, Especialidad: lanzamiento de bala,   Mejor marca: 2520.0 en Torneo de Philippines, intento 10  Peor marca: 2291.0 en Torneo de Japan, intento 5
+Deportista: deportista_590, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Saint Kitts and Nevis, intento 2  Peor marca: 869.0 en Torneo de Saint Vincent and the Grenadines, intento 1
+Deportista: deportista_657, Especialidad: lanzamiento de bala,   Mejor marca: 2521.0 en Torneo de Mali, intento 6  Peor marca: 2291.0 en Torneo de Vanuatu, intento 5
+Deportista: deportista_649, Especialidad: lanzamiento de bala,   Mejor marca: 2520.0 en Torneo de French Guiana, intento 4  Peor marca: 2293.0 en Torneo de Mauritania, intento 3
+Deportista: deportista_397, Especialidad: carrera 110 m con vallas,   Mejor marca: 12105.0 en Torneo de Germany, intento 1  Peor marca: 13295.0 en Torneo de Saint Lucia, intento 1
+Deportista: deportista_559, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Venezuela, intento 2  Peor marca: 606.0 en Torneo de Denmark, intento 10
+Deportista: deportista_428, Especialidad: carrera 400 m con vallas,   Mejor marca: 46118.0 en Torneo de Papua New Guinea, intento 1  Peor marca: 50693.0 en Torneo de Ethiopia, intento 1
+Deportista: deportista_522, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Turkey, intento 5  Peor marca: 237.0 en Torneo de Benin, intento 4
+Deportista: deportista_109, Especialidad: carrera 400 m,   Mejor marca: 43450.0 en Torneo de Lithuania, intento 1  Peor marca: 47792.0 en Torneo de Serbia, intento 1
+Deportista: deportista_209, Especialidad: carrera 5000 m,   Mejor marca: 772176.0 en Torneo de Kyrgyzstan, intento 1  Peor marca: 848785.0 en Torneo de Puerto Rico, intento 1
+Deportista: deportista_230, Especialidad: carrera 10000 m,   Mejor marca: 1608234.0 en Torneo de Dominican Republic, intento 1  Peor marca: 1767171.0 en Torneo de Vietnam, intento 1
+Deportista: deportista_17, Especialidad: carrera 200 m,   Mejor marca: 19500.0 en Torneo de South Sudan, intento 1  Peor marca: 21448.0 en Torneo de Yemen, intento 1
+Deportista: deportista_170, Especialidad: carrera 1500 m,   Mejor marca: 208784.0 en Torneo de Dominican Republic, intento 1  Peor marca: 229586.0 en Torneo de Guatemala, intento 1
+Deportista: deportista_426, Especialidad: carrera 400 m con vallas,   Mejor marca: 46092.0 en Torneo de France, intento 1  Peor marca: 50674.0 en Torneo de Iraq, intento 1
+Deportista: deportista_640, Especialidad: salto triple,   Mejor marca: 1995.0 en Torneo de Luxembourg, intento 4  Peor marca: 1815.0 en Torneo de Niger, intento 9
+Deportista: deportista_634, Especialidad: salto triple,   Mejor marca: 1996.0 en Torneo de Maldives, intento 3  Peor marca: 1814.0 en Torneo de Saint Lucia, intento 9
+Deportista: deportista_480, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481076.0 en Torneo de Chad, intento 1  Peor marca: 528811.0 en Torneo de Mexico, intento 1
+Deportista: deportista_304, Especialidad: carrera 21000 m,   Mejor marca: 3482843.0 en Torneo de Vatican City, intento 1  Peor marca: 3828074.0 en Torneo de Northern Ireland, intento 1
+Deportista: deportista_269, Especialidad: carrera 21000 m,   Mejor marca: 3482665.0 en Torneo de Ghana, intento 1  Peor marca: 3827938.0 en Torneo de Myanmar, intento 1
+Deportista: deportista_800, Especialidad: lanzamiento de jabalina,   Mejor marca: 9968.0 en Torneo de Palau, intento 3  Peor marca: 9061.0 en Torneo de Albania, intento 6
+Deportista: deportista_223, Especialidad: carrera 5000 m,   Mejor marca: 772521.0 en Torneo de Iceland, intento 1  Peor marca: 849028.0 en Torneo de Colombia, intento 1
+Deportista: deportista_21, Especialidad: carrera 200 m,   Mejor marca: 19509.0 en Torneo de Kuwait, intento 1  Peor marca: 21440.0 en Torneo de Italy, intento 1
+Deportista: deportista_485, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Marshall Islands, intento 3  Peor marca: 237.0 en Torneo de Argentina, intento 3
+Deportista: deportista_42, Especialidad: carrera 200 m,   Mejor marca: 19508.0 en Torneo de Oman, intento 1  Peor marca: 21449.0 en Torneo de Austria, intento 1
+Deportista: deportista_205, Especialidad: carrera 5000 m,   Mejor marca: 772111.0 en Torneo de Bangladesh, intento 1  Peor marca: 849153.0 en Torneo de Azerbaijan, intento 1
+Deportista: deportista_395, Especialidad: carrera 110 m con vallas,   Mejor marca: 12100.0 en Torneo de Saudi Arabia, intento 1  Peor marca: 13307.0 en Torneo de Venezuela, intento 1
+Deportista: deportista_795, Especialidad: lanzamiento de jabalina,   Mejor marca: 9956.0 en Torneo de Slovakia, intento 8  Peor marca: 9067.0 en Torneo de Guinea-Bissau, intento 7
+Deportista: deportista_486, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Scotland, intento 4  Peor marca: 237.0 en Torneo de Albania, intento 7
+Deportista: deportista_256, Especialidad: carrera 10000 m,   Mejor marca: 1608151.0 en Torneo de Paraguay, intento 1  Peor marca: 1767096.0 en Torneo de Serbia, intento 1
+Deportista: deportista_318, Especialidad: carrera 42000 m,   Mejor marca: 7303454.0 en Torneo de Paraguay, intento 1  Peor marca: 8026066.0 en Torneo de Cyprus, intento 1
+Deportista: deportista_669, Especialidad: lanzamiento de bala,   Mejor marca: 2520.0 en Torneo de United States, intento 6  Peor marca: 2291.0 en Torneo de Vatican City, intento 2
+Deportista: deportista_553, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Qatar, intento 9  Peor marca: 606.0 en Torneo de Guatemala, intento 9
+Deportista: deportista_430, Especialidad: carrera 400 m con vallas,   Mejor marca: 46138.0 en Torneo de Azerbaijan, intento 1  Peor marca: 50693.0 en Torneo de Dominican Republic, intento 1
+Deportista: deportista_3, Especialidad: carrera 200 m,   Mejor marca: 19503.0 en Torneo de Tonga, intento 1  Peor marca: 21449.0 en Torneo de El Salvador, intento 1
+Deportista: deportista_460, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481036.0 en Torneo de New Zealand, intento 1  Peor marca: 529061.0 en Torneo de Canada, intento 1
+Deportista: deportista_112, Especialidad: carrera 400 m,   Mejor marca: 43471.0 en Torneo de Australia, intento 1  Peor marca: 47791.0 en Torneo de Cambodia, intento 1
+Deportista: deportista_495, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Zambia, intento 3  Peor marca: 237.0 en Torneo de Luxembourg, intento 6
+Deportista: deportista_525, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Tanzania, intento 2  Peor marca: 606.0 en Torneo de Slovenia, intento 8
+Deportista: deportista_317, Especialidad: carrera 21000 m,   Mejor marca: 3482666.0 en Torneo de Nicaragua, intento 1  Peor marca: 3824795.0 en Torneo de Saudi Arabia, intento 1
+Deportista: deportista_746, Especialidad: lanzamiento de martillo,   Mejor marca: 8987.0 en Torneo de Grenada, intento 3  Peor marca: 8176.0 en Torneo de Malaysia, intento 2
+Deportista: deportista_742, Especialidad: lanzamiento de martillo,   Mejor marca: 8989.0 en Torneo de Sri Lanka, intento 7  Peor marca: 8174.0 en Torneo de Georgia, intento 8
+Deportista: deportista_516, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Syria, intento 10  Peor marca: 237.0 en Torneo de Iran, intento 6
+Deportista: deportista_241, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481056.0 en Torneo de Kyrgyzstan, intento 1  Peor marca: 529067.0 en Torneo de Scotland, intento 1
+Deportista: deportista_297, Especialidad: carrera 21000 m,   Mejor marca: 3481150.0 en Torneo de Congo Democratic Republic of the, intento 1  Peor marca: 3829025.0 en Torneo de Panama, intento 1
+Deportista: deportista_106, Especialidad: carrera 400 m,   Mejor marca: 43484.0 en Torneo de Niger, intento 1  Peor marca: 47772.0 en Torneo de Guatemala, intento 1
+Deportista: deportista_353, Especialidad: carrera 42000 m,   Mejor marca: 7307460.0 en Torneo de Uzbekistan, intento 1  Peor marca: 8026004.0 en Torneo de Afghanistan, intento 1
+Deportista: deportista_618, Especialidad: salto triple,   Mejor marca: 1996.0 en Torneo de Colombia, intento 6  Peor marca: 1814.0 en Torneo de Kuwait, intento 6
+Deportista: deportista_637, Especialidad: salto triple,   Mejor marca: 1996.0 en Torneo de Kenya, intento 9  Peor marca: 1815.0 en Torneo de Ethiopia, intento 4
+Deportista: deportista_125, Especialidad: carrera 800 m,   Mejor marca: 101977.0 en Torneo de Malta, intento 1  Peor marca: 112075.0 en Torneo de Sudan, intento 1
+Deportista: deportista_461, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481061.0 en Torneo de Kyrgyzstan, intento 1  Peor marca: 528938.0 en Torneo de Suriname, intento 1
+Deportista: deportista_203, Especialidad: carrera 1500 m,   Mejor marca: 208852.0 en Torneo de Turkey, intento 1  Peor marca: 229623.0 en Torneo de Gabon, intento 1
+Deportista: deportista_394, Especialidad: carrera 110 m con vallas,   Mejor marca: 12115.0 en Torneo de Saint Lucia, intento 1  Peor marca: 13302.0 en Torneo de Wales, intento 1
+Deportista: deportista_77, Especialidad: carrera 400 m,   Mejor marca: 43453.0 en Torneo de Andorra, intento 1  Peor marca: 47789.0 en Torneo de Algeria, intento 1
+Deportista: deportista_515, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Uganda, intento 5  Peor marca: 237.0 en Torneo de Algeria, intento 1
+Deportista: deportista_414, Especialidad: carrera 400 m con vallas,   Mejor marca: 46151.0 en Torneo de Jamaica, intento 1  Peor marca: 50693.0 en Torneo de United States, intento 1
+Deportista: deportista_474, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481375.0 en Torneo de Madagascar, intento 1  Peor marca: 529033.0 en Torneo de Botswana, intento 1
+Deportista: deportista_251, Especialidad: carrera 10000 m,   Mejor marca: 1610215.0 en Torneo de Australia, intento 1  Peor marca: 1768287.0 en Torneo de Sri Lanka, intento 1
+Deportista: deportista_624, Especialidad: salto triple,   Mejor marca: 1996.0 en Torneo de Bhutan, intento 8  Peor marca: 1814.0 en Torneo de Guyana, intento 3
+Deportista: deportista_302, Especialidad: carrera 21000 m,   Mejor marca: 3481507.0 en Torneo de Greece, intento 1  Peor marca: 3827462.0 en Torneo de Zimbabwe, intento 1
+Deportista: deportista_535, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Puerto Rico, intento 1  Peor marca: 606.0 en Torneo de Andorra, intento 5
+Deportista: deportista_471, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481266.0 en Torneo de Denmark, intento 1  Peor marca: 529006.0 en Torneo de Ghana, intento 1
+Deportista: deportista_458, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481261.0 en Torneo de Seychelles, intento 1  Peor marca: 528928.0 en Torneo de Nicaragua, intento 1
+Deportista: deportista_50, Especialidad: carrera 200 m,   Mejor marca: 19508.0 en Torneo de Tonga, intento 1  Peor marca: 21446.0 en Torneo de Costa Rica, intento 1
+Deportista: deportista_463, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481095.0 en Torneo de Germany, intento 1  Peor marca: 529132.0 en Torneo de Mali, intento 1
+Deportista: deportista_675, Especialidad: lanzamiento de bala,   Mejor marca: 2521.0 en Torneo de Pakistan, intento 10  Peor marca: 2291.0 en Torneo de Maldives, intento 5
+Deportista: deportista_601, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Monaco, intento 1  Peor marca: 869.0 en Torneo de Slovakia, intento 6
+Deportista: deportista_576, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Montenegro, intento 3  Peor marca: 869.0 en Torneo de Romania, intento 1
+Deportista: deportista_58, Especialidad: carrera 200 m,   Mejor marca: 19532.0 en Torneo de Cameroon, intento 1  Peor marca: 21426.0 en Torneo de Congo Republic of the, intento 1
+Deportista: deportista_753, Especialidad: lanzamiento de martillo,   Mejor marca: 8992.0 en Torneo de Papua New Guinea, intento 10  Peor marca: 8175.0 en Torneo de Mongolia, intento 2
+Deportista: deportista_344, Especialidad: carrera 42000 m,   Mejor marca: 7309082.0 en Torneo de Mauritania, intento 1  Peor marca: 8026649.0 en Torneo de Uzbekistan, intento 1
+Deportista: deportista_208, Especialidad: carrera 21000 m,   Mejor marca: 3481565.0 en Torneo de Kazakhstan, intento 1  Peor marca: 3828537.0 en Torneo de Moldova, intento 1
+Deportista: deportista_529, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Romania, intento 3  Peor marca: 606.0 en Torneo de Cuba, intento 9
+Deportista: deportista_54, Especialidad: carrera 200 m,   Mejor marca: 19505.0 en Torneo de Jordan, intento 1  Peor marca: 21442.0 en Torneo de Australia, intento 1
+Deportista: deportista_774, Especialidad: lanzamiento de jabalina,   Mejor marca: 9966.0 en Torneo de Poland, intento 6  Peor marca: 9066.0 en Torneo de Malta, intento 7
+Deportista: deportista_183, Especialidad: carrera 1500 m,   Mejor marca: 208853.0 en Torneo de Uganda, intento 1  Peor marca: 229496.0 en Torneo de Cabo Verde, intento 1
+Deportista: deportista_778, Especialidad: lanzamiento de jabalina,   Mejor marca: 9953.0 en Torneo de Thailand, intento 2  Peor marca: 9064.0 en Torneo de Bolivia, intento 8
+Deportista: deportista_621, Especialidad: salto triple,   Mejor marca: 1996.0 en Torneo de Afghanistan, intento 7  Peor marca: 1815.0 en Torneo de Botswana, intento 8
+Deportista: deportista_128, Especialidad: carrera 800 m,   Mejor marca: 101946.0 en Torneo de Guinea, intento 1  Peor marca: 112071.0 en Torneo de Spain, intento 1
+Deportista: deportista_163, Especialidad: carrera 800 m,   Mejor marca: 101901.0 en Torneo de Netherlands, intento 1  Peor marca: 112079.0 en Torneo de Virgin Islands (British), intento 1
+Deportista: deportista_271, Especialidad: carrera 10000 m,   Mejor marca: 1608075.0 en Torneo de Ecuador, intento 1  Peor marca: 1768720.0 en Torneo de Estonia, intento 1
+Deportista: deportista_251, Especialidad: carrera 42000 m,   Mejor marca: 7301146.0 en Torneo de Ecuador, intento 1  Peor marca: 8030030.0 en Torneo de Azerbaijan, intento 1
+Deportista: deportista_451, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481060.0 en Torneo de Marshall Islands, intento 1  Peor marca: 528923.0 en Torneo de Paraguay, intento 1
+Deportista: deportista_659, Especialidad: lanzamiento de bala,   Mejor marca: 2520.0 en Torneo de Sierra Leone, intento 4  Peor marca: 2292.0 en Torneo de Indonesia, intento 10
+Deportista: deportista_792, Especialidad: lanzamiento de jabalina,   Mejor marca: 9968.0 en Torneo de United Arab Emirates, intento 1  Peor marca: 9062.0 en Torneo de Austria, intento 9
+Deportista: deportista_384, Especialidad: carrera 110 m con vallas,   Mejor marca: 12100.0 en Torneo de Moldova, intento 1  Peor marca: 13306.0 en Torneo de Tunisia, intento 1
+Deportista: deportista_421, Especialidad: carrera 400 m con vallas,   Mejor marca: 46116.0 en Torneo de Bulgaria, intento 1  Peor marca: 50692.0 en Torneo de Finland, intento 1
+Deportista: deportista_787, Especialidad: lanzamiento de jabalina,   Mejor marca: 9967.0 en Torneo de Maldives, intento 8  Peor marca: 9063.0 en Torneo de Portugal, intento 9
+Deportista: deportista_396, Especialidad: carrera 110 m con vallas,   Mejor marca: 12098.0 en Torneo de Djibouti, intento 1  Peor marca: 13295.0 en Torneo de Jamaica, intento 1
+Deportista: deportista_194, Especialidad: carrera 1500 m,   Mejor marca: 208867.0 en Torneo de Mongolia, intento 1  Peor marca: 229647.0 en Torneo de Algeria, intento 1
+Deportista: deportista_505, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Virgin Islands (British), intento 3  Peor marca: 237.0 en Torneo de Kiribati, intento 1
+Deportista: deportista_301, Especialidad: carrera 21000 m,   Mejor marca: 3484115.0 en Torneo de Grenada, intento 1  Peor marca: 3827304.0 en Torneo de Thailand, intento 1
+Deportista: deportista_77, Especialidad: carrera 200 m,   Mejor marca: 19504.0 en Torneo de Fiji, intento 1  Peor marca: 21450.0 en Torneo de Gambia, intento 1
+Deportista: deportista_355, Especialidad: carrera 42000 m,   Mejor marca: 7302153.0 en Torneo de Japan, intento 1  Peor marca: 8030109.0 en Torneo de Honduras, intento 1
+Deportista: deportista_252, Especialidad: carrera 10000 m,   Mejor marca: 1609185.0 en Torneo de Hungary, intento 1  Peor marca: 1768556.0 en Torneo de Chad, intento 1
+Deportista: deportista_47, Especialidad: carrera 200 m,   Mejor marca: 19506.0 en Torneo de Nepal, intento 1  Peor marca: 21433.0 en Torneo de Dominican Republic, intento 1
+Deportista: deportista_304, Especialidad: carrera 42000 m,   Mejor marca: 7305943.0 en Torneo de Ethiopia, intento 1  Peor marca: 8026138.0 en Torneo de Ireland, intento 1
+Deportista: deportista_135, Especialidad: carrera 800 m,   Mejor marca: 102008.0 en Torneo de San Marino, intento 1  Peor marca: 112055.0 en Torneo de Rwanda, intento 1
+Deportista: deportista_151, Especialidad: carrera 1500 m,   Mejor marca: 209050.0 en Torneo de Italy, intento 1  Peor marca: 229591.0 en Torneo de Liechtenstein, intento 1
+Deportista: deportista_3, Especialidad: carrera 100 m,   Mejor marca: 9761.0 en Torneo de Djibouti, intento 1  Peor marca: 10716.0 en Torneo de Central African Republic, intento 1
+Deportista: deportista_764, Especialidad: lanzamiento de martillo,   Mejor marca: 8984.0 en Torneo de Grenada, intento 6  Peor marca: 8175.0 en Torneo de El Salvador, intento 8
+Deportista: deportista_263, Especialidad: carrera 10000 m,   Mejor marca: 1610159.0 en Torneo de Morocco, intento 1  Peor marca: 1766905.0 en Torneo de Vatican City, intento 1
+Deportista: deportista_646, Especialidad: lanzamiento de bala,   Mejor marca: 2520.0 en Torneo de Central African Republic, intento 1  Peor marca: 2291.0 en Torneo de Egypt, intento 8
+Deportista: deportista_336, Especialidad: carrera 42000 m,   Mejor marca: 7304332.0 en Torneo de Cabo Verde, intento 1  Peor marca: 8027313.0 en Torneo de Netherlands, intento 1
+Deportista: deportista_235, Especialidad: carrera 5000 m,   Mejor marca: 772328.0 en Torneo de Qatar, intento 1  Peor marca: 849255.0 en Torneo de Syria, intento 1
+Deportista: deportista_214, Especialidad: carrera 5000 m,   Mejor marca: 772331.0 en Torneo de Nigeria, intento 1  Peor marca: 849264.0 en Torneo de Norway, intento 1
+Deportista: deportista_453, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481332.0 en Torneo de French Guiana, intento 1  Peor marca: 529108.0 en Torneo de Bulgaria, intento 1
+Deportista: deportista_67, Especialidad: carrera 200 m,   Mejor marca: 19518.0 en Torneo de Lithuania, intento 1  Peor marca: 21412.0 en Torneo de Latvia, intento 1
+Deportista: deportista_323, Especialidad: carrera 21000 m,   Mejor marca: 3481578.0 en Torneo de Pakistan, intento 1  Peor marca: 3825513.0 en Torneo de Moldova, intento 1
+Deportista: deportista_343, Especialidad: carrera 42000 m,   Mejor marca: 7309791.0 en Torneo de Russia, intento 1  Peor marca: 8029220.0 en Torneo de Panama, intento 1
+Deportista: deportista_250, Especialidad: carrera 21000 m,   Mejor marca: 3481418.0 en Torneo de Gambia, intento 1  Peor marca: 3828714.0 en Torneo de Vatican City, intento 1
+Deportista: deportista_316, Especialidad: carrera 21000 m,   Mejor marca: 3481643.0 en Torneo de Russia, intento 1  Peor marca: 3826972.0 en Torneo de Moldova, intento 1
+Deportista: deportista_530, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Suriname, intento 1  Peor marca: 606.0 en Torneo de Kiribati, intento 10
+Deportista: deportista_431, Especialidad: carrera 400 m con vallas,   Mejor marca: 46202.0 en Torneo de Central African Republic, intento 1  Peor marca: 50660.0 en Torneo de Gabon, intento 1
+Deportista: deportista_716, Especialidad: lanzamiento de disco,   Mejor marca: 7905.0 en Torneo de Argentina, intento 8  Peor marca: 7187.0 en Torneo de Georgia, intento 3
+Deportista: deportista_644, Especialidad: salto triple,   Mejor marca: 1995.0 en Torneo de Senegal, intento 8  Peor marca: 1815.0 en Torneo de Congo Democratic Republic of the, intento 7
+Deportista: deportista_260, Especialidad: carrera 21000 m,   Mejor marca: 3482276.0 en Torneo de Belarus, intento 1  Peor marca: 3825488.0 en Torneo de Malawi, intento 1
+Deportista: deportista_175, Especialidad: carrera 1500 m,   Mejor marca: 208795.0 en Torneo de Papua New Guinea, intento 1  Peor marca: 229640.0 en Torneo de Wales, intento 1
+Deportista: deportista_519, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Zambia, intento 5  Peor marca: 237.0 en Torneo de Antigua and Barbuda, intento 5
+Deportista: deportista_198, Especialidad: carrera 1500 m,   Mejor marca: 208794.0 en Torneo de Peru, intento 1  Peor marca: 229428.0 en Torneo de Serbia, intento 1
+Deportista: deportista_763, Especialidad: lanzamiento de martillo,   Mejor marca: 8989.0 en Torneo de Sri Lanka, intento 6  Peor marca: 8175.0 en Torneo de Panama, intento 1
+Deportista: deportista_66, Especialidad: carrera 400 m,   Mejor marca: 43496.0 en Torneo de Uzbekistan, intento 1  Peor marca: 47784.0 en Torneo de Taiwan, intento 1
+Deportista: deportista_574, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Puerto Rico, intento 8  Peor marca: 870.0 en Torneo de Equatorial Guinea, intento 9
+Deportista: deportista_184, Especialidad: carrera 21000 m,   Mejor marca: 3482679.0 en Torneo de Gambia, intento 1  Peor marca: 3826790.0 en Torneo de Saint Lucia, intento 1
+Deportista: deportista_371, Especialidad: carrera 110 m con vallas,   Mejor marca: 12105.0 en Torneo de Togo, intento 1  Peor marca: 13287.0 en Torneo de Trinidad and Tobago, intento 1
+Deportista: deportista_770, Especialidad: lanzamiento de jabalina,   Mejor marca: 9966.0 en Torneo de Eritrea, intento 3  Peor marca: 9065.0 en Torneo de Lithuania, intento 8
+Deportista: deportista_797, Especialidad: lanzamiento de jabalina,   Mejor marca: 9968.0 en Torneo de Japan, intento 10  Peor marca: 9062.0 en Torneo de Finland, intento 10
+Deportista: deportista_291, Especialidad: carrera 21000 m,   Mejor marca: 3481489.0 en Torneo de Burkina Faso, intento 1  Peor marca: 3828843.0 en Torneo de Ecuador, intento 1
+Deportista: deportista_177, Especialidad: carrera 1500 m,   Mejor marca: 208828.0 en Torneo de Bosnia and Herzegovina, intento 1  Peor marca: 229574.0 en Torneo de Taiwan, intento 1
+Deportista: deportista_542, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Panama, intento 4  Peor marca: 606.0 en Torneo de Ghana, intento 2
+Deportista: deportista_506, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Zimbabwe, intento 2  Peor marca: 237.0 en Torneo de Belarus, intento 3
+Deportista: deportista_70, Especialidad: carrera 200 m,   Mejor marca: 19502.0 en Torneo de Kyrgyzstan, intento 1  Peor marca: 21430.0 en Torneo de Ecuador, intento 1
+Deportista: deportista_156, Especialidad: carrera 800 m,   Mejor marca: 101915.0 en Torneo de Colombia, intento 1  Peor marca: 112045.0 en Torneo de Lebanon, intento 1
+Deportista: deportista_668, Especialidad: lanzamiento de martillo,   Mejor marca: 8985.0 en Torneo de Panama, intento 10  Peor marca: 8174.0 en Torneo de Guinea, intento 3
+Deportista: deportista_403, Especialidad: carrera 110 m con vallas,   Mejor marca: 12105.0 en Torneo de Antigua and Barbuda, intento 1  Peor marca: 13297.0 en Torneo de Maldives, intento 1
+Deportista: deportista_739, Especialidad: lanzamiento de martillo,   Mejor marca: 8990.0 en Torneo de Wales, intento 8  Peor marca: 8175.0 en Torneo de Congo Democratic Republic of the, intento 6
+Deportista: deportista_285, Especialidad: carrera 21000 m,   Mejor marca: 3481218.0 en Torneo de North Korea, intento 1  Peor marca: 3828110.0 en Torneo de Bosnia and Herzegovina, intento 1
+Deportista: deportista_9, Especialidad: carrera 100 m,   Mejor marca: 9766.0 en Torneo de Sri Lanka, intento 1  Peor marca: 10734.0 en Torneo de Morocco, intento 1
+Deportista: deportista_303, Especialidad: carrera 21000 m,   Mejor marca: 3485317.0 en Torneo de Papua New Guinea, intento 1  Peor marca: 3828626.0 en Torneo de Rwanda, intento 1
+Deportista: deportista_600, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Virgin Islands (British), intento 3  Peor marca: 869.0 en Torneo de Ivory Coast, intento 1
+Deportista: deportista_381, Especialidad: carrera 110 m con vallas,   Mejor marca: 12128.0 en Torneo de Slovakia, intento 1  Peor marca: 13307.0 en Torneo de Moldova, intento 1
+Deportista: deportista_482, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481184.0 en Torneo de Marshall Islands, intento 1  Peor marca: 529071.0 en Torneo de Colombia, intento 1
+Deportista: deportista_504, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Uruguay, intento 10  Peor marca: 237.0 en Torneo de Benin, intento 9
+Deportista: deportista_184, Especialidad: carrera 10000 m,   Mejor marca: 1608968.0 en Torneo de Fiji, intento 1  Peor marca: 1766874.0 en Torneo de Syria, intento 1
+Deportista: deportista_182, Especialidad: carrera 1500 m,   Mejor marca: 208801.0 en Torneo de Vietnam, intento 1  Peor marca: 229628.0 en Torneo de Kiribati, intento 1
+Deportista: deportista_152, Especialidad: carrera 800 m,   Mejor marca: 101904.0 en Torneo de Monaco, intento 1  Peor marca: 112022.0 en Torneo de Angola, intento 1
+Deportista: deportista_773, Especialidad: lanzamiento de jabalina,   Mejor marca: 9960.0 en Torneo de Rwanda, intento 4  Peor marca: 9061.0 en Torneo de Burundi, intento 8
+Deportista: deportista_377, Especialidad: carrera 110 m con vallas,   Mejor marca: 12104.0 en Torneo de Nauru, intento 1  Peor marca: 13306.0 en Torneo de Ivory Coast, intento 1
+Deportista: deportista_782, Especialidad: lanzamiento de jabalina,   Mejor marca: 9962.0 en Torneo de Saint Lucia, intento 5  Peor marca: 9065.0 en Torneo de Afghanistan, intento 8
+Deportista: deportista_434, Especialidad: carrera 400 m con vallas,   Mejor marca: 46208.0 en Torneo de Taiwan, intento 1  Peor marca: 50684.0 en Torneo de Marshall Islands, intento 1
+Deportista: deportista_498, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Uganda, intento 10  Peor marca: 237.0 en Torneo de Macedonia, intento 5
+Deportista: deportista_114, Especialidad: carrera 400 m,   Mejor marca: 43467.0 en Torneo de Malta, intento 1  Peor marca: 47786.0 en Torneo de Timor-Leste, intento 1
+Deportista: deportista_208, Especialidad: carrera 10000 m,   Mejor marca: 1608999.0 en Torneo de Belgium, intento 1  Peor marca: 1767320.0 en Torneo de South Sudan, intento 1
+Deportista: deportista_88, Especialidad: carrera 400 m,   Mejor marca: 43461.0 en Torneo de Dominica, intento 1  Peor marca: 47791.0 en Torneo de Laos, intento 1
+Deportista: deportista_765, Especialidad: lanzamiento de martillo,   Mejor marca: 8990.0 en Torneo de Kazakhstan, intento 9  Peor marca: 8175.0 en Torneo de Ukraine, intento 2
+Deportista: deportista_531, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Suriname, intento 10  Peor marca: 606.0 en Torneo de Djibouti, intento 10
+Deportista: deportista_544, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Qatar, intento 4  Peor marca: 606.0 en Torneo de Indonesia, intento 2
+Deportista: deportista_620, Especialidad: salto triple,   Mejor marca: 1996.0 en Torneo de Eritrea, intento 7  Peor marca: 1814.0 en Torneo de Gambia, intento 5
+Deportista: deportista_789, Especialidad: lanzamiento de jabalina,   Mejor marca: 9966.0 en Torneo de Jordan, intento 7  Peor marca: 9067.0 en Torneo de Singapore, intento 10
+Deportista: deportista_780, Especialidad: lanzamiento de jabalina,   Mejor marca: 9966.0 en Torneo de Ecuador, intento 8  Peor marca: 9063.0 en Torneo de Benin, intento 8
+Deportista: deportista_410, Especialidad: carrera 400 m con vallas,   Mejor marca: 46095.0 en Torneo de Mexico, intento 1  Peor marca: 50689.0 en Torneo de Wales, intento 1
+Deportista: deportista_478, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481151.0 en Torneo de Libya, intento 1  Peor marca: 529081.0 en Torneo de Laos, intento 1
+Deportista: deportista_137, Especialidad: carrera 800 m,   Mejor marca: 101895.0 en Torneo de Central African Republic, intento 1  Peor marca: 112075.0 en Torneo de Zimbabwe, intento 1
+Deportista: deportista_28, Especialidad: carrera 200 m,   Mejor marca: 19506.0 en Torneo de Georgia, intento 1  Peor marca: 21444.0 en Torneo de Uzbekistan, intento 1
+Deportista: deportista_713, Especialidad: lanzamiento de disco,   Mejor marca: 7905.0 en Torneo de Myanmar, intento 3  Peor marca: 7191.0 en Torneo de Bulgaria, intento 7
+Deportista: deportista_98, Especialidad: carrera 400 m,   Mejor marca: 43457.0 en Torneo de Ukraine, intento 1  Peor marca: 47761.0 en Torneo de Mexico, intento 1
+Deportista: deportista_350, Especialidad: carrera 42000 m,   Mejor marca: 7309275.0 en Torneo de Peru, intento 1  Peor marca: 8023521.0 en Torneo de Kiribati, intento 1
+Deportista: deportista_727, Especialidad: lanzamiento de martillo,   Mejor marca: 8988.0 en Torneo de Central African Republic, intento 6  Peor marca: 8174.0 en Torneo de Comoros, intento 1
+Deportista: deportista_552, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Vatican City, intento 3  Peor marca: 606.0 en Torneo de Angola, intento 5
+Deportista: deportista_111, Especialidad: carrera 400 m,   Mejor marca: 43454.0 en Torneo de Niger, intento 1  Peor marca: 47793.0 en Torneo de Cameroon, intento 1
+Deportista: deportista_390, Especialidad: carrera 110 m con vallas,   Mejor marca: 12100.0 en Torneo de Papua New Guinea, intento 1  Peor marca: 13286.0 en Torneo de Georgia, intento 1
+Deportista: deportista_114, Especialidad: carrera 400 m con vallas,   Mejor marca: 46135.0 en Torneo de Cambodia, intento 1  Peor marca: 50646.0 en Torneo de Libya, intento 1
+Deportista: deportista_260, Especialidad: carrera 10000 m,   Mejor marca: 1610703.0 en Torneo de Equatorial Guinea, intento 1  Peor marca: 1768348.0 en Torneo de Sri Lanka, intento 1
+Deportista: deportista_766, Especialidad: lanzamiento de jabalina,   Mejor marca: 9959.0 en Torneo de Singapore, intento 6  Peor marca: 9063.0 en Torneo de Bolivia, intento 9
+Deportista: deportista_119, Especialidad: carrera 400 m,   Mejor marca: 43466.0 en Torneo de Kenya, intento 1  Peor marca: 47793.0 en Torneo de New Zealand, intento 1
+Deportista: deportista_756, Especialidad: lanzamiento de martillo,   Mejor marca: 8990.0 en Torneo de Russia, intento 9  Peor marca: 8179.0 en Torneo de Lebanon, intento 9
+Deportista: deportista_598, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Togo, intento 3  Peor marca: 869.0 en Torneo de Belize, intento 1
+Deportista: deportista_591, Especialidad: salto triple,   Mejor marca: 1995.0 en Torneo de Angola, intento 7  Peor marca: 1814.0 en Torneo de Laos, intento 1
+Deportista: deportista_502, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Tuvalu, intento 5  Peor marca: 237.0 en Torneo de Albania, intento 4
+Deportista: deportista_231, Especialidad: carrera 5000 m,   Mejor marca: 773421.0 en Torneo de Maldives, intento 1  Peor marca: 849044.0 en Torneo de Timor-Leste, intento 1
+Deportista: deportista_483, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481149.0 en Torneo de Slovakia, intento 1  Peor marca: 529122.0 en Torneo de Belgium, intento 1
+Deportista: deportista_686, Especialidad: lanzamiento de disco,   Mejor marca: 7904.0 en Torneo de Paraguay, intento 4  Peor marca: 7189.0 en Torneo de Uzbekistan, intento 1
+Deportista: deportista_561, Especialidad: salto con pertiga,   Mejor marca: 666.0 en Torneo de Wales, intento 9  Peor marca: 606.0 en Torneo de Cambodia, intento 2
+Deportista: deportista_452, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481040.0 en Torneo de Georgia, intento 1  Peor marca: 529015.0 en Torneo de Mozambique, intento 1
+Deportista: deportista_769, Especialidad: lanzamiento de jabalina,   Mejor marca: 9962.0 en Torneo de Serbia, intento 6  Peor marca: 9064.0 en Torneo de Grenada, intento 1
+Deportista: deportista_224, Especialidad: carrera 10000 m,   Mejor marca: 1608470.0 en Torneo de Eritrea, intento 1  Peor marca: 1767213.0 en Torneo de Turkey, intento 1
+Deportista: deportista_238, Especialidad: carrera 5000 m,   Mejor marca: 772237.0 en Torneo de Nicaragua, intento 1  Peor marca: 848970.0 en Torneo de Ireland, intento 1
+Deportista: deportista_351, Especialidad: carrera 42000 m,   Mejor marca: 7304817.0 en Torneo de Eritrea, intento 1  Peor marca: 8030853.0 en Torneo de Tajikistan, intento 1
+Deportista: deportista_567, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Kenya, intento 2  Peor marca: 869.0 en Torneo de Iraq, intento 1
+Deportista: deportista_23, Especialidad: carrera 200 m,   Mejor marca: 19501.0 en Torneo de Tonga, intento 1  Peor marca: 21423.0 en Torneo de Austria, intento 1
+Deportista: deportista_694, Especialidad: lanzamiento de disco,   Mejor marca: 7902.0 en Torneo de Eritrea, intento 1  Peor marca: 7186.0 en Torneo de Northern Ireland, intento 7
+Deportista: deportista_80, Especialidad: carrera 200 m,   Mejor marca: 19522.0 en Torneo de Guinea-Bissau, intento 1  Peor marca: 21440.0 en Torneo de Sao Tome and Principe, intento 1
+Deportista: deportista_216, Especialidad: carrera 21000 m,   Mejor marca: 3481810.0 en Torneo de Wales, intento 1  Peor marca: 3828454.0 en Torneo de Cyprus, intento 1
+Deportista: deportista_22, Especialidad: carrera 100 m,   Mejor marca: 9761.0 en Torneo de Puerto Rico, intento 1  Peor marca: 10732.0 en Torneo de Monaco, intento 1
+Deportista: deportista_153, Especialidad: carrera 800 m,   Mejor marca: 101954.0 en Torneo de Hungary, intento 1  Peor marca: 112078.0 en Torneo de South Africa, intento 1
+Deportista: deportista_749, Especialidad: lanzamiento de martillo,   Mejor marca: 8986.0 en Torneo de San Marino, intento 1  Peor marca: 8175.0 en Torneo de Costa Rica, intento 5
+Deportista: deportista_676, Especialidad: lanzamiento de bala,   Mejor marca: 2518.0 en Torneo de Zimbabwe, intento 10  Peor marca: 2291.0 en Torneo de Saudi Arabia, intento 6
+Deportista: deportista_228, Especialidad: carrera 5000 m,   Mejor marca: 772274.0 en Torneo de Ukraine, intento 1  Peor marca: 849119.0 en Torneo de Algeria, intento 1
+Deportista: deportista_417, Especialidad: carrera 400 m con vallas,   Mejor marca: 46118.0 en Torneo de Uruguay, intento 1  Peor marca: 50690.0 en Torneo de San Marino, intento 1
+Deportista: deportista_255, Especialidad: carrera 10000 m,   Mejor marca: 1608532.0 en Torneo de Bahamas, intento 1  Peor marca: 1768260.0 en Torneo de Gabon, intento 1
+Deportista: deportista_375, Especialidad: carrera 110 m con vallas,   Mejor marca: 12099.0 en Torneo de Micronesia, intento 1  Peor marca: 13307.0 en Torneo de Tunisia, intento 1
+Deportista: deportista_441, Especialidad: carrera 400 m con vallas,   Mejor marca: 46103.0 en Torneo de Dominica, intento 1  Peor marca: 50685.0 en Torneo de Jamaica, intento 1
+Deportista: deportista_748, Especialidad: lanzamiento de martillo,   Mejor marca: 8979.0 en Torneo de Senegal, intento 10  Peor marca: 8174.0 en Torneo de Ireland, intento 7
+Deportista: deportista_730, Especialidad: lanzamiento de martillo,   Mejor marca: 8980.0 en Torneo de Uganda, intento 3  Peor marca: 8180.0 en Torneo de Burkina Faso, intento 6
+Deportista: deportista_663, Especialidad: lanzamiento de bala,   Mejor marca: 2520.0 en Torneo de Turkey, intento 2  Peor marca: 2291.0 en Torneo de United States, intento 9
+Deportista: deportista_144, Especialidad: carrera 800 m,   Mejor marca: 102076.0 en Torneo de Iran, intento 1  Peor marca: 112072.0 en Torneo de Costa Rica, intento 1
+Deportista: deportista_75, Especialidad: carrera 200 m,   Mejor marca: 19515.0 en Torneo de Venezuela, intento 1  Peor marca: 21422.0 en Torneo de Jamaica, intento 1
+Deportista: deportista_124, Especialidad: carrera 800 m,   Mejor marca: 101977.0 en Torneo de Canada, intento 1  Peor marca: 112036.0 en Torneo de Tajikistan, intento 1
+Deportista: deportista_510, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Vanuatu, intento 10  Peor marca: 237.0 en Torneo de Bahamas, intento 8
+Deportista: deportista_200, Especialidad: carrera 1500 m,   Mejor marca: 208821.0 en Torneo de Turkey, intento 1  Peor marca: 229632.0 en Torneo de Lithuania, intento 1
+Deportista: deportista_798, Especialidad: lanzamiento de jabalina,   Mejor marca: 9967.0 en Torneo de Greece, intento 2  Peor marca: 9063.0 en Torneo de Nauru, intento 2
+Deportista: deportista_702, Especialidad: lanzamiento de disco,   Mejor marca: 7905.0 en Torneo de Norway, intento 4  Peor marca: 7187.0 en Torneo de Mexico, intento 1
+Deportista: deportista_76, Especialidad: carrera 200 m,   Mejor marca: 19509.0 en Torneo de Monaco, intento 1  Peor marca: 21406.0 en Torneo de Congo Republic of the, intento 1
+Deportista: deportista_212, Especialidad: carrera 10000 m,   Mejor marca: 1608242.0 en Torneo de Cambodia, intento 1  Peor marca: 1768340.0 en Torneo de Central African Republic, intento 1
+Deportista: deportista_781, Especialidad: lanzamiento de jabalina,   Mejor marca: 9967.0 en Torneo de Italy, intento 2  Peor marca: 9064.0 en Torneo de Serbia, intento 1
+Deportista: deportista_750, Especialidad: lanzamiento de martillo,   Mejor marca: 8988.0 en Torneo de Norway, intento 5  Peor marca: 8178.0 en Torneo de Saint Kitts and Nevis, intento 3
+Deportista: deportista_615, Especialidad: salto triple,   Mejor marca: 1996.0 en Torneo de Indonesia, intento 8  Peor marca: 1814.0 en Torneo de Central African Republic, intento 10
+Deportista: deportista_784, Especialidad: lanzamiento de jabalina,   Mejor marca: 9965.0 en Torneo de Tunisia, intento 4  Peor marca: 9063.0 en Torneo de North Korea, intento 8
+Deportista: deportista_367, Especialidad: carrera 110 m con vallas,   Mejor marca: 12099.0 en Torneo de Kosovo, intento 1  Peor marca: 13307.0 en Torneo de South Korea, intento 1
+Deportista: deportista_604, Especialidad: salto triple,   Mejor marca: 1996.0 en Torneo de Gabon, intento 10  Peor marca: 1814.0 en Torneo de France, intento 4
+Deportista: deportista_726, Especialidad: lanzamiento de martillo,   Mejor marca: 8992.0 en Torneo de Venezuela, intento 5  Peor marca: 8177.0 en Torneo de Togo, intento 4
+Deportista: deportista_717, Especialidad: lanzamiento de disco,   Mejor marca: 7904.0 en Torneo de Liberia, intento 5  Peor marca: 7186.0 en Torneo de Sao Tome and Principe, intento 10
+Deportista: deportista_14, Especialidad: carrera 200 m,   Mejor marca: 19515.0 en Torneo de United Arab Emirates, intento 1  Peor marca: 21450.0 en Torneo de Sweden, intento 1
+Deportista: deportista_572, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Ukraine, intento 2  Peor marca: 869.0 en Torneo de Kazakhstan, intento 2
+Deportista: deportista_208, Especialidad: carrera 5000 m,   Mejor marca: 772645.0 en Torneo de Estonia, intento 1  Peor marca: 849157.0 en Torneo de Lithuania, intento 1
+Deportista: deportista_250, Especialidad: carrera 10000 m,   Mejor marca: 1608244.0 en Torneo de Guyana, intento 1  Peor marca: 1768606.0 en Torneo de Tanzania, intento 1
+Deportista: deportista_641, Especialidad: salto triple,   Mejor marca: 1996.0 en Torneo de Nauru, intento 7  Peor marca: 1816.0 en Torneo de Czechia, intento 4
+Deportista: deportista_370, Especialidad: carrera 110 m con vallas,   Mejor marca: 12098.0 en Torneo de Canada, intento 1  Peor marca: 13308.0 en Torneo de Belarus, intento 1
+Deportista: deportista_392, Especialidad: carrera 110 m con vallas,   Mejor marca: 12100.0 en Torneo de Vietnam, intento 1  Peor marca: 13304.0 en Torneo de Palau, intento 1
+Deportista: deportista_193, Especialidad: carrera 1500 m,   Mejor marca: 208782.0 en Torneo de San Marino, intento 1  Peor marca: 229647.0 en Torneo de Bhutan, intento 1
+Deportista: deportista_234, Especialidad: carrera 5000 m,   Mejor marca: 772275.0 en Torneo de Cyprus, intento 1  Peor marca: 848796.0 en Torneo de Haiti, intento 1
+Deportista: deportista_569, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de United Arab Emirates, intento 9  Peor marca: 869.0 en Torneo de Brunei, intento 4
+Deportista: deportista_190, Especialidad: carrera 5000 m,   Mejor marca: 773042.0 en Torneo de Denmark, intento 1  Peor marca: 848705.0 en Torneo de Taiwan, intento 1
+Deportista: deportista_704, Especialidad: lanzamiento de disco,   Mejor marca: 7905.0 en Torneo de Peru, intento 3  Peor marca: 7194.0 en Torneo de Georgia, intento 3
+Deportista: deportista_210, Especialidad: carrera 5000 m,   Mejor marca: 772709.0 en Torneo de Andorra, intento 1  Peor marca: 849023.0 en Torneo de Austria, intento 1
+Deportista: deportista_146, Especialidad: carrera 800 m,   Mejor marca: 101892.0 en Torneo de Libya, intento 1  Peor marca: 112075.0 en Torneo de Serbia, intento 1
+Deportista: deportista_313, Especialidad: carrera 21000 m,   Mejor marca: 3481121.0 en Torneo de Senegal, intento 1  Peor marca: 3825191.0 en Torneo de Netherlands, intento 1
+Deportista: deportista_64, Especialidad: carrera 200 m,   Mejor marca: 19521.0 en Torneo de Finland, intento 1  Peor marca: 21448.0 en Torneo de Jamaica, intento 1
+Deportista: deportista_197, Especialidad: carrera 1500 m,   Mejor marca: 209043.0 en Torneo de Bhutan, intento 1  Peor marca: 229635.0 en Torneo de Panama, intento 1
+Deportista: deportista_54, Especialidad: carrera 110 m con vallas,   Mejor marca: 12102.0 en Torneo de Indonesia, intento 1  Peor marca: 13308.0 en Torneo de Panama, intento 1
+Deportista: deportista_339, Especialidad: carrera 42000 m,   Mejor marca: 7303553.0 en Torneo de Germany, intento 1  Peor marca: 8031054.0 en Torneo de Chad, intento 1
+Deportista: deportista_718, Especialidad: lanzamiento de disco,   Mejor marca: 7903.0 en Torneo de Guatemala, intento 2  Peor marca: 7186.0 en Torneo de Russia, intento 1
+Deportista: deportista_734, Especialidad: lanzamiento de martillo,   Mejor marca: 8992.0 en Torneo de Niger, intento 6  Peor marca: 8180.0 en Torneo de Kenya, intento 8
+Deportista: deportista_593, Especialidad: salto largo,   Mejor marca: 955.0 en Torneo de Uruguay, intento 9  Peor marca: 869.0 en Torneo de Argentina, intento 8
+Deportista: deportista_326, Especialidad: carrera 42000 m,   Mejor marca: 7313334.0 en Torneo de Mauritania, intento 1  Peor marca: 8030444.0 en Torneo de Laos, intento 1
+Deportista: deportista_64, Especialidad: carrera 400 m,   Mejor marca: 43455.0 en Torneo de India, intento 1  Peor marca: 47793.0 en Torneo de Jamaica, intento 1
+Deportista: deportista_279, Especialidad: carrera 10000 m,   Mejor marca: 1608079.0 en Torneo de Kosovo, intento 1  Peor marca: 1767550.0 en Torneo de Finland, intento 1
+Deportista: deportista_472, Especialidad: carrera 3000 m con vallas,   Mejor marca: 482244.0 en Torneo de Solomon Islands, intento 1  Peor marca: 528970.0 en Torneo de Switzerland, intento 1
+Deportista: deportista_55, Especialidad: carrera 200 m,   Mejor marca: 19501.0 en Torneo de Greece, intento 1  Peor marca: 21438.0 en Torneo de Netherlands, intento 1
+Deportista: deportista_751, Especialidad: lanzamiento de martillo,   Mejor marca: 8990.0 en Torneo de Sudan, intento 4  Peor marca: 8175.0 en Torneo de Vanuatu, intento 1
+Deportista: deportista_492, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Monaco, intento 1  Peor marca: 237.0 en Torneo de Australia, intento 1
+Deportista: deportista_354, Especialidad: carrera 42000 m,   Mejor marca: 7303292.0 en Torneo de San Marino, intento 1  Peor marca: 8028537.0 en Torneo de North Korea, intento 1
+Deportista: deportista_582, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Thailand, intento 9  Peor marca: 869.0 en Torneo de Marshall Islands, intento 6
+Deportista: deportista_564, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Micronesia, intento 1  Peor marca: 869.0 en Torneo de Bhutan, intento 3
+Deportista: deportista_187, Especialidad: carrera 1500 m,   Mejor marca: 208773.0 en Torneo de Madagascar, intento 1  Peor marca: 229598.0 en Torneo de Uganda, intento 1
+Deportista: deportista_207, Especialidad: carrera 5000 m,   Mejor marca: 772110.0 en Torneo de Ecuador, intento 1  Peor marca: 849170.0 en Torneo de Fiji, intento 1
+Deportista: deportista_16, Especialidad: carrera 100 m,   Mejor marca: 9766.0 en Torneo de Cyprus, intento 1  Peor marca: 10726.0 en Torneo de Morocco, intento 1
+Deportista: deportista_321, Especialidad: carrera 42000 m,   Mejor marca: 7308210.0 en Torneo de Equatorial Guinea, intento 1  Peor marca: 8028981.0 en Torneo de Northern Ireland, intento 1
+Deportista: deportista_32, Especialidad: carrera 100 m,   Mejor marca: 9762.0 en Torneo de Qatar, intento 1  Peor marca: 10736.0 en Torneo de United Arab Emirates, intento 1
+Deportista: deportista_133, Especialidad: carrera 1500 m,   Mejor marca: 208843.0 en Torneo de Norway, intento 1  Peor marca: 229592.0 en Torneo de Brazil, intento 1
+Deportista: deportista_747, Especialidad: lanzamiento de martillo,   Mejor marca: 8990.0 en Torneo de Mauritius, intento 7  Peor marca: 8177.0 en Torneo de Comoros, intento 8
+Deportista: deportista_793, Especialidad: lanzamiento de jabalina,   Mejor marca: 9966.0 en Torneo de Liechtenstein, intento 8  Peor marca: 9061.0 en Torneo de Colombia, intento 5
+Deportista: deportista_604, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Monaco, intento 7  Peor marca: 870.0 en Torneo de Bulgaria, intento 10
+Deportista: deportista_178, Especialidad: carrera 1500 m,   Mejor marca: 208951.0 en Torneo de Armenia, intento 1  Peor marca: 229494.0 en Torneo de French Guiana, intento 1
+Deportista: deportista_31, Especialidad: carrera 100 m,   Mejor marca: 9765.0 en Torneo de Greece, intento 1  Peor marca: 10730.0 en Torneo de Monaco, intento 1
+Deportista: deportista_455, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481059.0 en Torneo de Venezuela, intento 1  Peor marca: 528903.0 en Torneo de Chile, intento 1
+Deportista: deportista_643, Especialidad: salto triple,   Mejor marca: 1996.0 en Torneo de Malawi, intento 4  Peor marca: 1814.0 en Torneo de Turkey, intento 3
+Deportista: deportista_720, Especialidad: lanzamiento de disco,   Mejor marca: 7905.0 en Torneo de Ethiopia, intento 3  Peor marca: 7191.0 en Torneo de Benin, intento 9
+Deportista: deportista_611, Especialidad: salto triple,   Mejor marca: 1996.0 en Torneo de Cuba, intento 4  Peor marca: 1814.0 en Torneo de Tuvalu, intento 3
+Deportista: deportista_538, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Venezuela, intento 2  Peor marca: 606.0 en Torneo de Denmark, intento 1
+Deportista: deportista_721, Especialidad: lanzamiento de disco,   Mejor marca: 7904.0 en Torneo de Mauritania, intento 3  Peor marca: 7197.0 en Torneo de Oman, intento 7
+Deportista: deportista_683, Especialidad: lanzamiento de bala,   Mejor marca: 2521.0 en Torneo de Scotland, intento 8  Peor marca: 2292.0 en Torneo de Bhutan, intento 6
+Deportista: deportista_710, Especialidad: lanzamiento de disco,   Mejor marca: 7895.0 en Torneo de Belarus, intento 7  Peor marca: 7186.0 en Torneo de Ireland, intento 6
+Deportista: deportista_6, Especialidad: carrera 100 m,   Mejor marca: 9769.0 en Torneo de Barbados, intento 1  Peor marca: 10731.0 en Torneo de Honduras, intento 1
+Deportista: deportista_524, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Mexico, intento 2  Peor marca: 606.0 en Torneo de Barbados, intento 4
+Deportista: deportista_91, Especialidad: carrera 400 m,   Mejor marca: 43463.0 en Torneo de Burkina Faso, intento 1  Peor marca: 47750.0 en Torneo de Equatorial Guinea, intento 1
+Deportista: deportista_805, Especialidad: lanzamiento de jabalina,   Mejor marca: 9964.0 en Torneo de Northern Ireland, intento 3  Peor marca: 9068.0 en Torneo de Brazil, intento 4
+Deportista: deportista_139, Especialidad: carrera 800 m,   Mejor marca: 101895.0 en Torneo de Yemen, intento 1  Peor marca: 112075.0 en Torneo de Colombia, intento 1
+Deportista: deportista_116, Especialidad: carrera 400 m,   Mejor marca: 43470.0 en Torneo de Moldova, intento 1  Peor marca: 47765.0 en Torneo de Somalia, intento 1
+Deportista: deportista_6, Especialidad: carrera 200 m,   Mejor marca: 19517.0 en Torneo de Kuwait, intento 1  Peor marca: 21438.0 en Torneo de Tonga, intento 1
+Deportista: deportista_648, Especialidad: lanzamiento de bala,   Mejor marca: 2521.0 en Torneo de Sri Lanka, intento 8  Peor marca: 2291.0 en Torneo de Ethiopia, intento 8
+Deportista: deportista_503, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Uzbekistan, intento 10  Peor marca: 237.0 en Torneo de El Salvador, intento 2
+Deportista: deportista_28, Especialidad: carrera 100 m,   Mejor marca: 9793.0 en Torneo de Syria, intento 1  Peor marca: 10722.0 en Torneo de Sri Lanka, intento 1
+Deportista: deportista_379, Especialidad: carrera 110 m con vallas,   Mejor marca: 12099.0 en Torneo de Romania, intento 1  Peor marca: 13307.0 en Torneo de Papua New Guinea, intento 1
+Deportista: deportista_43, Especialidad: carrera 200 m,   Mejor marca: 19501.0 en Torneo de Denmark, intento 1  Peor marca: 21423.0 en Torneo de Rwanda, intento 1
+Deportista: deportista_588, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Sudan, intento 1  Peor marca: 869.0 en Torneo de Estonia, intento 3
+Deportista: deportista_373, Especialidad: carrera 110 m con vallas,   Mejor marca: 12104.0 en Torneo de Tunisia, intento 1  Peor marca: 13305.0 en Torneo de Oman, intento 1
+Deportista: deportista_278, Especialidad: carrera 21000 m,   Mejor marca: 3483721.0 en Torneo de Mauritania, intento 1  Peor marca: 3828808.0 en Torneo de Denmark, intento 1
+Deportista: deportista_507, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Vanuatu, intento 2  Peor marca: 237.0 en Torneo de Bulgaria, intento 8
+Deportista: deportista_239, Especialidad: carrera 5000 m,   Mejor marca: 772188.0 en Torneo de Angola, intento 1  Peor marca: 849057.0 en Torneo de South Korea, intento 1
+Deportista: deportista_740, Especialidad: lanzamiento de martillo,   Mejor marca: 8975.0 en Torneo de Germany, intento 10  Peor marca: 8178.0 en Torneo de Montenegro, intento 2
+Deportista: deportista_257, Especialidad: carrera 10000 m,   Mejor marca: 1608952.0 en Torneo de Saint Lucia, intento 1  Peor marca: 1768723.0 en Torneo de Moldova, intento 1
+Deportista: deportista_319, Especialidad: carrera 21000 m,   Mejor marca: 3481005.0 en Torneo de Luxembourg, intento 1  Peor marca: 3823854.0 en Torneo de Serbia, intento 1
+Deportista: deportista_132, Especialidad: carrera 800 m,   Mejor marca: 101921.0 en Torneo de Somalia, intento 1  Peor marca: 111973.0 en Torneo de Namibia, intento 1
+Deportista: deportista_209, Especialidad: carrera 10000 m,   Mejor marca: 1609174.0 en Torneo de Thailand, intento 1  Peor marca: 1766586.0 en Torneo de South Africa, intento 1
+Deportista: deportista_26, Especialidad: carrera 200 m,   Mejor marca: 19500.0 en Torneo de Jamaica, intento 1  Peor marca: 21444.0 en Torneo de Russia, intento 1
+Deportista: deportista_627, Especialidad: salto triple,   Mejor marca: 1995.0 en Torneo de Tanzania, intento 3  Peor marca: 1814.0 en Torneo de Puerto Rico, intento 2
+Deportista: deportista_687, Especialidad: lanzamiento de disco,   Mejor marca: 7894.0 en Torneo de Ivory Coast, intento 10  Peor marca: 7188.0 en Torneo de Marshall Islands, intento 5
+Deportista: deportista_653, Especialidad: lanzamiento de bala,   Mejor marca: 2520.0 en Torneo de Tonga, intento 9  Peor marca: 2291.0 en Torneo de Marshall Islands, intento 8
+Deportista: deportista_383, Especialidad: carrera 110 m con vallas,   Mejor marca: 12105.0 en Torneo de Micronesia, intento 1  Peor marca: 13304.0 en Torneo de Timor-Leste, intento 1
+Deportista: deportista_376, Especialidad: carrera 110 m con vallas,   Mejor marca: 12112.0 en Torneo de Vietnam, intento 1  Peor marca: 13302.0 en Torneo de Cabo Verde, intento 1
+Deportista: deportista_489, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Uganda, intento 9  Peor marca: 237.0 en Torneo de Cameroon, intento 8
+Deportista: deportista_328, Especialidad: carrera 42000 m,   Mejor marca: 7311781.0 en Torneo de Palau, intento 1  Peor marca: 8029944.0 en Torneo de Colombia, intento 1
+Deportista: deportista_186, Especialidad: carrera 1500 m,   Mejor marca: 208792.0 en Torneo de Morocco, intento 1  Peor marca: 229566.0 en Torneo de Israel, intento 1
+Deportista: deportista_760, Especialidad: lanzamiento de martillo,   Mejor marca: 8989.0 en Torneo de Brazil, intento 10  Peor marca: 8174.0 en Torneo de Sudan, intento 1
+Deportista: deportista_696, Especialidad: lanzamiento de disco,   Mejor marca: 7905.0 en Torneo de Uganda, intento 5  Peor marca: 7190.0 en Torneo de Vietnam, intento 4
+Deportista: deportista_160, Especialidad: carrera 800 m,   Mejor marca: 101940.0 en Torneo de Vatican City, intento 1  Peor marca: 111974.0 en Torneo de Tunisia, intento 1
+Deportista: deportista_123, Especialidad: carrera 400 m,   Mejor marca: 43484.0 en Torneo de Libya, intento 1  Peor marca: 47790.0 en Torneo de Colombia, intento 1
+Deportista: deportista_652, Especialidad: lanzamiento de bala,   Mejor marca: 2521.0 en Torneo de United Arab Emirates, intento 1  Peor marca: 2292.0 en Torneo de Italy, intento 3
+Deportista: deportista_597, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Albania, intento 8  Peor marca: 869.0 en Torneo de Latvia, intento 2
+Deportista: deportista_568, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de United Arab Emirates, intento 9  Peor marca: 869.0 en Torneo de Bahrain, intento 1
+Deportista: deportista_484, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Trinidad and Tobago, intento 6  Peor marca: 237.0 en Torneo de Bolivia, intento 1
+Deportista: deportista_665, Especialidad: lanzamiento de bala,   Mejor marca: 2521.0 en Torneo de Czechia, intento 4  Peor marca: 2291.0 en Torneo de Saint Lucia, intento 8
+Deportista: deportista_612, Especialidad: salto triple,   Mejor marca: 1996.0 en Torneo de Suriname, intento 7  Peor marca: 1814.0 en Torneo de Kyrgyzstan, intento 4
+Deportista: deportista_554, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Vietnam, intento 1  Peor marca: 606.0 en Torneo de Kosovo, intento 10
+Deportista: deportista_518, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Zimbabwe, intento 6  Peor marca: 237.0 en Torneo de Australia, intento 10
+Deportista: deportista_528, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Zambia, intento 8  Peor marca: 606.0 en Torneo de Djibouti, intento 5
+Deportista: deportista_241, Especialidad: carrera 5000 m,   Mejor marca: 772231.0 en Torneo de Ghana, intento 1  Peor marca: 848797.0 en Torneo de Dominican Republic, intento 1
+Deportista: deportista_591, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Tanzania, intento 10  Peor marca: 869.0 en Torneo de Togo, intento 1
+Deportista: deportista_445, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481078.0 en Torneo de Mali, intento 1  Peor marca: 528818.0 en Torneo de Morocco, intento 1
+Deportista: deportista_87, Especialidad: carrera 400 m,   Mejor marca: 43573.0 en Torneo de Brunei, intento 1  Peor marca: 47777.0 en Torneo de Cuba, intento 1
+Deportista: deportista_342, Especialidad: carrera 42000 m,   Mejor marca: 7304941.0 en Torneo de Albania, intento 1  Peor marca: 8030474.0 en Torneo de Lithuania, intento 1
+Deportista: deportista_364, Especialidad: carrera 110 m con vallas,   Mejor marca: 12101.0 en Torneo de Canada, intento 1  Peor marca: 13308.0 en Torneo de Vanuatu, intento 1
+Deportista: deportista_803, Especialidad: lanzamiento de jabalina,   Mejor marca: 9963.0 en Torneo de Belize, intento 6  Peor marca: 9085.0 en Torneo de Andorra, intento 2
+Deportista: deportista_660, Especialidad: lanzamiento de bala,   Mejor marca: 2521.0 en Torneo de Zambia, intento 6  Peor marca: 2291.0 en Torneo de India, intento 5
+Deportista: deportista_636, Especialidad: salto triple,   Mejor marca: 1995.0 en Torneo de South Korea, intento 4  Peor marca: 1814.0 en Torneo de Niger, intento 8
+Deportista: deportista_1, Especialidad: carrera 200 m,   Mejor marca: 19505.0 en Torneo de South Africa, intento 1  Peor marca: 21449.0 en Torneo de North Korea, intento 1
+Deportista: deportista_66, Especialidad: carrera 200 m,   Mejor marca: 19514.0 en Torneo de Botswana, intento 1  Peor marca: 21444.0 en Torneo de Gambia, intento 1
+Deportista: deportista_603, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Kyrgyzstan, intento 5  Peor marca: 869.0 en Torneo de Hungary, intento 1
+Deportista: deportista_491, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de United States, intento 5  Peor marca: 237.0 en Torneo de Antigua and Barbuda, intento 7
+Deportista: deportista_513, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Trinidad and Tobago, intento 3  Peor marca: 237.0 en Torneo de Algeria, intento 10
+Deportista: deportista_575, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Romania, intento 9  Peor marca: 869.0 en Torneo de Armenia, intento 5
+Deportista: deportista_8, Especialidad: carrera 100 m,   Mejor marca: 9760.0 en Torneo de Georgia, intento 1  Peor marca: 10735.0 en Torneo de Eritrea, intento 1
+Deportista: deportista_682, Especialidad: lanzamiento de bala,   Mejor marca: 2518.0 en Torneo de Luxembourg, intento 6  Peor marca: 2293.0 en Torneo de Kiribati, intento 3
+Deportista: deportista_667, Especialidad: lanzamiento de bala,   Mejor marca: 2521.0 en Torneo de Sweden, intento 10  Peor marca: 2292.0 en Torneo de Kuwait, intento 6
+Deportista: deportista_57, Especialidad: carrera 200 m,   Mejor marca: 19504.0 en Torneo de Guinea, intento 1  Peor marca: 21446.0 en Torneo de Marshall Islands, intento 1
+Deportista: deportista_216, Especialidad: carrera 5000 m,   Mejor marca: 772725.0 en Torneo de Qatar, intento 1  Peor marca: 848818.0 en Torneo de United Kingdom, intento 1
+Deportista: deportista_546, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Denmark, intento 4  Peor marca: 606.0 en Torneo de Czechia, intento 6
+Deportista: deportista_534, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Trinidad and Tobago, intento 1  Peor marca: 606.0 en Torneo de Indonesia, intento 8
+Deportista: deportista_143, Especialidad: carrera 800 m,   Mejor marca: 101945.0 en Torneo de Argentina, intento 1  Peor marca: 112066.0 en Torneo de Philippines, intento 1
+Deportista: deportista_456, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481207.0 en Torneo de Ghana, intento 1  Peor marca: 529060.0 en Torneo de Vatican City, intento 1
+Deportista: deportista_169, Especialidad: carrera 1500 m,   Mejor marca: 208778.0 en Torneo de Bosnia and Herzegovina, intento 1  Peor marca: 229448.0 en Torneo de Somalia, intento 1
+Deportista: deportista_380, Especialidad: carrera 110 m con vallas,   Mejor marca: 12100.0 en Torneo de Luxembourg, intento 1  Peor marca: 13293.0 en Torneo de Nicaragua, intento 1
+Deportista: deportista_586, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Maldives, intento 1  Peor marca: 869.0 en Torneo de Angola, intento 4
+Deportista: deportista_349, Especialidad: carrera 42000 m,   Mejor marca: 7303850.0 en Torneo de Bahrain, intento 1  Peor marca: 8026049.0 en Torneo de Nigeria, intento 1
+Deportista: deportista_127, Especialidad: carrera 1500 m,   Mejor marca: 208800.0 en Torneo de Benin, intento 1  Peor marca: 229619.0 en Torneo de Denmark, intento 1
+Deportista: deportista_171, Especialidad: carrera 1500 m,   Mejor marca: 208888.0 en Torneo de Malta, intento 1  Peor marca: 229634.0 en Torneo de Austria, intento 1
+Deportista: deportista_423, Especialidad: carrera 400 m con vallas,   Mejor marca: 46092.0 en Torneo de Sudan, intento 1  Peor marca: 50699.0 en Torneo de Jordan, intento 1
+Deportista: deportista_469, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481479.0 en Torneo de Nepal, intento 1  Peor marca: 528814.0 en Torneo de Comoros, intento 1
+Deportista: deportista_211, Especialidad: carrera 5000 m,   Mejor marca: 772143.0 en Torneo de Guyana, intento 1  Peor marca: 849211.0 en Torneo de Lebanon, intento 1
+Deportista: deportista_14, Especialidad: carrera 100 m,   Mejor marca: 9763.0 en Torneo de Mali, intento 1  Peor marca: 10731.0 en Torneo de Equatorial Guinea, intento 1
+Deportista: deportista_180, Especialidad: carrera 1500 m,   Mejor marca: 209025.0 en Torneo de Denmark, intento 1  Peor marca: 229584.0 en Torneo de Qatar, intento 1
+Deportista: deportista_101, Especialidad: lanzamiento de bala,   Mejor marca: 2521.0 en Torneo de Zimbabwe, intento 6  Peor marca: 2293.0 en Torneo de Sri Lanka, intento 1
+Deportista: deportista_794, Especialidad: lanzamiento de jabalina,   Mejor marca: 9967.0 en Torneo de Chad, intento 9  Peor marca: 9063.0 en Torneo de Saint Vincent and the Grenadines, intento 3
+Deportista: deportista_27, Especialidad: carrera 100 m,   Mejor marca: 9769.0 en Torneo de Scotland, intento 1  Peor marca: 10734.0 en Torneo de Luxembourg, intento 1
+Deportista: deportista_338, Especialidad: carrera 42000 m,   Mejor marca: 7304505.0 en Torneo de Lebanon, intento 1  Peor marca: 8028679.0 en Torneo de Chile, intento 1
+Deportista: deportista_294, Especialidad: carrera 21000 m,   Mejor marca: 3484102.0 en Torneo de Papua New Guinea, intento 1  Peor marca: 3827516.0 en Torneo de Guatemala, intento 1
+Deportista: deportista_29, Especialidad: carrera 200 m,   Mejor marca: 19515.0 en Torneo de Belize, intento 1  Peor marca: 21448.0 en Torneo de Japan, intento 1
+Deportista: deportista_419, Especialidad: carrera 400 m con vallas,   Mejor marca: 46121.0 en Torneo de Serbia, intento 1  Peor marca: 50623.0 en Torneo de Suriname, intento 1
+Deportista: deportista_517, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Italy, intento 7  Peor marca: 237.0 en Torneo de Chile, intento 7
+Deportista: deportista_260, Especialidad: carrera 42000 m,   Mejor marca: 7307624.0 en Torneo de Russia, intento 1  Peor marca: 8030678.0 en Torneo de Malta, intento 1
+Deportista: deportista_408, Especialidad: carrera 400 m con vallas,   Mejor marca: 46094.0 en Torneo de Comoros, intento 1  Peor marca: 50687.0 en Torneo de Azerbaijan, intento 1
+Deportista: deportista_745, Especialidad: lanzamiento de martillo,   Mejor marca: 8989.0 en Torneo de Rwanda, intento 6  Peor marca: 8177.0 en Torneo de Timor-Leste, intento 1
+Deportista: deportista_101, Especialidad: carrera 400 m,   Mejor marca: 43455.0 en Torneo de Papua New Guinea, intento 1  Peor marca: 47794.0 en Torneo de Israel, intento 1
+Deportista: deportista_199, Especialidad: carrera 1500 m,   Mejor marca: 208792.0 en Torneo de Mongolia, intento 1  Peor marca: 229613.0 en Torneo de Chile, intento 1
+Deportista: deportista_42, Especialidad: carrera 100 m,   Mejor marca: 9760.0 en Torneo de Guinea-Bissau, intento 1  Peor marca: 10736.0 en Torneo de Russia, intento 1
+Deportista: deportista_448, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481590.0 en Torneo de Greece, intento 1  Peor marca: 528948.0 en Torneo de Slovenia, intento 1
+Deportista: deportista_398, Especialidad: carrera 110 m con vallas,   Mejor marca: 12129.0 en Torneo de Sudan, intento 1  Peor marca: 13304.0 en Torneo de Bangladesh, intento 1
+Deportista: deportista_199, Especialidad: carrera 5000 m,   Mejor marca: 772743.0 en Torneo de Grenada, intento 1  Peor marca: 848834.0 en Torneo de Mexico, intento 1
+Deportista: deportista_161, Especialidad: carrera 800 m,   Mejor marca: 101999.0 en Torneo de Myanmar, intento 1  Peor marca: 112070.0 en Torneo de Bahamas, intento 1
+Deportista: deportista_759, Especialidad: lanzamiento de martillo,   Mejor marca: 8992.0 en Torneo de Kuwait, intento 2  Peor marca: 8185.0 en Torneo de Nicaragua, intento 7
+Deportista: deportista_292, Especialidad: carrera 21000 m,   Mejor marca: 3482012.0 en Torneo de Lebanon, intento 1  Peor marca: 3826570.0 en Torneo de Poland, intento 1
+Deportista: deportista_801, Especialidad: lanzamiento de jabalina,   Mejor marca: 9967.0 en Torneo de Austria, intento 4  Peor marca: 9062.0 en Torneo de Switzerland, intento 9
+Deportista: deportista_447, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481168.0 en Torneo de Sweden, intento 1  Peor marca: 528889.0 en Torneo de Kazakhstan, intento 1
+Deportista: deportista_24, Especialidad: carrera 100 m,   Mejor marca: 9766.0 en Torneo de Congo Democratic Republic of the, intento 1  Peor marca: 10728.0 en Torneo de Finland, intento 1
+Deportista: deportista_2, Especialidad: carrera 200 m,   Mejor marca: 19505.0 en Torneo de French Guiana, intento 1  Peor marca: 21444.0 en Torneo de South Sudan, intento 1
+Deportista: deportista_150, Especialidad: carrera 800 m,   Mejor marca: 101928.0 en Torneo de Georgia, intento 1  Peor marca: 112020.0 en Torneo de Timor-Leste, intento 1
+Deportista: deportista_457, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481452.0 en Torneo de Mauritania, intento 1  Peor marca: 528660.0 en Torneo de Benin, intento 1
+Deportista: deportista_145, Especialidad: carrera 800 m,   Mejor marca: 101983.0 en Torneo de Angola, intento 1  Peor marca: 112078.0 en Torneo de Japan, intento 1
+Deportista: deportista_181, Especialidad: carrera 5000 m,   Mejor marca: 772861.0 en Torneo de Nicaragua, intento 1  Peor marca: 849217.0 en Torneo de Grenada, intento 1
+Deportista: deportista_274, Especialidad: carrera 10000 m,   Mejor marca: 1608306.0 en Torneo de Belarus, intento 1  Peor marca: 1768547.0 en Torneo de Mauritius, intento 1
+Deportista: deportista_523, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Nicaragua, intento 6  Peor marca: 237.0 en Torneo de Albania, intento 3
+Deportista: deportista_230, Especialidad: carrera 5000 m,   Mejor marca: 772342.0 en Torneo de Malawi, intento 1  Peor marca: 849076.0 en Torneo de Lebanon, intento 1
+Deportista: deportista_122, Especialidad: carrera 400 m,   Mejor marca: 43452.0 en Torneo de Brazil, intento 1  Peor marca: 47776.0 en Torneo de Laos, intento 1
+Deportista: deportista_225, Especialidad: carrera 5000 m,   Mejor marca: 772162.0 en Torneo de Maldives, intento 1  Peor marca: 849293.0 en Torneo de Mongolia, intento 1
+Deportista: deportista_188, Especialidad: carrera 1500 m,   Mejor marca: 208883.0 en Torneo de Antigua and Barbuda, intento 1  Peor marca: 229523.0 en Torneo de Zimbabwe, intento 1
+Deportista: deportista_437, Especialidad: carrera 400 m con vallas,   Mejor marca: 46100.0 en Torneo de Bolivia, intento 1  Peor marca: 50698.0 en Torneo de Comoros, intento 1
+Deportista: deportista_440, Especialidad: carrera 400 m con vallas,   Mejor marca: 46113.0 en Torneo de Indonesia, intento 1  Peor marca: 50675.0 en Torneo de Cambodia, intento 1
+Deportista: deportista_783, Especialidad: lanzamiento de jabalina,   Mejor marca: 9967.0 en Torneo de Kuwait, intento 4  Peor marca: 9064.0 en Torneo de Norway, intento 4
+Deportista: deportista_630, Especialidad: salto triple,   Mejor marca: 1996.0 en Torneo de Norway, intento 1  Peor marca: 1815.0 en Torneo de Fiji, intento 1
+Deportista: deportista_387, Especialidad: carrera 110 m con vallas,   Mejor marca: 12100.0 en Torneo de Eritrea, intento 1  Peor marca: 13308.0 en Torneo de New Zealand, intento 1
+Deportista: deportista_382, Especialidad: carrera 110 m con vallas,   Mejor marca: 12100.0 en Torneo de Dominica, intento 1  Peor marca: 13304.0 en Torneo de Ecuador, intento 1
+Deportista: deportista_543, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Sri Lanka, intento 6  Peor marca: 606.0 en Torneo de Netherlands, intento 9
+Deportista: deportista_176, Especialidad: carrera 10000 m,   Mejor marca: 1608164.0 en Torneo de Kosovo, intento 1  Peor marca: 1768354.0 en Torneo de Slovakia, intento 1
+Deportista: deportista_337, Especialidad: carrera 42000 m,   Mejor marca: 7302469.0 en Torneo de Mozambique, intento 1  Peor marca: 8025541.0 en Torneo de Grenada, intento 1
+Deportista: deportista_533, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Venezuela, intento 5  Peor marca: 606.0 en Torneo de Monaco, intento 7
+Deportista: deportista_584, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Libya, intento 9  Peor marca: 869.0 en Torneo de Mauritius, intento 3
+Deportista: deportista_1, Especialidad: carrera 100 m,   Mejor marca: 9762.0 en Torneo de Philippines, intento 1  Peor marca: 10726.0 en Torneo de Latvia, intento 1
+Deportista: deportista_645, Especialidad: lanzamiento de bala,   Mejor marca: 2519.0 en Torneo de Ukraine, intento 6  Peor marca: 2291.0 en Torneo de Canada, intento 7
+Deportista: deportista_284, Especialidad: carrera 21000 m,   Mejor marca: 3484230.0 en Torneo de Bulgaria, intento 1  Peor marca: 3827647.0 en Torneo de Namibia, intento 1
+Deportista: deportista_476, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481224.0 en Torneo de Sierra Leone, intento 1  Peor marca: 528861.0 en Torneo de South Sudan, intento 1
+Deportista: deportista_706, Especialidad: lanzamiento de disco,   Mejor marca: 7900.0 en Torneo de United States, intento 5  Peor marca: 7187.0 en Torneo de Switzerland, intento 7
+Deportista: deportista_92, Especialidad: carrera 400 m,   Mejor marca: 43457.0 en Torneo de Burkina Faso, intento 1  Peor marca: 47794.0 en Torneo de Cyprus, intento 1
+Deportista: deportista_541, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Virgin Islands (British), intento 5  Peor marca: 606.0 en Torneo de Guyana, intento 7
+Deportista: deportista_651, Especialidad: lanzamiento de bala,   Mejor marca: 2521.0 en Torneo de Uruguay, intento 7  Peor marca: 2292.0 en Torneo de Central African Republic, intento 6
+Deportista: deportista_532, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Mauritania, intento 4  Peor marca: 606.0 en Torneo de Finland, intento 5
+Deportista: deportista_251, Especialidad: carrera 21000 m,   Mejor marca: 3481062.0 en Torneo de Indonesia, intento 1  Peor marca: 3828790.0 en Torneo de Samoa, intento 1
+Deportista: deportista_270, Especialidad: carrera 10000 m,   Mejor marca: 1610950.0 en Torneo de Australia, intento 1  Peor marca: 1768818.0 en Torneo de El Salvador, intento 1
+Deportista: deportista_436, Especialidad: carrera 400 m con vallas,   Mejor marca: 46199.0 en Torneo de South Africa, intento 1  Peor marca: 50696.0 en Torneo de Chad, intento 1
+Deportista: deportista_420, Especialidad: carrera 400 m con vallas,   Mejor marca: 46102.0 en Torneo de Malawi, intento 1  Peor marca: 50696.0 en Torneo de South Africa, intento 1
+Deportista: deportista_5, Especialidad: carrera 200 m,   Mejor marca: 19508.0 en Torneo de Kenya, intento 1  Peor marca: 21450.0 en Torneo de Brunei, intento 1
+Deportista: deportista_361, Especialidad: carrera 42000 m,   Mejor marca: 7304007.0 en Torneo de Tonga, intento 1  Peor marca: 8027625.0 en Torneo de Sweden, intento 1
+Deportista: deportista_459, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481195.0 en Torneo de Armenia, intento 1  Peor marca: 529086.0 en Torneo de Ukraine, intento 1
+Deportista: deportista_573, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Pakistan, intento 5  Peor marca: 869.0 en Torneo de Spain, intento 1
+Deportista: deportista_176, Especialidad: carrera 1500 m,   Mejor marca: 208788.0 en Torneo de Maldives, intento 1  Peor marca: 229585.0 en Torneo de San Marino, intento 1
+Deportista: deportista_679, Especialidad: lanzamiento de bala,   Mejor marca: 2516.0 en Torneo de Nicaragua, intento 2  Peor marca: 2291.0 en Torneo de Bulgaria, intento 2
+Deportista: deportista_527, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Puerto Rico, intento 10  Peor marca: 606.0 en Torneo de Azerbaijan, intento 4
+Deportista: deportista_788, Especialidad: lanzamiento de jabalina,   Mejor marca: 9964.0 en Torneo de Serbia, intento 5  Peor marca: 9067.0 en Torneo de Russia, intento 1
+Deportista: deportista_678, Especialidad: lanzamiento de bala,   Mejor marca: 2521.0 en Torneo de Wales, intento 1  Peor marca: 2291.0 en Torneo de Cameroon, intento 1
+Deportista: deportista_738, Especialidad: lanzamiento de martillo,   Mejor marca: 8988.0 en Torneo de Suriname, intento 3  Peor marca: 8179.0 en Torneo de Bahrain, intento 7
+Deportista: deportista_148, Especialidad: carrera 800 m,   Mejor marca: 101916.0 en Torneo de Cambodia, intento 1  Peor marca: 112041.0 en Torneo de Trinidad and Tobago, intento 1
+Deportista: deportista_39, Especialidad: carrera 100 m,   Mejor marca: 9776.0 en Torneo de Congo Republic of the, intento 1  Peor marca: 10734.0 en Torneo de Cambodia, intento 1
+Deportista: deportista_680, Especialidad: lanzamiento de bala,   Mejor marca: 2521.0 en Torneo de Burundi, intento 7  Peor marca: 2291.0 en Torneo de Guinea-Bissau, intento 2
+Deportista: deportista_432, Especialidad: carrera 400 m con vallas,   Mejor marca: 46178.0 en Torneo de Central African Republic, intento 1  Peor marca: 50699.0 en Torneo de Kenya, intento 1
+Deportista: deportista_684, Especialidad: lanzamiento de bala,   Mejor marca: 2519.0 en Torneo de Congo Republic of the, intento 9  Peor marca: 2291.0 en Torneo de Botswana, intento 9
+Deportista: deportista_11, Especialidad: carrera 100 m,   Mejor marca: 9764.0 en Torneo de Jordan, intento 1  Peor marca: 10726.0 en Torneo de Micronesia, intento 1
+Deportista: deportista_232, Especialidad: carrera 5000 m,   Mejor marca: 772171.0 en Torneo de Myanmar, intento 1  Peor marca: 849044.0 en Torneo de Pakistan, intento 1
+Deportista: deportista_565, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Virgin Islands (British), intento 2  Peor marca: 869.0 en Torneo de Bolivia, intento 2
+Deportista: deportista_81, Especialidad: carrera 200 m,   Mejor marca: 19519.0 en Torneo de China, intento 1  Peor marca: 21441.0 en Torneo de Yemen, intento 1
+Deportista: deportista_712, Especialidad: lanzamiento de disco,   Mejor marca: 7905.0 en Torneo de Rwanda, intento 8  Peor marca: 7191.0 en Torneo de Central African Republic, intento 3
+Deportista: deportista_692, Especialidad: lanzamiento de disco,   Mejor marca: 7905.0 en Torneo de Chad, intento 3  Peor marca: 7187.0 en Torneo de Myanmar, intento 3
+Deportista: deportista_108, Especialidad: carrera 400 m,   Mejor marca: 43458.0 en Torneo de Scotland, intento 1  Peor marca: 47795.0 en Torneo de Sudan, intento 1
+Deportista: deportista_526, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Rwanda, intento 1  Peor marca: 606.0 en Torneo de Czechia, intento 1
+Deportista: deportista_363, Especialidad: carrera 42000 m,   Mejor marca: 7304424.0 en Torneo de Burundi, intento 1  Peor marca: 8030868.0 en Torneo de Laos, intento 1
+Deportista: deportista_705, Especialidad: lanzamiento de disco,   Mejor marca: 7899.0 en Torneo de Gambia, intento 10  Peor marca: 7189.0 en Torneo de Puerto Rico, intento 4
+Deportista: deportista_655, Especialidad: lanzamiento de bala,   Mejor marca: 2521.0 en Torneo de Monaco, intento 7  Peor marca: 2293.0 en Torneo de Benin, intento 6
+Deportista: deportista_258, Especialidad: carrera 10000 m,   Mejor marca: 1608385.0 en Torneo de Bhutan, intento 1  Peor marca: 1768204.0 en Torneo de Micronesia, intento 1
+Deportista: deportista_779, Especialidad: lanzamiento de jabalina,   Mejor marca: 9968.0 en Torneo de Antigua and Barbuda, intento 5  Peor marca: 9067.0 en Torneo de Georgia, intento 1
+Deportista: deportista_374, Especialidad: carrera 110 m con vallas,   Mejor marca: 12102.0 en Torneo de Laos, intento 1  Peor marca: 13308.0 en Torneo de Bosnia and Herzegovina, intento 1
+Deportista: deportista_400, Especialidad: carrera 110 m con vallas,   Mejor marca: 12098.0 en Torneo de Tonga, intento 1  Peor marca: 13305.0 en Torneo de Eritrea, intento 1
+Deportista: deportista_557, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Myanmar, intento 10  Peor marca: 606.0 en Torneo de Equatorial Guinea, intento 4
+Deportista: deportista_547, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Romania, intento 5  Peor marca: 606.0 en Torneo de Estonia, intento 4
+Deportista: deportista_719, Especialidad: lanzamiento de disco,   Mejor marca: 7904.0 en Torneo de Yemen, intento 6  Peor marca: 7187.0 en Torneo de Suriname, intento 3
+Deportista: deportista_311, Especialidad: carrera 21000 m,   Mejor marca: 3488790.0 en Torneo de Guinea, intento 1  Peor marca: 3828892.0 en Torneo de Chile, intento 1
+Deportista: deportista_638, Especialidad: salto triple,   Mejor marca: 1996.0 en Torneo de Guyana, intento 10  Peor marca: 1815.0 en Torneo de Marshall Islands, intento 6
+Deportista: deportista_577, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Antigua and Barbuda, intento 9  Peor marca: 869.0 en Torneo de Iran, intento 8
+Deportista: deportista_120, Especialidad: carrera 400 m,   Mejor marca: 43454.0 en Torneo de Argentina, intento 1  Peor marca: 47768.0 en Torneo de South Sudan, intento 1
+Deportista: deportista_11, Especialidad: carrera 200 m,   Mejor marca: 19503.0 en Torneo de Greece, intento 1  Peor marca: 21448.0 en Torneo de Morocco, intento 1
+Deportista: deportista_446, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481711.0 en Torneo de Marshall Islands, intento 1  Peor marca: 529036.0 en Torneo de Germany, intento 1
+Deportista: deportista_715, Especialidad: lanzamiento de disco,   Mejor marca: 7903.0 en Torneo de Albania, intento 6  Peor marca: 7187.0 en Torneo de Turkmenistan, intento 8
+Deportista: deportista_130, Especialidad: carrera 800 m,   Mejor marca: 102106.0 en Torneo de Grenada, intento 1  Peor marca: 111994.0 en Torneo de Brazil, intento 1
+Deportista: deportista_242, Especialidad: carrera 5000 m,   Mejor marca: 772318.0 en Torneo de Algeria, intento 1  Peor marca: 849207.0 en Torneo de Serbia, intento 1
+Deportista: deportista_596, Especialidad: salto triple,   Mejor marca: 1996.0 en Torneo de Canada, intento 1  Peor marca: 1815.0 en Torneo de Paraguay, intento 3
+Deportista: deportista_115, Especialidad: carrera 400 m,   Mejor marca: 43467.0 en Torneo de Italy, intento 1  Peor marca: 47791.0 en Torneo de Wales, intento 1
+Deportista: deportista_185, Especialidad: carrera 1500 m,   Mejor marca: 208809.0 en Torneo de Finland, intento 1  Peor marca: 229641.0 en Torneo de Comoros, intento 1
+Deportista: deportista_305, Especialidad: carrera 42000 m,   Mejor marca: 7308031.0 en Torneo de Egypt, intento 1  Peor marca: 8028469.0 en Torneo de Nauru, intento 1
+Deportista: deportista_580, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Guinea, intento 10  Peor marca: 870.0 en Torneo de Lebanon, intento 3
+Deportista: deportista_192, Especialidad: carrera 1500 m,   Mejor marca: 208884.0 en Torneo de Mali, intento 1  Peor marca: 229430.0 en Torneo de Barbados, intento 1
+Deportista: deportista_86, Especialidad: carrera 400 m,   Mejor marca: 43470.0 en Torneo de French Guiana, intento 1  Peor marca: 47776.0 en Torneo de Thailand, intento 1
+Deportista: deportista_507, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Angola, intento 7  Peor marca: 869.0 en Torneo de Barbados, intento 1
+Deportista: deportista_633, Especialidad: salto triple,   Mejor marca: 1996.0 en Torneo de Puerto Rico, intento 3  Peor marca: 1815.0 en Torneo de Armenia, intento 5
+Deportista: deportista_487, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Vanuatu, intento 3  Peor marca: 237.0 en Torneo de Sri Lanka, intento 5
+Deportista: deportista_501, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Uruguay, intento 8  Peor marca: 237.0 en Torneo de Andorra, intento 10
+Deportista: deportista_283, Especialidad: carrera 10000 m,   Mejor marca: 1609953.0 en Torneo de Vietnam, intento 1  Peor marca: 1767971.0 en Torneo de Bahrain, intento 1
+Deportista: deportista_220, Especialidad: carrera 5000 m,   Mejor marca: 772128.0 en Torneo de Saudi Arabia, intento 1  Peor marca: 848817.0 en Torneo de Bahamas, intento 1
+Deportista: deportista_151, Especialidad: carrera 800 m,   Mejor marca: 101895.0 en Torneo de Malawi, intento 1  Peor marca: 112043.0 en Torneo de Pakistan, intento 1
+Deportista: deportista_512, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de South Africa, intento 6  Peor marca: 237.0 en Torneo de Belarus, intento 9
+Deportista: deportista_95, Especialidad: carrera 400 m,   Mejor marca: 43464.0 en Torneo de Belize, intento 1  Peor marca: 47793.0 en Torneo de Haiti, intento 1
+Deportista: deportista_594, Especialidad: salto largo,   Mejor marca: 956.0 en Torneo de Panama, intento 8  Peor marca: 869.0 en Torneo de Guatemala, intento 8
+Deportista: deportista_38, Especialidad: carrera 100 m,   Mejor marca: 9779.0 en Torneo de Mongolia, intento 1  Peor marca: 10718.0 en Torneo de Costa Rica, intento 1
+Deportista: deportista_90, Especialidad: carrera 400 m,   Mejor marca: 43458.0 en Torneo de Japan, intento 1  Peor marca: 47783.0 en Torneo de Russia, intento 1
+Deportista: deportista_357, Especialidad: carrera 42000 m,   Mejor marca: 7306648.0 en Torneo de Ecuador, intento 1  Peor marca: 8027315.0 en Torneo de Iceland, intento 1
+Deportista: deportista_74, Especialidad: carrera 200 m,   Mejor marca: 19507.0 en Torneo de Tonga, intento 1  Peor marca: 21438.0 en Torneo de Mexico, intento 1
+Deportista: deportista_280, Especialidad: carrera 10000 m,   Mejor marca: 1608063.0 en Torneo de Luxembourg, intento 1  Peor marca: 1768314.0 en Torneo de Netherlands, intento 1
+Deportista: deportista_98, Especialidad: carrera 400 m con vallas,   Mejor marca: 46127.0 en Torneo de Maldives, intento 1  Peor marca: 50664.0 en Torneo de Zimbabwe, intento 1
+Deportista: deportista_289, Especialidad: carrera 21000 m,   Mejor marca: 3485931.0 en Torneo de Indonesia, intento 1  Peor marca: 3826137.0 en Torneo de Congo Democratic Republic of the, intento 1
+Deportista: deportista_41, Especialidad: carrera 100 m,   Mejor marca: 9760.0 en Torneo de Brunei, intento 1  Peor marca: 10735.0 en Torneo de Dominican Republic, intento 1
+Deportista: deportista_99, Especialidad: carrera 400 m con vallas,   Mejor marca: 46102.0 en Torneo de Tuvalu, intento 1  Peor marca: 50676.0 en Torneo de Antigua and Barbuda, intento 1
+Deportista: deportista_690, Especialidad: lanzamiento de disco,   Mejor marca: 7904.0 en Torneo de Israel, intento 4  Peor marca: 7192.0 en Torneo de Sao Tome and Principe, intento 3
+Deportista: deportista_614, Especialidad: salto triple,   Mejor marca: 1996.0 en Torneo de United Arab Emirates, intento 4  Peor marca: 1814.0 en Torneo de Croatia, intento 5
+Deportista: deportista_21, Especialidad: carrera 100 m,   Mejor marca: 9764.0 en Torneo de Sri Lanka, intento 1  Peor marca: 10735.0 en Torneo de Panama, intento 1
+Deportista: deportista_508, Especialidad: salto de altura,   Mejor marca: 261.0 en Torneo de Tajikistan, intento 6  Peor marca: 237.0 en Torneo de Bahrain, intento 10
+Deportista: deportista_468, Especialidad: carrera 3000 m con vallas,   Mejor marca: 481179.0 en Torneo de Kenya, intento 1  Peor marca: 528800.0 en Torneo de Oman, intento 1
+Deportista: deportista_191, Especialidad: carrera 1500 m,   Mejor marca: 208809.0 en Torneo de Togo, intento 1  Peor marca: 229539.0 en Torneo de Belize, intento 1
+Deportista: deportista_133, Especialidad: carrera 800 m,   Mejor marca: 101921.0 en Torneo de Zambia, intento 1  Peor marca: 112033.0 en Torneo de Bahamas, intento 1
+Deportista: deportista_138, Especialidad: carrera 800 m,   Mejor marca: 102083.0 en Torneo de Tunisia, intento 1  Peor marca: 112070.0 en Torneo de Bulgaria, intento 1
+Deportista: deportista_700, Especialidad: lanzamiento de disco,   Mejor marca: 7904.0 en Torneo de Peru, intento 10  Peor marca: 7186.0 en Torneo de Burkina Faso, intento 9
+Deportista: deportista_639, Especialidad: salto triple,   Mejor marca: 1994.0 en Torneo de Namibia, intento 1  Peor marca: 1814.0 en Torneo de Haiti, intento 10
+Deportista: deportista_545, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Sudan, intento 2  Peor marca: 606.0 en Torneo de Bahamas, intento 5
+Deportista: deportista_537, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Uruguay, intento 7  Peor marca: 606.0 en Torneo de Bosnia and Herzegovina, intento 4
+Deportista: deportista_672, Especialidad: lanzamiento de bala,   Mejor marca: 2521.0 en Torneo de Suriname, intento 2  Peor marca: 2291.0 en Torneo de Indonesia, intento 8
+Deportista: deportista_314, Especialidad: carrera 21000 m,   Mejor marca: 3482942.0 en Torneo de Azerbaijan, intento 1  Peor marca: 3827260.0 en Torneo de Marshall Islands, intento 1
+Deportista: deportista_274, Especialidad: carrera 21000 m,   Mejor marca: 3481292.0 en Torneo de Sri Lanka, intento 1  Peor marca: 3828021.0 en Torneo de Finland, intento 1
+Deportista: deportista_68, Especialidad: carrera 200 m,   Mejor marca: 19514.0 en Torneo de Lebanon, intento 1  Peor marca: 21446.0 en Torneo de Solomon Islands, intento 1
+Deportista: deportista_689, Especialidad: lanzamiento de disco,   Mejor marca: 7903.0 en Torneo de Sierra Leone, intento 10  Peor marca: 7186.0 en Torneo de Guinea, intento 5
+Deportista: deportista_711, Especialidad: lanzamiento de disco,   Mejor marca: 7905.0 en Torneo de Zimbabwe, intento 10  Peor marca: 7188.0 en Torneo de Malta, intento 5
+Deportista: deportista_2, Especialidad: carrera 100 m,   Mejor marca: 9760.0 en Torneo de Puerto Rico, intento 1  Peor marca: 10736.0 en Torneo de Libya, intento 1
+Deportista: deportista_167, Especialidad: carrera 1500 m,   Mejor marca: 208780.0 en Torneo de Guatemala, intento 1  Peor marca: 229577.0 en Torneo de Kiribati, intento 1
+Deportista: deportista_708, Especialidad: lanzamiento de disco,   Mejor marca: 7905.0 en Torneo de French Guiana, intento 8  Peor marca: 7190.0 en Torneo de Iraq, intento 7
+Deportista: deportista_221, Especialidad: carrera 5000 m,   Mejor marca: 772938.0 en Torneo de Vietnam, intento 1  Peor marca: 849067.0 en Torneo de Benin, intento 1
+Deportista: deportista_174, Especialidad: carrera 1500 m,   Mejor marca: 208809.0 en Torneo de Albania, intento 1  Peor marca: 229624.0 en Torneo de Panama, intento 1
+Deportista: deportista_548, Especialidad: salto con pertiga,   Mejor marca: 667.0 en Torneo de Saudi Arabia, intento 10  Peor marca: 606.0 en Torneo de Saint Kitts and Nevis, intento 4
+Deportista: deportista_796, Especialidad: lanzamiento de jabalina,   Mejor marca: 9968.0 en Torneo de Oman, intento 10  Peor marca: 9061.0 en Torneo de Senegal, intento 3
+Deportista: deportista_318, Especialidad: carrera 21000 m,   Mejor marca: 3482183.0 en Torneo de Uganda, intento 1  Peor marca: 3827475.0 en Torneo de Belgium, intento 1
+Deportista: deportista_320, Especialidad: carrera 21000 m,   Mejor marca: 3483042.0 en Torneo de Guinea-Bissau, intento 1  Peor marca: 3827062.0 en Torneo de Virgin Islands (British), intento 1
+Deportista: deportista_378, Especialidad: carrera 110 m con vallas,   Mejor marca: 12106.0 en Torneo de Namibia, intento 1  Peor marca: 13301.0 en Torneo de Kosovo, intento 1
+Deportista: deportista_218, Especialidad: carrera 21000 m,   Mejor marca: 3484137.0 en Torneo de Vatican City, intento 1  Peor marca: 3826954.0 en Torneo de Cambodia, intento 1
+Deportista: deportista_427, Especialidad: carrera 400 m con vallas,   Mejor marca: 46113.0 en Torneo de Kazakhstan, intento 1  Peor marca: 50699.0 en Torneo de Mexico, intento 1
+Deportista: deportista_23, Especialidad: carrera 100 m,   Mejor marca: 9760.0 en Torneo de Suriname, intento 1  Peor marca: 10732.0 en Torneo de Mauritius, intento 1
+Deportista: deportista_412, Especialidad: carrera 400 m con vallas,   Mejor marca: 46099.0 en Torneo de Chile, intento 1  Peor marca: 50702.0 en Torneo de Lithuania, intento 1

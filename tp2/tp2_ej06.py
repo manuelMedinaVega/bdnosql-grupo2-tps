@@ -5,7 +5,7 @@ import os
 # Ubicacion del archivo CSV con el contenido provisto por la catedra
 directorio_actual = os.path.dirname(os.path.abspath(__file__))
 archivo_entrada =  os.path.join(directorio_actual, '..', 'datos', 'full_export.csv')
-nombre_archivo_resultado_ejercicio = os.path.join(directorio_actual, 'tp2_ej01.txt')
+nombre_archivo_resultado_ejercicio = os.path.join(directorio_actual, 'tp2_ej06.txt')
 
 # Objeto de configuracion para conectarse a la base de datos usada en este ejercicio
 conexion = {
@@ -18,16 +18,18 @@ conexion = {
 # base de datos
 def ejecutar(file, conn):
     import time
-    
+
     start = time.time()
     db = inicializar(conn)
+    
+
     df_filas = csv.DictReader(open(file, "r", encoding="utf-8"))
     count = 0
     startbloque = time.time()
     for fila in df_filas:
         procesar_fila(db, fila)
         count += 1
-        if 0 == count % 100:
+        if 0 == count % 10000:
             endbloque = time.time()
             tiempo = endbloque - startbloque
             print(str(count) + " en " + str(tiempo) + " segundos")
@@ -54,18 +56,45 @@ def inicializar(conn):
 # Funcion que dada una linea del archivo CSV (en forma de objeto) va a encargarse de insertar el (o los) objetos
 # necesarios
 # Debe ser implementada por el alumno
-def procesar_fila(db, fila):
-    # insertar elemento en entidad para el ejercicio actual
-    db.set(f"deportista:{fila['id_deportista']}", fila['nombre_deportista'], nx=True)
+def procesar_fila(db, fila):   
+    
+    
+    sorted_set_key = f"ranking:{fila['id_especialidad']}"
+
+    marca = fila['marca']
+    nombre = fila['nombre_deportista']            
+    torneo = fila['id_torneo']
+    intento = fila['intento']            
+
+    elemento_zset = f"{torneo}:{intento}:{nombre}"
+    score_marca = float(marca)
+
+    db.zadd(sorted_set_key, {elemento_zset: score_marca})
+
+    
+        
 
 # Funcion que realiza el o los queries que resuelven el ejercicio, utilizando la base de datos.
 # Debe ser implementada por el alumno
 def generar_reporte(db):
-    archivo = open(nombre_archivo_resultado_ejercicio, 'w')
-    # luego para cada linea generada como reporte:
-    for id in ['10', '20', '30']:
-        grabar_linea(archivo, f"{id} - {db.get(f'deportista:{id}')}")
+    archivo = open(nombre_archivo_resultado_ejercicio, 'w', encoding="utf-8")      
 
+    for id in range(1,21):
+            print(f"sset: {id}")
+
+            grabar_linea(archivo, f"Especialidad: {id}")
+
+            sorted_set_key = f"ranking:{id}"
+            if id < 13:                
+                podio = db.zrange(sorted_set_key, 0, 2, withscores=True)
+            else:
+                podio = db.zrevrange(sorted_set_key, 0, 2, withscores=True)
+
+            for posicion, (elemento, score) in enumerate(podio, start=1):
+                partes_key = elemento.split(":")
+                intento = partes_key[1]
+                nombre = partes_key[2] 
+                grabar_linea(archivo, f"{posicion}. Intento: {intento}, nombre: {nombre} - Marca: {score}")
 
 
 # Funcion para el borrado de estructuras generadas para este ejercicio

@@ -1,9 +1,11 @@
 import csv
 import redis
+import os
 
 # Ubicacion del archivo CSV con el contenido provisto por la catedra
-archivo_entrada = 'full_export.csv'
-nombre_archivo_resultado_ejercicio = 'tp2/tp2_ej03.txt'
+directorio_actual = os.path.dirname(os.path.abspath(__file__))
+archivo_entrada =  os.path.join(directorio_actual, '..', 'datos', 'full_export.csv')
+nombre_archivo_resultado_ejercicio = os.path.join(directorio_actual, 'tp2_ej03.txt')
 
 # Objeto de configuracion para conectarse a la base de datos usada en este ejercicio
 conexion = {
