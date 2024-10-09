@@ -1,80 +1,60 @@
-Especialidad: 1
-1. Intento: 1, nombre: Aleia HOBBS - Marca: 9760.0
-2. Intento: 1, nombre: Mario BURKE - Marca: 9760.0
-3. Intento: 1, nombre: ShaCarri RICHARDSON - Marca: 9760.0
-Especialidad: 2
-1. Intento: 1, nombre: Mario BURKE - Marca: 19500.0
-2. Intento: 1, nombre: Elaine THOMPSON - Marca: 19500.0
-3. Intento: 1, nombre: Kayla WHITE - Marca: 19500.0
-Especialidad: 3
-1. Intento: 1, nombre: Phyllis FRANCIS - Marca: 43450.0
-2. Intento: 1, nombre: Courtney OKOLO - Marca: 43451.0
-3. Intento: 1, nombre: Sharrika BARNETT - Marca: 43452.0
-Especialidad: 4
-1. Intento: 1, nombre: Francine NIYONSABA - Marca: 101892.0
-2. Intento: 1, nombre: Raevyn ROGERS - Marca: 101893.0
-3. Intento: 1, nombre: Natalya PRYSHCHEPA - Marca: 101893.0
-Especialidad: 5
-1. Intento: 1, nombre: Sifan HASSAN - Marca: 208771.0
-2. Intento: 1, nombre: Matthew CENTROWITZ - Marca: 208772.0
-3. Intento: 1, nombre: Dawit SEYAUM - Marca: 208772.0
-Especialidad: 6
-1. Intento: 1, nombre: Sifan HASSAN - Marca: 772098.0
-2. Intento: 1, nombre: Birhanu BALEW - Marca: 772110.0
-3. Intento: 1, nombre: Selemon BAREGA - Marca: 772111.0
-Especialidad: 7
-1. Intento: 1, nombre: Lopez LOMONG - Marca: 1608036.0
-2. Intento: 1, nombre: Abdallah Kibet MANDE - Marca: 1608063.0
-3. Intento: 1, nombre: Rodgers KWEMOI - Marca: 1608075.0
-Especialidad: 8
-1. Intento: 1, nombre: Evaline CHIRCHIR - Marca: 3481005.0
-2. Intento: 1, nombre: Zeineba YIMER - Marca: 3481062.0
-3. Intento: 1, nombre: Roza DEREJE - Marca: 3481121.0
-Especialidad: 9
-1. Intento: 1, nombre: Zeineba YIMER - Marca: 7301146.0
-2. Intento: 1, nombre: Kinde ATANAW - Marca: 7301386.0
-3. Intento: 1, nombre: Kinde ATANAW - Marca: 7301499.0
-Especialidad: 10
-1. Intento: 1, nombre: Payton CHADWICK - Marca: 12098.0
-2. Intento: 1, nombre: Anna COCKRELL - Marca: 12098.0
-3. Intento: 1, nombre: Wenjun XIE - Marca: 12098.0
-Especialidad: 11
-1. Intento: 1, nombre: Lindsay HANEKOM - Marca: 46092.0
-2. Intento: 1, nombre: Ashley SPENCER - Marca: 46092.0
-3. Intento: 1, nombre: TJ HOLMES - Marca: 46094.0
-Especialidad: 12
-1. Intento: 1, nombre: Andrew BAYER - Marca: 481036.0
-2. Intento: 1, nombre: Chala BEYO - Marca: 481040.0
-3. Intento: 1, nombre: Norah JERUTO - Marca: 481044.0
-Especialidad: 13
-1. Intento: 7, nombre: Yuliya LEVCHENKO - Marca: 261.0
-2. Intento: 7, nombre: Nafissatou THIAM - Marca: 261.0
-3. Intento: 4, nombre: Tihomir IVANOV - Marca: 261.0
-Especialidad: 14
-1. Intento: 3, nombre: Katie NAGEOTTE - Marca: 667.0
-2. Intento: 5, nombre: Michaela MEIJER - Marca: 667.0
-3. Intento: 2, nombre: Nikoleta KIRIAKOPOULOU - Marca: 667.0
-Especialidad: 15
-1. Intento: 9, nombre: Ese BRUME - Marca: 956.0
-2. Intento: 8, nombre: Keturah ORJI - Marca: 956.0
-3. Intento: 1, nombre: Jianan WANG - Marca: 956.0
-Especialidad: 16
-1. Intento: 6, nombre: Darya NIDBAYKINA - Marca: 1996.0
-2. Intento: 2, nombre: Jordan Alejandro DÍAZ FORTUN - Marca: 1996.0
-3. Intento: 9, nombre: Dmitriy SOROKIN - Marca: 1996.0
-Especialidad: 17
-1. Intento: 7, nombre: Danniel THOMAS-DODD - Marca: 2521.0
-2. Intento: 2, nombre: Michał HARATYK - Marca: 2521.0
-3. Intento: 9, nombre: Anita MÁRTON - Marca: 2521.0
-Especialidad: 18
-1. Intento: 1, nombre: Kelsey CARD - Marca: 7905.0
-2. Intento: 8, nombre: Kristin PUDENZ - Marca: 7905.0
-3. Intento: 3, nombre: Reggie JAGERS III - Marca: 7905.0
-Especialidad: 19
-1. Intento: 10, nombre: Serhiy PEREVOZNIKOV - Marca: 8992.0
-2. Intento: 2, nombre: Iryna KLYMETS - Marca: 8992.0
-3. Intento: 1, nombre: Zalina PETRIVSKAYA - Marca: 8992.0
-Especialidad: 20
-1. Intento: 10, nombre: Arshad NADEEM - Marca: 9968.0
-2. Intento: 5, nombre: Martina RATEJ - Marca: 9968.0
-3. Intento: 7, nombre: Martina RATEJ - Marca: 9968.0
+Posición 1 - Especialidad: carrera 800 m, Deportista: Kate GRACE, Torneo: Torneo de Virgin Islands (British), Intento: 1, Marca: 112079.0
+Posición 2 - Especialidad: carrera 800 m, Deportista: Catriona BISSET, Torneo: Torneo de South Africa, Intento: 1, Marca: 112078.0
+Posición 3 - Especialidad: carrera 800 m, Deportista: Ajee WILSON, Torneo: Torneo de Japan, Intento: 1, Marca: 112078.0
+Posición 1 - Especialidad: lanzamiento de jabalina, Deportista: Kim AMB, Torneo: Torneo de Albania, Intento: 6, Marca: 9061.0
+Posición 2 - Especialidad: lanzamiento de jabalina, Deportista: Shiying LIU, Torneo: Torneo de Burundi, Intento: 8, Marca: 9061.0
+Posición 3 - Especialidad: lanzamiento de jabalina, Deportista: Anderson PETERS, Torneo: Torneo de Colombia, Intento: 5, Marca: 9061.0
+Posición 1 - Especialidad: salto largo, Deportista: Yanis Esmeralda DAVID, Torneo: Torneo de Algeria, Intento: 8, Marca: 869.0
+Posición 2 - Especialidad: salto largo, Deportista: Kenyattia HACKWORTH, Torneo: Torneo de Angola, Intento: 4, Marca: 869.0
+Posición 3 - Especialidad: salto largo, Deportista: Abigail IROZURU, Torneo: Torneo de Argentina, Intento: 8, Marca: 869.0
+Posición 1 - Especialidad: lanzamiento de disco, Deportista: Yelena PANOVA, Torneo: Torneo de Albania, Intento: 8, Marca: 7186.0
+Posición 2 - Especialidad: lanzamiento de disco, Deportista: Alex ROSE, Torneo: Torneo de Burkina Faso, Intento: 9, Marca: 7186.0
+Posición 3 - Especialidad: lanzamiento de disco, Deportista: Piotr MAŁACHOWSKI, Torneo: Torneo de Cambodia, Intento: 6, Marca: 7186.0
+Posición 1 - Especialidad: salto con pertiga, Deportista: Andrew IRWIN, Torneo: Torneo de Andorra, Intento: 5, Marca: 606.0
+Posición 2 - Especialidad: salto con pertiga, Deportista: Yarisley SILVA, Torneo: Torneo de Angola, Intento: 5, Marca: 606.0
+Posición 3 - Especialidad: salto con pertiga, Deportista: Angelica BENGTSSON, Torneo: Torneo de Angola, Intento: 7, Marca: 606.0
+Posición 1 - Especialidad: salto triple, Deportista: Thea LAFOND, Torneo: Torneo de Australia, Intento: 3, Marca: 1814.0
+Posición 2 - Especialidad: salto triple, Deportista: Thea LAFOND, Torneo: Torneo de Belgium, Intento: 10, Marca: 1814.0
+Posición 3 - Especialidad: salto triple, Deportista: Paraskevi PAPACHRISTOU, Torneo: Torneo de Central African Republic, Intento: 10, Marca: 1814.0
+Posición 1 - Especialidad: carrera 3000 m con vallas, Deportista: Karoline Bjerkeli GRØVDAL, Torneo: Torneo de Afghanistan, Intento: 1, Marca: 529133.0
+Posición 2 - Especialidad: carrera 3000 m con vallas, Deportista: Matthew HUGHES, Torneo: Torneo de Mali, Intento: 1, Marca: 529132.0
+Posición 3 - Especialidad: carrera 3000 m con vallas, Deportista: Barnabas KIPYEGO, Torneo: Torneo de United Arab Emirates, Intento: 1, Marca: 529130.0
+Posición 1 - Especialidad: salto de altura, Deportista: Ana ŠIMIĆ, Torneo: Torneo de Albania, Intento: 3, Marca: 237.0
+Posición 2 - Especialidad: salto de altura, Deportista: Shelby MCEWEN, Torneo: Torneo de Albania, Intento: 4, Marca: 237.0
+Posición 3 - Especialidad: salto de altura, Deportista: Mikhail AKIMENKO, Torneo: Torneo de Albania, Intento: 7, Marca: 237.0
+Posición 1 - Especialidad: lanzamiento de bala, Deportista: Rachel FATHERLY, Torneo: Torneo de Botswana, Intento: 9, Marca: 2291.0
+Posición 2 - Especialidad: lanzamiento de bala, Deportista: Aliona DUBITSKAYA, Torneo: Torneo de Brazil, Intento: 10, Marca: 2291.0
+Posición 3 - Especialidad: lanzamiento de bala, Deportista: Paulina GUBA, Torneo: Torneo de Bulgaria, Intento: 2, Marca: 2291.0
+Posición 1 - Especialidad: carrera 100 m, Deportista: Briana WILLIAMS, Torneo: Torneo de United Arab Emirates, Intento: 1, Marca: 10736.0
+Posición 2 - Especialidad: carrera 100 m, Deportista: Murielle AHOURÉ, Torneo: Torneo de Sao Tome and Principe, Intento: 1, Marca: 10736.0
+Posición 3 - Especialidad: carrera 100 m, Deportista: Blessing OKAGBARE, Torneo: Torneo de Russia, Intento: 1, Marca: 10736.0
+Posición 1 - Especialidad: carrera 1500 m, Deportista: Rababe ARAFI, Torneo: Torneo de Bhutan, Intento: 1, Marca: 229647.0
+Posición 2 - Especialidad: carrera 1500 m, Deportista: Axumawit EMBAYE, Torneo: Torneo de Algeria, Intento: 1, Marca: 229647.0
+Posición 3 - Especialidad: carrera 1500 m, Deportista: Rababe ARAFI, Torneo: Torneo de Sierra Leone, Intento: 1, Marca: 229641.0
+Posición 1 - Especialidad: carrera 21000 m, Deportista: Seifu TURA, Torneo: Torneo de Panama, Intento: 1, Marca: 3829025.0
+Posición 2 - Especialidad: carrera 21000 m, Deportista: Birhane DIBABA, Torneo: Torneo de Chile, Intento: 1, Marca: 3828892.0
+Posición 3 - Especialidad: carrera 21000 m, Deportista: Tsehay GEMECHU, Torneo: Torneo de Monaco, Intento: 1, Marca: 3828843.0
+Posición 1 - Especialidad: carrera 200 m, Deportista: Abdul Hakim SANI BROWN, Torneo: Torneo de Sweden, Intento: 1, Marca: 21450.0
+Posición 2 - Especialidad: carrera 200 m, Deportista: Steven GARDINER, Torneo: Torneo de Gambia, Intento: 1, Marca: 21450.0
+Posición 3 - Especialidad: carrera 200 m, Deportista: Andre DE GRASSE, Torneo: Torneo de Brunei, Intento: 1, Marca: 21450.0
+Posición 1 - Especialidad: lanzamiento de martillo, Deportista: Bence HALÁSZ, Torneo: Torneo de Bangladesh, Intento: 10, Marca: 8174.0
+Posición 2 - Especialidad: lanzamiento de martillo, Deportista: Paweł FAJDEK, Torneo: Torneo de Comoros, Intento: 1, Marca: 8174.0
+Posición 3 - Especialidad: lanzamiento de martillo, Deportista: Janee KASSANAVOID, Torneo: Torneo de Equatorial Guinea, Intento: 6, Marca: 8174.0
+Posición 1 - Especialidad: carrera 400 m, Deportista: Wadeline JONATHAS, Torneo: Torneo de Sudan, Intento: 1, Marca: 47795.0
+Posición 2 - Especialidad: carrera 400 m, Deportista: Jonathan JONES, Torneo: Torneo de Israel, Intento: 1, Marca: 47794.0
+Posición 3 - Especialidad: carrera 400 m, Deportista: Rai BENJAMIN, Torneo: Torneo de Cyprus, Intento: 1, Marca: 47794.0
+Posición 1 - Especialidad: carrera 400 m con vallas, Deportista: Abdelmalik LAHOULOU, Torneo: Torneo de Lithuania, Intento: 1, Marca: 50702.0
+Posición 2 - Especialidad: carrera 400 m con vallas, Deportista: Lea SPRUNGER, Torneo: Torneo de Syria, Intento: 1, Marca: 50701.0
+Posición 3 - Especialidad: carrera 400 m con vallas, Deportista: Sara Slott PETERSEN, Torneo: Torneo de Kiribati, Intento: 1, Marca: 50701.0
+Posición 1 - Especialidad: carrera 5000 m, Deportista: Agnes Jebet TIROP, Torneo: Torneo de Mongolia, Intento: 1, Marca: 849293.0
+Posición 2 - Especialidad: carrera 5000 m, Deportista: Jakob INGEBRIGTSEN, Torneo: Torneo de Colombia, Intento: 1, Marca: 849290.0
+Posición 3 - Especialidad: carrera 5000 m, Deportista: Letesenbet GIDEY, Torneo: Torneo de Australia, Intento: 1, Marca: 849287.0
+Posición 1 - Especialidad: carrera 110 m con vallas, Deportista: Grant HOLLOWAY, Torneo: Torneo de Vanuatu, Intento: 1, Marca: 13308.0
+Posición 2 - Especialidad: carrera 110 m con vallas, Deportista: Pascal MARTINOT-LAGARDE, Torneo: Torneo de South Africa, Intento: 1, Marca: 13308.0
+Posición 3 - Especialidad: carrera 110 m con vallas, Deportista: Janeek BROWN, Torneo: Torneo de Panama, Intento: 1, Marca: 13308.0
+Posición 1 - Especialidad: carrera 10000 m, Deportista: Jemal Yimer MEKONNEN, Torneo: Torneo de El Salvador, Intento: 1, Marca: 1768818.0
+Posición 2 - Especialidad: carrera 10000 m, Deportista: Mogos TUEMAY, Torneo: Torneo de Kiribati, Intento: 1, Marca: 1768816.0
+Posición 3 - Especialidad: carrera 10000 m, Deportista: Letesenbet GIDEY, Torneo: Torneo de Lebanon, Intento: 1, Marca: 1768785.0
+Posición 1 - Especialidad: carrera 42000 m, Deportista: Purity Cherotich RIONORIPO, Torneo: Torneo de Chad, Intento: 1, Marca: 8031054.0
+Posición 2 - Especialidad: carrera 42000 m, Deportista: Emmanuel SAINA, Torneo: Torneo de Laos, Intento: 1, Marca: 8030868.0
+Posición 3 - Especialidad: carrera 42000 m, Deportista: Herpasa NEGASA, Torneo: Torneo de Tajikistan, Intento: 1, Marca: 8030853.0

@@ -19,7 +19,7 @@ def ejecutar(file, conn):
 
     start = time.time()
     db = inicializar(conn)
-    
+    db.flushdb()  
 
     df_filas = csv.DictReader(open(file, "r", encoding="utf-8"))
     count = 0
@@ -55,58 +55,35 @@ def inicializar(conn):
 # necesarios
 # Debe ser implementada por el alumno
 def procesar_fila(db, fila):    
-    
-    # insertar elemento en entidad para el ejercicio actual
-    # usé hset de esta forma ya que con mapping me devolvía error
-    if not db.exists(f"{fila['id_especialidad']}:{fila['id_torneo']}:{fila['intento']}:{fila['id_deportista']}"):
-        db.hset(f"{fila['id_especialidad']}:{fila['id_torneo']}:{fila['intento']}:{fila['id_deportista']}", 
-                'nombre', fila['nombre_deportista'])
-        db.hset(f"{fila['id_especialidad']}:{fila['id_torneo']}:{fila['intento']}:{fila['id_deportista']}", 
-                'marca', fila['marca'])
-        
+    especialidad = fila['nombre_especialidad']
+    tipo_especialidad = fila['nombre_tipo_especialidad']
+    score = float(fila['marca'])
 
+    sorted_set_key = f"especialidad:{especialidad}:{tipo_especialidad}"
+
+
+    elemento = f"{fila['nombre_torneo']}:{fila['intento']}:{fila['nombre_deportista']}"
+
+    db.zadd(sorted_set_key, {elemento: score})
 # Funcion que realiza el o los queries que resuelven el ejercicio, utilizando la base de datos.
 # Debe ser implementada por el alumno
 def generar_reporte(db):
     archivo = open(nombre_archivo_resultado_ejercicio, 'w', encoding="utf-8")
-    # luego para cada linea generada como reporte:
     
-    for id in range(1,21):
-        print(f"zset: {id}")
-        claves = db.keys(f"{id}:*")
-
-        # Armo zset
-        for clave in claves:
-            sorted_set_key = f"ranking:{id}"
-
-            marca = db.hget(clave, 'marca')
-            nombre = db.hget(clave, 'nombre')
-            
-            partes_key = clave.split(":")
-            torneo = partes_key[1]
-            intento = partes_key[2]              
-
-            elemento_zset = f"{torneo}:{intento}:{nombre}"
-            score_marca = float(marca)  # Asegúrate de que 'marca' es un número
-
-            db.zadd(sorted_set_key, {elemento_zset: score_marca})
-
-    for id in range(1,21):
-            print(f"sset: {id}")
-
-            grabar_linea(archivo, f"Especialidad: {id}")
-
-            sorted_set_key = f"ranking:{id}"
-            if id < 13:                
-                podio = db.zrange(sorted_set_key, 0, 2, withscores=True)
-            else:
-                podio = db.zrevrange(sorted_set_key, 0, 2, withscores=True)
-
-            for posicion, (elemento, score) in enumerate(podio, start=1):
-                partes_key = elemento.split(":")
-                intento = partes_key[1]
-                nombre = partes_key[2] 
-                grabar_linea(archivo, f"{posicion}. Intento: {intento}, nombre: {nombre} - Marca: {score}")
+    especialidades = db.keys("especialidad:*")
+    
+    for especialidad_key in especialidades:
+        nombre_especialidad = especialidad_key.split(":")[1]
+        tipo_especialidade = especialidad_key.split(":")[2]
+        
+        if tipo_especialidade == 'tiempo':
+            podio = db.zrevrange(especialidad_key, 0, 2, withscores=True)
+        else:
+            podio = db.zrange(especialidad_key, 0, 2, withscores=True)
+        
+        for posicion, (elemento, marca) in enumerate(podio, 1):
+            torneo, intento, deportista = elemento.split(":")
+            grabar_linea(archivo, f"Posición {posicion} - Especialidad: {nombre_especialidad}, Deportista: {deportista}, Torneo: {torneo}, Intento: {intento}, Marca: {marca}")
 
 
 # Funcion para el borrado de estructuras generadas para este ejercicio
