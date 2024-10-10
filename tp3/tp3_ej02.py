@@ -55,7 +55,7 @@ def inicializar(conn):
         CREATE TABLE tp3.ej02 (
             id_deportista INT, 
             nombre_deportista TEXT, 
-            fecha_nacimiento TIMESTAMP, 
+            fecha_nacimiento DATE, 
             id_pais_deportista INT, 
             nombre_pais_deportista TEXT, 
             id_especialidad INT, 
@@ -73,15 +73,11 @@ def procesar_fila(db, fila):
     # insertar elemento en entidad para el ejercicio actual
     id_deportista = int(fila['id_deportista'])
     nombre_deportista = fila['nombre_deportista'] 
-    fecha_nacimiento = fila['fecha_nacimiento']
+    fecha_nacimiento = (fila['fecha_nacimiento'])
     id_pais_deportista = int(fila['id_pais_deportista'])
     nombre_pais_deportista = fila['nombre_pais_deportista']
     id_especialidad = int(fila['id_especialidad'])
     nombre_especialidad = fila['nombre_especialidad']
-    
-    
-    if id_deportista not in [10, 20, 30]:
-        return
     
     # Montar a query de inserção
     query = f'''
@@ -103,7 +99,7 @@ def generar_reporte(db):
     # luego para cada linea generada como reporte:
     # grabar_linea(archivo, linea)
     
-    query = "SELECT * FROM ej02 order by nombre_especialidad;"
+    query = "SELECT * FROM ej02 where id_deportista IN (10, 20, 30);"
     rows = db.execute(query)
 
     with open(nombre_archivo_resultado_ejercicio, 'w', encoding='utf-8') as archivo:

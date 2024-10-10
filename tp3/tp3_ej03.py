@@ -50,13 +50,14 @@ def inicializar(conn):
     cassandra_session.set_keyspace('tp3')
     
     # crear db
-    cassandra_session.execute('DROP TABLE IF EXISTS deportistas')
+    cassandra_session.execute('DROP TABLE IF EXISTS ej03')
     cassandra_session.execute('''
-        CREATE TABLE tp3.deportistas (
-            tipo_especialidad TEXT, 
-            id_especialdiade INT, 
-            nombre_especialidad TEXT,
-            PRIMARY KEY (tipo_especialidad)
+        CREATE TABLE tp3.ej03 (
+            nombre_tipo_especialidad TEXT,
+            id_deportista INT,
+            nombre_deportista TEXT,
+            nombres_especialidades set<TEXT>, 
+            PRIMARY KEY (nombre_tipo_especialidad)
         );
     ''')
 
@@ -67,20 +68,21 @@ def inicializar(conn):
 # Debe ser implementada por el alumno
 def procesar_fila(db, fila):
     # insertar elemento en entidad para el ejercicio actual
-    tipo_especialidad = fila['tipo_especialidad']
-    id_especialidad = int(fila['id_especialidad'])
+    nombre_tipo_especialidad = fila['nombre_tipo_especialidad']
+    id_deportista = int(fila['id_deportista'])
+    nombre_deportista = fila['nombre_deportista']
     nombre_especialidad = fila['nombre_especialidad']
     
-    if 
-    
     # Montar a query de inserção
-    query = f'''
-                INSERT INTO tp3 (tipo_especialidad, id_especialidad, nombre_especialidad)
-                values (%s, %s, %s);
-            '''
+    query = '''
+        UPDATE tp3.ej03 
+        SET id_deportista = %s, nombre_deportista = %s, 
+            nombres_especialidades = nombres_especialidades + {%s}
+        WHERE nombre_tipo_especialidad = %s;
+    '''
     
     # Executar a query com os dados extraídos
-    db.execute(query, (tipo_especialidad, id_especialidad, nombre_especialidad))
+    db.execute(query, (id_deportista, nombre_deportista, nombre_especialidad, nombre_tipo_especialidad))
     pass
 
 # Funcion que realiza el o los queries que resuelven el ejercicio, utilizando la base de datos.
@@ -90,15 +92,12 @@ def generar_reporte(db):
     # luego para cada linea generada como reporte:
     # grabar_linea(archivo, linea)
     
-    query = "SELECT * FROM deportistas WHERE id_deportista IN (10, 20, 30) order by nombre_especialidad;"
+    query = "SELECT nombre_tipo_especialidade, nombres_especialidades FROM ej3"
     rows = db.execute(query)
 
     with open(nombre_archivo_resultado_ejercicio, 'w', encoding='utf-8') as archivo:
         for row in rows:
-            grabar_linea(archivo, (row.id_deportista, row.nombre_deportista, 
-                                   row.fecha_nacimiento, row.id_pais_deportista,
-                                   row.nombre_pais_deportista, row.id_especialidad,
-                                   row.nombre_especialidad))
+            grabar_linea(archivo, (row.nombre_tipo_especialidade, row.nombres_especialidades))
     pass
 
 
