@@ -2,7 +2,7 @@ import csv
 from cassandra.cluster import Cluster
 
 # Ubicacion del archivo CSV con el contenido provisto por la catedra
-archivo_entrada = './tp3/full_export.csv'
+archivo_entrada = './tp3/full_export_version_corta.csv'
 nombre_archivo_resultado_ejercicio = './tp3/tp3_ej03.txt'
 
 # Objeto de configuracion para conectarse a la base de datos usada en este ejercicio
@@ -57,7 +57,7 @@ def inicializar(conn):
             id_deportista INT,
             nombre_deportista TEXT,
             nombres_especialidades set<TEXT>, 
-            PRIMARY KEY (nombre_tipo_especialidad)
+            PRIMARY KEY (nombre_tipo_especialidad, id_deportista)
         );
     ''')
 
@@ -73,16 +73,14 @@ def procesar_fila(db, fila):
     nombre_deportista = fila['nombre_deportista']
     nombre_especialidad = fila['nombre_especialidad']
     
-    # Montar a query de inserção
     query = '''
         UPDATE tp3.ej03 
-        SET id_deportista = %s, nombre_deportista = %s, 
-            nombres_especialidades = nombres_especialidades + {%s}
-        WHERE nombre_tipo_especialidad = %s;
+        SET nombre_deportista = %s, nombres_especialidades = nombres_especialidades + {%s}
+        WHERE nombre_tipo_especialidad = %s AND id_deportista = %s;
     '''
     
-    # Executar a query com os dados extraídos
-    db.execute(query, (id_deportista, nombre_deportista, nombre_especialidad, nombre_tipo_especialidad))
+    db.execute(query, (nombre_deportista, nombre_especialidad, nombre_tipo_especialidad, id_deportista))
+
     pass
 
 # Funcion que realiza el o los queries que resuelven el ejercicio, utilizando la base de datos.
@@ -92,13 +90,27 @@ def generar_reporte(db):
     # luego para cada linea generada como reporte:
     # grabar_linea(archivo, linea)
     
-    query = "SELECT nombre_tipo_especialidade, nombres_especialidades FROM ej3"
-    rows = db.execute(query)
-
+    query_esportistas = '''
+        SELECT nombre_tipo_especialidad, id_deportista, nombre_deportista, nombres_especialidades 
+        FROM tp3.ej03
+    '''
+    
+    query_conteo = '''
+        SELECT nombre_tipo_especialidad, COUNT(*) AS cantidad
+        FROM tp3.ej03
+        GROUP BY nombre_tipo_especialidad;
+    '''
+    
     with open(nombre_archivo_resultado_ejercicio, 'w', encoding='utf-8') as archivo:
-        for row in rows:
-            grabar_linea(archivo, (row.nombre_tipo_especialidade, row.nombres_especialidades))
-    pass
+        rows_esportistas = db.execute(query_esportistas)
+        for row in rows_esportistas:
+            grabar_linea(archivo, (row.nombre_tipo_especialidad + ", " + str(row.id_deportista) + ", " + row.nombre_deportista + ", " + ", ".join(row.nombres_especialidades)))
+
+        
+        archivo.write("\nCantidad de registros por especialidad:\n")
+        rows_conteo = db.execute(query_conteo)
+        for row in rows_conteo:
+            grabar_linea(archivo, (row.nombre_tipo_especialidad + " = " + str(row.cantidad)))
 
 
 # Funcion para el borrado de estructuras generadas para este ejercicio

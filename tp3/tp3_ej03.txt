@@ -1,0 +1,6 @@
+tiempo, 1, Christian COLEMAN, carrera 100 m, carrera 200 m
+tiempo, 2, Noah LYLES, carrera 100 m, carrera 200 m
+tiempo, 3, Divine ODUDURU, carrera 200 m
+
+Cantidad de registros por especialidad:
+tiempo = 3
