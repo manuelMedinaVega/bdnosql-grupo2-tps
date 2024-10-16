@@ -1,0 +1,4 @@
+id tipo especialidad - nombre tipo especialidad - especialidades
+1 - tiempo - carrera 100 m, carrera 200 m
+nombre tipo especialidad - cantidad marcas
+tiempo - 999

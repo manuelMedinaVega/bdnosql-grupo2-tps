@@ -1,0 +1,4 @@
+id - nombre - fecha nacimiento - id pais - nombre pais - especialidades
+1 - Christian COLEMAN - 1996-03-06 - 189 - United States - carrera 100 m, carrera 200 m
+2 - Noah LYLES - 1997-07-18 - 189 - United States - carrera 100 m, carrera 200 m
+3 - Divine ODUDURU - 1996-10-07 - 128 - Nigeria - carrera 200 m
