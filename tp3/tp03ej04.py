@@ -19,17 +19,17 @@ def ejecutar(file, conn):
 
     start = time.time()
     db = inicializar(conn)
-    df_filas = csv.DictReader(open(file, "r", encoding="utf-8"))
-    count = 0
-    startbloque = time.time()
-    for fila in df_filas:
-        procesar_fila(db, fila)
-        count += 1
-        if 0 == count%10000:
-            endbloque = time.time()
-            tiempo = endbloque-startbloque
-            print(str(count) + " en " + str(tiempo) + " segundos")
-            startbloque = time.time()
+    # df_filas = csv.DictReader(open(file, "r", encoding="utf-8"))
+    # count = 0
+    # startbloque = time.time()
+    # for fila in df_filas:
+    #     procesar_fila(db, fila)
+    #     count += 1
+    #     if 0 == count%10000:
+    #         endbloque = time.time()
+    #         tiempo = endbloque-startbloque
+    #         print(str(count) + " en " + str(tiempo) + " segundos")
+    #         startbloque = time.time()
     generar_reporte(db)
     finalizar(db)
     end = time.time()
@@ -46,7 +46,9 @@ def grabar_linea(archivo, linea):
 def inicializar(conn):
     cassandra_session = Cluster(contact_points=[conn["cassandraurl"]], port=conn["cassandrapuerto"]).connect()
     cassandra_session.set_keyspace("keyspace1")
-
+    cassandra_session.execute("""
+    DROP TABLE keyspace1.marcas
+    """)
     cassandra_session.execute("""
                               CREATE TABLE IF NOT EXISTS marcas (
                               id_deportista INT,
@@ -55,7 +57,7 @@ def inicializar(conn):
                                 nombre_torneo TEXT,
                                 intento INT,
                                 marca INT,
-                                PRIMARY KEY (id_deportista, especialidad, marca)
+                                PRIMARY KEY ((id_deportista, especialidad), marca)
                             ); """)
     return cassandra_session
 
@@ -84,8 +86,12 @@ def generar_reporte(db):
     with open(nombre_archivo_resultado_ejercicio, 
               "w", encoding="utf-8") as archivo:
 
+        #filtro tiene que tener toda la primary key
         query = """
-                Select id_deportista, marca from marcas where id_deportista in (10, 20, 30) order by marca
+                Select id_deportista, marca from marcas 
+                where id_deportista = 1 and especialidad = 'carrera 200 m' 
+                order by marca asc
+                limit 10
                 """
 
         filas = db.execute(query)
@@ -94,6 +100,8 @@ def generar_reporte(db):
         grabar_linea(archivo, fila_cabecera)
         for fila in filas:
             grabar_linea(archivo, f"{fila.id_deportista}, {fila.marca}")
+        
+    
 
 
 # Funcion para el borrado de estructuras generadas para este ejercicio

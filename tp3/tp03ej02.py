@@ -105,8 +105,9 @@ def generar_reporte(db):
         grabar_linea(archivo, fila_cabecera)
         for fila in filas:          
                 query2 = f"""
-                Select id_deportista, especialidad from especialidades_deportistas where id_deportista = {fila.id} 
-                
+                Select id_deportista, especialidad from especialidades_deportistas 
+                where id_deportista = {fila.id} 
+                order by especialidad
                 """
 
                 filas2 = db.execute(query2)

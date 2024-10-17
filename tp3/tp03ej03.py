@@ -1,11 +1,11 @@
 import csv
 from cassandra.cluster import Cluster
 
-#falta parte 2
-
 # Ubicacion del archivo CSV con el contenido provisto por la catedra
 archivo_entrada = 'tp2/full_export.csv'
 nombre_archivo_resultado_ejercicio = 'tp3/tp3_ej03.txt'
+nombre_archivo_2 = 'tp3/tp3_ej03B.txt'
+
 
 # Objeto de configuracion para conectarse a la base de datos usada en este ejercicio
 conexion = {
@@ -55,8 +55,11 @@ def inicializar(conn):
                               nombre_tipo_especialidad TEXT,
                               id_especialidad INT,
                               especialidad TEXT,
-                              primary key (id_tipo_especialidad, id_especialidad)); """)
-    # crear db
+                              primary key (id_tipo_especialidad, id_especialidad)); """)  
+    
+      
+    
+        
     return cassandra_session
 
 # Funcion que dada una linea del archivo CSV (en forma de objeto) va a encargarse de insertar el (o los) objetos
@@ -67,8 +70,6 @@ def procesar_fila(db, fila):
     nombre_tipo = fila["nombre_tipo_especialidad"]
     id_especialidad = int(fila["id_especialidad"])
     especialidad = fila["nombre_especialidad"]
-    
-      
 
 
     query = """ 
@@ -90,7 +91,8 @@ def generar_reporte(db):
               "w", encoding="utf-8") as archivo:
 
         query = """
-                Select id_tipo_especialidad, nombre_tipo_especialidad, id_especialidad, especialidad from especialidades
+                Select id_tipo_especialidad, nombre_tipo_especialidad, 
+                id_especialidad, especialidad from especialidades
                 """
 
         filas = db.execute(query)      
@@ -99,31 +101,51 @@ def generar_reporte(db):
         grabar_linea(archivo, fila_cabecera)
         for fila in filas:          
                 query2 = f"""
-                Select id_tipo_especialidad, especialidad from especialidades where id_tipo_especialidad = {fila.id_tipo_especialidad} 
+                Select id_tipo_especialidad, especialidad from especialidades 
+                where id_tipo_especialidad = {fila.id_tipo_especialidad} 
                 """
 
                 filas2 = db.execute(query2)
                 lista_espec = []
+                
                 for fila2 in filas2:
                     lista_espec.append(fila2.especialidad)
-                    query3 = f"""
-                        Select especialidad, marca where id_tipo_especialidad = {id} 
-                        """
+                                        
+                    
                 grabar_linea(archivo, f"{fila.id_tipo_especialidad}, {fila.nombre_tipo_especialidad}, {lista_espec}")
         
-                # segundo listado
-                with open("tpo3_ej03b.txt", 
-                    "w", encoding="utf-8") as archivo:
-                    
-                    fila_cabecera= "ID_TIPO, CANTIDAD_ESPECIALIDADES"
-                    grabar_linea(archivo, fila_cabecera)
-                    for id in range(1, 5):
-                        query3 = f"""
-                        Select id_tipo_especialidad, marca where id_tipo_especialidad = {id} 
-                        """
+            
+    with open(nombre_archivo_2, 
+              "w", encoding="utf-8") as archivo:
+        fila_cabecera= "NOMBRE_TIPO, CANTIDAD_MARCAS"
+        grabar_linea(archivo, fila_cabecera)
+        for id_tipo in range(1,5):
+            query = f"""
+                    Select id_tipo_especialidad, nombre_tipo_especialidad, 
+                    id_especialidad, especialidad from especialidades
+                    where id_tipo_especialidad = {id_tipo} and id_especialidad > 0
+                    """
 
-                        filas3 = db.execute(query3)
-                        grabar_linea(archivo, f"{id}, {len(filas3)}")
+            filas = db.execute(query)  
+            
+            
+
+                              
+            contador_marcas = 0
+            for fila in filas:
+                        
+                    # segundo listado. 
+                    # Traigo de la tabla marcas las filas de esa especialidad
+                    query3 =f"""
+                                Select id_deportista, especialidad, marca from marcas 
+                                where especialidad = '{fila.especialidad}' and id_deportista > 0
+                                ALLOW FILTERING
+                                """
+                    marcas = list(db.execute(query3)) 
+                    contador_marcas += len(marcas)
+                        
+            grabar_linea(archivo, f"{fila.nombre_tipo_especialidad}, {contador_marcas}")
+                    
 
             
 # Funcion para el borrado de estructuras generadas para este ejercicio
