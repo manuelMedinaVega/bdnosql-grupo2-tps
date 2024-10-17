@@ -21,17 +21,17 @@ def ejecutar(file, conn):
 
     start = time.time()
     db = inicializar(conn)
-    # df_filas = csv.DictReader(open(file, "r", encoding="utf-8"))
-    # count = 0
-    # startbloque = time.time()
-    # for fila in df_filas:
-    #     procesar_fila(db, fila)
-    #     count += 1
-    #     if 0 == count%10000:
-    #         endbloque = time.time()
-    #         tiempo = endbloque-startbloque
-    #         print(str(count) + " en " + str(tiempo) + " segundos")
-    #         startbloque = time.time()
+    df_filas = csv.DictReader(open(file, "r", encoding="utf-8"))
+    count = 0
+    startbloque = time.time()
+    for fila in df_filas:
+        procesar_fila(db, fila)
+        count += 1
+        if 0 == count%10000:
+            endbloque = time.time()
+            tiempo = endbloque-startbloque
+            print(str(count) + " en " + str(tiempo) + " segundos")
+            startbloque = time.time()
     generar_reporte(db)
     finalizar(db)
     end = time.time()
@@ -55,7 +55,17 @@ def inicializar(conn):
                               nombre_tipo_especialidad TEXT,
                               id_especialidad INT,
                               especialidad TEXT,
-                              primary key (id_tipo_especialidad, id_especialidad)); """)  
+                              primary key (id_tipo_especialidad, id_especialidad)); """) 
+    
+    cassandra_session.execute("""
+                              CREATE TABLE IF NOT EXISTS marcas2 (
+                              id_deportista INT,
+                                especialidad TEXT,                                
+                                id_torneo INT,
+                                intento INT,
+                                marca INT,
+                                PRIMARY KEY ((id_deportista, especialidad, id_torneo, intento))
+                            ); """)
     
       
     
@@ -66,19 +76,30 @@ def inicializar(conn):
 # necesarios
 # Debe ser implementada por el alumno
 def procesar_fila(db, fila):
-    id_tipo = int(fila["id_tipo_especialidad"])
-    nombre_tipo = fila["nombre_tipo_especialidad"]
-    id_especialidad = int(fila["id_especialidad"])
+    # id_tipo = int(fila["id_tipo_especialidad"])
+    # nombre_tipo = fila["nombre_tipo_especialidad"]
+    # id_especialidad = int(fila["id_especialidad"])
+    # especialidad = fila["nombre_especialidad"]
+
+
+    # query = """ 
+    # INSERT INTO especialidades (id_tipo_especialidad, nombre_tipo_especialidad, id_especialidad, especialidad)
+    # values (%s, %s, %s, %s)    """
+
+    id = int(fila["id_deportista"])
     especialidad = fila["nombre_especialidad"]
+    torneo = int(fila["id_torneo"])
+    intento = int(fila["intento"])
+    marca = int(fila["marca"])
 
 
     query = """ 
-    INSERT INTO especialidades (id_tipo_especialidad, nombre_tipo_especialidad, id_especialidad, especialidad)
-    values (%s, %s, %s, %s)    """
+    INSERT INTO marcas2 (id_deportista, especialidad, id_torneo, 
+    intento, marca)
+    values (%s, %s, %s, %s, %s)
+    """   
 
-    
-
-    db.execute(query, (id_tipo, nombre_tipo, id_especialidad, especialidad))
+    db.execute(query, (id, especialidad, torneo, intento, marca))
 
     # insertar elemento en entidad para el ejercicio actual
 
@@ -137,8 +158,9 @@ def generar_reporte(db):
                     # segundo listado. 
                     # Traigo de la tabla marcas las filas de esa especialidad
                     query3 =f"""
-                                Select id_deportista, especialidad, marca from marcas 
+                                Select id_deportista, especialidad, marca from marcas2 
                                 where especialidad = '{fila.especialidad}' and id_deportista > 0
+                                and id_torneo > 0 and intento > 0
                                 ALLOW FILTERING
                                 """
                     marcas = list(db.execute(query3)) 

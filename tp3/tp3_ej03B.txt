@@ -1,5 +1,5 @@
 NOMBRE_TIPO, CANTIDAD_MARCAS
-tiempo, 94357
-altura, 3329
-largo, 8220
-lanzamiento, 26917
+tiempo, 96681
+altura, 15879
+largo, 16482
+lanzamiento, 32361
