@@ -1,0 +1,804 @@
+nombre deportista - nombre especialidad - torneo mejor marca - intento mejor marca - mejor marca - torneo peor marca - intento peor marca - peor marca
+Tatsiana KHALADOVICH - lanzamiento de jabalina - Torneo de Serbia - 6 - 9962 - Torneo de Grenada - 1 - 9064
+ShaCarri RICHARDSON - carrera 100 m - Torneo de Suriname - 1 - 9760 - Torneo de Mauritius - 1 - 10732
+ShaCarri RICHARDSON - carrera 200 m - Torneo de Tonga - 1 - 19501 - Torneo de Austria - 1 - 21423
+Dalilah MUHAMMAD - carrera 400 m - Torneo de Malta - 1 - 43467 - Torneo de Timor-Leste - 1 - 47786
+Dalilah MUHAMMAD - carrera 400 m con vallas - Torneo de Cambodia - 1 - 46135 - Torneo de Libya - 1 - 50646
+Mesud PEZER - lanzamiento de bala - Torneo de Sweden - 10 - 2521 - Torneo de India - 5 - 2291
+Cambrea STURGIS - carrera 200 m - Torneo de Algeria - 1 - 19506 - Torneo de Albania - 1 - 21436
+Shakima WIMBLEY - carrera 400 m - Torneo de Gabon - 1 - 43458 - Torneo de Chad - 1 - 47781
+Nathan STROTHER - carrera 400 m - Torneo de Burkina Faso - 1 - 43463 - Torneo de Equatorial Guinea - 1 - 47750
+Amel TUKA - carrera 800 m - Torneo de Guinea - 1 - 101946 - Torneo de Spain - 1 - 112071
+Emmanuel SAINA - carrera 42000 m - Torneo de Burundi - 1 - 7304424 - Torneo de Laos - 1 - 8030868
+Zeineba YIMER - carrera 10000 m - Torneo de Australia - 1 - 1610215 - Torneo de Sri Lanka - 1 - 1768287
+Zeineba YIMER - carrera 21000 m - Torneo de Indonesia - 1 - 3481062 - Torneo de Samoa - 1 - 3828790
+Zeineba YIMER - carrera 42000 m - Torneo de Ecuador - 1 - 7301146 - Torneo de Azerbaijan - 1 - 8030030
+Serhiy PEREVOZNIKOV - lanzamiento de martillo - Torneo de Australia - 10 - 8992 - Torneo de Liechtenstein - 5 - 8174
+Barbora ŠPOTÁKOVÁ - lanzamiento de jabalina - Torneo de Thailand - 2 - 9953 - Torneo de Bolivia - 8 - 9064
+Rosemary Monica WANJIRU - carrera 10000 m - Torneo de Philippines - 1 - 1608863 - Torneo de Thailand - 1 - 1768687
+Julian WEBER - lanzamiento de jabalina - Torneo de Azerbaijan - 1 - 9968 - Torneo de Senegal - 3 - 9061
+Lopez LOMONG - carrera 5000 m - Torneo de Nigeria - 1 - 772331 - Torneo de Norway - 1 - 849264
+Lopez LOMONG - carrera 10000 m - Torneo de Bhutan - 1 - 1608036 - Torneo de Maldives - 1 - 1768421
+Lea SPRUNGER - carrera 400 m con vallas - Torneo de Tajikistan - 1 - 46143 - Torneo de Syria - 1 - 50701
+Sydney MCLAUGHLIN - carrera 400 m - Torneo de United States - 1 - 43453 - Torneo de Iceland - 1 - 47793
+Sydney MCLAUGHLIN - carrera 400 m con vallas - Torneo de Jamaica - 1 - 46095 - Torneo de Costa Rica - 1 - 50649
+Katerina STEFANIDI - salto con pertiga - Torneo de Gabon - 9 - 667 - Torneo de Estonia - 4 - 606
+Caster SEMENYA - carrera 800 m - Torneo de Iran - 1 - 102076 - Torneo de Costa Rica - 1 - 112072
+Mélina ROBERT-MICHON - lanzamiento de disco - Torneo de Guatemala - 2 - 7903 - Torneo de Russia - 1 - 7186
+Jeff HENDERSON - salto largo - Torneo de Ivory Coast - 7 - 956 - Torneo de Iraq - 1 - 869
+Justyna ŚWIĘTY-ERSETIC - carrera 400 m - Torneo de Argentina - 1 - 43454 - Torneo de South Sudan - 1 - 47768
+Luis Enrique ZAYAS - salto de altura - Torneo de Bangladesh - 10 - 261 - Torneo de Benin - 9 - 237
+Valeriy PRONKIN - lanzamiento de martillo - Torneo de Djibouti - 10 - 8991 - Torneo de Greece - 5 - 8174
+Jacob KROP - carrera 5000 m - Torneo de Guyana - 1 - 772722 - Torneo de Montenegro - 1 - 848625
+Mason FINLEY - lanzamiento de disco - Torneo de Somalia - 4 - 7901 - Torneo de Chile - 2 - 7186
+Anna Emilie MØLLER - carrera 3000 m con vallas - Torneo de Barbados - 1 - 481045 - Torneo de Congo Republic of the - 1 - 528968
+Ayanleh SOULEIMAN - carrera 800 m - Torneo de Barbados - 1 - 101918 - Torneo de Rwanda - 1 - 112066
+Ayanleh SOULEIMAN - carrera 1500 m - Torneo de Mongolia - 1 - 208842 - Torneo de Armenia - 1 - 229580
+Yekaterina STARYGINA - lanzamiento de jabalina - Torneo de Saint Lucia - 5 - 9962 - Torneo de Afghanistan - 8 - 9065
+Zita KÁCSER - carrera 3000 m con vallas - Torneo de Slovakia - 1 - 481149 - Torneo de Belgium - 1 - 529122
+Amy HUNT - carrera 200 m - Torneo de Greece - 1 - 19501 - Torneo de Netherlands - 1 - 21438
+Zurian HECHAVARRÍA - carrera 400 m con vallas - Torneo de Dominica - 1 - 46103 - Torneo de Jamaica - 1 - 50685
+Martina RATEJ - lanzamiento de jabalina - Torneo de Andorra - 7 - 9968 - Torneo de Georgia - 1 - 9067
+Jacko GILL - lanzamiento de bala - Torneo de Cuba - 9 - 2516 - Torneo de Kiribati - 9 - 2291
+Gete ALEMAYEHU - carrera 10000 m - Torneo de Bahamas - 1 - 1608532 - Torneo de Gabon - 1 - 1768260
+Wyclife KINYAMAL - carrera 800 m - Torneo de Vanuatu - 1 - 101920 - Torneo de Cuba - 1 - 111991
+Renaud LAVILLENIE - salto con pertiga - Torneo de Nicaragua - 7 - 667 - Torneo de Kiribati - 10 - 606
+Ruiting WU - salto triple - Torneo de Luxembourg - 9 - 1996 - Torneo de Madagascar - 4 - 1815
+Angelica BENGTSSON - salto con pertiga - Torneo de Georgia - 3 - 667 - Torneo de Angola - 7 - 606
+Johannes VETTER - lanzamiento de jabalina - Torneo de Fiji - 10 - 9967 - Torneo de Portugal - 9 - 9063
+Darrell HILL - lanzamiento de bala - Torneo de French Guiana - 4 - 2520 - Torneo de Mauritania - 3 - 2293
+Martin WIERIG - lanzamiento de disco - Torneo de Sri Lanka - 1 - 7899 - Torneo de Albania - 5 - 7187
+Ryan CROUSER - lanzamiento de bala - Torneo de Central African Republic - 1 - 2520 - Torneo de Egypt - 8 - 2291
+Luiza GEGA - carrera 3000 m con vallas - Torneo de Sierra Leone - 1 - 481224 - Torneo de South Sudan - 1 - 528861
+Ernest John OBIENA - salto con pertiga - Torneo de Argentina - 7 - 667 - Torneo de Indonesia - 8 - 606
+Sara Slott PETERSEN - carrera 400 m con vallas - Torneo de United States - 1 - 46122 - Torneo de Kiribati - 1 - 50701
+Nikita TRACEY - carrera 400 m con vallas - Torneo de Ivory Coast - 1 - 46153 - Torneo de Zambia - 1 - 50617
+Ronald LEVY - carrera 110 m con vallas - Torneo de Tunisia - 1 - 12104 - Torneo de Oman - 1 - 13305
+Christin HUSSONG - lanzamiento de jabalina - Torneo de Eritrea - 3 - 9966 - Torneo de Lithuania - 8 - 9065
+Murielle AHOURÉ - carrera 100 m - Torneo de United States - 1 - 9760 - Torneo de Sao Tome and Principe - 1 - 10736
+Michael SARUNI - carrera 800 m - Torneo de Somalia - 1 - 101921 - Torneo de Namibia - 1 - 111973
+Andrew IRWIN - salto con pertiga - Torneo de Argentina - 8 - 667 - Torneo de Andorra - 5 - 606
+Eduardo RODRIGUES - carrera 110 m con vallas - Torneo de Luxembourg - 1 - 12100 - Torneo de Nicaragua - 1 - 13293
+Yulimar ROJAS - salto triple - Torneo de Togo - 6 - 1996 - Torneo de Canada - 4 - 1815
+Laulauga TAUSAGA - lanzamiento de disco - Torneo de Jamaica - 3 - 7904 - Torneo de Suriname - 3 - 7187
+Ruti AGA - carrera 42000 m - Torneo de Turkey - 1 - 7301667 - Torneo de Japan - 1 - 8030158
+Denia CABALLERO - lanzamiento de disco - Torneo de United States - 5 - 7900 - Torneo de Switzerland - 7 - 7187
+Jeron ROBINSON - salto de altura - Torneo de Cuba - 2 - 261 - Torneo de Andorra - 10 - 237
+Elizabeth GLEADLE - lanzamiento de jabalina - Torneo de Ecuador - 8 - 9966 - Torneo de Benin - 8 - 9063
+Lindsay HANEKOM - carrera 400 m con vallas - Torneo de Sudan - 1 - 46092 - Torneo de Jordan - 1 - 50699
+Berehanu TSEGU - carrera 10000 m - Torneo de Belarus - 1 - 1608306 - Torneo de Mauritius - 1 - 1768547
+Berehanu TSEGU - carrera 21000 m - Torneo de Sri Lanka - 1 - 3481292 - Torneo de Finland - 1 - 3828021
+Faith KIPYEGON - carrera 1500 m - Torneo de Finland - 1 - 208809 - Torneo de Comoros - 1 - 229641
+Andre DE GRASSE - carrera 100 m - Torneo de Ecuador - 1 - 9767 - Torneo de United States - 1 - 10731
+Andre DE GRASSE - carrera 200 m - Torneo de Kenya - 1 - 19508 - Torneo de Brunei - 1 - 21450
+Anita WŁODARCZYK - lanzamiento de martillo - Torneo de Sudan - 4 - 8990 - Torneo de Vanuatu - 1 - 8175
+Teahna DANIELS - carrera 100 m - Torneo de Syria - 1 - 9793 - Torneo de Sri Lanka - 1 - 10722
+Teahna DANIELS - carrera 200 m - Torneo de Georgia - 1 - 19506 - Torneo de Uzbekistan - 1 - 21444
+Thea LAFOND - salto triple - Torneo de Congo Democratic Republic of the - 5 - 1996 - Torneo de Australia - 3 - 1814
+Pascal MARTINOT-LAGARDE - carrera 110 m con vallas - Torneo de Netherlands - 1 - 12119 - Torneo de South Africa - 1 - 13308
+Dharun AYYASAMY - carrera 400 m con vallas - Torneo de Malawi - 1 - 46102 - Torneo de South Africa - 1 - 50696
+Yemaneberhan CRIPPA - carrera 10000 m - Torneo de Netherlands - 1 - 1609113 - Torneo de Mali - 1 - 1768515
+Roza DEREJE - carrera 21000 m - Torneo de Senegal - 1 - 3481121 - Torneo de Netherlands - 1 - 3825191
+Roza DEREJE - carrera 42000 m - Torneo de Azerbaijan - 1 - 7304491 - Torneo de Gambia - 1 - 8029156
+Chloe ABBOTT - carrera 400 m - Torneo de Libya - 1 - 43484 - Torneo de Colombia - 1 - 47790
+Blessing OKAGBARE - carrera 100 m - Torneo de Guinea-Bissau - 1 - 9760 - Torneo de Russia - 1 - 10736
+Blessing OKAGBARE - carrera 200 m - Torneo de Oman - 1 - 19508 - Torneo de Austria - 1 - 21449
+Dorcas Jepchirchir TUITOEK - carrera 21000 m - Torneo de Guinea-Bissau - 1 - 3483042 - Torneo de Virgin Islands (British) - 1 - 3827062
+Catriona BISSET - carrera 800 m - Torneo de Hungary - 1 - 101954 - Torneo de South Africa - 1 - 112078
+Elijah Motonei MANANGOI - carrera 1500 m - Torneo de Armenia - 1 - 208951 - Torneo de French Guiana - 1 - 229494
+Dibabe KUMA - carrera 21000 m - Torneo de Pakistan - 1 - 3481578 - Torneo de Moldova - 1 - 3825513
+Raphael HOLZDEPPE - salto con pertiga - Torneo de Venezuela - 2 - 667 - Torneo de Denmark - 1 - 606
+Brittany BROWN - carrera 200 m - Torneo de Tonga - 1 - 19508 - Torneo de Costa Rica - 1 - 21446
+Hleb DUDARAU - lanzamiento de martillo - Torneo de El Salvador - 9 - 8988 - Torneo de Comoros - 6 - 8178
+Katie NAGEOTTE - salto con pertiga - Torneo de Australia - 3 - 667 - Torneo de Saint Kitts and Nevis - 4 - 606
+Mirela DEMIREVA - salto de altura - Torneo de Bolivia - 4 - 261 - Torneo de Bangladesh - 9 - 237
+Vernon NORWOOD - carrera 400 m - Torneo de Belize - 1 - 43464 - Torneo de Haiti - 1 - 47793
+Maksim NEDASEKAU - salto de altura - Torneo de Germany - 10 - 261 - Torneo de Argentina - 3 - 237
+Liadagmis POVEA - salto triple - Torneo de Cabo Verde - 7 - 1996 - Torneo de Niger - 3 - 1815
+Laura IGAUNE - lanzamiento de martillo - Torneo de Iraq - 10 - 8990 - Torneo de Ivory Coast - 2 - 8175
+Kahmari MONTGOMERY - carrera 400 m - Torneo de Dominica - 1 - 43461 - Torneo de Laos - 1 - 47791
+Joe KOVACS - lanzamiento de bala - Torneo de Jamaica - 9 - 2519 - Torneo de Canada - 7 - 2291
+Andrew POZZI - carrera 110 m con vallas - Torneo de Nauru - 1 - 12104 - Torneo de Ivory Coast - 1 - 13306
+Yohan BLAKE - carrera 100 m - Torneo de United States - 1 - 9761 - Torneo de Virgin Islands (British) - 1 - 10733
+Jordan GEIST - lanzamiento de bala - Torneo de Mali - 6 - 2521 - Torneo de Vanuatu - 5 - 2291
+Emma COBURN - carrera 3000 m con vallas - Torneo de Saint Lucia - 1 - 481064 - Torneo de Vietnam - 1 - 528477
+Norah JERUTO - carrera 3000 m con vallas - Torneo de Honduras - 1 - 481044 - Torneo de Costa Rica - 1 - 529121
+Agnes Jebet TIROP - carrera 5000 m - Torneo de Maldives - 1 - 772162 - Torneo de Mongolia - 1 - 849293
+Agnes Jebet TIROP - carrera 10000 m - Torneo de Russia - 1 - 1608740 - Torneo de Iran - 1 - 1768146
+Tim NEDOW - lanzamiento de bala - Torneo de United States - 7 - 2521 - Torneo de Micronesia - 1 - 2292
+Marco AROP - carrera 800 m - Torneo de Central African Republic - 1 - 101895 - Torneo de Zimbabwe - 1 - 112075
+Kristin GIERISCH - salto triple - Torneo de Bulgaria - 10 - 1996 - Torneo de Kyrgyzstan - 4 - 1814
+Andrew RILEY - carrera 110 m con vallas - Torneo de Dominica - 1 - 12100 - Torneo de Ecuador - 1 - 13304
+Sharika NELVIS - carrera 110 m con vallas - Torneo de Sudan - 1 - 12129 - Torneo de Bangladesh - 1 - 13304
+Mohamed TINDOUFT - carrera 3000 m con vallas - Torneo de Kyrgyzstan - 1 - 481061 - Torneo de Suriname - 1 - 528938
+Philemon RONO - carrera 42000 m - Torneo de Tonga - 1 - 7304007 - Torneo de Sweden - 1 - 8027625
+Matthew HUGHES - carrera 3000 m con vallas - Torneo de Germany - 1 - 481095 - Torneo de Mali - 1 - 529132
+Beatrice CHEPKOECH - carrera 5000 m - Torneo de Ghana - 1 - 772231 - Torneo de Dominican Republic - 1 - 848797
+Beatrice CHEPKOECH - carrera 3000 m con vallas - Torneo de Kyrgyzstan - 1 - 481056 - Torneo de Scotland - 1 - 529067
+Shunya TAKAYAMA - carrera 110 m con vallas - Torneo de Laos - 1 - 12102 - Torneo de Bosnia and Herzegovina - 1 - 13308
+Courtney OKOLO - carrera 400 m - Torneo de Iraq - 1 - 43451 - Torneo de Cyprus - 1 - 47791
+Susan KRUMINS - carrera 10000 m - Torneo de Monaco - 1 - 1609056 - Torneo de Uzbekistan - 1 - 1768428
+Axumawit EMBAYE - carrera 1500 m - Torneo de Mongolia - 1 - 208867 - Torneo de Algeria - 1 - 229647
+Stanley Kipkoech KEBENEI - carrera 3000 m con vallas - Torneo de Ghana - 1 - 481207 - Torneo de Vatican City - 1 - 529060
+Christina CLEMONS - carrera 110 m con vallas - Torneo de France - 1 - 12103 - Torneo de Uganda - 1 - 13302
+Ramil GULIYEV - carrera 200 m - Torneo de Lithuania - 1 - 19518 - Torneo de Latvia - 1 - 21412
+Yaroslava MAHUCHIKH - salto de altura - Torneo de Algeria - 8 - 261 - Torneo de Belarus - 3 - 237
+Marcio TELES - carrera 400 m con vallas - Torneo de Jamaica - 1 - 46151 - Torneo de United States - 1 - 50693
+Alysha NEWMAN - salto con pertiga - Torneo de Kenya - 3 - 667 - Torneo de Comoros - 9 - 606
+Magnus KIRT - lanzamiento de jabalina - Torneo de Finland - 10 - 9958 - Torneo de Nigeria - 2 - 9065
+Donavan BRAZIER - carrera 800 m - Torneo de Malta - 1 - 101977 - Torneo de Sudan - 1 - 112075
+Ciara MAGEEAN - carrera 1500 m - Torneo de Bhutan - 1 - 209043 - Torneo de Panama - 1 - 229635
+Yekaterina STROKOVA - lanzamiento de disco - Torneo de Ethiopia - 3 - 7905 - Torneo de Benin - 9 - 7191
+Norman GRIMES - carrera 400 m con vallas - Torneo de Botswana - 1 - 46130 - Torneo de Ivory Coast - 1 - 50625
+Wenjun XIE - carrera 110 m con vallas - Torneo de Canada - 1 - 12098 - Torneo de Belarus - 1 - 13308
+Tihomir IVANOV - salto de altura - Torneo de Australia - 4 - 261 - Torneo de Belize - 1 - 237
+Ivana ŠPANOVIĆ - salto largo - Torneo de Burundi - 7 - 956 - Torneo de Guatemala - 8 - 869
+Wesley VÁZQUEZ - carrera 800 m - Torneo de Germany - 1 - 101895 - Torneo de Poland - 1 - 111997
+Dawit SEYAUM - carrera 1500 m - Torneo de Oman - 1 - 208772 - Torneo de Equatorial Guinea - 1 - 229624
+Brittany CREW - lanzamiento de bala - Torneo de Chile - 1 - 2521 - Torneo de Qatar - 7 - 2291
+Yuki HASHIOKA - salto largo - Torneo de Finland - 9 - 956 - Torneo de Lesotho - 4 - 869
+Evans CHEBET - carrera 42000 m - Torneo de Luxembourg - 1 - 7313756 - Torneo de Singapore - 1 - 8024020
+Sandra PERKOVIĆ - lanzamiento de disco - Torneo de Nigeria - 5 - 7903 - Torneo de Solomon Islands - 5 - 7189
+Clarence MUNYAI - carrera 200 m - Torneo de Peru - 1 - 19503 - Torneo de Greece - 1 - 21434
+Nicholas Kipkorir KIMELI - carrera 5000 m - Torneo de Andorra - 1 - 772709 - Torneo de Austria - 1 - 849023
+Mariya LASITSKENE - salto de altura - Torneo de Burkina Faso - 1 - 261 - Torneo de Kiribati - 1 - 237
+Roberto SKYERS - carrera 100 m - Torneo de Cyprus - 1 - 9766 - Torneo de Morocco - 1 - 10726
+Elvira HERMAN - carrera 110 m con vallas - Torneo de New Zealand - 1 - 12105 - Torneo de Niger - 1 - 13305
+Nikola OGRODNÍKOVÁ - lanzamiento de jabalina - Torneo de Grenada - 6 - 9960 - Torneo de Lithuania - 4 - 9065
+Marike STEINACKER - lanzamiento de disco - Torneo de Sweden - 4 - 7892 - Torneo de Indonesia - 10 - 7192
+Chengetayi MAPAYA - salto triple - Torneo de Switzerland - 9 - 1996 - Torneo de Macedonia - 7 - 1814
+Kara WINGER - lanzamiento de jabalina - Torneo de Poland - 6 - 9966 - Torneo de Malta - 7 - 9066
+Yuliya LEVCHENKO - salto de altura - Torneo de Afghanistan - 4 - 261 - Torneo de Bahrain - 10 - 237
+Michael MASON - salto de altura - Torneo de Argentina - 1 - 261 - Torneo de Botswana - 8 - 237
+Dera DIDA - carrera 10000 m - Torneo de Montenegro - 1 - 1609982 - Torneo de Vatican City - 1 - 1768566
+Yelena PANOVA - lanzamiento de disco - Torneo de United Arab Emirates - 5 - 7904 - Torneo de Albania - 8 - 7186
+Michał HARATYK - lanzamiento de bala - Torneo de Jamaica - 2 - 2521 - Torneo de Myanmar - 3 - 2293
+Bernardo BALOYES - carrera 200 m - Torneo de Guinea-Bissau - 1 - 19522 - Torneo de Sao Tome and Principe - 1 - 21440
+Abubaker Haydar ABDALLA - carrera 800 m - Torneo de Yemen - 1 - 101895 - Torneo de Colombia - 1 - 112075
+Muktar EDRIS - carrera 5000 m - Torneo de Angola - 1 - 773126 - Torneo de Estonia - 1 - 849223
+Antti RUUSKANEN - lanzamiento de jabalina - Torneo de Niger - 5 - 9966 - Torneo de Romania - 2 - 9069
+Azmera ABREHA - carrera 42000 m - Torneo de Palau - 1 - 7311781 - Torneo de Colombia - 1 - 8029944
+Takashi ETO - salto de altura - Torneo de Myanmar - 8 - 261 - Torneo de Barbados - 7 - 237
+Reece PRESCOD - carrera 100 m - Torneo de Niger - 1 - 9762 - Torneo de Libya - 1 - 10733
+Antonio ALKANA - carrera 110 m con vallas - Torneo de Romania - 1 - 12099 - Torneo de Papua New Guinea - 1 - 13307
+Filip INGEBRIGTSEN - carrera 1500 m - Torneo de Bosnia and Herzegovina - 1 - 208778 - Torneo de Somalia - 1 - 229448
+Maryna BEKH-ROMANCHUK - salto largo - Torneo de Italy - 7 - 956 - Torneo de Estonia - 3 - 869
+Carina HORN - carrera 100 m - Torneo de Canada - 1 - 9764 - Torneo de Mauritius - 1 - 10733
+Ajee WILSON - carrera 800 m - Torneo de Angola - 1 - 101983 - Torneo de Japan - 1 - 112078
+Herpasa NEGASA - carrera 42000 m - Torneo de Eritrea - 1 - 7304817 - Torneo de Tajikistan - 1 - 8030853
+Olivia GRUVER - salto con pertiga - Torneo de Djibouti - 4 - 667 - Torneo de Guatemala - 9 - 606
+Almir DOS SANTOS - salto triple - Torneo de Namibia - 1 - 1994 - Torneo de Haiti - 10 - 1814
+Thiago BRAZ - salto con pertiga - Torneo de Guatemala - 9 - 667 - Torneo de Djibouti - 5 - 606
+Jeneva STEVENS - lanzamiento de bala - Torneo de Bhutan - 3 - 2521 - Torneo de Malawi - 2 - 2291
+William KINCAID - carrera 5000 m - Torneo de Guyana - 1 - 772143 - Torneo de Lebanon - 1 - 849211
+Milan TRAJKOVIC - carrera 110 m con vallas - Torneo de Namibia - 1 - 12106 - Torneo de Kosovo - 1 - 13301
+Traves SMIKLE - lanzamiento de disco - Torneo de Nepal - 8 - 7899 - Torneo de Belarus - 10 - 7188
+Anita MÁRTON - lanzamiento de bala - Torneo de Honduras - 9 - 2521 - Torneo de Dominica - 5 - 2291
+Kendall ELLIS - carrera 400 m - Torneo de Niger - 1 - 43454 - Torneo de Cameroon - 1 - 47793
+Eva CHERONO - carrera 5000 m - Torneo de Cyprus - 1 - 772275 - Torneo de Haiti - 1 - 848796
+Darya NIDBAYKINA - salto triple - Torneo de Kiribati - 6 - 1996 - Torneo de Turkey - 3 - 1814
+Chala BEYO - carrera 3000 m con vallas - Torneo de Georgia - 1 - 481040 - Torneo de Mozambique - 1 - 529015
+Benjamin KIGEN - carrera 3000 m con vallas - Torneo de Sweden - 1 - 481168 - Torneo de Kazakhstan - 1 - 528889
+Djilali BEDRANI - carrera 3000 m con vallas - Torneo de Moldova - 1 - 482078 - Torneo de Turkmenistan - 1 - 528354
+Katarina JOHNSON-THOMPSON - salto de altura - Torneo de Eritrea - 10 - 261 - Torneo de Bangladesh - 8 - 237
+Katarina JOHNSON-THOMPSON - salto largo - Torneo de Gambia - 7 - 955 - Torneo de Belgium - 10 - 869
+Galefele MOROKO - carrera 400 m - Torneo de Czechia - 1 - 43452 - Torneo de Afghanistan - 1 - 47776
+Orlando BENNETT - carrera 110 m con vallas - Torneo de Micronesia - 1 - 12099 - Torneo de Tunisia - 1 - 13307
+Asefa MENGSTU - carrera 42000 m - Torneo de Japan - 1 - 7302153 - Torneo de Honduras - 1 - 8030109
+Abderrahman SAMBA - carrera 400 m - Torneo de Estonia - 1 - 43477 - Torneo de Taiwan - 1 - 47769
+Abderrahman SAMBA - carrera 400 m con vallas - Torneo de Tuvalu - 1 - 46102 - Torneo de Antigua and Barbuda - 1 - 50676
+Paul CHELIMO - carrera 5000 m - Torneo de Saudi Arabia - 1 - 772442 - Torneo de Myanmar - 1 - 849132
+Hanna MALYSHIK - lanzamiento de martillo - Torneo de Serbia - 8 - 8992 - Torneo de Chile - 5 - 8181
+Olha LYAKHOVA - carrera 800 m - Torneo de Vatican City - 1 - 101940 - Torneo de Tunisia - 1 - 111974
+Tonea MARSHALL - carrera 110 m con vallas - Torneo de Papua New Guinea - 1 - 12100 - Torneo de Georgia - 1 - 13286
+Aaron BROWN - carrera 100 m - Torneo de Jordan - 1 - 9764 - Torneo de Micronesia - 1 - 10726
+Aaron BROWN - carrera 200 m - Torneo de Greece - 1 - 19503 - Torneo de Morocco - 1 - 21448
+Abdallah Kibet MANDE - carrera 10000 m - Torneo de Luxembourg - 1 - 1608063 - Torneo de Netherlands - 1 - 1768314
+Laura MUIR - carrera 800 m - Torneo de Malawi - 1 - 101895 - Torneo de Pakistan - 1 - 112043
+Laura MUIR - carrera 1500 m - Torneo de Italy - 1 - 209050 - Torneo de Liechtenstein - 1 - 229591
+Emily SISSON - carrera 10000 m - Torneo de Hungary - 1 - 1609185 - Torneo de Chad - 1 - 1768556
+Christian COLEMAN - carrera 100 m - Torneo de Philippines - 1 - 9762 - Torneo de Latvia - 1 - 10726
+Christian COLEMAN - carrera 200 m - Torneo de South Africa - 1 - 19505 - Torneo de North Korea - 1 - 21449
+Andreas HOFMANN - lanzamiento de jabalina - Torneo de Serbia - 5 - 9964 - Torneo de Russia - 1 - 9067
+Kenenisa BEKELE - carrera 42000 m - Torneo de Mauritania - 1 - 7309082 - Torneo de Uzbekistan - 1 - 8026649
+Bence HALÁSZ - lanzamiento de martillo - Torneo de Argentina - 9 - 8991 - Torneo de Bangladesh - 10 - 8174
+Isiah YOUNG - carrera 100 m - Torneo de Macedonia - 1 - 9769 - Torneo de Barbados - 1 - 10728
+Stephanie TWELL - carrera 10000 m - Torneo de Morocco - 1 - 1610159 - Torneo de Vatican City - 1 - 1766905
+Andamlak BELIHU - carrera 10000 m - Torneo de Mexico - 1 - 1608408 - Torneo de New Zealand - 1 - 1767554
+Andamlak BELIHU - carrera 21000 m - Torneo de Ghana - 1 - 3482665 - Torneo de Myanmar - 1 - 3827938
+Salwa Eid NASER - carrera 200 m - Torneo de Luxembourg - 1 - 19504 - Torneo de Malawi - 1 - 21443
+Salwa Eid NASER - carrera 400 m - Torneo de South Korea - 1 - 43457 - Torneo de Trinidad and Tobago - 1 - 47771
+Paweł FAJDEK - lanzamiento de martillo - Torneo de Central African Republic - 6 - 8988 - Torneo de Comoros - 1 - 8174
+Nelly JEPKOSGEI - carrera 800 m - Torneo de China - 1 - 101909 - Torneo de Turkmenistan - 1 - 112032
+Telahun Haile BEKELE - carrera 5000 m - Torneo de Samoa - 1 - 772121 - Torneo de Sierra Leone - 1 - 849204
+Yaimé PÉREZ - lanzamiento de disco - Torneo de Gambia - 10 - 7899 - Torneo de Puerto Rico - 4 - 7189
+Michaela MEIJER - salto con pertiga - Torneo de Austria - 6 - 667 - Torneo de Equatorial Guinea - 4 - 606
+Tissanna HICKLING - salto largo - Torneo de New Zealand - 8 - 956 - Torneo de French Guiana - 9 - 871
+Shaunae MILLER-UIBO - carrera 200 m - Torneo de Denmark - 1 - 19501 - Torneo de Rwanda - 1 - 21423
+Shaunae MILLER-UIBO - carrera 400 m - Torneo de Ghana - 1 - 43463 - Torneo de Guinea-Bissau - 1 - 47737
+Yarisley SILVA - salto con pertiga - Torneo de Afghanistan - 2 - 667 - Torneo de Angola - 5 - 606
+Brandon MCBRIDE - carrera 800 m - Torneo de Grenada - 1 - 102106 - Torneo de Brazil - 1 - 111994
+Arthur CISSÉ - carrera 100 m - Torneo de Georgia - 1 - 9760 - Torneo de Eritrea - 1 - 10735
+Yaoguang ZHANG - salto largo - Torneo de Egypt - 8 - 956 - Torneo de Luxembourg - 4 - 869
+Dani STEVENS - lanzamiento de disco - Torneo de Zimbabwe - 10 - 7905 - Torneo de Malta - 5 - 7188
+Ariana INCE - lanzamiento de jabalina - Torneo de Kuwait - 4 - 9967 - Torneo de Norway - 4 - 9064
+Christopher NILSEN - salto con pertiga - Torneo de Iceland - 3 - 667 - Torneo de Azerbaijan - 4 - 606
+Kinde ATANAW - carrera 42000 m - Torneo de Guyana - 1 - 7301386 - Torneo de Lithuania - 1 - 8025039
+Birhane DIBABA - carrera 21000 m - Torneo de Guinea - 1 - 3488790 - Torneo de Chile - 1 - 3828892
+Birhane DIBABA - carrera 42000 m - Torneo de Gambia - 1 - 7303234 - Torneo de Syria - 1 - 8023527
+Nick MILLER - lanzamiento de martillo - Torneo de Iraq - 9 - 8992 - Torneo de Malaysia - 8 - 8177
+Courtney FRERICHS - carrera 3000 m con vallas - Torneo de Solomon Islands - 1 - 482244 - Torneo de Switzerland - 1 - 528970
+Vincent Kiprotich KIBET - carrera 10000 m - Torneo de Vietnam - 1 - 1609953 - Torneo de Bahrain - 1 - 1767971
+Huihui LYU - lanzamiento de jabalina - Torneo de Liberia - 10 - 9959 - Torneo de Bolivia - 9 - 9063
+Joanna FIODOROW - lanzamiento de martillo - Torneo de San Marino - 1 - 8986 - Torneo de Costa Rica - 5 - 8175
+Andrea Carolina VARGAS - carrera 110 m con vallas - Torneo de Germany - 1 - 12105 - Torneo de Saint Lucia - 1 - 13295
+Tsigie GEBRESELAMA - carrera 10000 m - Torneo de Saint Lucia - 1 - 1608952 - Torneo de Moldova - 1 - 1768723
+Iryna GERASHCHENKO - salto de altura - Torneo de Afghanistan - 2 - 261 - Torneo de Belarus - 9 - 237
+Edward CHESEREK - carrera 5000 m - Torneo de Vietnam - 1 - 772938 - Torneo de Benin - 1 - 849067
+Bohdan BONDARENKO - salto de altura - Torneo de Botswana - 1 - 261 - Torneo de Bahamas - 8 - 237
+Sharrika BARNETT - carrera 400 m - Torneo de Brazil - 1 - 43452 - Torneo de Laos - 1 - 47776
+Mohammed AHMED - carrera 5000 m - Torneo de Kosovo - 1 - 772524 - Torneo de Fiji - 1 - 847578
+Mohammed AHMED - carrera 10000 m - Torneo de Cambodia - 1 - 1608242 - Torneo de Central African Republic - 1 - 1768340
+Sergey SHUBENKOV - carrera 110 m con vallas - Torneo de Cuba - 1 - 12113 - Torneo de Mauritius - 1 - 13308
+Nafissatou THIAM - salto de altura - Torneo de Angola - 8 - 261 - Torneo de Bulgaria - 8 - 237
+Nafissatou THIAM - salto largo - Torneo de Angola - 7 - 956 - Torneo de Barbados - 1 - 869
+Nicholas Kiptanui BETT - carrera 3000 m con vallas - Torneo de Seychelles - 1 - 481261 - Torneo de Nicaragua - 1 - 528928
+Birhanu LEGESE - carrera 42000 m - Torneo de Botswana - 1 - 7303206 - Torneo de Australia - 1 - 8023472
+Noah LYLES - carrera 100 m - Torneo de Puerto Rico - 1 - 9760 - Torneo de Libya - 1 - 10736
+Noah LYLES - carrera 200 m - Torneo de French Guiana - 1 - 19505 - Torneo de South Sudan - 1 - 21444
+Nadia EKE - salto triple - Torneo de Bhutan - 8 - 1996 - Torneo de Guyana - 3 - 1814
+Chao-Tsun CHENG - lanzamiento de jabalina - Torneo de Syria - 6 - 9968 - Torneo de Equatorial Guinea - 4 - 9063
+Stewart MCSWEYN - carrera 1500 m - Torneo de Maldives - 1 - 208788 - Torneo de San Marino - 1 - 229585
+Stewart MCSWEYN - carrera 10000 m - Torneo de Kosovo - 1 - 1608164 - Torneo de Slovakia - 1 - 1768354
+Alemu MEGERTU - carrera 21000 m - Torneo de Puerto Rico - 1 - 3482593 - Torneo de Scotland - 1 - 3826947
+Cassandra TATE - carrera 400 m con vallas - Torneo de Indonesia - 1 - 46113 - Torneo de Cambodia - 1 - 50675
+Shane BRATHWAITE - carrera 110 m con vallas - Torneo de Slovakia - 1 - 12128 - Torneo de Moldova - 1 - 13307
+Aliona DUBITSKAYA - lanzamiento de bala - Torneo de South Sudan - 4 - 2513 - Torneo de Brazil - 10 - 2291
+Tori FRANKLIN - salto triple - Torneo de Panama - 7 - 1995 - Torneo de Solomon Islands - 7 - 1814
+Conseslus KIPRUTO - carrera 3000 m con vallas - Torneo de Italy - 1 - 481433 - Torneo de New Zealand - 1 - 528674
+DeAnna PRICE - lanzamiento de martillo - Torneo de Grenada - 3 - 8987 - Torneo de Malaysia - 2 - 8176
+Dimitriana SURDU - lanzamiento de bala - Torneo de Ukraine - 6 - 2521 - Torneo de Cameroon - 1 - 2291
+Lijiao GONG - lanzamiento de bala - Torneo de Czechia - 4 - 2521 - Torneo de Saint Lucia - 8 - 2291
+Takele NIGATE - carrera 3000 m con vallas - Torneo de Venezuela - 1 - 481059 - Torneo de Chile - 1 - 528903
+Gladys CHERONO - carrera 42000 m - Torneo de Russia - 1 - 7309791 - Torneo de Panama - 1 - 8029220
+Solomon BERIHU - carrera 5000 m - Torneo de Saint Vincent and the Grenadines - 1 - 772147 - Torneo de Azerbaijan - 1 - 848824
+Solomon BERIHU - carrera 10000 m - Torneo de Chile - 1 - 1608510 - Torneo de South Korea - 1 - 1768122
+Solomon BERIHU - carrera 21000 m - Torneo de Vatican City - 1 - 3484137 - Torneo de Cambodia - 1 - 3826954
+Serhiy REHEDA - lanzamiento de martillo - Torneo de Rwanda - 6 - 8989 - Torneo de Timor-Leste - 1 - 8177
+Eda TUĞSUZ - lanzamiento de jabalina - Torneo de India - 8 - 9965 - Torneo de Trinidad and Tobago - 8 - 9071
+Reggie JAGERS III - lanzamiento de disco - Torneo de Argentina - 3 - 7905 - Torneo de Bulgaria - 7 - 7188
+Justin GATLIN - carrera 100 m - Torneo de Liberia - 1 - 9766 - Torneo de Gabon - 1 - 10736
+Janieve RUSSELL - carrera 400 m con vallas - Torneo de Taiwan - 1 - 46208 - Torneo de Liberia - 1 - 50684
+Yuki KOIKE - carrera 100 m - Torneo de Gambia - 1 - 9764 - Torneo de Timor-Leste - 1 - 10733
+Amere LATTIN - carrera 400 m con vallas - Torneo de Mexico - 1 - 46115 - Torneo de Chile - 1 - 50682
+Jennifer SUHR - salto con pertiga - Torneo de Comoros - 4 - 667 - Torneo de Indonesia - 2 - 606
+Rhonex KIPRUTO - carrera 10000 m - Torneo de Israel - 1 - 1608528 - Torneo de Gabon - 1 - 1768742
+Andwuelle WRIGHT - salto largo - Torneo de Papua New Guinea - 2 - 956 - Torneo de Kazakhstan - 2 - 869
+Yalemzerf YEHUALAW - carrera 21000 m - Torneo de Azerbaijan - 1 - 3482942 - Torneo de Marshall Islands - 1 - 3827260
+Ana ŠIMIĆ - salto de altura - Torneo de Mauritius - 1 - 261 - Torneo de Albania - 3 - 237
+Denis LUKYANOV - lanzamiento de martillo - Torneo de Uganda - 3 - 8980 - Torneo de Burkina Faso - 6 - 8180
+Jake WIGHTMAN - carrera 1500 m - Torneo de Bosnia and Herzegovina - 1 - 208828 - Torneo de Taiwan - 1 - 229574
+David KENDZIERA - carrera 400 m con vallas - Torneo de Uruguay - 1 - 46118 - Torneo de San Marino - 1 - 50690
+Danniel THOMAS-DODD - lanzamiento de bala - Torneo de Laos - 7 - 2521 - Torneo de Kuwait - 6 - 2292
+Thomas RÖHLER - lanzamiento de jabalina - Torneo de Chad - 9 - 9967 - Torneo de Saint Vincent and the Grenadines - 3 - 9063
+Yasmani COPELLO - carrera 400 m con vallas - Torneo de United Arab Emirates - 1 - 46120 - Torneo de Georgia - 1 - 50698
+Anglerne ANNELUS - carrera 200 m - Torneo de Nepal - 1 - 19506 - Torneo de Dominican Republic - 1 - 21433
+Kelsey CARD - lanzamiento de disco - Torneo de Jordan - 1 - 7905 - Torneo de Chad - 4 - 7187
+Titus EKIRU - carrera 42000 m - Torneo de Bahrain - 1 - 7303429 - Torneo de Luxembourg - 1 - 8026434
+Akeem BLOOMFIELD - carrera 400 m - Torneo de Burkina Faso - 1 - 43476 - Torneo de Malaysia - 1 - 47760
+Alfred KIPKETER - carrera 800 m - Torneo de Argentina - 1 - 101945 - Torneo de Philippines - 1 - 112066
+Hyvin KIYENG - carrera 3000 m con vallas - Torneo de Kenya - 1 - 481179 - Torneo de Oman - 1 - 528800
+Malaika MIHAMBO - salto largo - Torneo de France - 5 - 956 - Torneo de Zimbabwe - 9 - 869
+Britany ANDERSON - carrera 110 m con vallas - Torneo de Antigua and Barbuda - 1 - 12105 - Torneo de Maldives - 1 - 13297
+Eliza MCCARTNEY - salto con pertiga - Torneo de Denmark - 4 - 667 - Torneo de Czechia - 6 - 606
+Sara KOLAK - lanzamiento de jabalina - Torneo de Bolivia - 6 - 9940 - Torneo de Jamaica - 1 - 9087
+Patrícia MAMONA - salto triple - Torneo de Colombia - 6 - 1996 - Torneo de Kuwait - 6 - 1814
+Ludvy VAILLANT - carrera 400 m con vallas - Torneo de Vietnam - 1 - 46118 - Torneo de Gambia - 1 - 50697
+Celliphine Chepteek CHESPOL - carrera 3000 m con vallas - Torneo de Denmark - 1 - 481266 - Torneo de Ghana - 1 - 529006
+Mikhail AKIMENKO - salto de altura - Torneo de Benin - 2 - 261 - Torneo de Albania - 7 - 237
+Bob BERTEMES - lanzamiento de bala - Torneo de United Arab Emirates - 1 - 2521 - Torneo de Italy - 3 - 2292
+Kurtis MARSCHALL - salto con pertiga - Torneo de Bhutan - 6 - 667 - Torneo de Monaco - 7 - 606
+Miguel FRANCIS - carrera 200 m - Torneo de Tonga - 1 - 19507 - Torneo de Latvia - 1 - 21438
+Abebe Negewo DEGEFA - carrera 42000 m - Torneo de Congo Republic of the - 1 - 7311718 - Torneo de Andorra - 1 - 8030767
+Keshorn WALCOTT - lanzamiento de jabalina - Torneo de Marshall Islands - 9 - 9959 - Torneo de Scotland - 2 - 9061
+Edward Zakayo PINGUA - carrera 5000 m - Torneo de Saudi Arabia - 1 - 772128 - Torneo de Bahamas - 1 - 848817
+Ola STUNES ISENE - lanzamiento de disco - Torneo de Sierra Leone - 10 - 7903 - Torneo de Guinea - 5 - 7186
+Piotr MAŁACHOWSKI - lanzamiento de disco - Torneo de Rwanda - 4 - 7903 - Torneo de Cambodia - 6 - 7186
+Winnie NANYONDO - carrera 800 m - Torneo de South Korea - 1 - 101899 - Torneo de Canada - 1 - 111989
+Winnie NANYONDO - carrera 1500 m - Torneo de Togo - 1 - 208805 - Torneo de Guinea - 1 - 229610
+Eliud KIPCHOGE - carrera 42000 m - Torneo de Albania - 1 - 7306906 - Torneo de Senegal - 1 - 8027660
+Soufiane EL BAKKALI - carrera 3000 m con vallas - Torneo de Marshall Islands - 1 - 481711 - Torneo de Germany - 1 - 529036
+Stephenie Ann MCPHERSON - carrera 400 m - Torneo de Moldova - 1 - 43470 - Torneo de Somalia - 1 - 47765
+Anastasia LE-ROY - carrera 400 m - Torneo de Monaco - 1 - 43462 - Torneo de Czechia - 1 - 47792
+Will CLAYE - salto largo - Torneo de Guinea - 10 - 956 - Torneo de Lebanon - 3 - 870
+Will CLAYE - salto triple - Torneo de Belize - 5 - 1996 - Torneo de Iraq - 3 - 1814
+Sage WATSON - carrera 400 m con vallas - Torneo de Central African Republic - 1 - 46178 - Torneo de Kenya - 1 - 50699
+Gabriel CONSTANTINO - carrera 110 m con vallas - Torneo de Timor-Leste - 1 - 12098 - Torneo de Lesotho - 1 - 13306
+Netsanet GUDETA - carrera 10000 m - Torneo de Argentina - 1 - 1609354 - Torneo de Monaco - 1 - 1768375
+Netsanet GUDETA - carrera 21000 m - Torneo de Syria - 1 - 3482018 - Torneo de Switzerland - 1 - 3828474
+Simon PETTERSSON - lanzamiento de disco - Torneo de Vietnam - 8 - 7898 - Torneo de Tanzania - 3 - 7192
+Orlando ORTEGA - carrera 110 m con vallas - Torneo de Kuwait - 1 - 12109 - Torneo de Israel - 1 - 13304
+Machel CEDENIO - carrera 400 m - Torneo de Comoros - 1 - 43473 - Torneo de Chad - 1 - 47774
+Sifan HASSAN - carrera 1500 m - Torneo de South Sudan - 1 - 208771 - Torneo de Ghana - 1 - 229521
+Sifan HASSAN - carrera 5000 m - Torneo de Australia - 1 - 772098 - Torneo de Panama - 1 - 849167
+Sifan HASSAN - carrera 10000 m - Torneo de Fiji - 1 - 1608968 - Torneo de Syria - 1 - 1766874
+Sifan HASSAN - carrera 21000 m - Torneo de Gambia - 1 - 3482679 - Torneo de Saint Lucia - 1 - 3826790
+Yu WANG - salto de altura - Torneo de Belarus - 1 - 261 - Torneo de Australia - 1 - 237
+Reuben Kiprop KIPYEGO - carrera 42000 m - Torneo de Tanzania - 1 - 7302147 - Torneo de Cambodia - 1 - 8030629
+Andrew BAYER - carrera 3000 m con vallas - Torneo de New Zealand - 1 - 481036 - Torneo de Canada - 1 - 529061
+Armin SINANČEVIĆ - lanzamiento de bala - Torneo de Papua New Guinea - 5 - 2520 - Torneo de Indonesia - 10 - 2292
+Francine NIYONSABA - carrera 800 m - Torneo de Libya - 1 - 101892 - Torneo de Serbia - 1 - 112075
+Peruth CHEMUTAI - carrera 3000 m con vallas - Torneo de Tunisia - 1 - 481272 - Torneo de Sweden - 1 - 529080
+Letesenbet GIDEY - carrera 5000 m - Torneo de Algeria - 1 - 772303 - Torneo de Australia - 1 - 849287
+Letesenbet GIDEY - carrera 10000 m - Torneo de Liberia - 1 - 1608326 - Torneo de Lebanon - 1 - 1768785
+Ashete BEKERE - carrera 42000 m - Torneo de Cabo Verde - 1 - 7304332 - Torneo de Netherlands - 1 - 8027313
+Michael RODGERS - carrera 100 m - Torneo de Lebanon - 1 - 9760 - Torneo de Uruguay - 1 - 10733
+Daniel ROBERTS - carrera 110 m con vallas - Torneo de Georgia - 1 - 12105 - Torneo de Malta - 1 - 13283
+Augusto DUTRA - salto con pertiga - Torneo de Afghanistan - 9 - 667 - Torneo de Liberia - 10 - 606
+Alison DOS SANTOS - carrera 400 m con vallas - Torneo de Mexico - 1 - 46095 - Torneo de Switzerland - 1 - 50689
+Julius YEGO - lanzamiento de jabalina - Torneo de United Arab Emirates - 1 - 9968 - Torneo de Austria - 9 - 9062
+Arshad NADEEM - lanzamiento de jabalina - Torneo de Japan - 10 - 9968 - Torneo de Finland - 10 - 9062
+Joshua CHEPTEGEI - carrera 5000 m - Torneo de Kyrgyzstan - 1 - 772176 - Torneo de Puerto Rico - 1 - 848785
+Joshua CHEPTEGEI - carrera 10000 m - Torneo de Thailand - 1 - 1609174 - Torneo de South Africa - 1 - 1766586
+Elaine THOMPSON - carrera 100 m - Torneo de Puerto Rico - 1 - 9761 - Torneo de Monaco - 1 - 10732
+Elaine THOMPSON - carrera 200 m - Torneo de Grenada - 1 - 19500 - Torneo de Luxembourg - 1 - 21444
+Christine BOTLOGETSWE - carrera 400 m - Torneo de Australia - 1 - 43471 - Torneo de Cambodia - 1 - 47791
+Lauren WELLS - carrera 400 m con vallas - Torneo de Bolivia - 1 - 46100 - Torneo de Comoros - 1 - 50698
+Hawi FEYSA - carrera 5000 m - Torneo de Germany - 1 - 772169 - Torneo de Cuba - 1 - 848869
+Payton OTTERDAHL - lanzamiento de bala - Torneo de Turkey - 2 - 2520 - Torneo de United States - 9 - 2291
+Albert CHEMUTAI - carrera 3000 m con vallas - Torneo de Armenia - 1 - 481195 - Torneo de Ukraine - 1 - 529086
+Wojciech NOWICKI - lanzamiento de martillo - Torneo de Venezuela - 5 - 8992 - Torneo de Togo - 4 - 8177
+Piotr LISEK - salto con pertiga - Torneo de Austria - 5 - 667 - Torneo de Slovenia - 8 - 606
+Anna RYZHYKOVA - carrera 400 m con vallas - Torneo de Georgia - 1 - 46101 - Torneo de Benin - 1 - 50656
+TJ HOLMES - carrera 400 m con vallas - Torneo de Comoros - 1 - 46094 - Torneo de Azerbaijan - 1 - 50687
+Andy DÍAZ - salto triple - Torneo de Luxembourg - 4 - 1995 - Torneo de Niger - 9 - 1815
+Xinyue SU - lanzamiento de disco - Torneo de Mauritania - 3 - 7904 - Torneo de Oman - 7 - 7197
+Mutaz Essa BARSHIM - salto de altura - Torneo de Iceland - 3 - 261 - Torneo de Bolivia - 1 - 237
+Maykel MASSÓ - salto largo - Torneo de Argentina - 6 - 956 - Torneo de Gabon - 7 - 869
+Nia ALI - carrera 110 m con vallas - Torneo de Papua New Guinea - 1 - 12102 - Torneo de Vanuatu - 1 - 13305
+Takatoshi ABE - carrera 400 m con vallas - Torneo de Bulgaria - 1 - 46116 - Torneo de Finland - 1 - 50692
+Marielle HALL - carrera 10000 m - Torneo de Switzerland - 1 - 1608971 - Torneo de Azerbaijan - 1 - 1766456
+Darya KLISHINA - salto largo - Torneo de Albania - 8 - 956 - Torneo de Latvia - 2 - 869
+Thobias MONTLER - salto largo - Torneo de Bangladesh - 4 - 956 - Torneo de Mexico - 2 - 869
+Majd Eddin GHAZAL - salto de altura - Torneo de Angola - 2 - 261 - Torneo de Antigua and Barbuda - 7 - 237
+Christoph HARTING - lanzamiento de disco - Torneo de Norway - 4 - 7905 - Torneo de Mexico - 1 - 7187
+Hilary KPATCHA - salto largo - Torneo de Canada - 2 - 956 - Torneo de Thailand - 2 - 869
+Quincy HALL - carrera 400 m - Torneo de Ukraine - 1 - 43457 - Torneo de Mexico - 1 - 47761
+Quincy HALL - carrera 400 m con vallas - Torneo de Maldives - 1 - 46127 - Torneo de Zimbabwe - 1 - 50664
+Christina SCHWANITZ - lanzamiento de bala - Torneo de United States - 6 - 2520 - Torneo de Vatican City - 2 - 2291
+Fedrick DACRES - lanzamiento de disco - Torneo de Paraguay - 4 - 7904 - Torneo de Uzbekistan - 1 - 7189
+Hellen OBIRI - carrera 5000 m - Torneo de Nepal - 1 - 772409 - Torneo de Nicaragua - 1 - 849204
+Hellen OBIRI - carrera 10000 m - Torneo de Eritrea - 1 - 1608470 - Torneo de Turkey - 1 - 1767213
+Lynsey SHARP - carrera 800 m - Torneo de Monaco - 1 - 101904 - Torneo de Angola - 1 - 112022
+Joel BADEN - salto de altura - Torneo de Burkina Faso - 10 - 261 - Torneo de Luxembourg - 6 - 237
+Cornelius TUWEI - carrera 800 m - Torneo de San Marino - 1 - 102008 - Torneo de Rwanda - 1 - 112055
+Bernhard SEIFERT - lanzamiento de jabalina - Torneo de Portugal - 8 - 9966 - Torneo de Guinea-Bissau - 4 - 9062
+Dzmitry NABOKAU - salto de altura - Torneo de Andorra - 8 - 261 - Torneo de El Salvador - 2 - 237
+Leonard LANGAT - carrera 21000 m - Torneo de Greece - 1 - 3481507 - Torneo de Zimbabwe - 1 - 3827462
+Chanel BRISSETT - carrera 110 m con vallas - Torneo de Virgin Islands (British) - 1 - 12107 - Torneo de Samoa - 1 - 13303
+Karsten WARHOLM - carrera 400 m con vallas - Torneo de Israel - 1 - 46102 - Torneo de Ivory Coast - 1 - 50697
+Janeek BROWN - carrera 200 m - Torneo de Jordan - 1 - 19505 - Torneo de Australia - 1 - 21442
+Janeek BROWN - carrera 110 m con vallas - Torneo de Indonesia - 1 - 12102 - Torneo de Panama - 1 - 13308
+Orazio CREMONA - lanzamiento de bala - Torneo de Burkina Faso - 5 - 2520 - Torneo de Luxembourg - 1 - 2294
+Alex WILSON - carrera 200 m - Torneo de Venezuela - 1 - 19515 - Torneo de Jamaica - 1 - 21422
+Workenesh EDESA - carrera 42000 m - Torneo de Lebanon - 1 - 7304505 - Torneo de Chile - 1 - 8028679
+Donald SCOTT - salto triple - Torneo de Suriname - 4 - 1995 - Torneo de Mozambique - 7 - 1814
+Yasemin CAN - carrera 10000 m - Torneo de Uruguay - 1 - 1608516 - Torneo de Mali - 1 - 1768095
+Ben BROEDERS - salto con pertiga - Torneo de Brunei - 3 - 667 - Torneo de Guyana - 7 - 606
+Bedan KAROKI - carrera 21000 m - Torneo de Suriname - 1 - 3483548 - Torneo de Rwanda - 1 - 3827918
+Shivpal SINGH - lanzamiento de jabalina - Torneo de Greece - 2 - 9967 - Torneo de Nauru - 2 - 9063
+Konrad BUKOWIECKI - lanzamiento de bala - Torneo de Uganda - 7 - 2521 - Torneo de Central African Republic - 6 - 2292
+Chrisann GORDON - carrera 400 m - Torneo de Italy - 1 - 43467 - Torneo de Wales - 1 - 47791
+Rodgers KWEMOI - carrera 10000 m - Torneo de Ecuador - 1 - 1608075 - Torneo de Estonia - 1 - 1768720
+Rudy WINKLER - lanzamiento de martillo - Torneo de Eritrea - 2 - 8991 - Torneo de Nepal - 8 - 8174
+Hillary BOR - carrera 3000 m con vallas - Torneo de French Guiana - 1 - 481332 - Torneo de Bulgaria - 1 - 529108
+Mykhaylo KOKHAN - lanzamiento de martillo - Torneo de Germany - 10 - 8975 - Torneo de Montenegro - 2 - 8178
+Yevgeniy KOROTOVSKIY - lanzamiento de martillo - Torneo de Wales - 4 - 8987 - Torneo de Nigeria - 10 - 8176
+Girmawit GEBRZIHAIR - carrera 10000 m - Torneo de Paraguay - 1 - 1608151 - Torneo de Serbia - 1 - 1767096
+Omar CRADDOCK - salto triple - Torneo de Tanzania - 3 - 1995 - Torneo de Puerto Rico - 2 - 1814
+Yekaterina KONEVA - salto triple - Torneo de Myanmar - 7 - 1995 - Torneo de Greece - 9 - 1814
+Shannon OSIKA - carrera 1500 m - Torneo de Turkey - 1 - 208852 - Torneo de Gabon - 1 - 229623
+George Meitamei MANANGOI - carrera 1500 m - Torneo de Albania - 1 - 208809 - Torneo de Panama - 1 - 229624
+Tamirat TOLA - carrera 10000 m - Torneo de Kosovo - 1 - 1608079 - Torneo de Finland - 1 - 1767550
+Vincent KIBET - carrera 1500 m - Torneo de Uganda - 1 - 208853 - Torneo de Cabo Verde - 1 - 229496
+Dezerea BRYANT - carrera 200 m - Torneo de Cameroon - 1 - 19532 - Torneo de Congo Republic of the - 1 - 21426
+Degitu AZIMERAW - carrera 10000 m - Torneo de Equatorial Guinea - 1 - 1610703 - Torneo de Sri Lanka - 1 - 1768348
+Degitu AZIMERAW - carrera 21000 m - Torneo de Belarus - 1 - 3482276 - Torneo de Malawi - 1 - 3825488
+Degitu AZIMERAW - carrera 42000 m - Torneo de Russia - 1 - 7307624 - Torneo de Malta - 1 - 8030678
+Anna CHICHEROVA - salto de altura - Torneo de Bulgaria - 6 - 261 - Torneo de Cambodia - 9 - 237
+Gudaf TSEGAY - carrera 1500 m - Torneo de Morocco - 1 - 208792 - Torneo de Israel - 1 - 229566
+Ling LI - salto con pertiga - Torneo de Myanmar - 9 - 667 - Torneo de Ghana - 2 - 606
+Erika KINSEY - salto de altura - Torneo de Ivory Coast - 7 - 261 - Torneo de Algeria - 1 - 237
+Abigail IROZURU - salto largo - Torneo de Laos - 8 - 955 - Torneo de Argentina - 8 - 869
+Sokwakhana ZAZINI - carrera 400 m con vallas - Torneo de Serbia - 1 - 46121 - Torneo de Suriname - 1 - 50623
+Daniela STANCIU - salto de altura - Torneo de Fiji - 7 - 261 - Torneo de Australia - 10 - 237
+Halimah NAKAAYI - carrera 800 m - Torneo de Cambodia - 1 - 101916 - Torneo de Trinidad and Tobago - 1 - 112041
+Sean DONNELLY - lanzamiento de martillo - Torneo de Suriname - 3 - 8988 - Torneo de Bahrain - 7 - 8179
+Sofiya PALKINA - lanzamiento de martillo - Torneo de Grenada - 6 - 8984 - Torneo de El Salvador - 8 - 8175
+Stanley Waithaka MBURU - carrera 5000 m - Torneo de Iceland - 1 - 772521 - Torneo de Colombia - 1 - 849028
+Tori BOWIE - salto largo - Torneo de Kyrgyzstan - 5 - 956 - Torneo de Hungary - 1 - 869
+Fred KERLEY - carrera 400 m - Torneo de French Guiana - 1 - 43470 - Torneo de Thailand - 1 - 47776
+Kirani JAMES - carrera 400 m - Torneo de South Africa - 1 - 43494 - Torneo de Singapore - 1 - 47772
+Andrew HUDSON - carrera 200 m - Torneo de Saudi Arabia - 1 - 19506 - Torneo de Liechtenstein - 1 - 21433
+Yomif KEJELCHA - carrera 5000 m - Torneo de Qatar - 1 - 772725 - Torneo de United Kingdom - 1 - 848818
+Yomif KEJELCHA - carrera 10000 m - Torneo de Seychelles - 1 - 1608123 - Torneo de United States - 1 - 1768131
+Yomif KEJELCHA - carrera 21000 m - Torneo de Wales - 1 - 3481810 - Torneo de Cyprus - 1 - 3828454
+Karoline Bjerkeli GRØVDAL - carrera 5000 m - Torneo de Djibouti - 1 - 772375 - Torneo de Czechia - 1 - 849135
+Karoline Bjerkeli GRØVDAL - carrera 3000 m con vallas - Torneo de Ivory Coast - 1 - 481175 - Torneo de Afghanistan - 1 - 529133
+Barnabas KIPYEGO - carrera 3000 m con vallas - Torneo de Australia - 1 - 481256 - Torneo de United Arab Emirates - 1 - 529130
+Tomáš STANĚK - lanzamiento de bala - Torneo de Bosnia and Herzegovina - 4 - 2521 - Torneo de Benin - 6 - 2293
+Shericka JACKSON - carrera 400 m - Torneo de Sweden - 1 - 43501 - Torneo de Gambia - 1 - 47762
+Lina MUZE - lanzamiento de jabalina - Torneo de Albania - 3 - 9963 - Torneo de Burkina Faso - 8 - 9072
+Raevyn ROGERS - carrera 800 m - Torneo de Malaysia - 1 - 101893 - Torneo de Bahamas - 1 - 112038
+Twanisha TERRY - carrera 100 m - Torneo de Scotland - 1 - 9769 - Torneo de Luxembourg - 1 - 10734
+Holly BRADSHAW - salto con pertiga - Torneo de Papua New Guinea - 3 - 667 - Torneo de Kosovo - 4 - 606
+Collins KIPRUTO - carrera 800 m - Torneo de Czechia - 1 - 101906 - Torneo de Rwanda - 1 - 112056
+Xinglong GAO - salto largo - Torneo de Kuwait - 1 - 956 - Torneo de Armenia - 5 - 869
+Abdelmalik LAHOULOU - carrera 400 m con vallas - Torneo de Chile - 1 - 46099 - Torneo de Lithuania - 1 - 50702
+Queen CLAYE - carrera 110 m con vallas - Torneo de Djibouti - 1 - 12098 - Torneo de Jamaica - 1 - 13295
+Laviai NIELSEN - carrera 400 m - Torneo de Kenya - 1 - 43466 - Torneo de New Zealand - 1 - 47793
+Beth DOBBIN - carrera 200 m - Torneo de Saint Kitts and Nevis - 1 - 19502 - Torneo de Ethiopia - 1 - 21429
+Sondre GUTTORMSEN - salto con pertiga - Torneo de Albania - 8 - 667 - Torneo de Bosnia and Herzegovina - 4 - 606
+Paweł WOJCIECHOWSKI - salto con pertiga - Torneo de Mongolia - 8 - 667 - Torneo de Cuba - 9 - 606
+Marcel LOMNICKÝ - lanzamiento de martillo - Torneo de Sri Lanka - 7 - 8989 - Torneo de Georgia - 8 - 8174
+Wilhem BELOCIAN - carrera 110 m con vallas - Torneo de Vietnam - 1 - 12112 - Torneo de Cabo Verde - 1 - 13302
+Chantel MALONE - salto largo - Torneo de Grenada - 5 - 956 - Torneo de Saint Vincent and the Grenadines - 1 - 869
+Benard KIMELI - carrera 21000 m - Torneo de Indonesia - 1 - 3485931 - Torneo de Congo Democratic Republic of the - 1 - 3826137
+Tyquendo TRACEY - carrera 100 m - Torneo de Denmark - 1 - 9770 - Torneo de Eritrea - 1 - 10733
+Laura WEIGHTMAN - carrera 1500 m - Torneo de Mongolia - 1 - 208792 - Torneo de Chile - 1 - 229613
+Laura WEIGHTMAN - carrera 5000 m - Torneo de Grenada - 1 - 772743 - Torneo de Mexico - 1 - 848834
+Shamier LITTLE - carrera 400 m con vallas - Torneo de Kazakhstan - 1 - 46113 - Torneo de Mexico - 1 - 50699
+Jordan Alejandro DÍAZ FORTUN - salto triple - Torneo de Congo Democratic Republic of the - 10 - 1996 - Torneo de Fiji - 1 - 1815
+Chase EALEY - lanzamiento de bala - Torneo de Bahrain - 5 - 2521 - Torneo de Kazakhstan - 5 - 2291
+Ella JUNNILA - salto de altura - Torneo de Bulgaria - 1 - 261 - Torneo de Bahrain - 8 - 237
+Gwen BERRY - lanzamiento de martillo - Torneo de Senegal - 10 - 8979 - Torneo de Ireland - 7 - 8174
+Chukwuebuka ENEKWECHI - lanzamiento de bala - Torneo de Benin - 6 - 2521 - Torneo de Monaco - 5 - 2292
+Konstanze KLOSTERHALFEN - carrera 1500 m - Torneo de Burundi - 1 - 208796 - Torneo de Sierra Leone - 1 - 229463
+Konstanze KLOSTERHALFEN - carrera 5000 m - Torneo de Cameroon - 1 - 772460 - Torneo de Congo Democratic Republic of the - 1 - 849050
+Gloriah KITE - carrera 5000 m - Torneo de Algeria - 1 - 772318 - Torneo de Serbia - 1 - 849207
+Yaming ZHU - salto triple - Torneo de Puerto Rico - 3 - 1996 - Torneo de Armenia - 5 - 1815
+Mare DIBABA - carrera 42000 m - Torneo de Mozambique - 1 - 7302469 - Torneo de Grenada - 1 - 8025541
+Eilish MCCOLGAN - carrera 1500 m - Torneo de Turkey - 1 - 208821 - Torneo de Lithuania - 1 - 229632
+Eilish MCCOLGAN - carrera 5000 m - Torneo de Samoa - 1 - 772270 - Torneo de Brunei - 1 - 848915
+Ese BRUME - salto largo - Torneo de Belgium - 6 - 956 - Torneo de Mauritius - 3 - 869
+Charlie DAVALL GRICE - carrera 1500 m - Torneo de Guatemala - 1 - 208780 - Torneo de Kiribati - 1 - 229577
+Gabriela DEBUES-STAFFORD - carrera 1500 m - Torneo de Kuwait - 1 - 208819 - Torneo de Bolivia - 1 - 229437
+Gabriela DEBUES-STAFFORD - carrera 5000 m - Torneo de Denmark - 1 - 773042 - Torneo de Taiwan - 1 - 848705
+Akani SIMBINE - carrera 100 m - Torneo de Palau - 1 - 9765 - Torneo de Mali - 1 - 10736
+Alexsandro MELO - salto triple - Torneo de Chad - 3 - 1995 - Torneo de Niger - 8 - 1814
+Zalina PETRIVSKAYA - lanzamiento de martillo - Torneo de Fiji - 3 - 8992 - Torneo de San Marino - 9 - 8175
+Valentin LAVILLENIE - salto con pertiga - Torneo de Kiribati - 1 - 667 - Torneo de Finland - 5 - 606
+Ana PELETEIRO - salto triple - Torneo de Barbados - 10 - 1996 - Torneo de French Guiana - 1 - 1814
+Andrius GUDŽIUS - lanzamiento de disco - Torneo de Israel - 4 - 7904 - Torneo de Sao Tome and Principe - 3 - 7192
+Shoutarou SHIROYAMA - salto largo - Torneo de Chad - 8 - 956 - Torneo de Saint Vincent and the Grenadines - 2 - 869
+Stefano SOTTILE - salto de altura - Torneo de Denmark - 9 - 261 - Torneo de Armenia - 10 - 237
+Hanna GREEN - carrera 800 m - Torneo de Georgia - 1 - 101928 - Torneo de Timor-Leste - 1 - 112020
+Mogos TUEMAY - carrera 10000 m - Torneo de Mexico - 1 - 1611081 - Torneo de Kiribati - 1 - 1768816
+Tina ŠUTEJ - salto con pertiga - Torneo de Brunei - 5 - 667 - Torneo de Kosovo - 10 - 606
+Birhanu BALEW - carrera 5000 m - Torneo de Ecuador - 1 - 772110 - Torneo de Fiji - 1 - 849170
+Wilbert LONDON - carrera 400 m - Torneo de Laos - 1 - 43456 - Torneo de Liberia - 1 - 47706
+Shelby MCEWEN - salto de altura - Torneo de Timor-Leste - 5 - 261 - Torneo de Albania - 4 - 237
+Joan Chelimo MELLY - carrera 21000 m - Torneo de Nicaragua - 1 - 3482666 - Torneo de Saudi Arabia - 1 - 3824795
+Seifu TURA - carrera 21000 m - Torneo de Congo Democratic Republic of the - 1 - 3481150 - Torneo de Panama - 1 - 3829025
+Jonielle SMITH - carrera 100 m - Torneo de Germany - 1 - 9763 - Torneo de Lesotho - 1 - 10734
+Manqi GE - carrera 100 m - Torneo de Guinea-Bissau - 1 - 9761 - Torneo de Guyana - 1 - 10736
+Paulina GUBA - lanzamiento de bala - Torneo de Nicaragua - 2 - 2516 - Torneo de Bulgaria - 2 - 2291
+Sarah MCDONALD - carrera 1500 m - Torneo de Peru - 1 - 208794 - Torneo de Serbia - 1 - 229428
+Nikoleta KIRIAKOPOULOU - salto con pertiga - Torneo de Central African Republic - 1 - 667 - Torneo de Burundi - 2 - 606
+Mosinet GEREMEW - carrera 42000 m - Torneo de Mongolia - 1 - 7308190 - Torneo de Uzbekistan - 1 - 8024575
+Alex QUIÑÓNEZ - carrera 200 m - Torneo de Lebanon - 1 - 19514 - Torneo de Kosovo - 1 - 21446
+Christian TAYLOR - salto triple - Torneo de Algeria - 6 - 1994 - Torneo de Oman - 6 - 1815
+Azmera GEBRU - carrera 42000 m - Torneo de Russia - 1 - 7303562 - Torneo de Uganda - 1 - 8030363
+Josh KERR - carrera 1500 m - Torneo de Costa Rica - 1 - 208786 - Torneo de Azerbaijan - 1 - 229632
+Olga RYPAKOVA - salto triple - Torneo de Eritrea - 7 - 1996 - Torneo de Gambia - 5 - 1814
+Anna AVDEYEVA - lanzamiento de bala - Torneo de Fiji - 8 - 2518 - Torneo de Kiribati - 3 - 2293
+Lamecha GIRMA - carrera 3000 m con vallas - Torneo de Mali - 1 - 481078 - Torneo de Morocco - 1 - 528818
+Rababe ARAFI - carrera 1500 m - Torneo de San Marino - 1 - 208782 - Torneo de Bhutan - 1 - 229647
+Gesa Felicitas KRAUSE - carrera 3000 m con vallas - Torneo de Mauritius - 1 - 481492 - Torneo de Indonesia - 1 - 528951
+Yongli WEI - carrera 100 m - Torneo de Mongolia - 1 - 9779 - Torneo de Costa Rica - 1 - 10718
+Shanieka RICKETTS - salto triple - Torneo de Barbados - 6 - 1995 - Torneo de Kazakhstan - 10 - 1814
+Evaline CHIRCHIR - carrera 21000 m - Torneo de Luxembourg - 1 - 3481005 - Torneo de Serbia - 1 - 3823854
+Kendell WILLIAMS - carrera 110 m con vallas - Torneo de Vietnam - 1 - 12100 - Torneo de Palau - 1 - 13304
+Shelby HOULIHAN - carrera 1500 m - Torneo de Madagascar - 1 - 208773 - Torneo de Uganda - 1 - 229598
+Maggie EWEN - lanzamiento de bala - Torneo de Botswana - 3 - 2521 - Torneo de Slovenia - 9 - 2293
+Maggie EWEN - lanzamiento de martillo - Torneo de Panama - 10 - 8985 - Torneo de Guinea - 3 - 8174
+Eldred HENRY - lanzamiento de bala - Torneo de Argentina - 3 - 2519 - Torneo de Russia - 7 - 2291
+Leonard Kipkemoi BETT - carrera 3000 m con vallas - Torneo de Costa Rica - 1 - 481113 - Torneo de Namibia - 1 - 528870
+Fikadu HAFTU - carrera 21000 m - Torneo de Burkina Faso - 1 - 3481489 - Torneo de Ecuador - 1 - 3828843
+Ivet LALOVA-COLLIO - carrera 200 m - Torneo de Guinea - 1 - 19504 - Torneo de Marshall Islands - 1 - 21446
+Malwina KOPRON - lanzamiento de martillo - Torneo de Papua New Guinea - 10 - 8992 - Torneo de Mongolia - 2 - 8175
+Sam MATTIS - lanzamiento de disco - Torneo de Uganda - 5 - 7905 - Torneo de Vietnam - 4 - 7190
+Dafne SCHIPPERS - carrera 100 m - Torneo de Congo Republic of the - 1 - 9776 - Torneo de Cambodia - 1 - 10734
+Dafne SCHIPPERS - carrera 200 m - Torneo de United Kingdom - 1 - 19501 - Torneo de Dominican Republic - 1 - 21444
+Payton CHADWICK - carrera 110 m con vallas - Torneo de Tonga - 1 - 12098 - Torneo de Eritrea - 1 - 13305
+Selemon BAREGA - carrera 5000 m - Torneo de Bangladesh - 1 - 772111 - Torneo de Azerbaijan - 1 - 849153
+Selemon BAREGA - carrera 10000 m - Torneo de Zambia - 1 - 1608319 - Torneo de Azerbaijan - 1 - 1768601
+Janeah STEWART - lanzamiento de martillo - Torneo de New Zealand - 10 - 8992 - Torneo de Hungary - 2 - 8179
+Svetlana RADZIVIL - salto de altura - Torneo de Burkina Faso - 9 - 261 - Torneo de Antigua and Barbuda - 5 - 237
+Cravon GILLESPIE - carrera 100 m - Torneo de Barbados - 1 - 9769 - Torneo de Honduras - 1 - 10731
+Cravon GILLESPIE - carrera 200 m - Torneo de Kuwait - 1 - 19517 - Torneo de Tonga - 1 - 21438
+Rachel FATHERLY - lanzamiento de bala - Torneo de Congo Republic of the - 9 - 2519 - Torneo de Botswana - 9 - 2291
+Darlan ROMANI - lanzamiento de bala - Torneo de Sri Lanka - 8 - 2521 - Torneo de Ethiopia - 8 - 2291
+Maria ANDREJCZYK - lanzamiento de jabalina - Torneo de Austria - 9 - 9967 - Torneo de Gambia - 2 - 9062
+Ferguson Cheruiyot ROTICH - carrera 800 m - Torneo de Netherlands - 1 - 101918 - Torneo de Virgin Islands (British) - 1 - 112019
+Kimberly WILLIAMS - salto triple - Torneo de Cuba - 4 - 1996 - Torneo de Tuvalu - 3 - 1814
+Kendra HARRISON - carrera 110 m con vallas - Torneo de Eritrea - 1 - 12100 - Torneo de New Zealand - 1 - 13308
+Margaret Chelimo KIPKEMBOI - carrera 5000 m - Torneo de Ukraine - 1 - 772274 - Torneo de Algeria - 1 - 849119
+Javier CIENFUEGOS - lanzamiento de martillo - Torneo de Colombia - 8 - 8991 - Torneo de Nepal - 9 - 8175
+Abadi HADIS - carrera 5000 m - Torneo de Estonia - 1 - 772645 - Torneo de Lithuania - 1 - 849157
+Abadi HADIS - carrera 10000 m - Torneo de Belgium - 1 - 1608999 - Torneo de South Sudan - 1 - 1767320
+Abadi HADIS - carrera 21000 m - Torneo de Kazakhstan - 1 - 3481565 - Torneo de Moldova - 1 - 3828537
+Eunice Jepkoech SUM - carrera 800 m - Torneo de Colombia - 1 - 101915 - Torneo de Lebanon - 1 - 112045
+María Fernanda MURILLO - salto de altura - Torneo de Georgia - 5 - 261 - Torneo de Benin - 4 - 237
+Kyron MCMASTER - carrera 400 m con vallas - Torneo de Timor-Leste - 1 - 46094 - Torneo de Bahrain - 1 - 50689
+Lilian Kasait RENGERUK - carrera 5000 m - Torneo de Maldives - 1 - 773421 - Torneo de Timor-Leste - 1 - 849044
+Joseph Paul AMOAH - carrera 200 m - Torneo de China - 1 - 19519 - Torneo de Yemen - 1 - 21441
+Megan TAPPER - carrera 110 m con vallas - Torneo de Saint Lucia - 1 - 12115 - Torneo de Wales - 1 - 13302
+Ayomide FOLORUNSO - carrera 400 m con vallas - Torneo de South Africa - 1 - 46199 - Torneo de Chad - 1 - 50696
+Mujinga KAMBUNDJI - carrera 100 m - Torneo de Northern Ireland - 1 - 9764 - Torneo de Iraq - 1 - 10732
+Mujinga KAMBUNDJI - carrera 200 m - Torneo de Belize - 1 - 19515 - Torneo de Japan - 1 - 21448
+Rabii DOUKKANA - carrera 1500 m - Torneo de Vietnam - 1 - 208801 - Torneo de Kiribati - 1 - 229628
+Bethwell BIRGEN - carrera 1500 m - Torneo de United States - 1 - 208797 - Torneo de Argentina - 1 - 229496
+Karyna DEMIDIK - salto de altura - Torneo de Bangladesh - 9 - 261 - Torneo de Canada - 8 - 237
+Shiying LIU - lanzamiento de jabalina - Torneo de Rwanda - 4 - 9960 - Torneo de Burundi - 8 - 9061
+Sandi MORRIS - salto con pertiga - Torneo de Albania - 9 - 667 - Torneo de Bahamas - 5 - 606
+Kelsey-Lee BARBER - lanzamiento de jabalina - Torneo de Mexico - 7 - 9963 - Torneo de Netherlands - 3 - 9066
+Conor MCCULLOUGH - lanzamiento de martillo - Torneo de Venezuela - 10 - 8988 - Torneo de Denmark - 7 - 8181
+Michael NORMAN - carrera 200 m - Torneo de Finland - 1 - 19521 - Torneo de Jamaica - 1 - 21448
+Michael NORMAN - carrera 400 m - Torneo de India - 1 - 43455 - Torneo de Jamaica - 1 - 47793
+Iryna KLYMETS - lanzamiento de martillo - Torneo de Kuwait - 2 - 8992 - Torneo de Nicaragua - 7 - 8185
+Paraskevi PAPACHRISTOU - salto triple - Torneo de Chad - 2 - 1996 - Torneo de Central African Republic - 10 - 1814
+Tajay GAYLE - salto largo - Torneo de Saint Vincent and the Grenadines - 6 - 955 - Torneo de Bulgaria - 8 - 869
+Tebogo MAMATHU - carrera 100 m - Torneo de Kuwait - 1 - 9763 - Torneo de Brunei - 1 - 10735
+Adam GEMILI - carrera 200 m - Torneo de Monaco - 1 - 19509 - Torneo de Congo Republic of the - 1 - 21406
+Zharnel HUGHES - carrera 100 m - Torneo de Sri Lanka - 1 - 9766 - Torneo de Morocco - 1 - 10734
+Daniil TSYPLAKOV - salto de altura - Torneo de Croatia - 8 - 261 - Torneo de Armenia - 3 - 237
+Guye Idemo ADOLA - carrera 42000 m - Torneo de Ecuador - 1 - 7306648 - Torneo de Iceland - 1 - 8027315
+Anderson PETERS - lanzamiento de jabalina - Torneo de Liechtenstein - 8 - 9966 - Torneo de Colombia - 5 - 9061
+Kori CARTER - carrera 400 m con vallas - Torneo de Malawi - 1 - 46117 - Torneo de Philippines - 1 - 50694
+Sam KENDRICKS - salto con pertiga - Torneo de Mexico - 2 - 667 - Torneo de Barbados - 4 - 606
+Huiqin XU - salto con pertiga - Torneo de Bangladesh - 5 - 667 - Torneo de Micronesia - 2 - 606
+Bin FENG - lanzamiento de disco - Torneo de Rwanda - 8 - 7905 - Torneo de Central African Republic - 3 - 7191
+Yosiris URRUTIA - salto triple - Torneo de Afghanistan - 7 - 1996 - Torneo de Botswana - 8 - 1815
+Tobi AMUSAN - carrera 110 m con vallas - Torneo de Italy - 1 - 12099 - Torneo de Wales - 1 - 13305
+Winfred Mutile YAVI - carrera 3000 m con vallas - Torneo de Nepal - 1 - 481479 - Torneo de Comoros - 1 - 528814
+Jemal Yimer MEKONNEN - carrera 10000 m - Torneo de Australia - 1 - 1610950 - Torneo de El Salvador - 1 - 1768818
+Jemal Yimer MEKONNEN - carrera 21000 m - Torneo de Saint Lucia - 1 - 3484446 - Torneo de Sweden - 1 - 3826906
+Danielle WILLIAMS - carrera 110 m con vallas - Torneo de Moldova - 1 - 12100 - Torneo de Tunisia - 1 - 13306
+Shara PROCTOR - salto largo - Torneo de Albania - 3 - 956 - Torneo de Belize - 1 - 869
+Diana ZAGAINOVA - salto triple - Torneo de Antigua and Barbuda - 4 - 1996 - Torneo de Cabo Verde - 4 - 1816
+Brittney REESE - salto largo - Torneo de Burundi - 9 - 956 - Torneo de Gabon - 7 - 869
+Daniella HILL - lanzamiento de bala - Torneo de Zimbabwe - 10 - 2518 - Torneo de Saudi Arabia - 6 - 2291
+Kaan Kigen ÖZBILEN - carrera 42000 m - Torneo de San Marino - 1 - 7303292 - Torneo de North Korea - 1 - 8028537
+Janee KASSANAVOID - lanzamiento de martillo - Torneo de Spain - 8 - 8992 - Torneo de Equatorial Guinea - 6 - 8174
+Valarie ALLMAN - lanzamiento de disco - Torneo de French Guiana - 8 - 7905 - Torneo de Iraq - 7 - 7190
+Molly HUDDLE - carrera 10000 m - Torneo de Bhutan - 1 - 1608385 - Torneo de Micronesia - 1 - 1768204
+Getaneh MOLLA - carrera 42000 m - Torneo de Bahrain - 1 - 7303850 - Torneo de Nigeria - 1 - 8026049
+Aminat JAMAL - carrera 400 m con vallas - Torneo de Haiti - 1 - 46108 - Torneo de Botswana - 1 - 50698
+Annika Marie FUCHS - lanzamiento de jabalina - Torneo de Italy - 2 - 9967 - Torneo de Serbia - 1 - 9064
+Tsehay GEMECHU - carrera 5000 m - Torneo de Malawi - 1 - 772342 - Torneo de Lebanon - 1 - 849076
+Tsehay GEMECHU - carrera 10000 m - Torneo de Dominican Republic - 1 - 1608234 - Torneo de Vietnam - 1 - 1767171
+Tsehay GEMECHU - carrera 21000 m - Torneo de Cambodia - 1 - 3481952 - Torneo de Monaco - 1 - 3828843
+Omar MCLEOD - carrera 110 m con vallas - Torneo de Kosovo - 1 - 12099 - Torneo de Kenya - 1 - 13307
+David WROBEL - lanzamiento de disco - Torneo de Lithuania - 5 - 7905 - Torneo de Iraq - 5 - 7191
+Abdul Hakim SANI BROWN - carrera 100 m - Torneo de Mali - 1 - 9763 - Torneo de Equatorial Guinea - 1 - 10731
+Abdul Hakim SANI BROWN - carrera 200 m - Torneo de United Arab Emirates - 1 - 19515 - Torneo de Sweden - 1 - 21450
+Alyona GORDEYEVA - lanzamiento de bala - Torneo de Scotland - 8 - 2521 - Torneo de Bhutan - 6 - 2292
+Ronald KWEMOI - carrera 1500 m - Torneo de Denmark - 1 - 209025 - Torneo de Qatar - 1 - 229584
+Ababel YESHANEH - carrera 42000 m - Torneo de Albania - 1 - 7304941 - Torneo de Lithuania - 1 - 8030474
+Lawrence Kemboi KIPSANG - carrera 3000 m con vallas - Torneo de Mauritania - 1 - 481452 - Torneo de Benin - 1 - 528660
+Wadeline JONATHAS - carrera 400 m - Torneo de Scotland - 1 - 43458 - Torneo de Sudan - 1 - 47795
+Fantu WORKU - carrera 5000 m - Torneo de Qatar - 1 - 772328 - Torneo de Syria - 1 - 849255
+Robert URBANEK - lanzamiento de disco - Torneo de Peru - 3 - 7905 - Torneo de Georgia - 3 - 7194
+Ruswahl SAMAAI - salto largo - Torneo de Antigua and Barbuda - 9 - 956 - Torneo de Iran - 8 - 869
+Hagos GEBRHIWET - carrera 5000 m - Torneo de Honduras - 1 - 772664 - Torneo de Sweden - 1 - 848703
+Hagos GEBRHIWET - carrera 10000 m - Torneo de Eritrea - 1 - 1608136 - Torneo de Scotland - 1 - 1767755
+Alexandra TAVERNIER - lanzamiento de martillo - Torneo de Russia - 9 - 8990 - Torneo de Lebanon - 9 - 8179
+Timothy CHERUIYOT - carrera 800 m - Torneo de Hungary - 1 - 101989 - Torneo de Slovenia - 1 - 111995
+Timothy CHERUIYOT - carrera 1500 m - Torneo de Benin - 1 - 208800 - Torneo de Denmark - 1 - 229619
+Samuel TEFERA - carrera 1500 m - Torneo de Malta - 1 - 208888 - Torneo de Austria - 1 - 229634
+Purity Cherotich RIONORIPO - carrera 42000 m - Torneo de Germany - 1 - 7303553 - Torneo de Chad - 1 - 8031054
+Apostolos PARELLIS - lanzamiento de disco - Torneo de Iraq - 1 - 7898 - Torneo de Bolivia - 4 - 7188
+Benjamin WILLIAMS - salto triple - Torneo de Antigua and Barbuda - 10 - 1996 - Torneo de Marshall Islands - 6 - 1815
+Genzebe DIBABA - carrera 1500 m - Torneo de Antigua and Barbuda - 1 - 208883 - Torneo de Zimbabwe - 1 - 229523
+Emmanuel Kipkurui KORIR - carrera 400 m - Torneo de Kiribati - 1 - 43498 - Torneo de Madagascar - 1 - 47765
+Emmanuel Kipkurui KORIR - carrera 800 m - Torneo de Japan - 1 - 101910 - Torneo de Tuvalu - 1 - 112026
+Kemar MOWATT - carrera 400 m con vallas - Torneo de Bahamas - 1 - 46099 - Torneo de Armenia - 1 - 50687
+Cristian NÁPOLES - salto triple - Torneo de Maldives - 3 - 1996 - Torneo de Saint Lucia - 9 - 1814
+Worknesh DEGEFA - carrera 42000 m - Torneo de Mauritania - 1 - 7313334 - Torneo de Laos - 1 - 8030444
+Taoufik MAKHLOUFI - carrera 1500 m - Torneo de Dominican Republic - 1 - 208784 - Torneo de Guatemala - 1 - 229586
+Kamila LIĆWINKO - salto de altura - Torneo de Australia - 3 - 261 - Torneo de Algeria - 10 - 237
+Zheng WANG - lanzamiento de martillo - Torneo de Norway - 5 - 8988 - Torneo de Saint Kitts and Nevis - 3 - 8178
+Lonah Chemtai SALPETER - carrera 21000 m - Torneo de Russia - 1 - 3481643 - Torneo de Moldova - 1 - 3826972
+Lonah Chemtai SALPETER - carrera 42000 m - Torneo de Zimbabwe - 1 - 7310801 - Torneo de Haiti - 1 - 8030831
+Lois Maikel MARTÍNEZ - lanzamiento de disco - Torneo de Ecuador - 6 - 7902 - Torneo de Hungary - 6 - 7187
+Iryna ZHUK - salto con pertiga - Torneo de Iran - 7 - 667 - Torneo de Antigua and Barbuda - 4 - 606
+Shadae LAWRENCE - lanzamiento de disco - Torneo de Myanmar - 3 - 7905 - Torneo de Bulgaria - 7 - 7191
+Kenyattia HACKWORTH - salto largo - Torneo de Benin - 2 - 956 - Torneo de Angola - 4 - 869
+Pedro Pablo PICHARDO - salto triple - Torneo de Norway - 2 - 1996 - Torneo de Timor-Leste - 6 - 1815
+Rose Mary ALMANZA - carrera 800 m - Torneo de Guyana - 1 - 101933 - Torneo de Armenia - 1 - 111967
+Mule WASIHUN - carrera 42000 m - Torneo de Sierra Leone - 1 - 7303410 - Torneo de Cambodia - 1 - 8026576
+Jonathan KITILIT - carrera 800 m - Torneo de Lesotho - 1 - 101929 - Torneo de Cyprus - 1 - 112052
+Vashti CUNNINGHAM - salto de altura - Torneo de Belarus - 10 - 261 - Torneo de Bahamas - 8 - 237
+Hamish KERR - salto de altura - Torneo de Algeria - 10 - 261 - Torneo de Bahrain - 8 - 237
+Keturah ORJI - salto largo - Torneo de Central African Republic - 6 - 956 - Torneo de Bulgaria - 10 - 870
+Keturah ORJI - salto triple - Torneo de Gabon - 10 - 1996 - Torneo de France - 4 - 1814
+Kayla WHITE - carrera 100 m - Torneo de Algeria - 1 - 9765 - Torneo de Syria - 1 - 10732
+Kayla WHITE - carrera 200 m - Torneo de Jamaica - 1 - 19500 - Torneo de Russia - 1 - 21444
+Caterine IBARGUEN - salto largo - Torneo de Suriname - 5 - 956 - Torneo de Togo - 1 - 869
+Caterine IBARGUEN - salto triple - Torneo de Angola - 7 - 1995 - Torneo de Laos - 1 - 1814
+Shelly-Ann FRASER-PRYCE - carrera 100 m - Torneo de Sri Lanka - 1 - 9764 - Torneo de Panama - 1 - 10735
+Shelly-Ann FRASER-PRYCE - carrera 200 m - Torneo de Kuwait - 1 - 19509 - Torneo de Italy - 1 - 21440
+Django LOVETT - salto de altura - Torneo de Armenia - 1 - 261 - Torneo de Azerbaijan - 9 - 237
+Senbere TEFERI - carrera 10000 m - Torneo de Guyana - 1 - 1608244 - Torneo de Tanzania - 1 - 1768606
+Senbere TEFERI - carrera 21000 m - Torneo de Gambia - 1 - 3481418 - Torneo de Vatican City - 1 - 3828714
+Michelle CARTER - lanzamiento de bala - Torneo de Pakistan - 10 - 2521 - Torneo de Maldives - 5 - 2291
+Abdelaati IGUIDER - carrera 1500 m - Torneo de Papua New Guinea - 1 - 208795 - Torneo de Wales - 1 - 229640
+Dmitriy SOROKIN - salto triple - Torneo de Kenya - 9 - 1996 - Torneo de Ethiopia - 4 - 1815
+Phyllis FRANCIS - carrera 400 m - Torneo de Lithuania - 1 - 43450 - Torneo de Serbia - 1 - 47792
+Özkan BALTACI - lanzamiento de martillo - Torneo de Wales - 8 - 8990 - Torneo de Congo Democratic Republic of the - 6 - 8175
+Alina ROTARU - salto largo - Torneo de Sierra Leone - 8 - 956 - Torneo de Bahamas - 2 - 870
+Naa ANANG - salto largo - Torneo de Morocco - 5 - 956 - Torneo de Ivory Coast - 1 - 869
+Miltiadis TENTOGLOU - salto largo - Torneo de Brazil - 2 - 956 - Torneo de Brunei - 4 - 869
+Kristin PUDENZ - lanzamiento de disco - Torneo de Argentina - 8 - 7905 - Torneo de Georgia - 3 - 7187
+Mario BURKE - carrera 100 m - Torneo de San Marino - 1 - 9760 - Torneo de Belize - 1 - 10733
+Mario BURKE - carrera 200 m - Torneo de South Sudan - 1 - 19500 - Torneo de Yemen - 1 - 21448
+Fernanda MARTINS - lanzamiento de disco - Torneo de Liberia - 5 - 7904 - Torneo de Sao Tome and Principe - 10 - 7186
+Michael CHERRY - carrera 400 m - Torneo de Equatorial Guinea - 1 - 43454 - Torneo de Congo Republic of the - 1 - 47788
+Ruth CHEPNGETICH - carrera 21000 m - Torneo de Brunei - 1 - 3482162 - Torneo de Uzbekistan - 1 - 3828690
+Ruth CHEPNGETICH - carrera 42000 m - Torneo de Egypt - 1 - 7308031 - Torneo de Nauru - 1 - 8028469
+Aminatou SEYNI - carrera 400 m - Torneo de Niger - 1 - 43484 - Torneo de Guatemala - 1 - 47772
+Lukas WEISSHAIDINGER - lanzamiento de disco - Torneo de Ivory Coast - 10 - 7894 - Torneo de Marshall Islands - 5 - 7188
+Kiara GRANT - carrera 100 m - Torneo de Vatican City - 1 - 9760 - Torneo de North Korea - 1 - 10726
+Mercy WANJIRU - carrera 3000 m con vallas - Torneo de Marshall Islands - 1 - 481184 - Torneo de Colombia - 1 - 529071
+Serghei MARGHIEV - lanzamiento de martillo - Torneo de United States - 4 - 8991 - Torneo de Mauritius - 6 - 8175
+Natoya GOULE - carrera 800 m - Torneo de Monaco - 1 - 101894 - Torneo de Liberia - 1 - 112077
+Geoffrey KAMWOROR - carrera 21000 m - Torneo de Bulgaria - 1 - 3484230 - Torneo de Namibia - 1 - 3827647
+Winny CHEBET - carrera 1500 m - Torneo de Togo - 1 - 208809 - Torneo de Belize - 1 - 229539
+Kibiwott KANDIE - carrera 21000 m - Torneo de Papua New Guinea - 1 - 3485317 - Torneo de Rwanda - 1 - 3828626
+Amalie IUEL - carrera 400 m con vallas - Torneo de Serbia - 1 - 46104 - Torneo de Germany - 1 - 50693
+Kiara PARKER - carrera 100 m - Torneo de Greece - 1 - 9765 - Torneo de Monaco - 1 - 10730
+Cole WALSH - salto con pertiga - Torneo de Egypt - 9 - 667 - Torneo de Djibouti - 10 - 606
+Ronald MUSAGALA - carrera 1500 m - Torneo de Sierra Leone - 1 - 208813 - Torneo de Suriname - 1 - 229579
+Olha SALADUKHA - salto triple - Torneo de United Arab Emirates - 4 - 1996 - Torneo de Croatia - 5 - 1814
+Jonathan JONES - carrera 400 m - Torneo de Papua New Guinea - 1 - 43455 - Torneo de Israel - 1 - 47794
+Jonathan JONES - lanzamiento de bala - Torneo de Slovakia - 8 - 2521 - Torneo de Sri Lanka - 1 - 2293
+Morris Munene GACHAGA - carrera 21000 m - Torneo de Japan - 1 - 3481732 - Torneo de Brazil - 1 - 3827379
+Dmitriy TARABIN - lanzamiento de jabalina - Torneo de Belize - 6 - 9963 - Torneo de Andorra - 2 - 9085
+Genevieve GREGSON - carrera 3000 m con vallas - Torneo de Chad - 1 - 481076 - Torneo de Mexico - 1 - 528811
+Daisy JEPKEMEI - carrera 3000 m con vallas - Torneo de Ecuador - 1 - 481060 - Torneo de Guyana - 1 - 528623
+Tomas WALSH - lanzamiento de bala - Torneo de Panama - 6 - 2521 - Torneo de Nigeria - 1 - 2291
+Sally PEARSON - carrera 110 m con vallas - Torneo de Palau - 1 - 12100 - Torneo de Mongolia - 1 - 13305
+Grant HOLLOWAY - carrera 110 m con vallas - Torneo de Canada - 1 - 12101 - Torneo de Vanuatu - 1 - 13308
+Felix KIBITOK - carrera 21000 m - Torneo de Lebanon - 1 - 3482012 - Torneo de Poland - 1 - 3826570
+Yelena SOKOLOVA - salto largo - Torneo de Austria - 2 - 956 - Torneo de Slovakia - 6 - 869
+Rai BENJAMIN - carrera 400 m - Torneo de Burkina Faso - 1 - 43457 - Torneo de Cyprus - 1 - 47794
+Rai BENJAMIN - carrera 400 m con vallas - Torneo de Estonia - 1 - 46107 - Torneo de United States - 1 - 50610
+Kc LIGHTFOOT - salto con pertiga - Torneo de India - 9 - 667 - Torneo de Ghana - 2 - 606
+Alexis COPELLO - salto triple - Torneo de Senegal - 8 - 1995 - Torneo de Congo Democratic Republic of the - 7 - 1815
+Zuzana HEJNOVÁ - carrera 400 m con vallas - Torneo de Azerbaijan - 1 - 46138 - Torneo de Dominican Republic - 1 - 50693
+JuVaughn HARRISON - salto largo - Torneo de Nicaragua - 7 - 956 - Torneo de Comoros - 1 - 869
+Kate GRACE - carrera 800 m - Torneo de Netherlands - 1 - 101901 - Torneo de Virgin Islands (British) - 1 - 112079
+Claudine VITA - lanzamiento de disco - Torneo de Sudan - 9 - 7905 - Torneo de India - 3 - 7189
+Steffin MCCARTER - salto largo - Torneo de Austria - 4 - 956 - Torneo de Spain - 1 - 869
+Ilya IVANYUK - salto de altura - Torneo de Argentina - 7 - 261 - Torneo de Sri Lanka - 5 - 237
+Nijel AMOS - carrera 800 m - Torneo de Canada - 1 - 101977 - Torneo de Tajikistan - 1 - 112036
+Luvo MANYONGA - salto largo - Torneo de Dominican Republic - 10 - 956 - Torneo de Bahrain - 1 - 869
+Valary JEMELI - carrera 21000 m - Torneo de Uganda - 1 - 3482183 - Torneo de Belgium - 1 - 3827475
+Valary JEMELI - carrera 42000 m - Torneo de Paraguay - 1 - 7303454 - Torneo de Cyprus - 1 - 8026066
+Bryce HOPPEL - carrera 800 m - Torneo de Tunisia - 1 - 102083 - Torneo de Bulgaria - 1 - 112070
+Dina ASHER-SMITH - carrera 100 m - Torneo de Congo Democratic Republic of the - 1 - 9766 - Torneo de Finland - 1 - 10728
+Dina ASHER-SMITH - carrera 200 m - Torneo de Jamaica - 1 - 19507 - Torneo de Kosovo - 1 - 21441
+Andressa DE MORAIS - lanzamiento de disco - Torneo de Belarus - 7 - 7895 - Torneo de Ireland - 6 - 7186
+Briana WILLIAMS - carrera 100 m - Torneo de Qatar - 1 - 9762 - Torneo de United Arab Emirates - 1 - 10736
+Alexie ALAÏS - lanzamiento de jabalina - Torneo de Tunisia - 4 - 9965 - Torneo de North Korea - 8 - 9063
+Tynia GAITHER - carrera 100 m - Torneo de Brunei - 1 - 9760 - Torneo de Dominican Republic - 1 - 10735
+Emily GROVE - salto con pertiga - Torneo de Cameroon - 4 - 667 - Torneo de Denmark - 10 - 606
+Maruša MIŠMAŠ - carrera 3000 m con vallas - Torneo de Libya - 1 - 481151 - Torneo de Laos - 1 - 529081
+Florentina Costina IUSCO - salto largo - Torneo de Guinea-Bissau - 2 - 956 - Torneo de Cameroon - 5 - 869
+Mercy CHEPKURUI - carrera 3000 m con vallas - Torneo de Mongolia - 1 - 481081 - Torneo de Japan - 1 - 528670
+Ehsan HADADI - lanzamiento de disco - Torneo de Eritrea - 1 - 7902 - Torneo de Northern Ireland - 7 - 7186
+Zarck VISSER - salto largo - Torneo de Georgia - 2 - 956 - Torneo de Bolivia - 2 - 869
+Nicola MCDERMOTT - salto de altura - Torneo de Afghanistan - 10 - 261 - Torneo de Iran - 6 - 237
+Necatí ER - salto triple - Torneo de Montenegro - 2 - 1996 - Torneo de Philippines - 10 - 1814
+Nelson ÉVORA - salto triple - Torneo de Malawi - 4 - 1996 - Torneo de Turkey - 3 - 1814
+Anzhelika SIDOROVA - salto con pertiga - Torneo de Burkina Faso - 2 - 667 - Torneo de Netherlands - 9 - 606
+Shura KITATA - carrera 42000 m - Torneo de Slovakia - 1 - 7307905 - Torneo de Myanmar - 1 - 8024238
+Yelizaveta TSAREVA - lanzamiento de martillo - Torneo de Kazakhstan - 9 - 8990 - Torneo de Ukraine - 2 - 8175
+Filip MIHALJEVIĆ - lanzamiento de bala - Torneo de Samoa - 8 - 2520 - Torneo de Marshall Islands - 8 - 2291
+Mekides ABEBE - carrera 3000 m con vallas - Torneo de Saint Vincent and the Grenadines - 1 - 481379 - Torneo de Bolivia - 1 - 529087
+Yang CHEN - lanzamiento de disco - Torneo de Zimbabwe - 8 - 7903 - Torneo de Latvia - 3 - 7189
+Jackline WAMBUI - carrera 800 m - Torneo de Bosnia and Herzegovina - 1 - 101926 - Torneo de Tonga - 1 - 112071
+Brigid KOSGEI - carrera 21000 m - Torneo de Vatican City - 1 - 3482843 - Torneo de Northern Ireland - 1 - 3828074
+Brigid KOSGEI - carrera 42000 m - Torneo de Ethiopia - 1 - 7305943 - Torneo de Ireland - 1 - 8026138
+Edis MATUSEVIČIUS - lanzamiento de jabalina - Torneo de Jordan - 7 - 9966 - Torneo de Singapore - 10 - 9067
+Abraham KIBIWOT - carrera 3000 m con vallas - Torneo de Marshall Islands - 1 - 481060 - Torneo de Paraguay - 1 - 528923
+Jakub VADLEJCH - lanzamiento de jabalina - Torneo de Austria - 4 - 9967 - Torneo de Switzerland - 9 - 9062
+Brianna MCNEAL - carrera 110 m con vallas - Torneo de Iraq - 1 - 12109 - Torneo de Afghanistan - 1 - 13293
+Jianan WANG - salto largo - Torneo de Ecuador - 10 - 956 - Torneo de Marshall Islands - 6 - 869
+Freddie CRITTENDEN - carrera 110 m con vallas - Torneo de Togo - 1 - 12105 - Torneo de South Sudan - 1 - 13287
+Robeilys PEINADO - salto con pertiga - Torneo de Brunei - 6 - 666 - Torneo de Cambodia - 2 - 606
+Getnet WALE - carrera 3000 m con vallas - Torneo de Greece - 1 - 481590 - Torneo de Slovenia - 1 - 528948
+Fanny ROOS - lanzamiento de bala - Torneo de Suriname - 2 - 2521 - Torneo de Indonesia - 8 - 2291
+​Demish GAYE - carrera 400 m - Torneo de Dominican Republic - 1 - 43500 - Torneo de Papua New Guinea - 1 - 47724
+Jakob INGEBRIGTSEN - carrera 1500 m - Torneo de Jamaica - 1 - 208949 - Torneo de Finland - 1 - 229578
+Jakob INGEBRIGTSEN - carrera 5000 m - Torneo de Argentina - 1 - 772184 - Torneo de Colombia - 1 - 849290
+Hibiki TSUHA - salto largo - Torneo de France - 6 - 956 - Torneo de Romania - 1 - 869
+Ninon GUILLON-ROMARIN - salto con pertiga - Torneo de China - 4 - 667 - Torneo de Greece - 3 - 606
+Edwin KIPTOO - carrera 21000 m - Torneo de Grenada - 1 - 3484115 - Torneo de Thailand - 1 - 3827304
+Jenny SIMPSON - carrera 1500 m - Torneo de Mali - 1 - 208884 - Torneo de Barbados - 1 - 229430
+Natalya PRYSHCHEPA - carrera 800 m - Torneo de Bhutan - 1 - 101893 - Torneo de Tuvalu - 1 - 111904
+Changzhou HUANG - salto largo - Torneo de Canada - 3 - 956 - Torneo de Equatorial Guinea - 9 - 870
+Stephen KIPROP - carrera 21000 m - Torneo de North Korea - 1 - 3481218 - Torneo de Bosnia and Herzegovina - 1 - 3828110
+Cyprian MRZYGŁÓD - lanzamiento de jabalina - Torneo de Northern Ireland - 3 - 9964 - Torneo de Brazil - 4 - 9068
+Tia-Adana BELLE - carrera 400 m con vallas - Torneo de Central African Republic - 1 - 46202 - Torneo de Gabon - 1 - 50660
+Marie-Laurence JUNGFLEISCH - salto de altura - Torneo de Burkina Faso - 1 - 261 - Torneo de Chile - 7 - 237
+Julien WANDERS - carrera 10000 m - Torneo de Pakistan - 1 - 1608920 - Torneo de Panama - 1 - 1767881
+Julien WANDERS - carrera 21000 m - Torneo de Mauritania - 1 - 3483721 - Torneo de Denmark - 1 - 3828808
+Portious WARREN - lanzamiento de bala - Torneo de Burundi - 7 - 2521 - Torneo de Guinea-Bissau - 2 - 2291
+Na LUO - lanzamiento de martillo - Torneo de Bahamas - 1 - 8990 - Torneo de China - 6 - 8180
+Nadine MÜLLER - lanzamiento de disco - Torneo de Albania - 6 - 7903 - Torneo de Turkmenistan - 8 - 7187
+Zachery BRADFORD - salto con pertiga - Torneo de Iceland - 8 - 667 - Torneo de Austria - 10 - 606
+Marcin LEWANDOWSKI - carrera 800 m - Torneo de Zambia - 1 - 101921 - Torneo de Bahamas - 1 - 112033
+Marcin LEWANDOWSKI - carrera 1500 m - Torneo de Norway - 1 - 208843 - Torneo de Brazil - 1 - 229592
+Fernando CARRO - carrera 3000 m con vallas - Torneo de French Guiana - 1 - 481126 - Torneo de Maldives - 1 - 528963
+Eivind HENRIKSEN - lanzamiento de martillo - Torneo de Niger - 6 - 8992 - Torneo de Kenya - 8 - 8180
+Clayton MURPHY - carrera 800 m - Torneo de Monaco - 1 - 101925 - Torneo de Nicaragua - 1 - 112059
+Beatrice CHEBET - carrera 5000 m - Torneo de Angola - 1 - 772188 - Torneo de South Korea - 1 - 849057
+Andriy PROTSENKO - salto de altura - Torneo de Bahrain - 8 - 261 - Torneo de Cameroon - 8 - 237
+Marius KIPSEREM - carrera 42000 m - Torneo de Uzbekistan - 1 - 7307460 - Torneo de Afghanistan - 1 - 8026004
+Marie-Josée TA LOU - carrera 100 m - Torneo de Latvia - 1 - 9760 - Torneo de Mexico - 1 - 10732
+Marie-Josée TA LOU - carrera 200 m - Torneo de Sudan - 1 - 19501 - Torneo de Mauritius - 1 - 21420
+Matthew CENTROWITZ - carrera 1500 m - Torneo de Niger - 1 - 208772 - Torneo de Saint Kitts and Nevis - 1 - 229629
+Matthew CENTROWITZ - carrera 5000 m - Torneo de Nicaragua - 1 - 772861 - Torneo de Grenada - 1 - 849217
+Kenneth BEDNAREK - carrera 200 m - Torneo de Botswana - 1 - 19514 - Torneo de Gambia - 1 - 21444
+Kenneth BEDNAREK - carrera 400 m - Torneo de Uzbekistan - 1 - 43496 - Torneo de Taiwan - 1 - 47784
+Vivian J. CHERUIYOT - carrera 21000 m - Torneo de Bangladesh - 1 - 3484087 - Torneo de Turkey - 1 - 3827707
+Vivian J. CHERUIYOT - carrera 42000 m - Torneo de Equatorial Guinea - 1 - 7308210 - Torneo de Northern Ireland - 1 - 8028981
+Liveta JASIŪNAITĖ - lanzamiento de jabalina - Torneo de Cabo Verde - 2 - 9964 - Torneo de Morocco - 9 - 9064
+Aleia HOBBS - carrera 100 m - Torneo de Namibia - 1 - 9760 - Torneo de Haiti - 1 - 10736
+Yanis Esmeralda DAVID - salto largo - Torneo de Luxembourg - 7 - 956 - Torneo de Algeria - 8 - 869
+Yanis Esmeralda DAVID - salto triple - Torneo de Canada - 1 - 1996 - Torneo de Paraguay - 3 - 1815
+Marcin KRUKOWSKI - lanzamiento de jabalina - Torneo de New Zealand - 3 - 9968 - Torneo de Bangladesh - 1 - 9064
+Anthony José ZAMBRANO - carrera 400 m - Torneo de Brunei - 1 - 43573 - Torneo de Cuba - 1 - 47777
+Haruka KITAGUCHI - lanzamiento de jabalina - Torneo de Bulgaria - 6 - 9966 - Torneo de Lithuania - 1 - 9072
+Nikki HILTZ - carrera 1500 m - Torneo de Lesotho - 1 - 208920 - Torneo de Comoros - 1 - 229633
+Whitney ASHLEY - lanzamiento de disco - Torneo de Qatar - 9 - 7905 - Torneo de Sweden - 6 - 7194
+Nadine VISSER - carrera 110 m con vallas - Torneo de Saudi Arabia - 1 - 12100 - Torneo de Venezuela - 1 - 13307
+Oliver HELANDER - lanzamiento de jabalina - Torneo de Comoros - 10 - 9956 - Torneo de Guinea-Bissau - 7 - 9067
+Ashley SPENCER - carrera 400 m con vallas - Torneo de France - 1 - 46092 - Torneo de Iraq - 1 - 50674
+Jessica RAMSEY - lanzamiento de bala - Torneo de Argentina - 4 - 2519 - Torneo de Micronesia - 6 - 2292
+Brooke ANDERSEN - lanzamiento de martillo - Torneo de Kyrgyzstan - 8 - 8990 - Torneo de Comoros - 8 - 8177
+Anna COCKRELL - carrera 110 m con vallas - Torneo de Tunisia - 1 - 12098 - Torneo de Uzbekistan - 1 - 13301
+Zhenye XIE - carrera 200 m - Torneo de Kyrgyzstan - 1 - 19502 - Torneo de Ecuador - 1 - 21430
+Alex ROSE - lanzamiento de disco - Torneo de Peru - 10 - 7904 - Torneo de Burkina Faso - 9 - 7186
+Hanna SKYDAN - lanzamiento de martillo - Torneo de Brazil - 10 - 8989 - Torneo de Sudan - 1 - 8174
+Hugues Fabrice ZANGO - salto triple - Torneo de Brazil - 3 - 1994 - Torneo de Benin - 5 - 1816
+Mateusz PRZYBYLKO - salto de altura - Torneo de Albania - 10 - 261 - Torneo de Malaysia - 5 - 237
+Torben BLECH - salto con pertiga - Torneo de Burkina Faso - 10 - 667 - Torneo de Nicaragua - 4 - 606
+Raymond EKEVWO - carrera 100 m - Torneo de Burundi - 1 - 9765 - Torneo de Latvia - 1 - 10735
+Trevor STEWART - carrera 400 m - Torneo de Japan - 1 - 43458 - Torneo de Russia - 1 - 47783
+Quentin BIGOT - lanzamiento de martillo - Torneo de Thailand - 5 - 8986 - Torneo de Malawi - 2 - 8182
+Rushell CLAYTON - carrera 400 m con vallas - Torneo de Papua New Guinea - 1 - 46118 - Torneo de Ethiopia - 1 - 50693
+Steven GARDINER - carrera 200 m - Torneo de Fiji - 1 - 19504 - Torneo de Gambia - 1 - 21450
+Steven GARDINER - carrera 400 m - Torneo de Andorra - 1 - 43453 - Torneo de Algeria - 1 - 47789
+Leonard BARSOTON - carrera 21000 m - Torneo de Papua New Guinea - 1 - 3484102 - Torneo de Guatemala - 1 - 3827516
+Juan Miguel ECHEVARRÍA - salto largo - Torneo de Micronesia - 1 - 956 - Torneo de Bhutan - 3 - 869
+Daniel STÅHL - lanzamiento de disco - Torneo de Benin - 5 - 7905 - Torneo de Austria - 8 - 7189
+Sisay LEMMA - carrera 42000 m - Torneo de Peru - 1 - 7309275 - Torneo de Kiribati - 1 - 8023521
+Devon ALLEN - carrera 110 m con vallas - Torneo de Micronesia - 1 - 12105 - Torneo de Timor-Leste - 1 - 13304
+Alin Alexandru FIRFIRICA - lanzamiento de disco - Torneo de Chad - 3 - 7905 - Torneo de Myanmar - 3 - 7187
+Armand DUPLANTIS - salto con pertiga - Torneo de Rwanda - 1 - 667 - Torneo de Czechia - 1 - 606
+Habitam ALEMU - carrera 800 m - Torneo de Haiti - 1 - 101994 - Torneo de Spain - 1 - 112017
+Colleen QUIGLEY - carrera 3000 m con vallas - Torneo de Madagascar - 1 - 481375 - Torneo de Botswana - 1 - 529033
+Patryk DOBEK - carrera 400 m con vallas - Torneo de Kazakhstan - 1 - 46106 - Torneo de Bahrain - 1 - 50679
+Sophie MCKINNA - lanzamiento de bala - Torneo de Austria - 10 - 2520 - Torneo de Japan - 5 - 2291
+Réka GYURÁTZ - lanzamiento de martillo - Torneo de Sri Lanka - 6 - 8989 - Torneo de Panama - 1 - 8175
+Karissa SCHWEIZER - carrera 5000 m - Torneo de Nicaragua - 1 - 772237 - Torneo de Ireland - 1 - 848970
+Divine ODUDURU - carrera 100 m - Torneo de Djibouti - 1 - 9761 - Torneo de Central African Republic - 1 - 10716
+Divine ODUDURU - carrera 200 m - Torneo de Tonga - 1 - 19503 - Torneo de El Salvador - 1 - 21449
+Emily Cherotich TUEI - carrera 800 m - Torneo de Myanmar - 1 - 101999 - Torneo de Bahamas - 1 - 112070
+Yaoqing FANG - salto triple - Torneo de Moldova - 8 - 1996 - Torneo de Czechia - 4 - 1816
+Kim AMB - lanzamiento de jabalina - Torneo de Palau - 3 - 9968 - Torneo de Albania - 6 - 9061
+Caroline Chepkoech KIPKIRUI - carrera 5000 m - Torneo de Myanmar - 1 - 772171 - Torneo de Pakistan - 1 - 849044
+Caroline Chepkoech KIPKIRUI - carrera 21000 m - Torneo de North Korea - 1 - 3481586 - Torneo de Cuba - 1 - 3825784
