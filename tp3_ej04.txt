@@ -1,0 +1,804 @@
+id_deportista, Especialidad, Mejor marca, Mejor torneo, Mejor intento, Peor marca, Peor torneo, Peor intento
+769,  lanzamiento de jabalina, 9962.0, Torneo de Serbia, 6, 9064.0, Torneo de Grenada, 1
+23,  carrera 100 m, 10732.0, Torneo de Mauritius, 1, 9760.0, Torneo de Suriname, 1
+23,  carrera 200 m, 21423.0, Torneo de Austria, 1, 19501.0, Torneo de Tonga, 1
+114,  carrera 400 m con vallas, 50646.0, Torneo de Libya, 1, 46135.0, Torneo de Cambodia, 1
+114,  carrera 400 m, 47786.0, Torneo de Timor-Leste, 1, 43467.0, Torneo de Malta, 1
+660,  lanzamiento de bala, 2521.0, Torneo de Zambia, 6, 2291.0, Torneo de India, 5
+53,  carrera 200 m, 21436.0, Torneo de Albania, 1, 19506.0, Torneo de Algeria, 1
+110,  carrera 400 m, 47781.0, Torneo de Chad, 1, 43458.0, Torneo de Gabon, 1
+91,  carrera 400 m, 47750.0, Torneo de Equatorial Guinea, 1, 43463.0, Torneo de Burkina Faso, 1
+128,  carrera 800 m, 112071.0, Torneo de Spain, 1, 101946.0, Torneo de Guinea, 1
+363,  carrera 42000 m, 8030868.0, Torneo de Laos, 1, 7304424.0, Torneo de Burundi, 1
+251,  carrera 21000 m, 3828790.0, Torneo de Samoa, 1, 3481062.0, Torneo de Indonesia, 1
+251,  carrera 10000 m, 1768287.0, Torneo de Sri Lanka, 1, 1610215.0, Torneo de Australia, 1
+251,  carrera 42000 m, 8030030.0, Torneo de Azerbaijan, 1, 7301146.0, Torneo de Ecuador, 1
+744,  lanzamiento de martillo, 8992.0, Torneo de Australia, 10, 8174.0, Torneo de Somalia, 10
+778,  lanzamiento de jabalina, 9953.0, Torneo de Thailand, 2, 9064.0, Torneo de Bolivia, 8
+247,  carrera 10000 m, 1768687.0, Torneo de Thailand, 1, 1608863.0, Torneo de Philippines, 1
+796,  lanzamiento de jabalina, 9968.0, Torneo de Oman, 10, 9061.0, Torneo de Senegal, 3
+214,  carrera 10000 m, 1768421.0, Torneo de Maldives, 1, 1608036.0, Torneo de Bhutan, 1
+214,  carrera 5000 m, 849264.0, Torneo de Norway, 1, 772331.0, Torneo de Nigeria, 1
+429,  carrera 400 m con vallas, 50701.0, Torneo de Syria, 1, 46143.0, Torneo de Tajikistan, 1
+117,  carrera 400 m con vallas, 50649.0, Torneo de Costa Rica, 1, 46095.0, Torneo de Jamaica, 1
+117,  carrera 400 m, 47793.0, Torneo de Iceland, 1, 43453.0, Torneo de United States, 1
+547,  salto con pertiga, 667.0, Torneo de Romania, 5, 606.0, Torneo de Slovenia, 8
+144,  carrera 800 m, 112072.0, Torneo de Costa Rica, 1, 102076.0, Torneo de Iran, 1
+718,  lanzamiento de disco, 7903.0, Torneo de Guatemala, 2, 7186.0, Torneo de Russia, 1
+567,  salto largo, 956.0, Torneo de Kenya, 2, 869.0, Torneo de Suriname, 9
+120,  carrera 400 m, 47768.0, Torneo de South Sudan, 1, 43454.0, Torneo de Argentina, 1
+504,  salto de altura, 261.0, Torneo de Uruguay, 10, 237.0, Torneo de Puerto Rico, 7
+729,  lanzamiento de martillo, 8991.0, Torneo de Djibouti, 10, 8174.0, Torneo de Greece, 5
+219,  carrera 5000 m, 848625.0, Torneo de Montenegro, 1, 772722.0, Torneo de Guyana, 1
+695,  lanzamiento de disco, 7901.0, Torneo de Somalia, 4, 7186.0, Torneo de Qatar, 6
+475,  carrera 3000 m con vallas, 528968.0, Torneo de Congo Republic of the, 1, 481045.0, Torneo de Barbados, 1
+140,  carrera 1500 m, 229580.0, Torneo de Armenia, 1, 208842.0, Torneo de Mongolia, 1
+140,  carrera 800 m, 112066.0, Torneo de Rwanda, 1, 101918.0, Torneo de Barbados, 1
+782,  lanzamiento de jabalina, 9962.0, Torneo de Saint Lucia, 5, 9065.0, Torneo de Afghanistan, 8
+483,  carrera 3000 m con vallas, 529122.0, Torneo de Belgium, 1, 481149.0, Torneo de Slovakia, 1
+55,  carrera 200 m, 21438.0, Torneo de Netherlands, 1, 19501.0, Torneo de Greece, 1
+441,  carrera 400 m con vallas, 50685.0, Torneo de Jamaica, 1, 46103.0, Torneo de Dominica, 1
+779,  lanzamiento de jabalina, 9968.0, Torneo de Antigua and Barbuda, 5, 9067.0, Torneo de Georgia, 1
+662,  lanzamiento de bala, 2516.0, Torneo de Macedonia, 3, 2291.0, Torneo de Solomon Islands, 9
+255,  carrera 10000 m, 1768260.0, Torneo de Gabon, 1, 1608532.0, Torneo de Bahamas, 1
+129,  carrera 800 m, 111991.0, Torneo de Cuba, 1, 101920.0, Torneo de Vanuatu, 1
+530,  salto con pertiga, 667.0, Torneo de Suriname, 1, 606.0, Torneo de Slovakia, 4
+631,  salto triple, 1996.0, Torneo de Luxembourg, 9, 1815.0, Torneo de Madagascar, 4
+551,  salto con pertiga, 667.0, Torneo de Tonga, 1, 606.0, Torneo de Germany, 5
+787,  lanzamiento de jabalina, 9967.0, Torneo de Maldives, 8, 9063.0, Torneo de Portugal, 9
+649,  lanzamiento de bala, 2520.0, Torneo de French Guiana, 4, 2293.0, Torneo de Northern Ireland, 5
+701,  lanzamiento de disco, 7899.0, Torneo de Sri Lanka, 1, 7187.0, Torneo de Albania, 5
+646,  lanzamiento de bala, 2520.0, Torneo de Central African Republic, 1, 2291.0, Torneo de Egypt, 8
+476,  carrera 3000 m con vallas, 528861.0, Torneo de South Sudan, 1, 481224.0, Torneo de Sierra Leone, 1
+534,  salto con pertiga, 667.0, Torneo de Trinidad and Tobago, 1, 606.0, Torneo de Slovakia, 10
+438,  carrera 400 m con vallas, 50701.0, Torneo de Kiribati, 1, 46122.0, Torneo de United States, 1
+439,  carrera 400 m con vallas, 50617.0, Torneo de Zambia, 1, 46153.0, Torneo de Ivory Coast, 1
+373,  carrera 110 m con vallas, 13305.0, Torneo de Oman, 1, 12104.0, Torneo de Tunisia, 1
+770,  lanzamiento de jabalina, 9966.0, Torneo de Eritrea, 3, 9065.0, Torneo de Lithuania, 8
+33,  carrera 100 m, 10736.0, Torneo de Sao Tome and Principe, 1, 9760.0, Torneo de United States, 1
+132,  carrera 800 m, 111973.0, Torneo de Namibia, 1, 101921.0, Torneo de Somalia, 1
+535,  salto con pertiga, 667.0, Torneo de Puerto Rico, 1, 606.0, Torneo de Andorra, 5
+380,  carrera 110 m con vallas, 13293.0, Torneo de Nicaragua, 1, 12100.0, Torneo de Luxembourg, 1
+605,  salto triple, 1996.0, Torneo de Togo, 6, 1815.0, Torneo de Canada, 4
+719,  lanzamiento de disco, 7904.0, Torneo de Yemen, 6, 7187.0, Torneo de Suriname, 3
+340,  carrera 42000 m, 8030158.0, Torneo de Japan, 1, 7301667.0, Torneo de Turkey, 1
+706,  lanzamiento de disco, 7900.0, Torneo de United States, 5, 7187.0, Torneo de Switzerland, 7
+501,  salto de altura, 261.0, Torneo de Uruguay, 8, 237.0, Torneo de Tanzania, 3
+780,  lanzamiento de jabalina, 9966.0, Torneo de Ecuador, 8, 9063.0, Torneo de Benin, 8
+423,  carrera 400 m con vallas, 50699.0, Torneo de Jordan, 1, 46092.0, Torneo de Sudan, 1
+274,  carrera 21000 m, 3828021.0, Torneo de Finland, 1, 3481292.0, Torneo de Sri Lanka, 1
+274,  carrera 10000 m, 1768547.0, Torneo de Mauritius, 1, 1608306.0, Torneo de Belarus, 1
+185,  carrera 1500 m, 229641.0, Torneo de Comoros, 1, 208809.0, Torneo de Finland, 1
+5,  carrera 100 m, 10731.0, Torneo de United States, 1, 9767.0, Torneo de Ecuador, 1
+5,  carrera 200 m, 21450.0, Torneo de Brunei, 1, 19508.0, Torneo de Kenya, 1
+751,  lanzamiento de martillo, 8990.0, Torneo de Sudan, 4, 8175.0, Torneo de Vanuatu, 1
+28,  carrera 100 m, 10722.0, Torneo de Sri Lanka, 1, 9793.0, Torneo de Syria, 1
+28,  carrera 200 m, 21444.0, Torneo de Uzbekistan, 1, 19506.0, Torneo de Latvia, 1
+619,  salto triple, 1996.0, Torneo de Scotland, 7, 1814.0, Torneo de Belgium, 10
+369,  carrera 110 m con vallas, 13308.0, Torneo de South Africa, 1, 12119.0, Torneo de Netherlands, 1
+420,  carrera 400 m con vallas, 50696.0, Torneo de South Africa, 1, 46102.0, Torneo de Malawi, 1
+277,  carrera 10000 m, 1768515.0, Torneo de Mali, 1, 1609113.0, Torneo de Netherlands, 1
+313,  carrera 21000 m, 3825191.0, Torneo de Netherlands, 1, 3481121.0, Torneo de Senegal, 1
+313,  carrera 42000 m, 8029156.0, Torneo de Gambia, 1, 7304491.0, Torneo de Azerbaijan, 1
+123,  carrera 400 m, 47790.0, Torneo de Colombia, 1, 43484.0, Torneo de Libya, 1
+42,  carrera 100 m, 10736.0, Torneo de Russia, 1, 9760.0, Torneo de Guinea-Bissau, 1
+42,  carrera 200 m, 21449.0, Torneo de Austria, 1, 19508.0, Torneo de Oman, 1
+320,  carrera 21000 m, 3827062.0, Torneo de Virgin Islands (British), 1, 3483042.0, Torneo de Guinea-Bissau, 1
+153,  carrera 800 m, 112078.0, Torneo de South Africa, 1, 101954.0, Torneo de Hungary, 1
+178,  carrera 1500 m, 229494.0, Torneo de French Guiana, 1, 208951.0, Torneo de Armenia, 1
+323,  carrera 21000 m, 3825513.0, Torneo de Moldova, 1, 3481578.0, Torneo de Pakistan, 1
+538,  salto con pertiga, 667.0, Torneo de Venezuela, 2, 606.0, Torneo de Saint Vincent and the Grenadines, 4
+50,  carrera 200 m, 21446.0, Torneo de Costa Rica, 1, 19508.0, Torneo de Tonga, 1
+733,  lanzamiento de martillo, 8988.0, Torneo de El Salvador, 9, 8178.0, Torneo de Comoros, 6
+548,  salto con pertiga, 667.0, Torneo de Saudi Arabia, 10, 606.0, Torneo de Saint Kitts and Nevis, 4
+514,  salto de altura, 261.0, Torneo de Yemen, 1, 237.0, Torneo de Samoa, 7
+95,  carrera 400 m, 47793.0, Torneo de Haiti, 1, 43464.0, Torneo de Belize, 1
+485,  salto de altura, 261.0, Torneo de Marshall Islands, 3, 237.0, Torneo de Uruguay, 7
+608,  salto triple, 1996.0, Torneo de Cabo Verde, 7, 1815.0, Torneo de Niger, 3
+758,  lanzamiento de martillo, 8990.0, Torneo de Iraq, 10, 8175.0, Torneo de Ivory Coast, 2
+88,  carrera 400 m, 47791.0, Torneo de Laos, 1, 43461.0, Torneo de Dominica, 1
+645,  lanzamiento de bala, 2519.0, Torneo de Ukraine, 6, 2291.0, Torneo de Canada, 7
+377,  carrera 110 m con vallas, 13306.0, Torneo de Ivory Coast, 1, 12104.0, Torneo de Nauru, 1
+10,  carrera 100 m, 10733.0, Torneo de Virgin Islands (British), 1, 9761.0, Torneo de United States, 1
+657,  lanzamiento de bala, 2521.0, Torneo de Mali, 6, 2291.0, Torneo de Vanuatu, 5
+465,  carrera 3000 m con vallas, 528477.0, Torneo de Vietnam, 1, 481064.0, Torneo de Saint Lucia, 1
+467,  carrera 3000 m con vallas, 529121.0, Torneo de Costa Rica, 1, 481044.0, Torneo de Honduras, 1
+225,  carrera 10000 m, 1768146.0, Torneo de Iran, 1, 1608740.0, Torneo de Russia, 1
+225,  carrera 5000 m, 849293.0, Torneo de Mongolia, 1, 772162.0, Torneo de Maldives, 1
+664,  lanzamiento de bala, 2521.0, Torneo de United States, 7, 2292.0, Torneo de Micronesia, 1
+137,  carrera 800 m, 112075.0, Torneo de Zimbabwe, 1, 101895.0, Torneo de Central African Republic, 1
+612,  salto triple, 1996.0, Torneo de Suriname, 7, 1814.0, Torneo de Kyrgyzstan, 4
+382,  carrera 110 m con vallas, 13304.0, Torneo de Ecuador, 1, 12100.0, Torneo de Dominica, 1
+398,  carrera 110 m con vallas, 13304.0, Torneo de Bangladesh, 1, 12129.0, Torneo de Sudan, 1
+461,  carrera 3000 m con vallas, 528938.0, Torneo de Suriname, 1, 481061.0, Torneo de Kyrgyzstan, 1
+361,  carrera 42000 m, 8027625.0, Torneo de Sweden, 1, 7304007.0, Torneo de Tonga, 1
+463,  carrera 3000 m con vallas, 529132.0, Torneo de Mali, 1, 481095.0, Torneo de Germany, 1
+241,  carrera 5000 m, 848797.0, Torneo de Dominican Republic, 1, 772231.0, Torneo de Ghana, 1
+241,  carrera 3000 m con vallas, 529067.0, Torneo de Scotland, 1, 481056.0, Torneo de Kyrgyzstan, 1
+374,  carrera 110 m con vallas, 13308.0, Torneo de Bosnia and Herzegovina, 1, 12102.0, Torneo de Laos, 1
+118,  carrera 400 m, 47791.0, Torneo de Cyprus, 1, 43451.0, Torneo de Iraq, 1
+261,  carrera 10000 m, 1768428.0, Torneo de Uzbekistan, 1, 1609056.0, Torneo de Monaco, 1
+194,  carrera 1500 m, 229647.0, Torneo de Algeria, 1, 208867.0, Torneo de Mongolia, 1
+456,  carrera 3000 m con vallas, 529060.0, Torneo de Vatican City, 1, 481207.0, Torneo de Ghana, 1
+391,  carrera 110 m con vallas, 13302.0, Torneo de Uganda, 1, 12103.0, Torneo de France, 1
+67,  carrera 200 m, 21412.0, Torneo de Latvia, 1, 19518.0, Torneo de Lithuania, 1
+506,  salto de altura, 261.0, Torneo de Zimbabwe, 2, 237.0, Torneo de Puerto Rico, 8
+414,  carrera 400 m con vallas, 50693.0, Torneo de United States, 1, 46151.0, Torneo de Jamaica, 1
+549,  salto con pertiga, 667.0, Torneo de Kenya, 3, 606.0, Torneo de Uganda, 10
+786,  lanzamiento de jabalina, 9958.0, Torneo de Finland, 10, 9065.0, Torneo de Nigeria, 2
+125,  carrera 800 m, 112075.0, Torneo de Sudan, 1, 101977.0, Torneo de Malta, 1
+197,  carrera 1500 m, 229635.0, Torneo de Panama, 1, 209043.0, Torneo de Bhutan, 1
+720,  lanzamiento de disco, 7905.0, Torneo de Ethiopia, 3, 7191.0, Torneo de New Zealand, 1
+416,  carrera 400 m con vallas, 50625.0, Torneo de Ivory Coast, 1, 46130.0, Torneo de Botswana, 1
+370,  carrera 110 m con vallas, 13308.0, Torneo de Belarus, 1, 12098.0, Torneo de Canada, 1
+500,  salto de altura, 261.0, Torneo de Senegal, 6, 237.0, Torneo de Virgin Islands (British), 4
+594,  salto largo, 956.0, Torneo de Panama, 8, 869.0, Torneo de Singapore, 1
+134,  carrera 800 m, 111997.0, Torneo de Poland, 1, 101895.0, Torneo de Germany, 1
+201,  carrera 1500 m, 229624.0, Torneo de Equatorial Guinea, 1, 208772.0, Torneo de Oman, 1
+670,  lanzamiento de bala, 2521.0, Torneo de Ivory Coast, 8, 2291.0, Torneo de Qatar, 7
+570,  salto largo, 956.0, Torneo de India, 1, 869.0, Torneo de Lesotho, 4
+360,  carrera 42000 m, 8024020.0, Torneo de Singapore, 1, 7313756.0, Torneo de Luxembourg, 1
+707,  lanzamiento de disco, 7903.0, Torneo de Nigeria, 5, 7189.0, Torneo de Zambia, 3
+79,  carrera 200 m, 21434.0, Torneo de Zambia, 1, 19503.0, Torneo de Peru, 1
+210,  carrera 5000 m, 849023.0, Torneo de Austria, 1, 772709.0, Torneo de Andorra, 1
+505,  salto de altura, 261.0, Torneo de Virgin Islands (British), 3, 237.0, Torneo de Puerto Rico, 1
+16,  carrera 100 m, 10726.0, Torneo de Morocco, 1, 9766.0, Torneo de Cyprus, 1
+402,  carrera 110 m con vallas, 13305.0, Torneo de Niger, 1, 12105.0, Torneo de New Zealand, 1
+768,  lanzamiento de jabalina, 9960.0, Torneo de Grenada, 6, 9065.0, Torneo de Lithuania, 4
+725,  lanzamiento de disco, 7892.0, Torneo de Sweden, 4, 7192.0, Torneo de Indonesia, 10
+642,  salto triple, 1996.0, Torneo de Switzerland, 9, 1814.0, Torneo de Macedonia, 7
+774,  lanzamiento de jabalina, 9966.0, Torneo de Poland, 6, 9066.0, Torneo de Malta, 7
+508,  salto de altura, 261.0, Torneo de Tajikistan, 6, 237.0, Torneo de United States, 5
+490,  salto de altura, 261.0, Torneo de Vietnam, 3, 237.0, Torneo de South Sudan, 6
+253,  carrera 10000 m, 1768566.0, Torneo de Vatican City, 1, 1609982.0, Torneo de Montenegro, 1
+723,  lanzamiento de disco, 7904.0, Torneo de United Arab Emirates, 5, 7186.0, Torneo de Albania, 8
+650,  lanzamiento de bala, 2521.0, Torneo de Jamaica, 2, 2293.0, Torneo de Turkey, 10
+80,  carrera 200 m, 21440.0, Torneo de Sao Tome and Principe, 1, 19522.0, Torneo de Guinea-Bissau, 1
+139,  carrera 800 m, 112075.0, Torneo de Colombia, 1, 101895.0, Torneo de Yemen, 1
+213,  carrera 5000 m, 849223.0, Torneo de Estonia, 1, 773126.0, Torneo de Angola, 1
+804,  lanzamiento de jabalina, 9966.0, Torneo de Niger, 5, 9069.0, Torneo de Sudan, 5
+328,  carrera 42000 m, 8029944.0, Torneo de Colombia, 1, 7311781.0, Torneo de Palau, 1
+497,  salto de altura, 261.0, Torneo de Panama, 5, 237.0, Torneo de Uruguay, 6
+13,  carrera 100 m, 10733.0, Torneo de Libya, 1, 9762.0, Torneo de Niger, 1
+379,  carrera 110 m con vallas, 13307.0, Torneo de Papua New Guinea, 1, 12099.0, Torneo de Romania, 1
+169,  carrera 1500 m, 229448.0, Torneo de Somalia, 1, 208778.0, Torneo de Bosnia and Herzegovina, 1
+588,  salto largo, 956.0, Torneo de Sudan, 1, 869.0, Torneo de Venezuela, 2
+30,  carrera 100 m, 10733.0, Torneo de Mauritius, 1, 9764.0, Torneo de Canada, 1
+145,  carrera 800 m, 112078.0, Torneo de Japan, 1, 101983.0, Torneo de Angola, 1
+351,  carrera 42000 m, 8030853.0, Torneo de Tajikistan, 1, 7304817.0, Torneo de Eritrea, 1
+553,  salto con pertiga, 667.0, Torneo de Qatar, 9, 606.0, Torneo de Ireland, 4
+639,  salto triple, 1994.0, Torneo de Namibia, 1, 1814.0, Torneo de Haiti, 10
+528,  salto con pertiga, 667.0, Torneo de Zambia, 8, 606.0, Torneo de Saint Lucia, 9
+677,  lanzamiento de bala, 2521.0, Torneo de Bhutan, 3, 2291.0, Torneo de Palau, 7
+211,  carrera 5000 m, 849211.0, Torneo de Lebanon, 1, 772143.0, Torneo de Guyana, 1
+378,  carrera 110 m con vallas, 13301.0, Torneo de Kosovo, 1, 12106.0, Torneo de Namibia, 1
+691,  lanzamiento de disco, 7899.0, Torneo de Nepal, 8, 7188.0, Torneo de Senegal, 10
+674,  lanzamiento de bala, 2521.0, Torneo de Honduras, 9, 2291.0, Torneo de Northern Ireland, 3
+111,  carrera 400 m, 47793.0, Torneo de Cameroon, 1, 43454.0, Torneo de Niger, 1
+234,  carrera 5000 m, 848796.0, Torneo de Haiti, 1, 772275.0, Torneo de Cyprus, 1
+610,  salto triple, 1996.0, Torneo de Sweden, 4, 1814.0, Torneo de Turkey, 3
+452,  carrera 3000 m con vallas, 529015.0, Torneo de Mozambique, 1, 481040.0, Torneo de Georgia, 1
+447,  carrera 3000 m con vallas, 528889.0, Torneo de Kazakhstan, 1, 481168.0, Torneo de Sweden, 1
+449,  carrera 3000 m con vallas, 528354.0, Torneo de Turkmenistan, 1, 482078.0, Torneo de Moldova, 1
+520,  salto de altura, 261.0, Torneo de Syria, 1, 237.0, Torneo de Singapore, 6
+520,  salto largo, 955.0, Torneo de Singapore, 7, 869.0, Torneo de Iceland, 10
+113,  carrera 400 m, 47776.0, Torneo de Afghanistan, 1, 43452.0, Torneo de Czechia, 1
+375,  carrera 110 m con vallas, 13307.0, Torneo de Tunisia, 1, 12099.0, Torneo de Micronesia, 1
+355,  carrera 42000 m, 8030109.0, Torneo de Honduras, 1, 7302153.0, Torneo de Japan, 1
+99,  carrera 400 m con vallas, 50676.0, Torneo de Antigua and Barbuda, 1, 46102.0, Torneo de Tuvalu, 1
+99,  carrera 400 m, 47769.0, Torneo de Taiwan, 1, 43477.0, Torneo de Estonia, 1
+222,  carrera 5000 m, 849132.0, Torneo de Myanmar, 1, 772442.0, Torneo de Saudi Arabia, 1
+755,  lanzamiento de martillo, 8992.0, Torneo de Slovenia, 4, 8181.0, Torneo de Chile, 5
+160,  carrera 800 m, 111974.0, Torneo de Tunisia, 1, 101940.0, Torneo de Vatican City, 1
+390,  carrera 110 m con vallas, 13286.0, Torneo de Georgia, 1, 12100.0, Torneo de Papua New Guinea, 1
+11,  carrera 100 m, 10726.0, Torneo de Micronesia, 1, 9764.0, Torneo de Jordan, 1
+11,  carrera 200 m, 21448.0, Torneo de Morocco, 1, 19503.0, Torneo de Greece, 1
+280,  carrera 10000 m, 1768314.0, Torneo de Netherlands, 1, 1608063.0, Torneo de Luxembourg, 1
+151,  carrera 1500 m, 229591.0, Torneo de Liechtenstein, 1, 209050.0, Torneo de Italy, 1
+151,  carrera 800 m, 112043.0, Torneo de Pakistan, 1, 101895.0, Torneo de Malawi, 1
+252,  carrera 10000 m, 1768556.0, Torneo de Chad, 1, 1609185.0, Torneo de Hungary, 1
+1,  carrera 100 m, 10726.0, Torneo de Latvia, 1, 9762.0, Torneo de Philippines, 1
+1,  carrera 200 m, 21449.0, Torneo de North Korea, 1, 19505.0, Torneo de South Africa, 1
+788,  lanzamiento de jabalina, 9964.0, Torneo de Serbia, 5, 9067.0, Torneo de Russia, 1
+344,  carrera 42000 m, 8026649.0, Torneo de Uzbekistan, 1, 7309082.0, Torneo de Mauritania, 1
+731,  lanzamiento de martillo, 8991.0, Torneo de Argentina, 9, 8174.0, Torneo de Bangladesh, 10
+19,  carrera 100 m, 10728.0, Torneo de Barbados, 1, 9769.0, Torneo de Macedonia, 1
+263,  carrera 10000 m, 1766905.0, Torneo de Vatican City, 1, 1610159.0, Torneo de Morocco, 1
+269,  carrera 21000 m, 3827938.0, Torneo de Myanmar, 1, 3482665.0, Torneo de Ghana, 1
+269,  carrera 10000 m, 1767554.0, Torneo de New Zealand, 1, 1608408.0, Torneo de Mexico, 1
+61,  carrera 200 m, 21443.0, Torneo de Malawi, 1, 19504.0, Torneo de Luxembourg, 1
+61,  carrera 400 m, 47771.0, Torneo de Trinidad and Tobago, 1, 43457.0, Torneo de South Korea, 1
+727,  lanzamiento de martillo, 8988.0, Torneo de Central African Republic, 6, 8174.0, Torneo de Comoros, 1
+157,  carrera 800 m, 112032.0, Torneo de Turkmenistan, 1, 101909.0, Torneo de China, 1
+204,  carrera 5000 m, 849204.0, Torneo de Sierra Leone, 1, 772121.0, Torneo de Samoa, 1
+705,  lanzamiento de disco, 7899.0, Torneo de Gambia, 10, 7189.0, Torneo de Puerto Rico, 4
+557,  salto con pertiga, 667.0, Torneo de Myanmar, 10, 606.0, Torneo de Tuvalu, 8
+599,  salto largo, 956.0, Torneo de Macedonia, 7, 871.0, Torneo de Slovenia, 10
+43,  carrera 200 m, 21423.0, Torneo de Rwanda, 1, 19501.0, Torneo de Denmark, 1
+43,  carrera 400 m, 47737.0, Torneo de Guinea-Bissau, 1, 43463.0, Torneo de Ghana, 1
+552,  salto con pertiga, 667.0, Torneo de Vatican City, 3, 606.0, Torneo de Slovakia, 1
+130,  carrera 800 m, 111994.0, Torneo de Brazil, 1, 102106.0, Torneo de Grenada, 1
+8,  carrera 100 m, 10735.0, Torneo de Eritrea, 1, 9760.0, Torneo de Georgia, 1
+571,  salto largo, 956.0, Torneo de Scotland, 1, 869.0, Torneo de Madagascar, 4
+711,  lanzamiento de disco, 7905.0, Torneo de Zimbabwe, 10, 7188.0, Torneo de Malta, 5
+783,  lanzamiento de jabalina, 9967.0, Torneo de Kuwait, 4, 9064.0, Torneo de Norway, 4
+527,  salto con pertiga, 667.0, Torneo de Puerto Rico, 10, 606.0, Torneo de Sri Lanka, 4
+352,  carrera 42000 m, 8025039.0, Torneo de Lithuania, 1, 7301386.0, Torneo de Guyana, 1
+311,  carrera 21000 m, 3828892.0, Torneo de Chile, 1, 3488790.0, Torneo de Guinea, 1
+311,  carrera 42000 m, 8023527.0, Torneo de Syria, 1, 7303234.0, Torneo de Gambia, 1
+732,  lanzamiento de martillo, 8992.0, Torneo de Iraq, 9, 8177.0, Torneo de Malaysia, 8
+472,  carrera 3000 m con vallas, 528970.0, Torneo de Switzerland, 1, 482244.0, Torneo de Solomon Islands, 1
+283,  carrera 10000 m, 1767971.0, Torneo de Bahrain, 1, 1609953.0, Torneo de Vietnam, 1
+766,  lanzamiento de jabalina, 9959.0, Torneo de Singapore, 6, 9063.0, Torneo de Bolivia, 9
+749,  lanzamiento de martillo, 8986.0, Torneo de San Marino, 1, 8175.0, Torneo de Costa Rica, 5
+397,  carrera 110 m con vallas, 13295.0, Torneo de Saint Lucia, 1, 12105.0, Torneo de Germany, 1
+257,  carrera 10000 m, 1768723.0, Torneo de Moldova, 1, 1608952.0, Torneo de Saint Lucia, 1
+512,  salto de altura, 261.0, Torneo de South Africa, 6, 237.0, Torneo de Saudi Arabia, 7
+221,  carrera 5000 m, 849067.0, Torneo de Benin, 1, 772938.0, Torneo de Vietnam, 1
+493,  salto de altura, 261.0, Torneo de Ukraine, 8, 237.0, Torneo de Turkmenistan, 10
+122,  carrera 400 m, 47776.0, Torneo de Laos, 1, 43452.0, Torneo de Brazil, 1
+212,  carrera 10000 m, 1768340.0, Torneo de Central African Republic, 1, 1608242.0, Torneo de Cambodia, 1
+212,  carrera 5000 m, 847578.0, Torneo de Fiji, 1, 772524.0, Torneo de Kosovo, 1
+368,  carrera 110 m con vallas, 13308.0, Torneo de Mauritius, 1, 12113.0, Torneo de Cuba, 1
+507,  salto de altura, 261.0, Torneo de Vanuatu, 2, 237.0, Torneo de Maldives, 8
+507,  salto largo, 956.0, Torneo de Angola, 7, 869.0, Torneo de Latvia, 10
+458,  carrera 3000 m con vallas, 528928.0, Torneo de Nicaragua, 1, 481261.0, Torneo de Seychelles, 1
+346,  carrera 42000 m, 8023472.0, Torneo de Australia, 1, 7303206.0, Torneo de Botswana, 1
+2,  carrera 100 m, 10736.0, Torneo de Libya, 1, 9760.0, Torneo de Puerto Rico, 1
+2,  carrera 200 m, 21444.0, Torneo de South Sudan, 1, 19505.0, Torneo de Serbia, 1
+624,  salto triple, 1996.0, Torneo de Bhutan, 8, 1814.0, Torneo de Guyana, 3
+791,  lanzamiento de jabalina, 9968.0, Torneo de Syria, 6, 9063.0, Torneo de Equatorial Guinea, 4
+176,  carrera 1500 m, 229585.0, Torneo de San Marino, 1, 208788.0, Torneo de Maldives, 1
+176,  carrera 10000 m, 1768354.0, Torneo de Slovakia, 1, 1608164.0, Torneo de Kosovo, 1
+322,  carrera 21000 m, 3826947.0, Torneo de Scotland, 1, 3482593.0, Torneo de Puerto Rico, 1
+440,  carrera 400 m con vallas, 50675.0, Torneo de Cambodia, 1, 46113.0, Torneo de Indonesia, 1
+381,  carrera 110 m con vallas, 13307.0, Torneo de Moldova, 1, 12128.0, Torneo de Slovakia, 1
+671,  lanzamiento de bala, 2513.0, Torneo de South Sudan, 4, 2291.0, Torneo de Vatican City, 3
+622,  salto triple, 1995.0, Torneo de Panama, 7, 1814.0, Torneo de Solomon Islands, 7
+444,  carrera 3000 m con vallas, 528674.0, Torneo de New Zealand, 1, 481433.0, Torneo de Italy, 1
+746,  lanzamiento de martillo, 8987.0, Torneo de Grenada, 3, 8176.0, Torneo de Malaysia, 2
+678,  lanzamiento de bala, 2521.0, Torneo de Wales, 1, 2291.0, Torneo de South Sudan, 6
+665,  lanzamiento de bala, 2521.0, Torneo de Czechia, 4, 2291.0, Torneo de Saint Lucia, 8
+455,  carrera 3000 m con vallas, 528903.0, Torneo de Chile, 1, 481059.0, Torneo de Venezuela, 1
+343,  carrera 42000 m, 8029220.0, Torneo de Panama, 1, 7309791.0, Torneo de Russia, 1
+218,  carrera 21000 m, 3826954.0, Torneo de Cambodia, 1, 3484137.0, Torneo de Vatican City, 1
+218,  carrera 10000 m, 1768122.0, Torneo de South Korea, 1, 1608510.0, Torneo de Chile, 1
+218,  carrera 5000 m, 848824.0, Torneo de Azerbaijan, 1, 772147.0, Torneo de Saint Vincent and the Grenadines, 1
+745,  lanzamiento de martillo, 8989.0, Torneo de Rwanda, 6, 8177.0, Torneo de Ukraine, 2
+776,  lanzamiento de jabalina, 9965.0, Torneo de India, 8, 9071.0, Torneo de Trinidad and Tobago, 8
+697,  lanzamiento de disco, 7905.0, Torneo de Argentina, 3, 7188.0, Torneo de Bulgaria, 7
+4,  carrera 100 m, 10736.0, Torneo de Gabon, 1, 9766.0, Torneo de Liberia, 1
+434,  carrera 400 m con vallas, 50684.0, Torneo de Marshall Islands, 1, 46208.0, Torneo de Taiwan, 1
+18,  carrera 100 m, 10733.0, Torneo de Timor-Leste, 1, 9764.0, Torneo de Gambia, 1
+415,  carrera 400 m con vallas, 50682.0, Torneo de Chile, 1, 46115.0, Torneo de Mexico, 1
+544,  salto con pertiga, 667.0, Torneo de Qatar, 4, 606.0, Torneo de Philippines, 6
+268,  carrera 10000 m, 1768742.0, Torneo de Gabon, 1, 1608528.0, Torneo de Israel, 1
+572,  salto largo, 956.0, Torneo de Ukraine, 2, 869.0, Torneo de Kazakhstan, 2
+314,  carrera 21000 m, 3827260.0, Torneo de Marshall Islands, 1, 3482942.0, Torneo de Azerbaijan, 1
+523,  salto de altura, 261.0, Torneo de Nicaragua, 6, 237.0, Torneo de Vatican City, 5
+730,  lanzamiento de martillo, 8980.0, Torneo de Uganda, 3, 8180.0, Torneo de Burkina Faso, 6
+177,  carrera 1500 m, 229574.0, Torneo de Taiwan, 1, 208828.0, Torneo de Bosnia and Herzegovina, 1
+417,  carrera 400 m con vallas, 50690.0, Torneo de San Marino, 1, 46118.0, Torneo de Uruguay, 1
+667,  lanzamiento de bala, 2521.0, Torneo de Sweden, 10, 2292.0, Torneo de Saint Vincent and the Grenadines, 10
+794,  lanzamiento de jabalina, 9967.0, Torneo de Chad, 9, 9063.0, Torneo de Saint Vincent and the Grenadines, 3
+409,  carrera 400 m con vallas, 50698.0, Torneo de Georgia, 1, 46120.0, Torneo de United Arab Emirates, 1
+47,  carrera 200 m, 21433.0, Torneo de Dominican Republic, 1, 19506.0, Torneo de Nepal, 1
+724,  lanzamiento de disco, 7905.0, Torneo de Jordan, 1, 7187.0, Torneo de Chad, 4
+358,  carrera 42000 m, 8026434.0, Torneo de Luxembourg, 1, 7303429.0, Torneo de Bahrain, 1
+94,  carrera 400 m, 47760.0, Torneo de Malaysia, 1, 43476.0, Torneo de Burkina Faso, 1
+143,  carrera 800 m, 112066.0, Torneo de Philippines, 1, 101945.0, Torneo de Argentina, 1
+468,  carrera 3000 m con vallas, 528800.0, Torneo de Oman, 1, 481179.0, Torneo de Kenya, 1
+583,  salto largo, 956.0, Torneo de Mauritania, 5, 869.0, Torneo de Zimbabwe, 9
+403,  carrera 110 m con vallas, 13297.0, Torneo de Maldives, 1, 12105.0, Torneo de Antigua and Barbuda, 1
+546,  salto con pertiga, 667.0, Torneo de Denmark, 4, 606.0, Torneo de Uzbekistan, 6
+771,  lanzamiento de jabalina, 9940.0, Torneo de Morocco, 8, 9087.0, Torneo de Zimbabwe, 4
+618,  salto triple, 1996.0, Torneo de Colombia, 6, 1814.0, Torneo de Kuwait, 6
+411,  carrera 400 m con vallas, 50697.0, Torneo de Gambia, 1, 46118.0, Torneo de Vietnam, 1
+471,  carrera 3000 m con vallas, 529006.0, Torneo de Ghana, 1, 481266.0, Torneo de Denmark, 1
+486,  salto de altura, 261.0, Torneo de Puerto Rico, 9, 237.0, Torneo de Syria, 10
+652,  lanzamiento de bala, 2521.0, Torneo de United Arab Emirates, 1, 2292.0, Torneo de Virgin Islands (British), 5
+533,  salto con pertiga, 667.0, Torneo de Venezuela, 5, 606.0, Torneo de Philippines, 1
+74,  carrera 200 m, 21438.0, Torneo de Mexico, 1, 19507.0, Torneo de Tonga, 1
+359,  carrera 42000 m, 8030767.0, Torneo de Andorra, 1, 7311718.0, Torneo de Congo Republic of the, 1
+799,  lanzamiento de jabalina, 9959.0, Torneo de Marshall Islands, 9, 9061.0, Torneo de Scotland, 2
+220,  carrera 5000 m, 848817.0, Torneo de Bahamas, 1, 772128.0, Torneo de Saudi Arabia, 1
+689,  lanzamiento de disco, 7903.0, Torneo de Sierra Leone, 10, 7186.0, Torneo de Guinea, 5
+693,  lanzamiento de disco, 7903.0, Torneo de Rwanda, 4, 7186.0, Torneo de Cambodia, 6
+155,  carrera 1500 m, 229610.0, Torneo de Guinea, 1, 208805.0, Torneo de Togo, 1
+155,  carrera 800 m, 111989.0, Torneo de Canada, 1, 101899.0, Torneo de South Korea, 1
+345,  carrera 42000 m, 8027660.0, Torneo de Senegal, 1, 7306906.0, Torneo de Albania, 1
+446,  carrera 3000 m con vallas, 529036.0, Torneo de Germany, 1, 481711.0, Torneo de Marshall Islands, 1
+116,  carrera 400 m, 47765.0, Torneo de Somalia, 1, 43470.0, Torneo de Moldova, 1
+121,  carrera 400 m, 47792.0, Torneo de Czechia, 1, 43462.0, Torneo de Monaco, 1
+580,  salto triple, 1996.0, Torneo de San Marino, 7, 1814.0, Torneo de Turkmenistan, 10
+580,  salto largo, 956.0, Torneo de Guinea-Bissau, 9, 870.0, Torneo de Paraguay, 6
+432,  carrera 400 m con vallas, 50699.0, Torneo de Kenya, 1, 46178.0, Torneo de Central African Republic, 1
+372,  carrera 110 m con vallas, 13306.0, Torneo de Lesotho, 1, 12098.0, Torneo de Timor-Leste, 1
+249,  carrera 21000 m, 3828474.0, Torneo de Switzerland, 1, 3482018.0, Torneo de Syria, 1
+249,  carrera 10000 m, 1768375.0, Torneo de Monaco, 1, 1609354.0, Torneo de Argentina, 1
+698,  lanzamiento de disco, 7898.0, Torneo de Vietnam, 8, 7192.0, Torneo de Tanzania, 3
+366,  carrera 110 m con vallas, 13304.0, Torneo de Jordan, 1, 12109.0, Torneo de Kuwait, 1
+96,  carrera 400 m, 47774.0, Torneo de Chad, 1, 43473.0, Torneo de Comoros, 1
+184,  carrera 1500 m, 229521.0, Torneo de Ghana, 1, 208771.0, Torneo de South Sudan, 1
+184,  carrera 21000 m, 3826790.0, Torneo de Saint Lucia, 1, 3482679.0, Torneo de Gambia, 1
+184,  carrera 10000 m, 1766874.0, Torneo de Syria, 1, 1608968.0, Torneo de Fiji, 1
+184,  carrera 5000 m, 849167.0, Torneo de Panama, 1, 772098.0, Torneo de Australia, 1
+492,  salto de altura, 261.0, Torneo de Macedonia, 1, 237.0, Torneo de Uzbekistan, 2
+356,  carrera 42000 m, 8030629.0, Torneo de Cambodia, 1, 7302147.0, Torneo de Tanzania, 1
+460,  carrera 3000 m con vallas, 529061.0, Torneo de Canada, 1, 481036.0, Torneo de New Zealand, 1
+659,  lanzamiento de bala, 2520.0, Torneo de Sierra Leone, 4, 2292.0, Torneo de Syria, 2
+146,  carrera 800 m, 112075.0, Torneo de Serbia, 1, 101892.0, Torneo de Libya, 1
+473,  carrera 3000 m con vallas, 529080.0, Torneo de Sweden, 1, 481272.0, Torneo de Tunisia, 1
+229,  carrera 10000 m, 1768785.0, Torneo de Lebanon, 1, 1608326.0, Torneo de Liberia, 1
+229,  carrera 5000 m, 849287.0, Torneo de Australia, 1, 772303.0, Torneo de Algeria, 1
+336,  carrera 42000 m, 8027313.0, Torneo de Netherlands, 1, 7304332.0, Torneo de Cabo Verde, 1
+15,  carrera 100 m, 10733.0, Torneo de Uruguay, 1, 9760.0, Torneo de Lebanon, 1
+365,  carrera 110 m con vallas, 13283.0, Torneo de Malta, 1, 12105.0, Torneo de Georgia, 1
+539,  salto con pertiga, 667.0, Torneo de Qatar, 9, 606.0, Torneo de Nicaragua, 8
+410,  carrera 400 m con vallas, 50689.0, Torneo de Wales, 1, 46095.0, Torneo de Mexico, 1
+792,  lanzamiento de jabalina, 9968.0, Torneo de United Arab Emirates, 1, 9062.0, Torneo de Austria, 9
+797,  lanzamiento de jabalina, 9968.0, Torneo de Japan, 10, 9062.0, Torneo de Finland, 10
+209,  carrera 10000 m, 1766586.0, Torneo de South Africa, 1, 1609174.0, Torneo de Thailand, 1
+209,  carrera 5000 m, 848785.0, Torneo de Puerto Rico, 1, 772176.0, Torneo de Kyrgyzstan, 1
+22,  carrera 100 m, 10732.0, Torneo de Monaco, 1, 9761.0, Torneo de Puerto Rico, 1
+22,  carrera 200 m, 21444.0, Torneo de Luxembourg, 1, 19500.0, Torneo de Grenada, 1
+112,  carrera 400 m, 47791.0, Torneo de Cambodia, 1, 43471.0, Torneo de Australia, 1
+437,  carrera 400 m con vallas, 50698.0, Torneo de Comoros, 1, 46100.0, Torneo de Bolivia, 1
+233,  carrera 5000 m, 848869.0, Torneo de Cuba, 1, 772169.0, Torneo de Germany, 1
+663,  lanzamiento de bala, 2520.0, Torneo de Turkey, 2, 2291.0, Torneo de United States, 9
+459,  carrera 3000 m con vallas, 529086.0, Torneo de Ukraine, 1, 481195.0, Torneo de Armenia, 1
+726,  lanzamiento de martillo, 8992.0, Torneo de Venezuela, 5, 8177.0, Torneo de Togo, 4
+525,  salto con pertiga, 667.0, Torneo de Tanzania, 2, 606.0, Torneo de Slovenia, 8
+433,  carrera 400 m con vallas, 50656.0, Torneo de Benin, 1, 46101.0, Torneo de Georgia, 1
+408,  carrera 400 m con vallas, 50687.0, Torneo de Azerbaijan, 1, 46094.0, Torneo de Comoros, 1
+640,  salto triple, 1995.0, Torneo de Luxembourg, 4, 1815.0, Torneo de Niger, 9
+721,  lanzamiento de disco, 7904.0, Torneo de Mauritania, 3, 7197.0, Torneo de Puerto Rico, 5
+484,  salto de altura, 261.0, Torneo de Trinidad and Tobago, 6, 237.0, Torneo de Vatican City, 4
+578,  salto largo, 956.0, Torneo de Saint Vincent and the Grenadines, 5, 869.0, Torneo de South Korea, 10
+385,  carrera 110 m con vallas, 13305.0, Torneo de Vanuatu, 1, 12102.0, Torneo de Papua New Guinea, 1
+421,  carrera 400 m con vallas, 50692.0, Torneo de Finland, 1, 46116.0, Torneo de Bulgaria, 1
+262,  carrera 10000 m, 1766456.0, Torneo de Azerbaijan, 1, 1608971.0, Torneo de Switzerland, 1
+597,  salto largo, 956.0, Torneo de Albania, 8, 869.0, Torneo de Turkmenistan, 9
+579,  salto largo, 956.0, Torneo de Bangladesh, 4, 869.0, Torneo de Mexico, 2
+491,  salto de altura, 261.0, Torneo de United States, 5, 237.0, Torneo de South Africa, 3
+702,  lanzamiento de disco, 7905.0, Torneo de Norway, 4, 7187.0, Torneo de Mexico, 1
+602,  salto largo, 956.0, Torneo de Palau, 8, 869.0, Torneo de Vanuatu, 3
+98,  carrera 400 m con vallas, 50664.0, Torneo de Zimbabwe, 1, 46127.0, Torneo de Maldives, 1
+98,  carrera 400 m, 47761.0, Torneo de Mexico, 1, 43457.0, Torneo de Ukraine, 1
+669,  lanzamiento de bala, 2520.0, Torneo de United States, 6, 2291.0, Torneo de Vatican City, 2
+686,  lanzamiento de disco, 7904.0, Torneo de Paraguay, 4, 7189.0, Torneo de Uzbekistan, 1
+224,  carrera 10000 m, 1767213.0, Torneo de Turkey, 1, 1608470.0, Torneo de Eritrea, 1
+224,  carrera 5000 m, 849204.0, Torneo de Nicaragua, 1, 772409.0, Torneo de Nepal, 1
+152,  carrera 800 m, 112022.0, Torneo de Angola, 1, 101904.0, Torneo de Monaco, 1
+495,  salto de altura, 261.0, Torneo de Zambia, 3, 237.0, Torneo de Turkmenistan, 9
+135,  carrera 800 m, 112055.0, Torneo de Rwanda, 1, 102008.0, Torneo de San Marino, 1
+790,  lanzamiento de jabalina, 9966.0, Torneo de Portugal, 8, 9062.0, Torneo de Guinea-Bissau, 4
+503,  salto de altura, 261.0, Torneo de Uzbekistan, 10, 237.0, Torneo de Puerto Rico, 4
+302,  carrera 21000 m, 3827462.0, Torneo de Zimbabwe, 1, 3481507.0, Torneo de Greece, 1
+389,  carrera 110 m con vallas, 13303.0, Torneo de Samoa, 1, 12107.0, Torneo de Virgin Islands (British), 1
+404,  carrera 400 m con vallas, 50697.0, Torneo de Ivory Coast, 1, 46102.0, Torneo de Israel, 1
+54,  carrera 110 m con vallas, 13308.0, Torneo de Panama, 1, 12102.0, Torneo de Indonesia, 1
+54,  carrera 200 m, 21442.0, Torneo de Australia, 1, 19505.0, Torneo de Niger, 1
+658,  lanzamiento de bala, 2520.0, Torneo de Burkina Faso, 5, 2294.0, Torneo de Mongolia, 1
+75,  carrera 200 m, 21422.0, Torneo de Jamaica, 1, 19515.0, Torneo de Venezuela, 1
+338,  carrera 42000 m, 8028679.0, Torneo de Chile, 1, 7304505.0, Torneo de Lebanon, 1
+632,  salto triple, 1995.0, Torneo de Suriname, 4, 1814.0, Torneo de Mozambique, 7
+259,  carrera 10000 m, 1768095.0, Torneo de Mali, 1, 1608516.0, Torneo de Uruguay, 1
+541,  salto con pertiga, 667.0, Torneo de Virgin Islands (British), 5, 606.0, Torneo de Guyana, 7
+287,  carrera 21000 m, 3827918.0, Torneo de Rwanda, 1, 3483548.0, Torneo de Suriname, 1
+798,  lanzamiento de jabalina, 9967.0, Torneo de Greece, 2, 9063.0, Torneo de Scotland, 9
+651,  lanzamiento de bala, 2521.0, Torneo de Uruguay, 7, 2292.0, Torneo de India, 6
+115,  carrera 400 m, 47791.0, Torneo de Wales, 1, 43467.0, Torneo de Italy, 1
+271,  carrera 10000 m, 1768720.0, Torneo de Estonia, 1, 1608075.0, Torneo de Ecuador, 1
+743,  lanzamiento de martillo, 8991.0, Torneo de Eritrea, 2, 8174.0, Torneo de Nepal, 8
+453,  carrera 3000 m con vallas, 529108.0, Torneo de Bulgaria, 1, 481332.0, Torneo de French Guiana, 1
+740,  lanzamiento de martillo, 8975.0, Torneo de Germany, 10, 8178.0, Torneo de New Zealand, 8
+741,  lanzamiento de martillo, 8987.0, Torneo de Wales, 4, 8176.0, Torneo de Nigeria, 10
+256,  carrera 10000 m, 1767096.0, Torneo de Serbia, 1, 1608151.0, Torneo de Paraguay, 1
+627,  salto triple, 1995.0, Torneo de Tanzania, 3, 1814.0, Torneo de Puerto Rico, 2
+617,  salto triple, 1995.0, Torneo de Myanmar, 7, 1814.0, Torneo de Greece, 9
+203,  carrera 1500 m, 229623.0, Torneo de Gabon, 1, 208852.0, Torneo de Turkey, 1
+174,  carrera 1500 m, 229624.0, Torneo de Panama, 1, 208809.0, Torneo de Albania, 1
+279,  carrera 10000 m, 1767550.0, Torneo de Finland, 1, 1608079.0, Torneo de Kosovo, 1
+183,  carrera 1500 m, 229496.0, Torneo de Cabo Verde, 1, 208853.0, Torneo de Uganda, 1
+58,  carrera 200 m, 21426.0, Torneo de Congo Republic of the, 1, 19532.0, Torneo de Cameroon, 1
+260,  carrera 21000 m, 3825488.0, Torneo de Malawi, 1, 3482276.0, Torneo de Belarus, 1
+260,  carrera 10000 m, 1768348.0, Torneo de Sri Lanka, 1, 1610703.0, Torneo de Equatorial Guinea, 1
+260,  carrera 42000 m, 8030678.0, Torneo de Malta, 1, 7307624.0, Torneo de Russia, 1
+509,  salto de altura, 261.0, Torneo de Denmark, 8, 237.0, Torneo de South Africa, 3
+186,  carrera 1500 m, 229566.0, Torneo de Israel, 1, 208792.0, Torneo de Morocco, 1
+555,  salto con pertiga, 667.0, Torneo de Zambia, 7, 606.0, Torneo de Guinea-Bissau, 2
+515,  salto de altura, 261.0, Torneo de Uganda, 5, 237.0, Torneo de Wales, 4
+593,  salto largo, 955.0, Torneo de Uruguay, 9, 869.0, Torneo de United States, 3
+419,  carrera 400 m con vallas, 50623.0, Torneo de Suriname, 1, 46121.0, Torneo de Serbia, 1
+518,  salto de altura, 261.0, Torneo de Zimbabwe, 6, 237.0, Torneo de Puerto Rico, 6
+148,  carrera 800 m, 112041.0, Torneo de Trinidad and Tobago, 1, 101916.0, Torneo de Cambodia, 1
+738,  lanzamiento de martillo, 8988.0, Torneo de Suriname, 3, 8179.0, Torneo de Bahrain, 7
+764,  lanzamiento de martillo, 8984.0, Torneo de Grenada, 6, 8175.0, Torneo de El Salvador, 8
+223,  carrera 5000 m, 849028.0, Torneo de Colombia, 1, 772521.0, Torneo de Iceland, 1
+603,  salto largo, 956.0, Torneo de Kyrgyzstan, 5, 869.0, Torneo de Malaysia, 8
+86,  carrera 400 m, 47776.0, Torneo de Thailand, 1, 43470.0, Torneo de French Guiana, 1
+89,  carrera 400 m, 47772.0, Torneo de Singapore, 1, 43494.0, Torneo de South Africa, 1
+78,  carrera 200 m, 21433.0, Torneo de Liechtenstein, 1, 19506.0, Torneo de Saudi Arabia, 1
+216,  carrera 21000 m, 3828454.0, Torneo de Cyprus, 1, 3481810.0, Torneo de Wales, 1
+216,  carrera 10000 m, 1768131.0, Torneo de United States, 1, 1608123.0, Torneo de Seychelles, 1
+216,  carrera 5000 m, 848818.0, Torneo de United Kingdom, 1, 772725.0, Torneo de Qatar, 1
+243,  carrera 5000 m, 849135.0, Torneo de Czechia, 1, 772375.0, Torneo de Djibouti, 1
+243,  carrera 3000 m con vallas, 529133.0, Torneo de Afghanistan, 1, 481175.0, Torneo de Ivory Coast, 1
+462,  carrera 3000 m con vallas, 529130.0, Torneo de United Arab Emirates, 1, 481256.0, Torneo de Australia, 1
+655,  lanzamiento de bala, 2521.0, Torneo de Monaco, 7, 2293.0, Torneo de Benin, 6
+107,  carrera 400 m, 47762.0, Torneo de Gambia, 1, 43501.0, Torneo de Sweden, 1
+775,  lanzamiento de jabalina, 9963.0, Torneo de Albania, 3, 9072.0, Torneo de Burkina Faso, 8
+149,  carrera 800 m, 112038.0, Torneo de Bahamas, 1, 101893.0, Torneo de Malaysia, 1
+27,  carrera 100 m, 10734.0, Torneo de Luxembourg, 1, 9769.0, Torneo de Scotland, 1
+550,  salto con pertiga, 667.0, Torneo de Papua New Guinea, 3, 606.0, Torneo de South Africa, 7
+141,  carrera 800 m, 112056.0, Torneo de Rwanda, 1, 101906.0, Torneo de Czechia, 1
+575,  salto largo, 956.0, Torneo de Romania, 9, 869.0, Torneo de Chad, 10
+412,  carrera 400 m con vallas, 50702.0, Torneo de Lithuania, 1, 46099.0, Torneo de Chile, 1
+396,  carrera 110 m con vallas, 13295.0, Torneo de Jamaica, 1, 12098.0, Torneo de Djibouti, 1
+119,  carrera 400 m, 47793.0, Torneo de New Zealand, 1, 43466.0, Torneo de Kenya, 1
+59,  carrera 200 m, 21429.0, Torneo de Ethiopia, 1, 19502.0, Torneo de Saint Kitts and Nevis, 1
+537,  salto con pertiga, 667.0, Torneo de Uruguay, 7, 606.0, Torneo de Lithuania, 6
+529,  salto con pertiga, 667.0, Torneo de Romania, 3, 606.0, Torneo de Slovenia, 1
+742,  lanzamiento de martillo, 8989.0, Torneo de Sri Lanka, 7, 8174.0, Torneo de Georgia, 8
+376,  carrera 110 m con vallas, 13302.0, Torneo de Cabo Verde, 1, 12112.0, Torneo de Vietnam, 1
+590,  salto largo, 956.0, Torneo de Saint Kitts and Nevis, 2, 869.0, Torneo de Saint Vincent and the Grenadines, 1
+289,  carrera 21000 m, 3826137.0, Torneo de Congo Democratic Republic of the, 1, 3485931.0, Torneo de Indonesia, 1
+20,  carrera 100 m, 10733.0, Torneo de Eritrea, 1, 9770.0, Torneo de Denmark, 1
+199,  carrera 1500 m, 229613.0, Torneo de Chile, 1, 208792.0, Torneo de Mongolia, 1
+199,  carrera 5000 m, 848834.0, Torneo de Mexico, 1, 772743.0, Torneo de Grenada, 1
+427,  carrera 400 m con vallas, 50699.0, Torneo de Mexico, 1, 46113.0, Torneo de Kazakhstan, 1
+630,  salto triple, 1996.0, Torneo de Norway, 1, 1815.0, Torneo de Fiji, 1
+666,  lanzamiento de bala, 2521.0, Torneo de Bahrain, 5, 2291.0, Torneo de Kazakhstan, 5
+521,  salto de altura, 261.0, Torneo de Saint Vincent and the Grenadines, 1, 237.0, Torneo de Pakistan, 4
+748,  lanzamiento de martillo, 8979.0, Torneo de Senegal, 10, 8174.0, Torneo de Ireland, 7
+654,  lanzamiento de bala, 2521.0, Torneo de Benin, 6, 2292.0, Torneo de Monaco, 5
+195,  carrera 1500 m, 229463.0, Torneo de Sierra Leone, 1, 208796.0, Torneo de Burundi, 1
+195,  carrera 5000 m, 849050.0, Torneo de Congo Democratic Republic of the, 1, 772460.0, Torneo de Cameroon, 1
+242,  carrera 5000 m, 849207.0, Torneo de Serbia, 1, 772318.0, Torneo de Algeria, 1
+633,  salto triple, 1996.0, Torneo de Puerto Rico, 3, 1815.0, Torneo de Uganda, 8
+337,  carrera 42000 m, 8025541.0, Torneo de Grenada, 1, 7302469.0, Torneo de Mozambique, 1
+200,  carrera 1500 m, 229632.0, Torneo de Lithuania, 1, 208821.0, Torneo de Turkey, 1
+200,  carrera 5000 m, 848915.0, Torneo de Brunei, 1, 772270.0, Torneo de Samoa, 1
+584,  salto largo, 956.0, Torneo de Libya, 9, 869.0, Torneo de Saint Lucia, 5
+167,  carrera 1500 m, 229577.0, Torneo de Kiribati, 1, 208780.0, Torneo de Guatemala, 1
+190,  carrera 1500 m, 229437.0, Torneo de Bolivia, 1, 208819.0, Torneo de Kuwait, 1
+190,  carrera 5000 m, 848705.0, Torneo de Taiwan, 1, 773042.0, Torneo de Denmark, 1
+7,  carrera 100 m, 10736.0, Torneo de Mali, 1, 9765.0, Torneo de Palau, 1
+636,  salto triple, 1995.0, Torneo de South Korea, 4, 1814.0, Torneo de Saint Lucia, 1
+757,  lanzamiento de martillo, 8992.0, Torneo de Italy, 1, 8175.0, Torneo de San Marino, 9
+532,  salto con pertiga, 667.0, Torneo de Mauritania, 4, 606.0, Torneo de Trinidad and Tobago, 1
+613,  salto triple, 1996.0, Torneo de United Kingdom, 2, 1814.0, Torneo de French Guiana, 1
+690,  lanzamiento de disco, 7904.0, Torneo de Israel, 4, 7192.0, Torneo de Turkey, 2
+566,  salto largo, 956.0, Torneo de Namibia, 8, 869.0, Torneo de Sweden, 9
+488,  salto de altura, 261.0, Torneo de South Sudan, 9, 237.0, Torneo de Malta, 1
+150,  carrera 800 m, 112020.0, Torneo de Timor-Leste, 1, 101928.0, Torneo de Georgia, 1
+281,  carrera 10000 m, 1768816.0, Torneo de Kiribati, 1, 1611081.0, Torneo de Mexico, 1
+554,  salto con pertiga, 667.0, Torneo de Vietnam, 1, 606.0, Torneo de Trinidad and Tobago, 10
+207,  carrera 5000 m, 849170.0, Torneo de Fiji, 1, 772110.0, Torneo de Ecuador, 1
+100,  carrera 400 m, 47706.0, Torneo de Liberia, 1, 43456.0, Torneo de Laos, 1
+502,  salto de altura, 261.0, Torneo de Tuvalu, 5, 237.0, Torneo de Vatican City, 6
+317,  carrera 21000 m, 3824795.0, Torneo de Saudi Arabia, 1, 3482666.0, Torneo de Nicaragua, 1
+297,  carrera 21000 m, 3829025.0, Torneo de Panama, 1, 3481150.0, Torneo de Congo Democratic Republic of the, 1
+36,  carrera 100 m, 10734.0, Torneo de Lesotho, 1, 9763.0, Torneo de Germany, 1
+40,  carrera 100 m, 10736.0, Torneo de Guyana, 1, 9761.0, Torneo de Guinea-Bissau, 1
+679,  lanzamiento de bala, 2516.0, Torneo de Nicaragua, 2, 2291.0, Torneo de Madagascar, 10
+198,  carrera 1500 m, 229428.0, Torneo de Serbia, 1, 208794.0, Torneo de Peru, 1
+556,  salto con pertiga, 667.0, Torneo de Latvia, 2, 606.0, Torneo de Tunisia, 1
+347,  carrera 42000 m, 8024575.0, Torneo de Uzbekistan, 1, 7308190.0, Torneo de Mongolia, 1
+68,  carrera 200 m, 21446.0, Torneo de Solomon Islands, 1, 19514.0, Torneo de Lebanon, 1
+626,  salto triple, 1994.0, Torneo de Slovenia, 2, 1815.0, Torneo de Oman, 6
+341,  carrera 42000 m, 8030363.0, Torneo de Uganda, 1, 7303562.0, Torneo de Russia, 1
+179,  carrera 1500 m, 229632.0, Torneo de Azerbaijan, 1, 208786.0, Torneo de Finland, 1
+620,  salto triple, 1996.0, Torneo de Eritrea, 7, 1814.0, Torneo de Oman, 4
+682,  lanzamiento de bala, 2518.0, Torneo de Luxembourg, 6, 2293.0, Torneo de Kiribati, 3
+445,  carrera 3000 m con vallas, 528818.0, Torneo de Morocco, 1, 481078.0, Torneo de Mali, 1
+193,  carrera 1500 m, 229647.0, Torneo de Bhutan, 1, 208782.0, Torneo de San Marino, 1
+466,  carrera 3000 m con vallas, 528951.0, Torneo de Indonesia, 1, 481492.0, Torneo de Mauritius, 1
+38,  carrera 100 m, 10718.0, Torneo de Costa Rica, 1, 9779.0, Torneo de Mongolia, 1
+606,  salto triple, 1995.0, Torneo de Barbados, 6, 1814.0, Torneo de Kazakhstan, 10
+319,  carrera 21000 m, 3823854.0, Torneo de Serbia, 1, 3481005.0, Torneo de Luxembourg, 1
+392,  carrera 110 m con vallas, 13304.0, Torneo de Palau, 1, 12100.0, Torneo de Vietnam, 1
+187,  carrera 1500 m, 229598.0, Torneo de Uganda, 1, 208773.0, Torneo de Madagascar, 1
+668,  lanzamiento de martillo, 8985.0, Torneo de Panama, 10, 8174.0, Torneo de Venezuela, 4
+668,  lanzamiento de bala, 2521.0, Torneo de Oman, 5, 2293.0, Torneo de Turkey, 4
+661,  lanzamiento de bala, 2519.0, Torneo de Zimbabwe, 2, 2291.0, Torneo de Russia, 7
+454,  carrera 3000 m con vallas, 528870.0, Torneo de Namibia, 1, 481113.0, Torneo de Costa Rica, 1
+291,  carrera 21000 m, 3828843.0, Torneo de Ecuador, 1, 3481489.0, Torneo de Burkina Faso, 1
+57,  carrera 200 m, 21446.0, Torneo de Marshall Islands, 1, 19504.0, Torneo de Guinea, 1
+753,  lanzamiento de martillo, 8992.0, Torneo de Papua New Guinea, 10, 8175.0, Torneo de Mongolia, 2
+696,  lanzamiento de disco, 7905.0, Torneo de Uganda, 5, 7190.0, Torneo de Vietnam, 4
+39,  carrera 100 m, 10734.0, Torneo de Cambodia, 1, 9776.0, Torneo de Congo Republic of the, 1
+39,  carrera 200 m, 21444.0, Torneo de Dominican Republic, 1, 19501.0, Torneo de United Kingdom, 1
+400,  carrera 110 m con vallas, 13305.0, Torneo de Eritrea, 1, 12098.0, Torneo de Tonga, 1
+205,  carrera 10000 m, 1768601.0, Torneo de Azerbaijan, 1, 1608319.0, Torneo de Zambia, 1
+205,  carrera 5000 m, 849153.0, Torneo de Azerbaijan, 1, 772111.0, Torneo de Bangladesh, 1
+752,  lanzamiento de martillo, 8992.0, Torneo de New Zealand, 10, 8179.0, Torneo de Hungary, 2
+519,  salto de altura, 261.0, Torneo de Zambia, 5, 237.0, Torneo de Turkey, 5
+6,  carrera 100 m, 10731.0, Torneo de Honduras, 1, 9769.0, Torneo de Barbados, 1
+6,  carrera 200 m, 21438.0, Torneo de Tonga, 1, 19517.0, Torneo de Kuwait, 1
+684,  lanzamiento de bala, 2519.0, Torneo de Congo Republic of the, 9, 2291.0, Torneo de Papua New Guinea, 3
+648,  lanzamiento de bala, 2521.0, Torneo de Sri Lanka, 8, 2291.0, Torneo de Ukraine, 8
+785,  lanzamiento de jabalina, 9967.0, Torneo de Austria, 9, 9062.0, Torneo de Gambia, 2
+126,  carrera 800 m, 112019.0, Torneo de Virgin Islands (British), 1, 101918.0, Torneo de Netherlands, 1
+611,  salto triple, 1996.0, Torneo de Cuba, 4, 1814.0, Torneo de Tuvalu, 3
+387,  carrera 110 m con vallas, 13308.0, Torneo de New Zealand, 1, 12100.0, Torneo de Eritrea, 1
+228,  carrera 5000 m, 849119.0, Torneo de Algeria, 1, 772274.0, Torneo de Ukraine, 1
+728,  lanzamiento de martillo, 8991.0, Torneo de Colombia, 8, 8175.0, Torneo de Nepal, 9
+208,  carrera 21000 m, 3828537.0, Torneo de Moldova, 1, 3481565.0, Torneo de Kazakhstan, 1
+208,  carrera 10000 m, 1767320.0, Torneo de South Sudan, 1, 1608999.0, Torneo de Belgium, 1
+208,  carrera 5000 m, 849157.0, Torneo de Lithuania, 1, 772645.0, Torneo de Estonia, 1
+156,  carrera 800 m, 112045.0, Torneo de Lebanon, 1, 101915.0, Torneo de Colombia, 1
+522,  salto de altura, 261.0, Torneo de Turkey, 5, 237.0, Torneo de Thailand, 4
+407,  carrera 400 m con vallas, 50689.0, Torneo de Bahrain, 1, 46094.0, Torneo de Timor-Leste, 1
+231,  carrera 5000 m, 849044.0, Torneo de Timor-Leste, 1, 773421.0, Torneo de Maldives, 1
+81,  carrera 200 m, 21441.0, Torneo de Yemen, 1, 19519.0, Torneo de China, 1
+394,  carrera 110 m con vallas, 13302.0, Torneo de Wales, 1, 12115.0, Torneo de Saint Lucia, 1
+436,  carrera 400 m con vallas, 50696.0, Torneo de Chad, 1, 46199.0, Torneo de South Africa, 1
+29,  carrera 100 m, 10732.0, Torneo de Iraq, 1, 9764.0, Torneo de Northern Ireland, 1
+29,  carrera 200 m, 21448.0, Torneo de Japan, 1, 19515.0, Torneo de Belize, 1
+182,  carrera 1500 m, 229628.0, Torneo de Kiribati, 1, 208801.0, Torneo de Vietnam, 1
+172,  carrera 1500 m, 229496.0, Torneo de Argentina, 1, 208797.0, Torneo de United States, 1
+511,  salto de altura, 261.0, Torneo de Virgin Islands (British), 2, 237.0, Torneo de Sao Tome and Principe, 6
+773,  lanzamiento de jabalina, 9960.0, Torneo de Rwanda, 4, 9061.0, Torneo de Burundi, 8
+545,  salto con pertiga, 667.0, Torneo de Sudan, 2, 606.0, Torneo de Ukraine, 8
+767,  lanzamiento de jabalina, 9963.0, Torneo de Mexico, 7, 9066.0, Torneo de Netherlands, 3
+737,  lanzamiento de martillo, 8988.0, Torneo de Venezuela, 10, 8181.0, Torneo de Denmark, 7
+64,  carrera 200 m, 21448.0, Torneo de Jamaica, 1, 19521.0, Torneo de Finland, 1
+64,  carrera 400 m, 47793.0, Torneo de Jamaica, 1, 43455.0, Torneo de India, 1
+759,  lanzamiento de martillo, 8992.0, Torneo de Kuwait, 2, 8185.0, Torneo de Nicaragua, 7
+615,  salto triple, 1996.0, Torneo de Indonesia, 8, 1814.0, Torneo de Central African Republic, 10
+563,  salto largo, 955.0, Torneo de Scotland, 3, 869.0, Torneo de Papua New Guinea, 6
+37,  carrera 100 m, 10735.0, Torneo de Brunei, 1, 9763.0, Torneo de Kuwait, 1
+76,  carrera 200 m, 21406.0, Torneo de Congo Republic of the, 1, 19509.0, Torneo de Monaco, 1
+9,  carrera 100 m, 10734.0, Torneo de Morocco, 1, 9766.0, Torneo de Sri Lanka, 1
+494,  salto de altura, 261.0, Torneo de Venezuela, 9, 237.0, Torneo de Slovakia, 6
+357,  carrera 42000 m, 8027315.0, Torneo de Iceland, 1, 7306648.0, Torneo de Ecuador, 1
+793,  lanzamiento de jabalina, 9966.0, Torneo de Liechtenstein, 8, 9061.0, Torneo de Colombia, 5
+442,  carrera 400 m con vallas, 50694.0, Torneo de Philippines, 1, 46117.0, Torneo de Malawi, 1
+524,  salto con pertiga, 667.0, Torneo de Mexico, 2, 606.0, Torneo de Saint Vincent and the Grenadines, 3
+558,  salto con pertiga, 667.0, Torneo de Tunisia, 4, 606.0, Torneo de Spain, 7
+712,  lanzamiento de disco, 7905.0, Torneo de Rwanda, 8, 7191.0, Torneo de Central African Republic, 3
+621,  salto triple, 1996.0, Torneo de Afghanistan, 7, 1815.0, Torneo de Sao Tome and Principe, 2
+388,  carrera 110 m con vallas, 13305.0, Torneo de Wales, 1, 12099.0, Torneo de Italy, 1
+469,  carrera 3000 m con vallas, 528814.0, Torneo de Comoros, 1, 481479.0, Torneo de Nepal, 1
+270,  carrera 21000 m, 3826906.0, Torneo de Sweden, 1, 3484446.0, Torneo de Saint Lucia, 1
+270,  carrera 10000 m, 1768818.0, Torneo de El Salvador, 1, 1610950.0, Torneo de Australia, 1
+384,  carrera 110 m con vallas, 13306.0, Torneo de Tunisia, 1, 12100.0, Torneo de Moldova, 1
+598,  salto largo, 956.0, Torneo de Togo, 3, 869.0, Torneo de Taiwan, 6
+616,  salto triple, 1996.0, Torneo de Malta, 10, 1816.0, Torneo de Colombia, 3
+585,  salto largo, 956.0, Torneo de Burundi, 9, 869.0, Torneo de Namibia, 5
+676,  lanzamiento de bala, 2518.0, Torneo de Zimbabwe, 10, 2291.0, Torneo de Saudi Arabia, 6
+354,  carrera 42000 m, 8028537.0, Torneo de North Korea, 1, 7303292.0, Torneo de San Marino, 1
+761,  lanzamiento de martillo, 8992.0, Torneo de Spain, 8, 8174.0, Torneo de Equatorial Guinea, 6
+708,  lanzamiento de disco, 7905.0, Torneo de French Guiana, 8, 7190.0, Torneo de Iraq, 7
+258,  carrera 10000 m, 1768204.0, Torneo de Micronesia, 1, 1608385.0, Torneo de Bhutan, 1
+349,  carrera 42000 m, 8026049.0, Torneo de Nigeria, 1, 7303850.0, Torneo de Bahrain, 1
+443,  carrera 400 m con vallas, 50698.0, Torneo de Botswana, 1, 46108.0, Torneo de Haiti, 1
+781,  lanzamiento de jabalina, 9967.0, Torneo de Italy, 2, 9064.0, Torneo de Serbia, 1
+230,  carrera 21000 m, 3828843.0, Torneo de Monaco, 1, 3481952.0, Torneo de Cambodia, 1
+230,  carrera 10000 m, 1767171.0, Torneo de Vietnam, 1, 1608234.0, Torneo de Dominican Republic, 1
+230,  carrera 5000 m, 849076.0, Torneo de Lebanon, 1, 772342.0, Torneo de Malawi, 1
+367,  carrera 110 m con vallas, 13307.0, Torneo de South Korea, 1, 12099.0, Torneo de Kosovo, 1
+703,  lanzamiento de disco, 7905.0, Torneo de Lithuania, 5, 7191.0, Torneo de Iraq, 5
+14,  carrera 100 m, 10731.0, Torneo de Equatorial Guinea, 1, 9763.0, Torneo de Mali, 1
+14,  carrera 200 m, 21450.0, Torneo de Sweden, 1, 19515.0, Torneo de United Arab Emirates, 1
+683,  lanzamiento de bala, 2521.0, Torneo de Scotland, 8, 2292.0, Torneo de Bhutan, 6
+180,  carrera 1500 m, 229584.0, Torneo de Qatar, 1, 209025.0, Torneo de Denmark, 1
+342,  carrera 42000 m, 8030474.0, Torneo de Lithuania, 1, 7304941.0, Torneo de Albania, 1
+457,  carrera 3000 m con vallas, 528660.0, Torneo de Benin, 1, 481452.0, Torneo de Mauritania, 1
+108,  carrera 400 m, 47795.0, Torneo de Sudan, 1, 43458.0, Torneo de Scotland, 1
+235,  carrera 5000 m, 849255.0, Torneo de Syria, 1, 772328.0, Torneo de Qatar, 1
+704,  lanzamiento de disco, 7905.0, Torneo de Peru, 3, 7194.0, Torneo de Georgia, 3
+577,  salto largo, 956.0, Torneo de Antigua and Barbuda, 9, 869.0, Torneo de North Korea, 3
+206,  carrera 10000 m, 1767755.0, Torneo de Scotland, 1, 1608136.0, Torneo de Eritrea, 1
+206,  carrera 5000 m, 848703.0, Torneo de Sweden, 1, 772664.0, Torneo de Honduras, 1
+756,  lanzamiento de martillo, 8990.0, Torneo de Russia, 9, 8179.0, Torneo de Lebanon, 9
+127,  carrera 1500 m, 229619.0, Torneo de Denmark, 1, 208800.0, Torneo de Benin, 1
+127,  carrera 800 m, 111995.0, Torneo de Slovenia, 1, 101989.0, Torneo de Hungary, 1
+171,  carrera 1500 m, 229634.0, Torneo de Austria, 1, 208888.0, Torneo de Malta, 1
+339,  carrera 42000 m, 8031054.0, Torneo de Chad, 1, 7303553.0, Torneo de Germany, 1
+699,  lanzamiento de disco, 7898.0, Torneo de Iraq, 1, 7188.0, Torneo de Bolivia, 4
+638,  salto triple, 1996.0, Torneo de Guyana, 10, 1815.0, Torneo de Marshall Islands, 6
+188,  carrera 1500 m, 229523.0, Torneo de Zimbabwe, 1, 208883.0, Torneo de Antigua and Barbuda, 1
+93,  carrera 800 m, 112026.0, Torneo de Tuvalu, 1, 101910.0, Torneo de Japan, 1
+93,  carrera 400 m, 47765.0, Torneo de Madagascar, 1, 43498.0, Torneo de Kiribati, 1
+418,  carrera 400 m con vallas, 50687.0, Torneo de Armenia, 1, 46099.0, Torneo de Bahamas, 1
+634,  salto triple, 1996.0, Torneo de Maldives, 3, 1814.0, Torneo de Saint Lucia, 9
+326,  carrera 42000 m, 8030444.0, Torneo de Laos, 1, 7313334.0, Torneo de Mauritania, 1
+170,  carrera 1500 m, 229586.0, Torneo de Guatemala, 1, 208784.0, Torneo de Dominican Republic, 1
+513,  salto de altura, 261.0, Torneo de Trinidad and Tobago, 3, 237.0, Torneo de Togo, 2
+750,  lanzamiento de martillo, 8988.0, Torneo de Norway, 5, 8178.0, Torneo de Saint Kitts and Nevis, 3
+316,  carrera 21000 m, 3826972.0, Torneo de Moldova, 1, 3481643.0, Torneo de Russia, 1
+316,  carrera 42000 m, 8030831.0, Torneo de Haiti, 1, 7310801.0, Torneo de Zimbabwe, 1
+688,  lanzamiento de disco, 7902.0, Torneo de Ecuador, 6, 7187.0, Torneo de Panama, 7
+560,  salto con pertiga, 667.0, Torneo de Iran, 7, 606.0, Torneo de Slovenia, 10
+713,  lanzamiento de disco, 7905.0, Torneo de Myanmar, 3, 7191.0, Torneo de Ecuador, 1
+586,  salto largo, 956.0, Torneo de Maldives, 1, 869.0, Torneo de Colombia, 3
+629,  salto triple, 1996.0, Torneo de Norway, 2, 1815.0, Torneo de Serbia, 4
+158,  carrera 800 m, 111967.0, Torneo de Armenia, 1, 101933.0, Torneo de Guyana, 1
+348,  carrera 42000 m, 8026576.0, Torneo de Cambodia, 1, 7303410.0, Torneo de Sierra Leone, 1
+142,  carrera 800 m, 112052.0, Torneo de Cyprus, 1, 101929.0, Torneo de Lesotho, 1
+510,  salto de altura, 261.0, Torneo de Vanuatu, 10, 237.0, Torneo de Vatican City, 4
+499,  salto de altura, 261.0, Torneo de Scotland, 2, 237.0, Torneo de Vietnam, 6
+604,  salto triple, 1996.0, Torneo de Gabon, 10, 1814.0, Torneo de France, 4
+604,  salto largo, 956.0, Torneo de Monaco, 7, 870.0, Torneo de United States, 9
+26,  carrera 100 m, 10732.0, Torneo de Syria, 1, 9765.0, Torneo de Algeria, 1
+26,  carrera 200 m, 21444.0, Torneo de Russia, 1, 19500.0, Torneo de Jamaica, 1
+591,  salto triple, 1995.0, Torneo de Angola, 7, 1814.0, Torneo de Laos, 1
+591,  salto largo, 956.0, Torneo de Tanzania, 10, 869.0, Torneo de Uzbekistan, 10
+21,  carrera 100 m, 10735.0, Torneo de Panama, 1, 9764.0, Torneo de Sri Lanka, 1
+21,  carrera 200 m, 21440.0, Torneo de Italy, 1, 19509.0, Torneo de Kuwait, 1
+496,  salto de altura, 261.0, Torneo de Turkey, 4, 237.0, Torneo de Rwanda, 9
+250,  carrera 21000 m, 3828714.0, Torneo de Vatican City, 1, 3481418.0, Torneo de Gambia, 1
+250,  carrera 10000 m, 1768606.0, Torneo de Tanzania, 1, 1608244.0, Torneo de Guyana, 1
+675,  lanzamiento de bala, 2521.0, Torneo de Pakistan, 10, 2291.0, Torneo de Maldives, 5
+175,  carrera 1500 m, 229640.0, Torneo de Wales, 1, 208795.0, Torneo de Papua New Guinea, 1
+637,  salto triple, 1996.0, Torneo de Kenya, 9, 1815.0, Torneo de Togo, 4
+109,  carrera 400 m, 47792.0, Torneo de Serbia, 1, 43450.0, Torneo de Lithuania, 1
+739,  lanzamiento de martillo, 8990.0, Torneo de Wales, 8, 8175.0, Torneo de Congo Democratic Republic of the, 6
+589,  salto largo, 956.0, Torneo de Sierra Leone, 8, 870.0, Torneo de Vanuatu, 8
+600,  salto largo, 956.0, Torneo de Virgin Islands (British), 3, 869.0, Torneo de Puerto Rico, 4
+569,  salto largo, 956.0, Torneo de United Arab Emirates, 9, 869.0, Torneo de Mozambique, 3
+716,  lanzamiento de disco, 7905.0, Torneo de Argentina, 8, 7187.0, Torneo de Georgia, 3
+17,  carrera 100 m, 10733.0, Torneo de Belize, 1, 9760.0, Torneo de San Marino, 1
+17,  carrera 200 m, 21448.0, Torneo de Yemen, 1, 19500.0, Torneo de South Sudan, 1
+717,  lanzamiento de disco, 7904.0, Torneo de Liberia, 5, 7186.0, Torneo de Sao Tome and Principe, 10
+102,  carrera 400 m, 47788.0, Torneo de Congo Republic of the, 1, 43454.0, Torneo de Equatorial Guinea, 1
+305,  carrera 21000 m, 3828690.0, Torneo de Uzbekistan, 1, 3482162.0, Torneo de Brunei, 1
+305,  carrera 42000 m, 8028469.0, Torneo de Nauru, 1, 7308031.0, Torneo de Egypt, 1
+106,  carrera 400 m, 47772.0, Torneo de Guatemala, 1, 43484.0, Torneo de Niger, 1
+687,  lanzamiento de disco, 7894.0, Torneo de Ivory Coast, 10, 7188.0, Torneo de Marshall Islands, 5
+35,  carrera 100 m, 10726.0, Torneo de North Korea, 1, 9760.0, Torneo de Vatican City, 1
+482,  carrera 3000 m con vallas, 529071.0, Torneo de Colombia, 1, 481184.0, Torneo de Marshall Islands, 1
+735,  lanzamiento de martillo, 8991.0, Torneo de United States, 4, 8175.0, Torneo de Mauritius, 6
+147,  carrera 800 m, 112077.0, Torneo de Liberia, 1, 101894.0, Torneo de Monaco, 1
+284,  carrera 21000 m, 3827647.0, Torneo de Namibia, 1, 3484230.0, Torneo de Bulgaria, 1
+191,  carrera 1500 m, 229539.0, Torneo de Belize, 1, 208809.0, Torneo de Togo, 1
+303,  carrera 21000 m, 3828626.0, Torneo de Rwanda, 1, 3485317.0, Torneo de Papua New Guinea, 1
+435,  carrera 400 m con vallas, 50693.0, Torneo de Germany, 1, 46104.0, Torneo de Serbia, 1
+31,  carrera 100 m, 10730.0, Torneo de Monaco, 1, 9765.0, Torneo de Mozambique, 1
+531,  salto con pertiga, 667.0, Torneo de Suriname, 10, 606.0, Torneo de Poland, 1
+166,  carrera 1500 m, 229579.0, Torneo de Suriname, 1, 208813.0, Torneo de Sierra Leone, 1
+614,  salto triple, 1996.0, Torneo de United Arab Emirates, 4, 1814.0, Torneo de Croatia, 5
+101,  lanzamiento de bala, 2521.0, Torneo de Zimbabwe, 6, 2293.0, Torneo de Sri Lanka, 1
+101,  carrera 400 m, 47794.0, Torneo de Israel, 1, 43455.0, Torneo de Papua New Guinea, 1
+299,  carrera 21000 m, 3827379.0, Torneo de Brazil, 1, 3481732.0, Torneo de Japan, 1
+803,  lanzamiento de jabalina, 9963.0, Torneo de Belize, 6, 9085.0, Torneo de Andorra, 2
+480,  carrera 3000 m con vallas, 528811.0, Torneo de Mexico, 1, 481076.0, Torneo de Chad, 1
+470,  carrera 3000 m con vallas, 528623.0, Torneo de Guyana, 1, 481060.0, Torneo de Ecuador, 1
+647,  lanzamiento de bala, 2521.0, Torneo de Panama, 6, 2291.0, Torneo de Nigeria, 1
+401,  carrera 110 m con vallas, 13305.0, Torneo de Mongolia, 1, 12100.0, Torneo de Palau, 1
+364,  carrera 110 m con vallas, 13308.0, Torneo de Vanuatu, 1, 12101.0, Torneo de Canada, 1
+292,  carrera 21000 m, 3826570.0, Torneo de Poland, 1, 3482012.0, Torneo de Lebanon, 1
+601,  salto largo, 956.0, Torneo de Monaco, 1, 869.0, Torneo de Slovakia, 6
+92,  carrera 400 m con vallas, 50610.0, Torneo de United States, 1, 46107.0, Torneo de Estonia, 1
+92,  carrera 400 m, 47794.0, Torneo de Cyprus, 1, 43457.0, Torneo de Burkina Faso, 1
+542,  salto con pertiga, 667.0, Torneo de Panama, 4, 606.0, Torneo de Saint Lucia, 8
+644,  salto triple, 1995.0, Torneo de Senegal, 8, 1815.0, Torneo de Congo Democratic Republic of the, 7
+430,  carrera 400 m con vallas, 50693.0, Torneo de Dominican Republic, 1, 46138.0, Torneo de Azerbaijan, 1
+581,  salto largo, 956.0, Torneo de Nicaragua, 7, 869.0, Torneo de Montenegro, 6
+163,  carrera 800 m, 112079.0, Torneo de Virgin Islands (British), 1, 101901.0, Torneo de Netherlands, 1
+709,  lanzamiento de disco, 7905.0, Torneo de Sudan, 9, 7189.0, Torneo de India, 3
+573,  salto largo, 956.0, Torneo de Pakistan, 5, 869.0, Torneo de Spain, 1
+487,  salto de altura, 261.0, Torneo de Puerto Rico, 7, 237.0, Torneo de United Kingdom, 6
+124,  carrera 800 m, 112036.0, Torneo de Tajikistan, 1, 101977.0, Torneo de Canada, 1
+568,  salto largo, 956.0, Torneo de United Arab Emirates, 9, 869.0, Torneo de Guatemala, 10
+318,  carrera 21000 m, 3827475.0, Torneo de Belgium, 1, 3482183.0, Torneo de Uganda, 1
+318,  carrera 42000 m, 8026066.0, Torneo de Cyprus, 1, 7303454.0, Torneo de Paraguay, 1
+138,  carrera 800 m, 112070.0, Torneo de Bulgaria, 1, 102083.0, Torneo de Tunisia, 1
+24,  carrera 100 m, 10728.0, Torneo de Finland, 1, 9766.0, Torneo de Congo Democratic Republic of the, 1
+24,  carrera 200 m, 21441.0, Torneo de Kosovo, 1, 19507.0, Torneo de Jamaica, 1
+710,  lanzamiento de disco, 7895.0, Torneo de Belarus, 7, 7186.0, Torneo de Ireland, 6
+32,  carrera 100 m, 10736.0, Torneo de United Arab Emirates, 1, 9762.0, Torneo de Qatar, 1
+784,  lanzamiento de jabalina, 9965.0, Torneo de Tunisia, 4, 9063.0, Torneo de North Korea, 8
+41,  carrera 100 m, 10735.0, Torneo de Dominican Republic, 1, 9760.0, Torneo de Kyrgyzstan, 1
+559,  salto con pertiga, 667.0, Torneo de Venezuela, 2, 606.0, Torneo de Seychelles, 8
+478,  carrera 3000 m con vallas, 529081.0, Torneo de Laos, 1, 481151.0, Torneo de Libya, 1
+587,  salto largo, 956.0, Torneo de Liechtenstein, 2, 869.0, Torneo de Tonga, 10
+479,  carrera 3000 m con vallas, 528670.0, Torneo de Japan, 1, 481081.0, Torneo de Mongolia, 1
+694,  lanzamiento de disco, 7902.0, Torneo de Eritrea, 1, 7186.0, Torneo de Northern Ireland, 7
+565,  salto largo, 956.0, Torneo de Virgin Islands (British), 2, 869.0, Torneo de Germany, 3
+516,  salto de altura, 261.0, Torneo de Syria, 10, 237.0, Torneo de Namibia, 6
+635,  salto triple, 1996.0, Torneo de Tunisia, 9, 1814.0, Torneo de Philippines, 10
+643,  salto triple, 1996.0, Torneo de Macedonia, 3, 1814.0, Torneo de Turkey, 3
+543,  salto con pertiga, 667.0, Torneo de Sri Lanka, 6, 606.0, Torneo de Zambia, 9
+362,  carrera 42000 m, 8024238.0, Torneo de Myanmar, 1, 7307905.0, Torneo de Slovakia, 1
+765,  lanzamiento de martillo, 8990.0, Torneo de Kazakhstan, 9, 8175.0, Torneo de Ukraine, 2
+653,  lanzamiento de bala, 2520.0, Torneo de Tonga, 9, 2291.0, Torneo de Marshall Islands, 8
+481,  carrera 3000 m con vallas, 529087.0, Torneo de Bolivia, 1, 481379.0, Torneo de Saint Vincent and the Grenadines, 1
+714,  lanzamiento de disco, 7903.0, Torneo de Zimbabwe, 8, 7189.0, Torneo de Latvia, 3
+154,  carrera 800 m, 112071.0, Torneo de Tonga, 1, 101926.0, Torneo de Bosnia and Herzegovina, 1
+304,  carrera 21000 m, 3828074.0, Torneo de Northern Ireland, 1, 3482843.0, Torneo de Vatican City, 1
+304,  carrera 42000 m, 8026138.0, Torneo de Ireland, 1, 7305943.0, Torneo de Ethiopia, 1
+789,  lanzamiento de jabalina, 9966.0, Torneo de Jordan, 7, 9067.0, Torneo de Singapore, 10
+451,  carrera 3000 m con vallas, 528923.0, Torneo de Paraguay, 1, 481060.0, Torneo de Marshall Islands, 1
+801,  lanzamiento de jabalina, 9967.0, Torneo de Austria, 4, 9062.0, Torneo de Switzerland, 9
+393,  carrera 110 m con vallas, 13293.0, Torneo de Afghanistan, 1, 12109.0, Torneo de Iraq, 1
+582,  salto largo, 956.0, Torneo de Thailand, 9, 869.0, Torneo de Zimbabwe, 7
+371,  carrera 110 m con vallas, 13287.0, Torneo de Trinidad and Tobago, 1, 12105.0, Torneo de Togo, 1
+561,  salto con pertiga, 666.0, Torneo de Wales, 9, 606.0, Torneo de Lesotho, 10
+448,  carrera 3000 m con vallas, 528948.0, Torneo de Slovenia, 1, 481590.0, Torneo de Greece, 1
+672,  lanzamiento de bala, 2521.0, Torneo de Suriname, 2, 2291.0, Torneo de Indonesia, 8
+97,  carrera 400 m, 47724.0, Torneo de Papua New Guinea, 1, 43500.0, Torneo de Dominican Republic, 1
+165,  carrera 1500 m, 229578.0, Torneo de Finland, 1, 208949.0, Torneo de Jamaica, 1
+165,  carrera 5000 m, 849290.0, Torneo de Colombia, 1, 772184.0, Torneo de Argentina, 1
+576,  salto largo, 956.0, Torneo de Montenegro, 3, 869.0, Torneo de Wales, 5
+562,  salto con pertiga, 667.0, Torneo de United Arab Emirates, 7, 606.0, Torneo de New Zealand, 5
+301,  carrera 21000 m, 3827304.0, Torneo de Thailand, 1, 3484115.0, Torneo de Grenada, 1
+192,  carrera 1500 m, 229430.0, Torneo de Barbados, 1, 208884.0, Torneo de Mali, 1
+159,  carrera 800 m, 111904.0, Torneo de Tuvalu, 1, 101893.0, Torneo de Bhutan, 1
+574,  salto largo, 956.0, Torneo de Puerto Rico, 8, 870.0, Torneo de Equatorial Guinea, 9
+285,  carrera 21000 m, 3828110.0, Torneo de Bosnia and Herzegovina, 1, 3481218.0, Torneo de North Korea, 1
+805,  lanzamiento de jabalina, 9964.0, Torneo de Northern Ireland, 3, 9068.0, Torneo de France, 2
+431,  carrera 400 m con vallas, 50660.0, Torneo de Gabon, 1, 46202.0, Torneo de Central African Republic, 1
+517,  salto de altura, 261.0, Torneo de Italy, 7, 237.0, Torneo de Yemen, 9
+278,  carrera 21000 m, 3828808.0, Torneo de Denmark, 1, 3483721.0, Torneo de Mauritania, 1
+278,  carrera 10000 m, 1767881.0, Torneo de Panama, 1, 1608920.0, Torneo de Pakistan, 1
+680,  lanzamiento de bala, 2521.0, Torneo de Burundi, 7, 2291.0, Torneo de Guinea-Bissau, 2
+762,  lanzamiento de martillo, 8990.0, Torneo de Bahamas, 1, 8180.0, Torneo de China, 6
+715,  lanzamiento de disco, 7903.0, Torneo de Albania, 6, 7187.0, Torneo de Turkmenistan, 8
+540,  salto con pertiga, 667.0, Torneo de Syria, 2, 606.0, Torneo de Saint Kitts and Nevis, 2
+133,  carrera 1500 m, 229592.0, Torneo de Brazil, 1, 208843.0, Torneo de Norway, 1
+133,  carrera 800 m, 112033.0, Torneo de Bahamas, 1, 101921.0, Torneo de Zambia, 1
+450,  carrera 3000 m con vallas, 528963.0, Torneo de Maldives, 1, 481126.0, Torneo de French Guiana, 1
+734,  lanzamiento de martillo, 8992.0, Torneo de Niger, 6, 8180.0, Torneo de Kenya, 8
+136,  carrera 800 m, 112059.0, Torneo de Nicaragua, 1, 101925.0, Torneo de Monaco, 1
+239,  carrera 5000 m, 849057.0, Torneo de South Korea, 1, 772188.0, Torneo de Angola, 1
+489,  salto de altura, 261.0, Torneo de Uganda, 9, 237.0, Torneo de Wales, 8
+353,  carrera 42000 m, 8026004.0, Torneo de Afghanistan, 1, 7307460.0, Torneo de Uzbekistan, 1
+25,  carrera 100 m, 10732.0, Torneo de Mexico, 1, 9760.0, Torneo de Latvia, 1
+25,  carrera 200 m, 21420.0, Torneo de Mauritius, 1, 19501.0, Torneo de Sudan, 1
+181,  carrera 1500 m, 229629.0, Torneo de Saint Kitts and Nevis, 1, 208772.0, Torneo de Niger, 1
+181,  carrera 5000 m, 849217.0, Torneo de Grenada, 1, 772861.0, Torneo de Nicaragua, 1
+66,  carrera 200 m, 21444.0, Torneo de Gambia, 1, 19514.0, Torneo de Botswana, 1
+66,  carrera 400 m, 47784.0, Torneo de Taiwan, 1, 43496.0, Torneo de Uzbekistan, 1
+321,  carrera 21000 m, 3827707.0, Torneo de Turkey, 1, 3484087.0, Torneo de Bangladesh, 1
+321,  carrera 42000 m, 8028981.0, Torneo de Northern Ireland, 1, 7308210.0, Torneo de Equatorial Guinea, 1
+777,  lanzamiento de jabalina, 9964.0, Torneo de Cabo Verde, 2, 9064.0, Torneo de Morocco, 9
+34,  carrera 100 m, 10736.0, Torneo de Haiti, 1, 9760.0, Torneo de Namibia, 1
+596,  salto triple, 1996.0, Torneo de Canada, 1, 1815.0, Torneo de Paraguay, 3
+596,  salto largo, 956.0, Torneo de Panama, 3, 869.0, Torneo de Suriname, 10
+802,  lanzamiento de jabalina, 9968.0, Torneo de New Zealand, 3, 9064.0, Torneo de Bangladesh, 1
+87,  carrera 400 m, 47777.0, Torneo de Cuba, 1, 43573.0, Torneo de Brunei, 1
+772,  lanzamiento de jabalina, 9966.0, Torneo de Bulgaria, 6, 9072.0, Torneo de Lithuania, 1
+202,  carrera 1500 m, 229633.0, Torneo de Comoros, 1, 208920.0, Torneo de Virgin Islands (British), 1
+722,  lanzamiento de disco, 7905.0, Torneo de Qatar, 9, 7194.0, Torneo de Sweden, 6
+395,  carrera 110 m con vallas, 13307.0, Torneo de Venezuela, 1, 12100.0, Torneo de Saudi Arabia, 1
+795,  lanzamiento de jabalina, 9956.0, Torneo de Slovakia, 8, 9067.0, Torneo de South Africa, 6
+426,  carrera 400 m con vallas, 50674.0, Torneo de Iraq, 1, 46092.0, Torneo de France, 1
+673,  lanzamiento de bala, 2519.0, Torneo de Egypt, 10, 2292.0, Torneo de Puerto Rico, 3
+747,  lanzamiento de martillo, 8990.0, Torneo de Mauritius, 7, 8177.0, Torneo de Wales, 4
+399,  carrera 110 m con vallas, 13301.0, Torneo de Uzbekistan, 1, 12098.0, Torneo de Tunisia, 1
+70,  carrera 200 m, 21430.0, Torneo de Ecuador, 1, 19502.0, Torneo de Kyrgyzstan, 1
+700,  lanzamiento de disco, 7904.0, Torneo de Peru, 10, 7186.0, Torneo de Spain, 4
+760,  lanzamiento de martillo, 8989.0, Torneo de Brazil, 10, 8174.0, Torneo de Sudan, 1
+628,  salto triple, 1994.0, Torneo de Ukraine, 1, 1816.0, Torneo de Benin, 5
+498,  salto de altura, 261.0, Torneo de Uganda, 10, 237.0, Torneo de Ukraine, 2
+536,  salto con pertiga, 667.0, Torneo de Slovakia, 10, 606.0, Torneo de Zimbabwe, 9
+12,  carrera 100 m, 10735.0, Torneo de Latvia, 1, 9765.0, Torneo de Burundi, 1
+90,  carrera 400 m, 47783.0, Torneo de Russia, 1, 43458.0, Torneo de Japan, 1
+736,  lanzamiento de martillo, 8986.0, Torneo de Thailand, 5, 8182.0, Torneo de Malawi, 2
+428,  carrera 400 m con vallas, 50693.0, Torneo de Ethiopia, 1, 46118.0, Torneo de Papua New Guinea, 1
+77,  carrera 200 m, 21450.0, Torneo de Gambia, 1, 19504.0, Torneo de Georgia, 1
+77,  carrera 400 m, 47789.0, Torneo de Algeria, 1, 43453.0, Torneo de Andorra, 1
+294,  carrera 21000 m, 3827516.0, Torneo de Guatemala, 1, 3484102.0, Torneo de Papua New Guinea, 1
+564,  salto largo, 956.0, Torneo de Ghana, 5, 869.0, Torneo de Zambia, 2
+685,  lanzamiento de disco, 7905.0, Torneo de Saint Kitts and Nevis, 3, 7189.0, Torneo de Austria, 8
+350,  carrera 42000 m, 8023521.0, Torneo de Kiribati, 1, 7309275.0, Torneo de Peru, 1
+383,  carrera 110 m con vallas, 13304.0, Torneo de Timor-Leste, 1, 12105.0, Torneo de Micronesia, 1
+692,  lanzamiento de disco, 7905.0, Torneo de Chad, 3, 7187.0, Torneo de Myanmar, 3
+526,  salto con pertiga, 667.0, Torneo de Rwanda, 1, 606.0, Torneo de Czechia, 1
+162,  carrera 800 m, 112017.0, Torneo de Spain, 1, 101994.0, Torneo de Haiti, 1
+474,  carrera 3000 m con vallas, 529033.0, Torneo de Botswana, 1, 481375.0, Torneo de Madagascar, 1
+422,  carrera 400 m con vallas, 50679.0, Torneo de Bahrain, 1, 46106.0, Torneo de Kazakhstan, 1
+681,  lanzamiento de bala, 2520.0, Torneo de Philippines, 10, 2291.0, Torneo de Niger, 5
+763,  lanzamiento de martillo, 8989.0, Torneo de Sri Lanka, 6, 8175.0, Torneo de Panama, 1
+238,  carrera 5000 m, 848970.0, Torneo de Ireland, 1, 772237.0, Torneo de Nicaragua, 1
+3,  carrera 100 m, 10716.0, Torneo de Central African Republic, 1, 9761.0, Torneo de Djibouti, 1
+3,  carrera 200 m, 21449.0, Torneo de El Salvador, 1, 19503.0, Torneo de Tonga, 1
+161,  carrera 800 m, 112070.0, Torneo de Bahamas, 1, 101999.0, Torneo de Myanmar, 1
+641,  salto triple, 1996.0, Torneo de Nauru, 7, 1816.0, Torneo de Mozambique, 1
+800,  lanzamiento de jabalina, 9968.0, Torneo de Palau, 3, 9061.0, Torneo de Albania, 6
+232,  carrera 21000 m, 3825784.0, Torneo de Cuba, 1, 3481586.0, Torneo de North Korea, 1
+232,  carrera 5000 m, 849044.0, Torneo de Pakistan, 1, 772171.0, Torneo de Myanmar, 1
