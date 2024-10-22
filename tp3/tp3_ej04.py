@@ -3,7 +3,7 @@ from cassandra.cluster import Cluster
 
 # Ubicacion del archivo CSV con el contenido provisto por la catedra
 archivo_entrada = './tp3/full_export.csv'
-nombre_archivo_resultado_ejercicio = './tp3/tp3_ej03.txt'
+nombre_archivo_resultado_ejercicio = './tp3/tp3_ej04.txt'
 
 # Objeto de configuracion para conectarse a la base de datos usada en este ejercicio
 conexion = {
@@ -50,17 +50,19 @@ def inicializar(conn):
     cassandra_session.set_keyspace('tp3')
     
     # crear db
-    cassandra_session.execute('DROP TABLE IF EXISTS ej03')
+    cassandra_session.execute('DROP TABLE IF EXISTS ej04')
     cassandra_session.execute('''
-        CREATE TABLE tp3.ej03 (
+        CREATE TABLE tp3.ej04 (
             nombre_tipo_especialidad TEXT,
             id_deportista INT,
             nombre_deportista TEXT,
-            nombres_especialidades set<TEXT>, 
-            PRIMARY KEY (nombre_tipo_especialidad, id_deportista)
+            nombres_especialidades set<TEXT>,
+            nombre_torneo TEXT,
+            intento INT,
+            marca DOUBLE,
+            PRIMARY KEY ((id_deportista, nombre_tipo_especialidad), marca)
         );
     ''')
-
     return cassandra_session
 
 # Funcion que dada una linea del archivo CSV (en forma de objeto) va a encargarse de insertar el (o los) objetos
@@ -72,14 +74,17 @@ def procesar_fila(db, fila):
     id_deportista = int(fila['id_deportista'])
     nombre_deportista = fila['nombre_deportista']
     nombre_especialidad = fila['nombre_especialidad']
-    
+    torneo = fila['nombre_torneo']
+    intento = int(fila['intento'])
+    marca = float(fila['marca'])
+
     query = '''
-        UPDATE tp3.ej03 
-        SET nombre_deportista = %s, nombres_especialidades = nombres_especialidades + {%s}
-        WHERE nombre_tipo_especialidad = %s AND id_deportista = %s;
+        INSERT INTO tp3.ej04 (nombre_tipo_especialidad, id_deportista, nombre_deportista, nombres_especialidades, 
+                              nombre_torneo, intento, marca)
+        VALUES (%s, %s, %s, {%s}, %s, %s, %s)
     '''
     
-    db.execute(query, (nombre_deportista, nombre_especialidad, nombre_tipo_especialidad, id_deportista))
+    db.execute(query, (nombre_tipo_especialidad, id_deportista, nombre_deportista, nombre_especialidad, torneo, intento, marca))
 
     pass
 
@@ -90,27 +95,25 @@ def generar_reporte(db):
     # luego para cada linea generada como reporte:
     # grabar_linea(archivo, linea)
     
-    query_esportistas = '''
-        SELECT nombre_tipo_especialidad, id_deportista, nombre_deportista, nombres_especialidades 
-        FROM tp3.ej03
+    # Função que realiza o ou os queries que resolvem o exercício, utilizando a base de dados.
+    query = '''
+        SELECT id_deportista, nombre_deportista, nombre_tipo_especialidad, nombre_torneo, 
+               MAX(marca) AS mejor_marca, MIN(marca) AS peor_marca, intento
+        FROM tp3.ej04
+        GROUP BY id_deportista, nombre_tipo_especialidad
     '''
     
-    query_conteo = '''
-        SELECT nombre_tipo_especialidad, COUNT(*) AS cantidad
-        FROM tp3.ej03
-        GROUP BY nombre_tipo_especialidad;
-    '''
-    
+    # Abre o arquivo para escrever o resultado
     with open(nombre_archivo_resultado_ejercicio, 'w', encoding='utf-8') as archivo:
-        rows_esportistas = db.execute(query_esportistas)
-        for row in rows_esportistas:
-            grabar_linea(archivo, (row.nombre_tipo_especialidad + ", " + str(row.id_deportista) + ", " + row.nombre_deportista + ", " + ", ".join(row.nombres_especialidades)))
-
-        
-        archivo.write("\nCantidad de registros por especialidad:\n")
-        rows_conteo = db.execute(query_conteo)
-        for row in rows_conteo:
-            grabar_linea(archivo, (row.nombre_tipo_especialidad + " = " + str(row.cantidad)))
+        deportistas = db.execute(query)
+        for deportista in deportistas:
+            linea = f"ID: {deportista.id_deportista} - Deportista: {deportista.nombre_deportista}, " \
+                    f"Especialidad: {deportista.nombre_tipo_especialidad}, " \
+                    f"Torneo: {deportista.nombre_torneo}, " \
+                    f"Mejor Marca: {deportista.mejor_marca}, " \
+                    f"Peor Marca: {deportista.peor_marca}, " \
+                    f"Intento: {deportista.intento}"
+            grabar_linea(archivo, linea)
 
 
 # Funcion para el borrado de estructuras generadas para este ejercicio
