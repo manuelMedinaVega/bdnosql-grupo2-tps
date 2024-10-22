@@ -1,0 +1,1000 @@
+id_deportista,nombre_deportista,fecha_nacimiento,id_pais_deportista,nombre_pais_deportista,id_especialidad,nombre_especialidad,id_tipo_especialidad,nombre_tipo_especialidad,id_torneo,nombre_torneo,id_ciudad_torneo,nombre_ciudad_torneo,id_pais_torneo,nombre_pais_torneo,intento,marca
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,1,"Torneo de Afghanistan",1,Kabul,1,Afghanistan,1,21284
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,2,"Torneo de Albania",2,Tirana,2,Albania,1,20065
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,3,"Torneo de Algeria",3,Algiers,3,Algeria,1,19549
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,4,"Torneo de Andorra",4,"Andorra la Vella",4,Andorra,1,20524
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,5,"Torneo de Angola",5,Luanda,5,Angola,1,21417
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,6,"Torneo de Antigua and Barbuda",6,"Saint Johns",6,"Antigua and Barbuda",1,20047
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,7,"Torneo de Argentina",7,"Buenos Aires",7,Argentina,1,20799
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,8,"Torneo de Armenia",8,Yerevan,8,Armenia,1,20525
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,9,"Torneo de Australia",9,Canberra,9,Australia,1,20898
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,10,"Torneo de Austria",10,Vienna,10,Austria,1,21339
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,11,"Torneo de Azerbaijan",11,Baku,11,Azerbaijan,1,20285
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,12,"Torneo de Bahamas",12,Nassau,12,Bahamas,1,19963
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,13,"Torneo de Bahrain",13,Manama,13,Bahrain,1,21078
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,14,"Torneo de Bangladesh",14,Dhaka,14,Bangladesh,1,20826
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,15,"Torneo de Barbados",15,Bridgetown,15,Barbados,1,19760
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,16,"Torneo de Belarus",16,Minsk,16,Belarus,1,21134
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,17,"Torneo de Belgium",17,Brussels,17,Belgium,1,20728
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,18,"Torneo de Belize",18,Belmopan,18,Belize,1,20396
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,19,"Torneo de Benin",19,"Porto Novo",19,Benin,1,20917
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,20,"Torneo de Bhutan",20,Thimphu,20,Bhutan,1,19694
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,21,"Torneo de Bolivia",21,"La Paz",21,Bolivia,1,21421
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,22,"Torneo de Bosnia and Herzegovina",22,Sarajevo,22,"Bosnia and Herzegovina",1,21326
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,23,"Torneo de Botswana",23,Gaborone,23,Botswana,1,19847
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,24,"Torneo de Brazil",24,Brasilia,24,Brazil,1,20101
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,25,"Torneo de Brunei",25,"Bandar Seri Begawan",25,Brunei,1,20676
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,26,"Torneo de Bulgaria",26,Sofia,26,Bulgaria,1,19796
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,27,"Torneo de Burkina Faso",27,Ouagadougou,27,"Burkina Faso",1,20265
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,28,"Torneo de Burundi",28,Gitega,28,Burundi,1,21354
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,29,"Torneo de Cambodia",29,"Phnom Penh",29,Cambodia,1,20995
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,30,"Torneo de Cameroon",30,Yaounde,30,Cameroon,1,20713
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,31,"Torneo de Canada",31,Ottawa,31,Canada,1,20967
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,32,"Torneo de Cabo Verde",32,Praia,32,"Cabo Verde",1,19702
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,33,"Torneo de Central African Republic",33,Bangui,33,"Central African Republic",1,19591
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,34,"Torneo de Chad",34,NDjamena,34,Chad,1,20196
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,35,"Torneo de Chile",35,Santiago,35,Chile,1,21442
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,36,"Torneo de China",36,Beijing,36,China,1,21252
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,37,"Torneo de Colombia",37,Bogota,37,Colombia,1,20381
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,38,"Torneo de Comoros",38,Moroni,38,Comoros,1,20675
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,39,"Torneo de Congo Democratic Republic of the",39,Kinshasa,39,"Congo Democratic Republic of the",1,19811
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,40,"Torneo de Congo Republic of the",40,Brazzaville,40,"Congo Republic of the",1,20530
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,41,"Torneo de Costa Rica",41,"San Jose",41,"Costa Rica",1,20013
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,42,"Torneo de Ivory Coast",42,Yamoussoukro,42,"Ivory Coast",1,19760
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,43,"Torneo de Croatia",43,Zagreb,43,Croatia,1,20310
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,44,"Torneo de Cuba",44,Havana,44,Cuba,1,21428
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,45,"Torneo de Cyprus",45,Nicosia,45,Cyprus,1,21214
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,46,"Torneo de Czechia",46,Prague,46,Czechia,1,20443
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,47,"Torneo de Denmark",47,Copenhagen,47,Denmark,1,21329
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,48,"Torneo de Djibouti",48,Djibouti,48,Djibouti,1,20125
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,49,"Torneo de Dominica",49,Roseau,49,Dominica,1,21079
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,50,"Torneo de Dominican Republic",50,"Santo Domingo",50,"Dominican Republic",1,20229
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,51,"Torneo de Timor-Leste",51,Dili,51,Timor-Leste,1,20628
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,52,"Torneo de Ecuador",52,Quito,52,Ecuador,1,20513
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,53,"Torneo de Egypt",53,Cairo,53,Egypt,1,19706
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,54,"Torneo de El Salvador",54,"San Salvador",54,"El Salvador",1,20161
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,55,"Torneo de Equatorial Guinea",55,Malabo,55,"Equatorial Guinea",1,19544
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,56,"Torneo de Eritrea",56,Asmara,56,Eritrea,1,20979
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,57,"Torneo de Estonia",57,Tallinn,57,Estonia,1,20478
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,58,"Torneo de Ethiopia",58,"Addis Ababa",58,Ethiopia,1,20186
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,59,"Torneo de Micronesia",59,Palikir,59,Micronesia,1,21275
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,60,"Torneo de Fiji",60,Suva,60,Fiji,1,19586
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,61,"Torneo de Finland",61,Helsinki,61,Finland,1,20733
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,62,"Torneo de France",62,Paris,62,France,1,20974
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,63,"Torneo de French Guiana",63,Cayenne,63,"French Guiana",1,20016
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,64,"Torneo de Gabon",64,Libreville,64,Gabon,1,20096
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,65,"Torneo de Gambia",65,Banjul,65,Gambia,1,19693
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,66,"Torneo de Georgia",66,Tbilisi,66,Georgia,1,19840
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,67,"Torneo de Germany",67,Berlin,67,Germany,1,21409
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,68,"Torneo de Ghana",68,Accra,68,Ghana,1,19817
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,69,"Torneo de Greece",69,Athens,69,Greece,1,19839
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,70,"Torneo de Grenada",70,"Saint Georges",70,Grenada,1,20249
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,71,"Torneo de Guatemala",71,"Guatemala City",71,Guatemala,1,20070
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,72,"Torneo de Guinea",72,Conakry,72,Guinea,1,20605
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,73,"Torneo de Guinea-Bissau",73,Bissau,73,Guinea-Bissau,1,20376
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,74,"Torneo de Guyana",74,Georgetown,74,Guyana,1,19793
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,75,"Torneo de Haiti",75,"Port au Prince",75,Haiti,1,20512
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,76,"Torneo de Honduras",76,Tegucigalpa,76,Honduras,1,20121
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,77,"Torneo de Hungary",77,Budapest,77,Hungary,1,20350
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,78,"Torneo de Iceland",78,Reykjavik,78,Iceland,1,20161
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,79,"Torneo de India",79,"New Delhi",79,India,1,20070
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,80,"Torneo de Indonesia",80,Jakarta,80,Indonesia,1,21344
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,81,"Torneo de Iran",81,Tehran,81,Iran,1,20166
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,82,"Torneo de Iraq",82,Baghdad,82,Iraq,1,21288
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,83,"Torneo de Ireland",83,Dublin,83,Ireland,1,19823
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,84,"Torneo de Israel",84,"Tel Aviv",84,Israel,1,19512
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,85,"Torneo de Italy",85,Rome,85,Italy,1,19931
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,86,"Torneo de Jamaica",86,Kingston,86,Jamaica,1,20292
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,87,"Torneo de Japan",87,Tokyo,87,Japan,1,20510
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,88,"Torneo de Jordan",88,Amman,88,Jordan,1,21298
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,89,"Torneo de Kazakhstan",89,Astana,89,Kazakhstan,1,19545
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,90,"Torneo de Kenya",90,Nairobi,90,Kenya,1,20177
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,91,"Torneo de Kiribati",91,"Tarawa Atoll",91,Kiribati,1,21019
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,92,"Torneo de Kosovo",92,Pristina,92,Kosovo,1,19871
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,93,"Torneo de Kuwait",93,"Kuwait City",93,Kuwait,1,19774
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,94,"Torneo de Kyrgyzstan",94,Bishkek,94,Kyrgyzstan,1,21409
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,95,"Torneo de Laos",95,Vientiane,95,Laos,1,19933
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,96,"Torneo de Latvia",96,Riga,96,Latvia,1,20648
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,97,"Torneo de Lebanon",97,Beirut,97,Lebanon,1,20385
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,98,"Torneo de Lesotho",98,Maseru,98,Lesotho,1,19562
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,99,"Torneo de Liberia",99,Monrovia,99,Liberia,1,20771
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,100,"Torneo de Libya",100,Tripoli,100,Libya,1,21269
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,101,"Torneo de Liechtenstein",101,Vaduz,101,Liechtenstein,1,19591
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,102,"Torneo de Lithuania",102,Vilnius,102,Lithuania,1,19543
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,103,"Torneo de Luxembourg",103,Luxembourg,103,Luxembourg,1,20953
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,104,"Torneo de Madagascar",104,Antananarivo,104,Madagascar,1,20872
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,105,"Torneo de Malawi",105,Lilongwe,105,Malawi,1,20868
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,106,"Torneo de Malaysia",106,"Kuala Lumpur",106,Malaysia,1,21353
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,107,"Torneo de Maldives",107,Male,107,Maldives,1,20147
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,108,"Torneo de Mali",108,Bamako,108,Mali,1,20620
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,109,"Torneo de Malta",109,Valletta,109,Malta,1,20349
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,110,"Torneo de Marshall Islands",110,Majuro,110,"Marshall Islands",1,21419
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,111,"Torneo de Mauritania",111,Nouakchott,111,Mauritania,1,20951
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,112,"Torneo de Mauritius",112,"Port Louis",112,Mauritius,1,19791
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,113,"Torneo de Mexico",113,"Mexico City",113,Mexico,1,20801
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,114,"Torneo de Moldova",114,Chisinau,114,Moldova,1,20979
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,115,"Torneo de Monaco",115,Monaco,115,Monaco,1,19859
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,116,"Torneo de Mongolia",116,Ulaanbaatar,116,Mongolia,1,21033
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,117,"Torneo de Montenegro",117,Podgorica,117,Montenegro,1,19625
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,118,"Torneo de Morocco",118,Rabat,118,Morocco,1,21253
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,119,"Torneo de Mozambique",119,Maputo,119,Mozambique,1,21309
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,120,"Torneo de Myanmar",120,"Nay Pyi Taw",120,Myanmar,1,20679
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,121,"Torneo de Namibia",121,Windhoek,121,Namibia,1,20197
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,122,"Torneo de Nauru",122,"No official capital",122,Nauru,1,20112
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,123,"Torneo de Nepal",123,Kathmandu,123,Nepal,1,21317
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,124,"Torneo de Netherlands",124,Amsterdam,124,Netherlands,1,20867
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,125,"Torneo de New Zealand",125,Wellington,125,"New Zealand",1,19917
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,126,"Torneo de Nicaragua",126,Managua,126,Nicaragua,1,19659
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,127,"Torneo de Niger",127,Niamey,127,Niger,1,21285
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,128,"Torneo de Nigeria",128,Abuja,128,Nigeria,1,19953
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,129,"Torneo de North Korea",129,Pyongyang,129,"North Korea",1,21449
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,130,"Torneo de Macedonia",130,Skopje,130,Macedonia,1,21076
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,131,"Torneo de Northern Ireland",131,Belfast,131,"Northern Ireland",1,20726
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,132,"Torneo de Norway",132,Oslo,132,Norway,1,20658
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,133,"Torneo de Oman",133,Muscat,133,Oman,1,19944
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,134,"Torneo de Pakistan",134,Islamabad,134,Pakistan,1,20548
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,135,"Torneo de Palau",135,Melekeok,135,Palau,1,21416
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,136,"Torneo de Panama",136,"Panama City",136,Panama,1,21010
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,137,"Torneo de Papua New Guinea",137,"Port Moresby",137,"Papua New Guinea",1,19715
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,138,"Torneo de Paraguay",138,Asuncion,138,Paraguay,1,19879
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,139,"Torneo de Peru",139,Lima,139,Peru,1,20073
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,140,"Torneo de Philippines",140,Manila,140,Philippines,1,20581
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,141,"Torneo de Poland",141,Warsaw,141,Poland,1,20183
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,142,"Torneo de Portugal",142,Lisbon,142,Portugal,1,19886
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,143,"Torneo de Qatar",143,Doha,143,Qatar,1,20784
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,144,"Torneo de Romania",144,Bucharest,144,Romania,1,20516
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,145,"Torneo de Russia",145,Moscow,145,Russia,1,21035
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,146,"Torneo de Rwanda",146,Kigali,146,Rwanda,1,20257
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,147,"Torneo de Saint Kitts and Nevis",147,Basseterre,147,"Saint Kitts and Nevis",1,20916
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,148,"Torneo de Saint Lucia",148,Castries,148,"Saint Lucia",1,20991
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,149,"Torneo de Saint Vincent and the Grenadines",149,Kingstown,149,"Saint Vincent and the Grenadines",1,21230
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,150,"Torneo de Samoa",150,Apia,150,Samoa,1,21037
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,151,"Torneo de San Marino",151,"San Marino",151,"San Marino",1,21337
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,152,"Torneo de Sao Tome and Principe",152,"Sao Tome",152,"Sao Tome and Principe",1,19945
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,153,"Torneo de Saudi Arabia",153,Riyadh,153,"Saudi Arabia",1,19594
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,154,"Torneo de Scotland",154,Edinburgh,154,Scotland,1,20945
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,155,"Torneo de Senegal",155,Dakar,155,Senegal,1,19886
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,156,"Torneo de Serbia",156,Belgrade,156,Serbia,1,19563
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,157,"Torneo de Seychelles",157,Victoria,157,Seychelles,1,19659
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,158,"Torneo de Sierra Leone",158,Freetown,158,"Sierra Leone",1,21340
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,159,"Torneo de Singapore",159,Singapore,159,Singapore,1,20133
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,160,"Torneo de Slovakia",160,Bratislava,160,Slovakia,1,19818
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,161,"Torneo de Slovenia",161,Ljubljana,161,Slovenia,1,20733
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,162,"Torneo de Solomon Islands",162,Honiara,162,"Solomon Islands",1,21427
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,163,"Torneo de Somalia",163,Mogadishu,163,Somalia,1,20155
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,164,"Torneo de South Africa",164,"Pretoria-Bloemfontein-Cape Town",164,"South Africa",1,19505
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,165,"Torneo de South Korea",165,Seoul,165,"South Korea",1,19995
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,166,"Torneo de South Sudan",166,Juba,166,"South Sudan",1,21149
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,167,"Torneo de Spain",167,Madrid,167,Spain,1,19858
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,168,"Torneo de Sri Lanka",168,Colombo,168,"Sri Lanka",1,19611
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,169,"Torneo de Sudan",169,Khartoum,169,Sudan,1,20098
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,170,"Torneo de Suriname",170,Paramaribo,170,Suriname,1,19614
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,171,"Torneo de Sweden",171,Stockholm,171,Sweden,1,20795
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,172,"Torneo de Switzerland",172,Bern,172,Switzerland,1,20337
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,173,"Torneo de Syria",173,Damascus,173,Syria,1,21075
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,174,"Torneo de Taiwan",174,Taipei,174,Taiwan,1,21151
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,175,"Torneo de Tajikistan",175,Dushanbe,175,Tajikistan,1,20255
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,176,"Torneo de Tanzania",176,Dodoma,176,Tanzania,1,21387
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,177,"Torneo de Thailand",177,Bangkok,177,Thailand,1,21256
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,178,"Torneo de Togo",178,Lome,178,Togo,1,19647
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,179,"Torneo de Tonga",179,Nukualofa,179,Tonga,1,21316
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,180,"Torneo de Trinidad and Tobago",180,"Port of Spain",180,"Trinidad and Tobago",1,21419
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,181,"Torneo de Tunisia",181,Tunis,181,Tunisia,1,19717
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,182,"Torneo de Turkey",182,Ankara,182,Turkey,1,19579
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,183,"Torneo de Turkmenistan",183,Ashgabat,183,Turkmenistan,1,20240
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,184,"Torneo de Tuvalu",184,Funafuti,184,Tuvalu,1,21342
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,185,"Torneo de Uganda",185,Kampala,185,Uganda,1,20760
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,186,"Torneo de Ukraine",186,Kiev,186,Ukraine,1,21314
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,187,"Torneo de United Arab Emirates",187,"Abu Dhabi",187,"United Arab Emirates",1,19738
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,188,"Torneo de United Kingdom",188,London,188,"United Kingdom",1,20525
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,189,"Torneo de United States",189,"Washington D.C.",189,"United States",1,19911
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,190,"Torneo de Uruguay",190,Montevideo,190,Uruguay,1,21228
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,191,"Torneo de Uzbekistan",191,Tashkent,191,Uzbekistan,1,19692
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,192,"Torneo de Vanuatu",192,"Port Vila",192,Vanuatu,1,19577
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,193,"Torneo de Vatican City",193,"Vatican City",193,"Vatican City",1,21343
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,194,"Torneo de Venezuela",194,Caracas,194,Venezuela,1,21078
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,195,"Torneo de Vietnam",195,Hanoi,195,Vietnam,1,20487
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,196,"Torneo de Wales",196,Cardiff,196,Wales,1,20312
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,197,"Torneo de Yemen",197,Sanaa,197,Yemen,1,21194
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,198,"Torneo de Zambia",198,Lusaka,198,Zambia,1,21231
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,199,"Torneo de Zimbabwe",199,Harare,199,Zimbabwe,1,21008
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,200,"Torneo de Puerto Rico",200,"San Juan",200,"Puerto Rico",1,20638
+1,"Christian COLEMAN",1996-03-06,189,"United States",2,"carrera 200 m",1,tiempo,201,"Torneo de Virgin Islands (British)",201,"Road Town",201,"Virgin Islands (British)",1,19801
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,1,"Torneo de Afghanistan",1,Kabul,1,Afghanistan,1,10690
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,2,"Torneo de Albania",2,Tirana,2,Albania,1,10392
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,3,"Torneo de Algeria",3,Algiers,3,Algeria,1,10652
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,4,"Torneo de Andorra",4,"Andorra la Vella",4,Andorra,1,10379
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,5,"Torneo de Angola",5,Luanda,5,Angola,1,10723
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,6,"Torneo de Antigua and Barbuda",6,"Saint Johns",6,"Antigua and Barbuda",1,10087
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,7,"Torneo de Argentina",7,"Buenos Aires",7,Argentina,1,10303
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,8,"Torneo de Armenia",8,Yerevan,8,Armenia,1,10013
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,9,"Torneo de Australia",9,Canberra,9,Australia,1,10370
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,10,"Torneo de Austria",10,Vienna,10,Austria,1,10127
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,11,"Torneo de Azerbaijan",11,Baku,11,Azerbaijan,1,10591
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,12,"Torneo de Bahamas",12,Nassau,12,Bahamas,1,10017
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,13,"Torneo de Bahrain",13,Manama,13,Bahrain,1,10642
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,14,"Torneo de Bangladesh",14,Dhaka,14,Bangladesh,1,9879
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,15,"Torneo de Barbados",15,Bridgetown,15,Barbados,1,10477
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,16,"Torneo de Belarus",16,Minsk,16,Belarus,1,10331
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,17,"Torneo de Belgium",17,Brussels,17,Belgium,1,10644
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,18,"Torneo de Belize",18,Belmopan,18,Belize,1,9911
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,19,"Torneo de Benin",19,"Porto Novo",19,Benin,1,10569
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,20,"Torneo de Bhutan",20,Thimphu,20,Bhutan,1,10715
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,21,"Torneo de Bolivia",21,"La Paz",21,Bolivia,1,10189
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,22,"Torneo de Bosnia and Herzegovina",22,Sarajevo,22,"Bosnia and Herzegovina",1,10339
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,23,"Torneo de Botswana",23,Gaborone,23,Botswana,1,9970
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,24,"Torneo de Brazil",24,Brasilia,24,Brazil,1,10020
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,25,"Torneo de Brunei",25,"Bandar Seri Begawan",25,Brunei,1,10651
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,26,"Torneo de Bulgaria",26,Sofia,26,Bulgaria,1,10314
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,27,"Torneo de Burkina Faso",27,Ouagadougou,27,"Burkina Faso",1,10358
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,28,"Torneo de Burundi",28,Gitega,28,Burundi,1,10587
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,29,"Torneo de Cambodia",29,"Phnom Penh",29,Cambodia,1,10101
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,30,"Torneo de Cameroon",30,Yaounde,30,Cameroon,1,10048
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,31,"Torneo de Canada",31,Ottawa,31,Canada,1,10492
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,32,"Torneo de Cabo Verde",32,Praia,32,"Cabo Verde",1,9989
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,33,"Torneo de Central African Republic",33,Bangui,33,"Central African Republic",1,10074
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,34,"Torneo de Chad",34,NDjamena,34,Chad,1,9966
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,35,"Torneo de Chile",35,Santiago,35,Chile,1,10484
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,36,"Torneo de China",36,Beijing,36,China,1,10164
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,37,"Torneo de Colombia",37,Bogota,37,Colombia,1,9885
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,38,"Torneo de Comoros",38,Moroni,38,Comoros,1,9956
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,39,"Torneo de Congo Democratic Republic of the",39,Kinshasa,39,"Congo Democratic Republic of the",1,10105
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,40,"Torneo de Congo Republic of the",40,Brazzaville,40,"Congo Republic of the",1,10016
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,41,"Torneo de Costa Rica",41,"San Jose",41,"Costa Rica",1,9812
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,42,"Torneo de Ivory Coast",42,Yamoussoukro,42,"Ivory Coast",1,10563
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,43,"Torneo de Croatia",43,Zagreb,43,Croatia,1,9981
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,44,"Torneo de Cuba",44,Havana,44,Cuba,1,10076
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,45,"Torneo de Cyprus",45,Nicosia,45,Cyprus,1,10646
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,46,"Torneo de Czechia",46,Prague,46,Czechia,1,9883
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,47,"Torneo de Denmark",47,Copenhagen,47,Denmark,1,10494
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,48,"Torneo de Djibouti",48,Djibouti,48,Djibouti,1,10078
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,49,"Torneo de Dominica",49,Roseau,49,Dominica,1,10163
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,50,"Torneo de Dominican Republic",50,"Santo Domingo",50,"Dominican Republic",1,10526
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,51,"Torneo de Timor-Leste",51,Dili,51,Timor-Leste,1,9870
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,52,"Torneo de Ecuador",52,Quito,52,Ecuador,1,10117
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,53,"Torneo de Egypt",53,Cairo,53,Egypt,1,10087
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,54,"Torneo de El Salvador",54,"San Salvador",54,"El Salvador",1,10462
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,55,"Torneo de Equatorial Guinea",55,Malabo,55,"Equatorial Guinea",1,10320
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,56,"Torneo de Eritrea",56,Asmara,56,Eritrea,1,10404
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,57,"Torneo de Estonia",57,Tallinn,57,Estonia,1,10030
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,58,"Torneo de Ethiopia",58,"Addis Ababa",58,Ethiopia,1,10124
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,59,"Torneo de Micronesia",59,Palikir,59,Micronesia,1,9911
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,60,"Torneo de Fiji",60,Suva,60,Fiji,1,10445
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,61,"Torneo de Finland",61,Helsinki,61,Finland,1,10459
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,62,"Torneo de France",62,Paris,62,France,1,10115
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,63,"Torneo de French Guiana",63,Cayenne,63,"French Guiana",1,10394
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,64,"Torneo de Gabon",64,Libreville,64,Gabon,1,9890
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,65,"Torneo de Gambia",65,Banjul,65,Gambia,1,10553
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,66,"Torneo de Georgia",66,Tbilisi,66,Georgia,1,10650
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,67,"Torneo de Germany",67,Berlin,67,Germany,1,9869
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,68,"Torneo de Ghana",68,Accra,68,Ghana,1,9997
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,69,"Torneo de Greece",69,Athens,69,Greece,1,9820
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,70,"Torneo de Grenada",70,"Saint Georges",70,Grenada,1,10224
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,71,"Torneo de Guatemala",71,"Guatemala City",71,Guatemala,1,10598
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,72,"Torneo de Guinea",72,Conakry,72,Guinea,1,10634
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,73,"Torneo de Guinea-Bissau",73,Bissau,73,Guinea-Bissau,1,10031
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,74,"Torneo de Guyana",74,Georgetown,74,Guyana,1,10360
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,75,"Torneo de Haiti",75,"Port au Prince",75,Haiti,1,9777
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,76,"Torneo de Honduras",76,Tegucigalpa,76,Honduras,1,9769
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,77,"Torneo de Hungary",77,Budapest,77,Hungary,1,10541
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,78,"Torneo de Iceland",78,Reykjavik,78,Iceland,1,10313
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,79,"Torneo de India",79,"New Delhi",79,India,1,10452
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,80,"Torneo de Indonesia",80,Jakarta,80,Indonesia,1,10089
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,81,"Torneo de Iran",81,Tehran,81,Iran,1,10033
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,82,"Torneo de Iraq",82,Baghdad,82,Iraq,1,10044
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,83,"Torneo de Ireland",83,Dublin,83,Ireland,1,10143
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,84,"Torneo de Israel",84,"Tel Aviv",84,Israel,1,9823
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,85,"Torneo de Italy",85,Rome,85,Italy,1,9784
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,86,"Torneo de Jamaica",86,Kingston,86,Jamaica,1,10057
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,87,"Torneo de Japan",87,Tokyo,87,Japan,1,10572
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,88,"Torneo de Jordan",88,Amman,88,Jordan,1,10310
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,89,"Torneo de Kazakhstan",89,Astana,89,Kazakhstan,1,10345
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,90,"Torneo de Kenya",90,Nairobi,90,Kenya,1,10273
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,91,"Torneo de Kiribati",91,"Tarawa Atoll",91,Kiribati,1,9853
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,92,"Torneo de Kosovo",92,Pristina,92,Kosovo,1,10467
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,93,"Torneo de Kuwait",93,"Kuwait City",93,Kuwait,1,10259
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,94,"Torneo de Kyrgyzstan",94,Bishkek,94,Kyrgyzstan,1,10566
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,95,"Torneo de Laos",95,Vientiane,95,Laos,1,10072
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,96,"Torneo de Latvia",96,Riga,96,Latvia,1,10726
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,97,"Torneo de Lebanon",97,Beirut,97,Lebanon,1,9931
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,98,"Torneo de Lesotho",98,Maseru,98,Lesotho,1,10047
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,99,"Torneo de Liberia",99,Monrovia,99,Liberia,1,10607
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,100,"Torneo de Libya",100,Tripoli,100,Libya,1,10387
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,101,"Torneo de Liechtenstein",101,Vaduz,101,Liechtenstein,1,9868
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,102,"Torneo de Lithuania",102,Vilnius,102,Lithuania,1,9855
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,103,"Torneo de Luxembourg",103,Luxembourg,103,Luxembourg,1,10019
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,104,"Torneo de Madagascar",104,Antananarivo,104,Madagascar,1,9839
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,105,"Torneo de Malawi",105,Lilongwe,105,Malawi,1,9921
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,106,"Torneo de Malaysia",106,"Kuala Lumpur",106,Malaysia,1,10596
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,107,"Torneo de Maldives",107,Male,107,Maldives,1,10472
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,108,"Torneo de Mali",108,Bamako,108,Mali,1,9981
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,109,"Torneo de Malta",109,Valletta,109,Malta,1,9794
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,110,"Torneo de Marshall Islands",110,Majuro,110,"Marshall Islands",1,10159
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,111,"Torneo de Mauritania",111,Nouakchott,111,Mauritania,1,10349
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,112,"Torneo de Mauritius",112,"Port Louis",112,Mauritius,1,10318
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,113,"Torneo de Mexico",113,"Mexico City",113,Mexico,1,9849
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,114,"Torneo de Moldova",114,Chisinau,114,Moldova,1,10179
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,115,"Torneo de Monaco",115,Monaco,115,Monaco,1,10043
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,116,"Torneo de Mongolia",116,Ulaanbaatar,116,Mongolia,1,10257
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,117,"Torneo de Montenegro",117,Podgorica,117,Montenegro,1,10110
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,118,"Torneo de Morocco",118,Rabat,118,Morocco,1,10140
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,119,"Torneo de Mozambique",119,Maputo,119,Mozambique,1,9910
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,120,"Torneo de Myanmar",120,"Nay Pyi Taw",120,Myanmar,1,10016
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,121,"Torneo de Namibia",121,Windhoek,121,Namibia,1,10583
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,122,"Torneo de Nauru",122,"No official capital",122,Nauru,1,9856
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,123,"Torneo de Nepal",123,Kathmandu,123,Nepal,1,9792
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,124,"Torneo de Netherlands",124,Amsterdam,124,Netherlands,1,9927
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,125,"Torneo de New Zealand",125,Wellington,125,"New Zealand",1,10242
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,126,"Torneo de Nicaragua",126,Managua,126,Nicaragua,1,10364
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,127,"Torneo de Niger",127,Niamey,127,Niger,1,10276
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,128,"Torneo de Nigeria",128,Abuja,128,Nigeria,1,10354
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,129,"Torneo de North Korea",129,Pyongyang,129,"North Korea",1,10100
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,130,"Torneo de Macedonia",130,Skopje,130,Macedonia,1,9941
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,131,"Torneo de Northern Ireland",131,Belfast,131,"Northern Ireland",1,10015
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,132,"Torneo de Norway",132,Oslo,132,Norway,1,10122
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,133,"Torneo de Oman",133,Muscat,133,Oman,1,10530
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,134,"Torneo de Pakistan",134,Islamabad,134,Pakistan,1,10058
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,135,"Torneo de Palau",135,Melekeok,135,Palau,1,10394
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,136,"Torneo de Panama",136,"Panama City",136,Panama,1,10635
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,137,"Torneo de Papua New Guinea",137,"Port Moresby",137,"Papua New Guinea",1,10224
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,138,"Torneo de Paraguay",138,Asuncion,138,Paraguay,1,10541
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,139,"Torneo de Peru",139,Lima,139,Peru,1,9843
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,140,"Torneo de Philippines",140,Manila,140,Philippines,1,9762
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,141,"Torneo de Poland",141,Warsaw,141,Poland,1,10284
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,142,"Torneo de Portugal",142,Lisbon,142,Portugal,1,10484
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,143,"Torneo de Qatar",143,Doha,143,Qatar,1,9903
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,144,"Torneo de Romania",144,Bucharest,144,Romania,1,10482
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,145,"Torneo de Russia",145,Moscow,145,Russia,1,10158
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,146,"Torneo de Rwanda",146,Kigali,146,Rwanda,1,10340
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,147,"Torneo de Saint Kitts and Nevis",147,Basseterre,147,"Saint Kitts and Nevis",1,10499
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,148,"Torneo de Saint Lucia",148,Castries,148,"Saint Lucia",1,10128
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,149,"Torneo de Saint Vincent and the Grenadines",149,Kingstown,149,"Saint Vincent and the Grenadines",1,10689
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,150,"Torneo de Samoa",150,Apia,150,Samoa,1,10465
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,151,"Torneo de San Marino",151,"San Marino",151,"San Marino",1,10069
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,152,"Torneo de Sao Tome and Principe",152,"Sao Tome",152,"Sao Tome and Principe",1,10371
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,153,"Torneo de Saudi Arabia",153,Riyadh,153,"Saudi Arabia",1,10579
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,154,"Torneo de Scotland",154,Edinburgh,154,Scotland,1,9829
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,155,"Torneo de Senegal",155,Dakar,155,Senegal,1,9963
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,156,"Torneo de Serbia",156,Belgrade,156,Serbia,1,10192
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,157,"Torneo de Seychelles",157,Victoria,157,Seychelles,1,9927
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,158,"Torneo de Sierra Leone",158,Freetown,158,"Sierra Leone",1,10389
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,159,"Torneo de Singapore",159,Singapore,159,Singapore,1,10352
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,160,"Torneo de Slovakia",160,Bratislava,160,Slovakia,1,10175
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,161,"Torneo de Slovenia",161,Ljubljana,161,Slovenia,1,10548
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,162,"Torneo de Solomon Islands",162,Honiara,162,"Solomon Islands",1,9819
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,163,"Torneo de Somalia",163,Mogadishu,163,Somalia,1,9912
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,164,"Torneo de South Africa",164,"Pretoria-Bloemfontein-Cape Town",164,"South Africa",1,10440
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,165,"Torneo de South Korea",165,Seoul,165,"South Korea",1,10095
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,166,"Torneo de South Sudan",166,Juba,166,"South Sudan",1,9815
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,167,"Torneo de Spain",167,Madrid,167,Spain,1,9823
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,168,"Torneo de Sri Lanka",168,Colombo,168,"Sri Lanka",1,9796
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,169,"Torneo de Sudan",169,Khartoum,169,Sudan,1,10193
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,170,"Torneo de Suriname",170,Paramaribo,170,Suriname,1,9895
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,171,"Torneo de Sweden",171,Stockholm,171,Sweden,1,10371
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,172,"Torneo de Switzerland",172,Bern,172,Switzerland,1,10268
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,173,"Torneo de Syria",173,Damascus,173,Syria,1,10392
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,174,"Torneo de Taiwan",174,Taipei,174,Taiwan,1,10610
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,175,"Torneo de Tajikistan",175,Dushanbe,175,Tajikistan,1,10228
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,176,"Torneo de Tanzania",176,Dodoma,176,Tanzania,1,10147
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,177,"Torneo de Thailand",177,Bangkok,177,Thailand,1,10262
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,178,"Torneo de Togo",178,Lome,178,Togo,1,10601
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,179,"Torneo de Tonga",179,Nukualofa,179,Tonga,1,10400
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,180,"Torneo de Trinidad and Tobago",180,"Port of Spain",180,"Trinidad and Tobago",1,10717
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,181,"Torneo de Tunisia",181,Tunis,181,Tunisia,1,10198
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,182,"Torneo de Turkey",182,Ankara,182,Turkey,1,10492
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,183,"Torneo de Turkmenistan",183,Ashgabat,183,Turkmenistan,1,10697
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,184,"Torneo de Tuvalu",184,Funafuti,184,Tuvalu,1,10687
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,185,"Torneo de Uganda",185,Kampala,185,Uganda,1,10532
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,186,"Torneo de Ukraine",186,Kiev,186,Ukraine,1,9810
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,187,"Torneo de United Arab Emirates",187,"Abu Dhabi",187,"United Arab Emirates",1,10542
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,188,"Torneo de United Kingdom",188,London,188,"United Kingdom",1,10380
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,189,"Torneo de United States",189,"Washington D.C.",189,"United States",1,10451
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,190,"Torneo de Uruguay",190,Montevideo,190,Uruguay,1,9763
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,191,"Torneo de Uzbekistan",191,Tashkent,191,Uzbekistan,1,10202
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,192,"Torneo de Vanuatu",192,"Port Vila",192,Vanuatu,1,9799
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,193,"Torneo de Vatican City",193,"Vatican City",193,"Vatican City",1,10570
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,194,"Torneo de Venezuela",194,Caracas,194,Venezuela,1,10191
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,195,"Torneo de Vietnam",195,Hanoi,195,Vietnam,1,10359
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,196,"Torneo de Wales",196,Cardiff,196,Wales,1,10518
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,197,"Torneo de Yemen",197,Sanaa,197,Yemen,1,9933
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,198,"Torneo de Zambia",198,Lusaka,198,Zambia,1,10163
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,199,"Torneo de Zimbabwe",199,Harare,199,Zimbabwe,1,10286
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,200,"Torneo de Puerto Rico",200,"San Juan",200,"Puerto Rico",1,9997
+1,"Christian COLEMAN",1996-03-06,189,"United States",1,"carrera 100 m",1,tiempo,201,"Torneo de Virgin Islands (British)",201,"Road Town",201,"Virgin Islands (British)",1,10605
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,1,"Torneo de Afghanistan",1,Kabul,1,Afghanistan,1,21177
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,2,"Torneo de Albania",2,Tirana,2,Albania,1,20735
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,3,"Torneo de Algeria",3,Algiers,3,Algeria,1,20536
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,4,"Torneo de Andorra",4,"Andorra la Vella",4,Andorra,1,20087
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,5,"Torneo de Angola",5,Luanda,5,Angola,1,20655
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,6,"Torneo de Antigua and Barbuda",6,"Saint Johns",6,"Antigua and Barbuda",1,20738
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,7,"Torneo de Argentina",7,"Buenos Aires",7,Argentina,1,20997
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,8,"Torneo de Armenia",8,Yerevan,8,Armenia,1,20285
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,9,"Torneo de Australia",9,Canberra,9,Australia,1,20259
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,10,"Torneo de Austria",10,Vienna,10,Austria,1,21210
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,11,"Torneo de Azerbaijan",11,Baku,11,Azerbaijan,1,19956
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,12,"Torneo de Bahamas",12,Nassau,12,Bahamas,1,20470
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,13,"Torneo de Bahrain",13,Manama,13,Bahrain,1,21375
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,14,"Torneo de Bangladesh",14,Dhaka,14,Bangladesh,1,20430
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,15,"Torneo de Barbados",15,Bridgetown,15,Barbados,1,21270
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,16,"Torneo de Belarus",16,Minsk,16,Belarus,1,19931
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,17,"Torneo de Belgium",17,Brussels,17,Belgium,1,21425
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,18,"Torneo de Belize",18,Belmopan,18,Belize,1,20613
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,19,"Torneo de Benin",19,"Porto Novo",19,Benin,1,20385
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,20,"Torneo de Bhutan",20,Thimphu,20,Bhutan,1,19957
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,21,"Torneo de Bolivia",21,"La Paz",21,Bolivia,1,19558
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,22,"Torneo de Bosnia and Herzegovina",22,Sarajevo,22,"Bosnia and Herzegovina",1,20278
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,23,"Torneo de Botswana",23,Gaborone,23,Botswana,1,20151
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,24,"Torneo de Brazil",24,Brasilia,24,Brazil,1,20249
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,25,"Torneo de Brunei",25,"Bandar Seri Begawan",25,Brunei,1,21053
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,26,"Torneo de Bulgaria",26,Sofia,26,Bulgaria,1,19788
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,27,"Torneo de Burkina Faso",27,Ouagadougou,27,"Burkina Faso",1,21336
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,28,"Torneo de Burundi",28,Gitega,28,Burundi,1,21159
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,29,"Torneo de Cambodia",29,"Phnom Penh",29,Cambodia,1,20642
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,30,"Torneo de Cameroon",30,Yaounde,30,Cameroon,1,21164
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,31,"Torneo de Canada",31,Ottawa,31,Canada,1,19830
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,32,"Torneo de Cabo Verde",32,Praia,32,"Cabo Verde",1,20167
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,33,"Torneo de Central African Republic",33,Bangui,33,"Central African Republic",1,20421
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,34,"Torneo de Chad",34,NDjamena,34,Chad,1,19510
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,35,"Torneo de Chile",35,Santiago,35,Chile,1,20391
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,36,"Torneo de China",36,Beijing,36,China,1,19611
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,37,"Torneo de Colombia",37,Bogota,37,Colombia,1,21240
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,38,"Torneo de Comoros",38,Moroni,38,Comoros,1,20696
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,39,"Torneo de Congo Democratic Republic of the",39,Kinshasa,39,"Congo Democratic Republic of the",1,19983
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,40,"Torneo de Congo Republic of the",40,Brazzaville,40,"Congo Republic of the",1,20264
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,41,"Torneo de Costa Rica",41,"San Jose",41,"Costa Rica",1,21322
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,42,"Torneo de Ivory Coast",42,Yamoussoukro,42,"Ivory Coast",1,20865
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,43,"Torneo de Croatia",43,Zagreb,43,Croatia,1,21037
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,44,"Torneo de Cuba",44,Havana,44,Cuba,1,20195
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,45,"Torneo de Cyprus",45,Nicosia,45,Cyprus,1,20183
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,46,"Torneo de Czechia",46,Prague,46,Czechia,1,20848
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,47,"Torneo de Denmark",47,Copenhagen,47,Denmark,1,21430
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,48,"Torneo de Djibouti",48,Djibouti,48,Djibouti,1,20171
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,49,"Torneo de Dominica",49,Roseau,49,Dominica,1,19981
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,50,"Torneo de Dominican Republic",50,"Santo Domingo",50,"Dominican Republic",1,19730
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,51,"Torneo de Timor-Leste",51,Dili,51,Timor-Leste,1,19851
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,52,"Torneo de Ecuador",52,Quito,52,Ecuador,1,20041
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,53,"Torneo de Egypt",53,Cairo,53,Egypt,1,20237
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,54,"Torneo de El Salvador",54,"San Salvador",54,"El Salvador",1,20973
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,55,"Torneo de Equatorial Guinea",55,Malabo,55,"Equatorial Guinea",1,20928
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,56,"Torneo de Eritrea",56,Asmara,56,Eritrea,1,19983
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,57,"Torneo de Estonia",57,Tallinn,57,Estonia,1,20077
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,58,"Torneo de Ethiopia",58,"Addis Ababa",58,Ethiopia,1,20165
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,59,"Torneo de Micronesia",59,Palikir,59,Micronesia,1,20655
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,60,"Torneo de Fiji",60,Suva,60,Fiji,1,21130
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,61,"Torneo de Finland",61,Helsinki,61,Finland,1,20973
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,62,"Torneo de France",62,Paris,62,France,1,20485
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,63,"Torneo de French Guiana",63,Cayenne,63,"French Guiana",1,19505
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,64,"Torneo de Gabon",64,Libreville,64,Gabon,1,20026
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,65,"Torneo de Gambia",65,Banjul,65,Gambia,1,19842
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,66,"Torneo de Georgia",66,Tbilisi,66,Georgia,1,21027
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,67,"Torneo de Germany",67,Berlin,67,Germany,1,21386
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,68,"Torneo de Ghana",68,Accra,68,Ghana,1,21187
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,69,"Torneo de Greece",69,Athens,69,Greece,1,20350
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,70,"Torneo de Grenada",70,"Saint Georges",70,Grenada,1,20881
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,71,"Torneo de Guatemala",71,"Guatemala City",71,Guatemala,1,20449
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,72,"Torneo de Guinea",72,Conakry,72,Guinea,1,20935
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,73,"Torneo de Guinea-Bissau",73,Bissau,73,Guinea-Bissau,1,20379
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,74,"Torneo de Guyana",74,Georgetown,74,Guyana,1,20426
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,75,"Torneo de Haiti",75,"Port au Prince",75,Haiti,1,21011
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,76,"Torneo de Honduras",76,Tegucigalpa,76,Honduras,1,20484
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,77,"Torneo de Hungary",77,Budapest,77,Hungary,1,19635
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,78,"Torneo de Iceland",78,Reykjavik,78,Iceland,1,19642
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,79,"Torneo de India",79,"New Delhi",79,India,1,20531
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,80,"Torneo de Indonesia",80,Jakarta,80,Indonesia,1,20247
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,81,"Torneo de Iran",81,Tehran,81,Iran,1,19998
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,82,"Torneo de Iraq",82,Baghdad,82,Iraq,1,19784
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,83,"Torneo de Ireland",83,Dublin,83,Ireland,1,21205
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,84,"Torneo de Israel",84,"Tel Aviv",84,Israel,1,20129
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,85,"Torneo de Italy",85,Rome,85,Italy,1,20366
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,86,"Torneo de Jamaica",86,Kingston,86,Jamaica,1,20095
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,87,"Torneo de Japan",87,Tokyo,87,Japan,1,20556
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,88,"Torneo de Jordan",88,Amman,88,Jordan,1,20745
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,89,"Torneo de Kazakhstan",89,Astana,89,Kazakhstan,1,20884
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,90,"Torneo de Kenya",90,Nairobi,90,Kenya,1,20722
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,91,"Torneo de Kiribati",91,"Tarawa Atoll",91,Kiribati,1,21203
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,92,"Torneo de Kosovo",92,Pristina,92,Kosovo,1,19768
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,93,"Torneo de Kuwait",93,"Kuwait City",93,Kuwait,1,20842
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,94,"Torneo de Kyrgyzstan",94,Bishkek,94,Kyrgyzstan,1,19791
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,95,"Torneo de Laos",95,Vientiane,95,Laos,1,19614
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,96,"Torneo de Latvia",96,Riga,96,Latvia,1,21005
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,97,"Torneo de Lebanon",97,Beirut,97,Lebanon,1,19824
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,98,"Torneo de Lesotho",98,Maseru,98,Lesotho,1,19519
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,99,"Torneo de Liberia",99,Monrovia,99,Liberia,1,19643
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,100,"Torneo de Libya",100,Tripoli,100,Libya,1,19606
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,101,"Torneo de Liechtenstein",101,Vaduz,101,Liechtenstein,1,20253
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,102,"Torneo de Lithuania",102,Vilnius,102,Lithuania,1,19762
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,103,"Torneo de Luxembourg",103,Luxembourg,103,Luxembourg,1,20546
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,104,"Torneo de Madagascar",104,Antananarivo,104,Madagascar,1,21268
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,105,"Torneo de Malawi",105,Lilongwe,105,Malawi,1,20853
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,106,"Torneo de Malaysia",106,"Kuala Lumpur",106,Malaysia,1,20147
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,107,"Torneo de Maldives",107,Male,107,Maldives,1,19719
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,108,"Torneo de Mali",108,Bamako,108,Mali,1,21237
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,109,"Torneo de Malta",109,Valletta,109,Malta,1,20958
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,110,"Torneo de Marshall Islands",110,Majuro,110,"Marshall Islands",1,20291
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,111,"Torneo de Mauritania",111,Nouakchott,111,Mauritania,1,20151
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,112,"Torneo de Mauritius",112,"Port Louis",112,Mauritius,1,20235
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,113,"Torneo de Mexico",113,"Mexico City",113,Mexico,1,21001
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,114,"Torneo de Moldova",114,Chisinau,114,Moldova,1,20052
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,115,"Torneo de Monaco",115,Monaco,115,Monaco,1,21149
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,116,"Torneo de Mongolia",116,Ulaanbaatar,116,Mongolia,1,20152
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,117,"Torneo de Montenegro",117,Podgorica,117,Montenegro,1,20861
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,118,"Torneo de Morocco",118,Rabat,118,Morocco,1,21194
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,119,"Torneo de Mozambique",119,Maputo,119,Mozambique,1,20164
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,120,"Torneo de Myanmar",120,"Nay Pyi Taw",120,Myanmar,1,20912
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,121,"Torneo de Namibia",121,Windhoek,121,Namibia,1,20052
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,122,"Torneo de Nauru",122,"No official capital",122,Nauru,1,19697
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,123,"Torneo de Nepal",123,Kathmandu,123,Nepal,1,20961
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,124,"Torneo de Netherlands",124,Amsterdam,124,Netherlands,1,19839
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,125,"Torneo de New Zealand",125,Wellington,125,"New Zealand",1,20167
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,126,"Torneo de Nicaragua",126,Managua,126,Nicaragua,1,19748
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,127,"Torneo de Niger",127,Niamey,127,Niger,1,19740
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,128,"Torneo de Nigeria",128,Abuja,128,Nigeria,1,21263
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,129,"Torneo de North Korea",129,Pyongyang,129,"North Korea",1,19533
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,130,"Torneo de Macedonia",130,Skopje,130,Macedonia,1,20409
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,131,"Torneo de Northern Ireland",131,Belfast,131,"Northern Ireland",1,20060
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,132,"Torneo de Norway",132,Oslo,132,Norway,1,19933
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,133,"Torneo de Oman",133,Muscat,133,Oman,1,20324
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,134,"Torneo de Pakistan",134,Islamabad,134,Pakistan,1,21037
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,135,"Torneo de Palau",135,Melekeok,135,Palau,1,19548
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,136,"Torneo de Panama",136,"Panama City",136,Panama,1,21360
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,137,"Torneo de Papua New Guinea",137,"Port Moresby",137,"Papua New Guinea",1,19763
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,138,"Torneo de Paraguay",138,Asuncion,138,Paraguay,1,21043
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,139,"Torneo de Peru",139,Lima,139,Peru,1,20145
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,140,"Torneo de Philippines",140,Manila,140,Philippines,1,20489
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,141,"Torneo de Poland",141,Warsaw,141,Poland,1,21223
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,142,"Torneo de Portugal",142,Lisbon,142,Portugal,1,19600
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,143,"Torneo de Qatar",143,Doha,143,Qatar,1,21386
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,144,"Torneo de Romania",144,Bucharest,144,Romania,1,19537
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,145,"Torneo de Russia",145,Moscow,145,Russia,1,21048
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,146,"Torneo de Rwanda",146,Kigali,146,Rwanda,1,19691
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,147,"Torneo de Saint Kitts and Nevis",147,Basseterre,147,"Saint Kitts and Nevis",1,20701
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,148,"Torneo de Saint Lucia",148,Castries,148,"Saint Lucia",1,19566
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,149,"Torneo de Saint Vincent and the Grenadines",149,Kingstown,149,"Saint Vincent and the Grenadines",1,20106
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,150,"Torneo de Samoa",150,Apia,150,Samoa,1,20005
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,151,"Torneo de San Marino",151,"San Marino",151,"San Marino",1,20244
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,152,"Torneo de Sao Tome and Principe",152,"Sao Tome",152,"Sao Tome and Principe",1,19555
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,153,"Torneo de Saudi Arabia",153,Riyadh,153,"Saudi Arabia",1,20272
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,154,"Torneo de Scotland",154,Edinburgh,154,Scotland,1,20699
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,155,"Torneo de Senegal",155,Dakar,155,Senegal,1,21362
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,156,"Torneo de Serbia",156,Belgrade,156,Serbia,1,19505
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,157,"Torneo de Seychelles",157,Victoria,157,Seychelles,1,20117
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,158,"Torneo de Sierra Leone",158,Freetown,158,"Sierra Leone",1,19770
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,159,"Torneo de Singapore",159,Singapore,159,Singapore,1,21036
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,160,"Torneo de Slovakia",160,Bratislava,160,Slovakia,1,20206
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,161,"Torneo de Slovenia",161,Ljubljana,161,Slovenia,1,19715
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,162,"Torneo de Solomon Islands",162,Honiara,162,"Solomon Islands",1,20274
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,163,"Torneo de Somalia",163,Mogadishu,163,Somalia,1,21062
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,164,"Torneo de South Africa",164,"Pretoria-Bloemfontein-Cape Town",164,"South Africa",1,21248
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,165,"Torneo de South Korea",165,Seoul,165,"South Korea",1,21316
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,166,"Torneo de South Sudan",166,Juba,166,"South Sudan",1,21444
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,167,"Torneo de Spain",167,Madrid,167,Spain,1,20664
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,168,"Torneo de Sri Lanka",168,Colombo,168,"Sri Lanka",1,20699
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,169,"Torneo de Sudan",169,Khartoum,169,Sudan,1,20954
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,170,"Torneo de Suriname",170,Paramaribo,170,Suriname,1,20816
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,171,"Torneo de Sweden",171,Stockholm,171,Sweden,1,20288
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,172,"Torneo de Switzerland",172,Bern,172,Switzerland,1,19735
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,173,"Torneo de Syria",173,Damascus,173,Syria,1,20677
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,174,"Torneo de Taiwan",174,Taipei,174,Taiwan,1,20480
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,175,"Torneo de Tajikistan",175,Dushanbe,175,Tajikistan,1,20438
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,176,"Torneo de Tanzania",176,Dodoma,176,Tanzania,1,20646
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,177,"Torneo de Thailand",177,Bangkok,177,Thailand,1,19647
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,178,"Torneo de Togo",178,Lome,178,Togo,1,20038
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,179,"Torneo de Tonga",179,Nukualofa,179,Tonga,1,21158
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,180,"Torneo de Trinidad and Tobago",180,"Port of Spain",180,"Trinidad and Tobago",1,20771
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,181,"Torneo de Tunisia",181,Tunis,181,Tunisia,1,21161
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,182,"Torneo de Turkey",182,Ankara,182,Turkey,1,20744
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,183,"Torneo de Turkmenistan",183,Ashgabat,183,Turkmenistan,1,20104
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,184,"Torneo de Tuvalu",184,Funafuti,184,Tuvalu,1,21228
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,185,"Torneo de Uganda",185,Kampala,185,Uganda,1,20725
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,186,"Torneo de Ukraine",186,Kiev,186,Ukraine,1,20799
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,187,"Torneo de United Arab Emirates",187,"Abu Dhabi",187,"United Arab Emirates",1,20568
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,188,"Torneo de United Kingdom",188,London,188,"United Kingdom",1,20120
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,189,"Torneo de United States",189,"Washington D.C.",189,"United States",1,20839
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,190,"Torneo de Uruguay",190,Montevideo,190,Uruguay,1,20928
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,191,"Torneo de Uzbekistan",191,Tashkent,191,Uzbekistan,1,20940
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,192,"Torneo de Vanuatu",192,"Port Vila",192,Vanuatu,1,20897
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,193,"Torneo de Vatican City",193,"Vatican City",193,"Vatican City",1,21199
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,194,"Torneo de Venezuela",194,Caracas,194,Venezuela,1,21106
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,195,"Torneo de Vietnam",195,Hanoi,195,Vietnam,1,20091
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,196,"Torneo de Wales",196,Cardiff,196,Wales,1,20550
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,197,"Torneo de Yemen",197,Sanaa,197,Yemen,1,20697
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,198,"Torneo de Zambia",198,Lusaka,198,Zambia,1,21313
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,199,"Torneo de Zimbabwe",199,Harare,199,Zimbabwe,1,21265
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,200,"Torneo de Puerto Rico",200,"San Juan",200,"Puerto Rico",1,19819
+2,"Noah LYLES",1997-07-18,189,"United States",2,"carrera 200 m",1,tiempo,201,"Torneo de Virgin Islands (British)",201,"Road Town",201,"Virgin Islands (British)",1,21258
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,1,"Torneo de Afghanistan",1,Kabul,1,Afghanistan,1,10516
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,2,"Torneo de Albania",2,Tirana,2,Albania,1,10509
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,3,"Torneo de Algeria",3,Algiers,3,Algeria,1,9774
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,4,"Torneo de Andorra",4,"Andorra la Vella",4,Andorra,1,10076
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,5,"Torneo de Angola",5,Luanda,5,Angola,1,10132
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,6,"Torneo de Antigua and Barbuda",6,"Saint Johns",6,"Antigua and Barbuda",1,10252
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,7,"Torneo de Argentina",7,"Buenos Aires",7,Argentina,1,10353
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,8,"Torneo de Armenia",8,Yerevan,8,Armenia,1,10050
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,9,"Torneo de Australia",9,Canberra,9,Australia,1,10648
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,10,"Torneo de Austria",10,Vienna,10,Austria,1,10367
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,11,"Torneo de Azerbaijan",11,Baku,11,Azerbaijan,1,10370
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,12,"Torneo de Bahamas",12,Nassau,12,Bahamas,1,10535
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,13,"Torneo de Bahrain",13,Manama,13,Bahrain,1,10215
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,14,"Torneo de Bangladesh",14,Dhaka,14,Bangladesh,1,10374
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,15,"Torneo de Barbados",15,Bridgetown,15,Barbados,1,10620
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,16,"Torneo de Belarus",16,Minsk,16,Belarus,1,10310
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,17,"Torneo de Belgium",17,Brussels,17,Belgium,1,10236
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,18,"Torneo de Belize",18,Belmopan,18,Belize,1,10437
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,19,"Torneo de Benin",19,"Porto Novo",19,Benin,1,10378
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,20,"Torneo de Bhutan",20,Thimphu,20,Bhutan,1,9933
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,21,"Torneo de Bolivia",21,"La Paz",21,Bolivia,1,10726
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,22,"Torneo de Bosnia and Herzegovina",22,Sarajevo,22,"Bosnia and Herzegovina",1,10300
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,23,"Torneo de Botswana",23,Gaborone,23,Botswana,1,10581
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,24,"Torneo de Brazil",24,Brasilia,24,Brazil,1,10681
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,25,"Torneo de Brunei",25,"Bandar Seri Begawan",25,Brunei,1,10198
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,26,"Torneo de Bulgaria",26,Sofia,26,Bulgaria,1,9872
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,27,"Torneo de Burkina Faso",27,Ouagadougou,27,"Burkina Faso",1,9889
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,28,"Torneo de Burundi",28,Gitega,28,Burundi,1,10443
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,29,"Torneo de Cambodia",29,"Phnom Penh",29,Cambodia,1,10125
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,30,"Torneo de Cameroon",30,Yaounde,30,Cameroon,1,9954
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,31,"Torneo de Canada",31,Ottawa,31,Canada,1,10325
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,32,"Torneo de Cabo Verde",32,Praia,32,"Cabo Verde",1,10114
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,33,"Torneo de Central African Republic",33,Bangui,33,"Central African Republic",1,10703
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,34,"Torneo de Chad",34,NDjamena,34,Chad,1,9893
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,35,"Torneo de Chile",35,Santiago,35,Chile,1,10178
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,36,"Torneo de China",36,Beijing,36,China,1,10623
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,37,"Torneo de Colombia",37,Bogota,37,Colombia,1,10138
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,38,"Torneo de Comoros",38,Moroni,38,Comoros,1,10482
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,39,"Torneo de Congo Democratic Republic of the",39,Kinshasa,39,"Congo Democratic Republic of the",1,10000
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,40,"Torneo de Congo Republic of the",40,Brazzaville,40,"Congo Republic of the",1,10540
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,41,"Torneo de Costa Rica",41,"San Jose",41,"Costa Rica",1,10392
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,42,"Torneo de Ivory Coast",42,Yamoussoukro,42,"Ivory Coast",1,9855
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,43,"Torneo de Croatia",43,Zagreb,43,Croatia,1,10030
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,44,"Torneo de Cuba",44,Havana,44,Cuba,1,9825
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,45,"Torneo de Cyprus",45,Nicosia,45,Cyprus,1,10156
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,46,"Torneo de Czechia",46,Prague,46,Czechia,1,10391
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,47,"Torneo de Denmark",47,Copenhagen,47,Denmark,1,10357
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,48,"Torneo de Djibouti",48,Djibouti,48,Djibouti,1,10078
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,49,"Torneo de Dominica",49,Roseau,49,Dominica,1,10417
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,50,"Torneo de Dominican Republic",50,"Santo Domingo",50,"Dominican Republic",1,10546
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,51,"Torneo de Timor-Leste",51,Dili,51,Timor-Leste,1,10087
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,52,"Torneo de Ecuador",52,Quito,52,Ecuador,1,10471
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,53,"Torneo de Egypt",53,Cairo,53,Egypt,1,10260
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,54,"Torneo de El Salvador",54,"San Salvador",54,"El Salvador",1,9941
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,55,"Torneo de Equatorial Guinea",55,Malabo,55,"Equatorial Guinea",1,10333
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,56,"Torneo de Eritrea",56,Asmara,56,Eritrea,1,10347
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,57,"Torneo de Estonia",57,Tallinn,57,Estonia,1,10066
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,58,"Torneo de Ethiopia",58,"Addis Ababa",58,Ethiopia,1,10399
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,59,"Torneo de Micronesia",59,Palikir,59,Micronesia,1,9938
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,60,"Torneo de Fiji",60,Suva,60,Fiji,1,9813
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,61,"Torneo de Finland",61,Helsinki,61,Finland,1,10407
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,62,"Torneo de France",62,Paris,62,France,1,10281
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,63,"Torneo de French Guiana",63,Cayenne,63,"French Guiana",1,10143
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,64,"Torneo de Gabon",64,Libreville,64,Gabon,1,10639
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,65,"Torneo de Gambia",65,Banjul,65,Gambia,1,10578
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,66,"Torneo de Georgia",66,Tbilisi,66,Georgia,1,10228
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,67,"Torneo de Germany",67,Berlin,67,Germany,1,9888
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,68,"Torneo de Ghana",68,Accra,68,Ghana,1,10554
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,69,"Torneo de Greece",69,Athens,69,Greece,1,9991
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,70,"Torneo de Grenada",70,"Saint Georges",70,Grenada,1,10014
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,71,"Torneo de Guatemala",71,"Guatemala City",71,Guatemala,1,10728
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,72,"Torneo de Guinea",72,Conakry,72,Guinea,1,10083
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,73,"Torneo de Guinea-Bissau",73,Bissau,73,Guinea-Bissau,1,10709
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,74,"Torneo de Guyana",74,Georgetown,74,Guyana,1,10657
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,75,"Torneo de Haiti",75,"Port au Prince",75,Haiti,1,9941
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,76,"Torneo de Honduras",76,Tegucigalpa,76,Honduras,1,10425
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,77,"Torneo de Hungary",77,Budapest,77,Hungary,1,9767
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,78,"Torneo de Iceland",78,Reykjavik,78,Iceland,1,10660
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,79,"Torneo de India",79,"New Delhi",79,India,1,10423
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,80,"Torneo de Indonesia",80,Jakarta,80,Indonesia,1,10184
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,81,"Torneo de Iran",81,Tehran,81,Iran,1,10279
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,82,"Torneo de Iraq",82,Baghdad,82,Iraq,1,10373
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,83,"Torneo de Ireland",83,Dublin,83,Ireland,1,10490
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,84,"Torneo de Israel",84,"Tel Aviv",84,Israel,1,10402
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,85,"Torneo de Italy",85,Rome,85,Italy,1,9818
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,86,"Torneo de Jamaica",86,Kingston,86,Jamaica,1,9784
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,87,"Torneo de Japan",87,Tokyo,87,Japan,1,10663
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,88,"Torneo de Jordan",88,Amman,88,Jordan,1,9889
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,89,"Torneo de Kazakhstan",89,Astana,89,Kazakhstan,1,10055
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,90,"Torneo de Kenya",90,Nairobi,90,Kenya,1,9846
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,91,"Torneo de Kiribati",91,"Tarawa Atoll",91,Kiribati,1,10216
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,92,"Torneo de Kosovo",92,Pristina,92,Kosovo,1,10631
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,93,"Torneo de Kuwait",93,"Kuwait City",93,Kuwait,1,9914
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,94,"Torneo de Kyrgyzstan",94,Bishkek,94,Kyrgyzstan,1,10325
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,95,"Torneo de Laos",95,Vientiane,95,Laos,1,10203
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,96,"Torneo de Latvia",96,Riga,96,Latvia,1,9846
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,97,"Torneo de Lebanon",97,Beirut,97,Lebanon,1,9870
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,98,"Torneo de Lesotho",98,Maseru,98,Lesotho,1,9997
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,99,"Torneo de Liberia",99,Monrovia,99,Liberia,1,9764
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,100,"Torneo de Libya",100,Tripoli,100,Libya,1,10736
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,101,"Torneo de Liechtenstein",101,Vaduz,101,Liechtenstein,1,9894
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,102,"Torneo de Lithuania",102,Vilnius,102,Lithuania,1,10339
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,103,"Torneo de Luxembourg",103,Luxembourg,103,Luxembourg,1,10036
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,104,"Torneo de Madagascar",104,Antananarivo,104,Madagascar,1,9776
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,105,"Torneo de Malawi",105,Lilongwe,105,Malawi,1,9964
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,106,"Torneo de Malaysia",106,"Kuala Lumpur",106,Malaysia,1,9891
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,107,"Torneo de Maldives",107,Male,107,Maldives,1,10449
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,108,"Torneo de Mali",108,Bamako,108,Mali,1,10015
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,109,"Torneo de Malta",109,Valletta,109,Malta,1,10517
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,110,"Torneo de Marshall Islands",110,Majuro,110,"Marshall Islands",1,10415
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,111,"Torneo de Mauritania",111,Nouakchott,111,Mauritania,1,9788
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,112,"Torneo de Mauritius",112,"Port Louis",112,Mauritius,1,10554
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,113,"Torneo de Mexico",113,"Mexico City",113,Mexico,1,9925
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,114,"Torneo de Moldova",114,Chisinau,114,Moldova,1,10270
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,115,"Torneo de Monaco",115,Monaco,115,Monaco,1,10491
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,116,"Torneo de Mongolia",116,Ulaanbaatar,116,Mongolia,1,10605
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,117,"Torneo de Montenegro",117,Podgorica,117,Montenegro,1,10336
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,118,"Torneo de Morocco",118,Rabat,118,Morocco,1,10410
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,119,"Torneo de Mozambique",119,Maputo,119,Mozambique,1,9826
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,120,"Torneo de Myanmar",120,"Nay Pyi Taw",120,Myanmar,1,10694
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,121,"Torneo de Namibia",121,Windhoek,121,Namibia,1,10168
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,122,"Torneo de Nauru",122,"No official capital",122,Nauru,1,9912
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,123,"Torneo de Nepal",123,Kathmandu,123,Nepal,1,10252
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,124,"Torneo de Netherlands",124,Amsterdam,124,Netherlands,1,9978
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,125,"Torneo de New Zealand",125,Wellington,125,"New Zealand",1,10202
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,126,"Torneo de Nicaragua",126,Managua,126,Nicaragua,1,10488
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,127,"Torneo de Niger",127,Niamey,127,Niger,1,10353
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,128,"Torneo de Nigeria",128,Abuja,128,Nigeria,1,9810
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,129,"Torneo de North Korea",129,Pyongyang,129,"North Korea",1,10326
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,130,"Torneo de Macedonia",130,Skopje,130,Macedonia,1,10113
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,131,"Torneo de Northern Ireland",131,Belfast,131,"Northern Ireland",1,10626
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,132,"Torneo de Norway",132,Oslo,132,Norway,1,10083
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,133,"Torneo de Oman",133,Muscat,133,Oman,1,10373
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,134,"Torneo de Pakistan",134,Islamabad,134,Pakistan,1,10266
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,135,"Torneo de Palau",135,Melekeok,135,Palau,1,10500
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,136,"Torneo de Panama",136,"Panama City",136,Panama,1,10156
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,137,"Torneo de Papua New Guinea",137,"Port Moresby",137,"Papua New Guinea",1,9928
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,138,"Torneo de Paraguay",138,Asuncion,138,Paraguay,1,10196
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,139,"Torneo de Peru",139,Lima,139,Peru,1,10616
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,140,"Torneo de Philippines",140,Manila,140,Philippines,1,10286
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,141,"Torneo de Poland",141,Warsaw,141,Poland,1,10277
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,142,"Torneo de Portugal",142,Lisbon,142,Portugal,1,9863
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,143,"Torneo de Qatar",143,Doha,143,Qatar,1,10057
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,144,"Torneo de Romania",144,Bucharest,144,Romania,1,10578
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,145,"Torneo de Russia",145,Moscow,145,Russia,1,10352
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,146,"Torneo de Rwanda",146,Kigali,146,Rwanda,1,10652
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,147,"Torneo de Saint Kitts and Nevis",147,Basseterre,147,"Saint Kitts and Nevis",1,10719
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,148,"Torneo de Saint Lucia",148,Castries,148,"Saint Lucia",1,10084
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,149,"Torneo de Saint Vincent and the Grenadines",149,Kingstown,149,"Saint Vincent and the Grenadines",1,10576
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,150,"Torneo de Samoa",150,Apia,150,Samoa,1,10443
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,151,"Torneo de San Marino",151,"San Marino",151,"San Marino",1,10512
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,152,"Torneo de Sao Tome and Principe",152,"Sao Tome",152,"Sao Tome and Principe",1,10366
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,153,"Torneo de Saudi Arabia",153,Riyadh,153,"Saudi Arabia",1,9865
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,154,"Torneo de Scotland",154,Edinburgh,154,Scotland,1,10699
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,155,"Torneo de Senegal",155,Dakar,155,Senegal,1,10428
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,156,"Torneo de Serbia",156,Belgrade,156,Serbia,1,10397
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,157,"Torneo de Seychelles",157,Victoria,157,Seychelles,1,9864
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,158,"Torneo de Sierra Leone",158,Freetown,158,"Sierra Leone",1,10254
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,159,"Torneo de Singapore",159,Singapore,159,Singapore,1,10496
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,160,"Torneo de Slovakia",160,Bratislava,160,Slovakia,1,9931
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,161,"Torneo de Slovenia",161,Ljubljana,161,Slovenia,1,10153
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,162,"Torneo de Solomon Islands",162,Honiara,162,"Solomon Islands",1,10270
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,163,"Torneo de Somalia",163,Mogadishu,163,Somalia,1,10544
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,164,"Torneo de South Africa",164,"Pretoria-Bloemfontein-Cape Town",164,"South Africa",1,10075
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,165,"Torneo de South Korea",165,Seoul,165,"South Korea",1,10178
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,166,"Torneo de South Sudan",166,Juba,166,"South Sudan",1,10182
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,167,"Torneo de Spain",167,Madrid,167,Spain,1,9916
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,168,"Torneo de Sri Lanka",168,Colombo,168,"Sri Lanka",1,9765
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,169,"Torneo de Sudan",169,Khartoum,169,Sudan,1,10328
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,170,"Torneo de Suriname",170,Paramaribo,170,Suriname,1,9901
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,171,"Torneo de Sweden",171,Stockholm,171,Sweden,1,10110
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,172,"Torneo de Switzerland",172,Bern,172,Switzerland,1,10221
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,173,"Torneo de Syria",173,Damascus,173,Syria,1,10072
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,174,"Torneo de Taiwan",174,Taipei,174,Taiwan,1,10170
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,175,"Torneo de Tajikistan",175,Dushanbe,175,Tajikistan,1,10559
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,176,"Torneo de Tanzania",176,Dodoma,176,Tanzania,1,10599
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,177,"Torneo de Thailand",177,Bangkok,177,Thailand,1,10325
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,178,"Torneo de Togo",178,Lome,178,Togo,1,10212
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,179,"Torneo de Tonga",179,Nukualofa,179,Tonga,1,9938
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,180,"Torneo de Trinidad and Tobago",180,"Port of Spain",180,"Trinidad and Tobago",1,9976
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,181,"Torneo de Tunisia",181,Tunis,181,Tunisia,1,10219
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,182,"Torneo de Turkey",182,Ankara,182,Turkey,1,10443
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,183,"Torneo de Turkmenistan",183,Ashgabat,183,Turkmenistan,1,10385
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,184,"Torneo de Tuvalu",184,Funafuti,184,Tuvalu,1,10065
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,185,"Torneo de Uganda",185,Kampala,185,Uganda,1,10355
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,186,"Torneo de Ukraine",186,Kiev,186,Ukraine,1,10209
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,187,"Torneo de United Arab Emirates",187,"Abu Dhabi",187,"United Arab Emirates",1,10645
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,188,"Torneo de United Kingdom",188,London,188,"United Kingdom",1,9904
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,189,"Torneo de United States",189,"Washington D.C.",189,"United States",1,9974
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,190,"Torneo de Uruguay",190,Montevideo,190,Uruguay,1,10155
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,191,"Torneo de Uzbekistan",191,Tashkent,191,Uzbekistan,1,10370
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,192,"Torneo de Vanuatu",192,"Port Vila",192,Vanuatu,1,10497
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,193,"Torneo de Vatican City",193,"Vatican City",193,"Vatican City",1,10229
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,194,"Torneo de Venezuela",194,Caracas,194,Venezuela,1,10655
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,195,"Torneo de Vietnam",195,Hanoi,195,Vietnam,1,10408
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,196,"Torneo de Wales",196,Cardiff,196,Wales,1,10663
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,197,"Torneo de Yemen",197,Sanaa,197,Yemen,1,10687
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,198,"Torneo de Zambia",198,Lusaka,198,Zambia,1,10263
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,199,"Torneo de Zimbabwe",199,Harare,199,Zimbabwe,1,9928
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,200,"Torneo de Puerto Rico",200,"San Juan",200,"Puerto Rico",1,9760
+2,"Noah LYLES",1997-07-18,189,"United States",1,"carrera 100 m",1,tiempo,201,"Torneo de Virgin Islands (British)",201,"Road Town",201,"Virgin Islands (British)",1,10465
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,1,"Torneo de Afghanistan",1,Kabul,1,Afghanistan,1,19619
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,2,"Torneo de Albania",2,Tirana,2,Albania,1,21401
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,3,"Torneo de Algeria",3,Algiers,3,Algeria,1,20079
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,4,"Torneo de Andorra",4,"Andorra la Vella",4,Andorra,1,19980
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,5,"Torneo de Angola",5,Luanda,5,Angola,1,20054
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,6,"Torneo de Antigua and Barbuda",6,"Saint Johns",6,"Antigua and Barbuda",1,20064
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,7,"Torneo de Argentina",7,"Buenos Aires",7,Argentina,1,19837
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,8,"Torneo de Armenia",8,Yerevan,8,Armenia,1,20185
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,9,"Torneo de Australia",9,Canberra,9,Australia,1,20891
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,10,"Torneo de Austria",10,Vienna,10,Austria,1,20864
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,11,"Torneo de Azerbaijan",11,Baku,11,Azerbaijan,1,20240
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,12,"Torneo de Bahamas",12,Nassau,12,Bahamas,1,21154
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,13,"Torneo de Bahrain",13,Manama,13,Bahrain,1,20861
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,14,"Torneo de Bangladesh",14,Dhaka,14,Bangladesh,1,19562
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,15,"Torneo de Barbados",15,Bridgetown,15,Barbados,1,20929
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,16,"Torneo de Belarus",16,Minsk,16,Belarus,1,20487
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,17,"Torneo de Belgium",17,Brussels,17,Belgium,1,20413
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,18,"Torneo de Belize",18,Belmopan,18,Belize,1,19613
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,19,"Torneo de Benin",19,"Porto Novo",19,Benin,1,20591
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,20,"Torneo de Bhutan",20,Thimphu,20,Bhutan,1,21236
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,21,"Torneo de Bolivia",21,"La Paz",21,Bolivia,1,19918
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,22,"Torneo de Bosnia and Herzegovina",22,Sarajevo,22,"Bosnia and Herzegovina",1,21189
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,23,"Torneo de Botswana",23,Gaborone,23,Botswana,1,20061
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,24,"Torneo de Brazil",24,Brasilia,24,Brazil,1,20889
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,25,"Torneo de Brunei",25,"Bandar Seri Begawan",25,Brunei,1,20413
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,26,"Torneo de Bulgaria",26,Sofia,26,Bulgaria,1,21132
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,27,"Torneo de Burkina Faso",27,Ouagadougou,27,"Burkina Faso",1,20281
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,28,"Torneo de Burundi",28,Gitega,28,Burundi,1,21049
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,29,"Torneo de Cambodia",29,"Phnom Penh",29,Cambodia,1,19755
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,30,"Torneo de Cameroon",30,Yaounde,30,Cameroon,1,20021
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,31,"Torneo de Canada",31,Ottawa,31,Canada,1,19728
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,32,"Torneo de Cabo Verde",32,Praia,32,"Cabo Verde",1,19735
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,33,"Torneo de Central African Republic",33,Bangui,33,"Central African Republic",1,21184
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,34,"Torneo de Chad",34,NDjamena,34,Chad,1,20131
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,35,"Torneo de Chile",35,Santiago,35,Chile,1,20557
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,36,"Torneo de China",36,Beijing,36,China,1,20407
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,37,"Torneo de Colombia",37,Bogota,37,Colombia,1,19739
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,38,"Torneo de Comoros",38,Moroni,38,Comoros,1,20967
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,39,"Torneo de Congo Democratic Republic of the",39,Kinshasa,39,"Congo Democratic Republic of the",1,21259
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,40,"Torneo de Congo Republic of the",40,Brazzaville,40,"Congo Republic of the",1,20895
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,41,"Torneo de Costa Rica",41,"San Jose",41,"Costa Rica",1,21413
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,42,"Torneo de Ivory Coast",42,Yamoussoukro,42,"Ivory Coast",1,21447
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,43,"Torneo de Croatia",43,Zagreb,43,Croatia,1,20427
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,44,"Torneo de Cuba",44,Havana,44,Cuba,1,21053
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,45,"Torneo de Cyprus",45,Nicosia,45,Cyprus,1,21415
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,46,"Torneo de Czechia",46,Prague,46,Czechia,1,20911
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,47,"Torneo de Denmark",47,Copenhagen,47,Denmark,1,20006
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,48,"Torneo de Djibouti",48,Djibouti,48,Djibouti,1,20160
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,49,"Torneo de Dominica",49,Roseau,49,Dominica,1,20455
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,50,"Torneo de Dominican Republic",50,"Santo Domingo",50,"Dominican Republic",1,19578
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,51,"Torneo de Timor-Leste",51,Dili,51,Timor-Leste,1,20077
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,52,"Torneo de Ecuador",52,Quito,52,Ecuador,1,19693
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,53,"Torneo de Egypt",53,Cairo,53,Egypt,1,20929
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,54,"Torneo de El Salvador",54,"San Salvador",54,"El Salvador",1,21449
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,55,"Torneo de Equatorial Guinea",55,Malabo,55,"Equatorial Guinea",1,20144
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,56,"Torneo de Eritrea",56,Asmara,56,Eritrea,1,19891
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,57,"Torneo de Estonia",57,Tallinn,57,Estonia,1,21411
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,58,"Torneo de Ethiopia",58,"Addis Ababa",58,Ethiopia,1,21043
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,59,"Torneo de Micronesia",59,Palikir,59,Micronesia,1,19942
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,60,"Torneo de Fiji",60,Suva,60,Fiji,1,21021
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,61,"Torneo de Finland",61,Helsinki,61,Finland,1,20439
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,62,"Torneo de France",62,Paris,62,France,1,20801
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,63,"Torneo de French Guiana",63,Cayenne,63,"French Guiana",1,20354
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,64,"Torneo de Gabon",64,Libreville,64,Gabon,1,20921
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,65,"Torneo de Gambia",65,Banjul,65,Gambia,1,19545
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,66,"Torneo de Georgia",66,Tbilisi,66,Georgia,1,21382
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,67,"Torneo de Germany",67,Berlin,67,Germany,1,20414
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,68,"Torneo de Ghana",68,Accra,68,Ghana,1,20734
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,69,"Torneo de Greece",69,Athens,69,Greece,1,19642
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,70,"Torneo de Grenada",70,"Saint Georges",70,Grenada,1,20627
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,71,"Torneo de Guatemala",71,"Guatemala City",71,Guatemala,1,19691
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,72,"Torneo de Guinea",72,Conakry,72,Guinea,1,21034
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,73,"Torneo de Guinea-Bissau",73,Bissau,73,Guinea-Bissau,1,21365
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,74,"Torneo de Guyana",74,Georgetown,74,Guyana,1,19812
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,75,"Torneo de Haiti",75,"Port au Prince",75,Haiti,1,20523
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,76,"Torneo de Honduras",76,Tegucigalpa,76,Honduras,1,20326
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,77,"Torneo de Hungary",77,Budapest,77,Hungary,1,19640
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,78,"Torneo de Iceland",78,Reykjavik,78,Iceland,1,19774
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,79,"Torneo de India",79,"New Delhi",79,India,1,21242
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,80,"Torneo de Indonesia",80,Jakarta,80,Indonesia,1,20185
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,81,"Torneo de Iran",81,Tehran,81,Iran,1,21225
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,82,"Torneo de Iraq",82,Baghdad,82,Iraq,1,21437
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,83,"Torneo de Ireland",83,Dublin,83,Ireland,1,20578
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,84,"Torneo de Israel",84,"Tel Aviv",84,Israel,1,21273
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,85,"Torneo de Italy",85,Rome,85,Italy,1,21283
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,86,"Torneo de Jamaica",86,Kingston,86,Jamaica,1,20569
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,87,"Torneo de Japan",87,Tokyo,87,Japan,1,20492
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,88,"Torneo de Jordan",88,Amman,88,Jordan,1,21256
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,89,"Torneo de Kazakhstan",89,Astana,89,Kazakhstan,1,20415
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,90,"Torneo de Kenya",90,Nairobi,90,Kenya,1,20492
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,91,"Torneo de Kiribati",91,"Tarawa Atoll",91,Kiribati,1,21261
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,92,"Torneo de Kosovo",92,Pristina,92,Kosovo,1,20013
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,93,"Torneo de Kuwait",93,"Kuwait City",93,Kuwait,1,20489
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,94,"Torneo de Kyrgyzstan",94,Bishkek,94,Kyrgyzstan,1,20167
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,95,"Torneo de Laos",95,Vientiane,95,Laos,1,20900
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,96,"Torneo de Latvia",96,Riga,96,Latvia,1,19900
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,97,"Torneo de Lebanon",97,Beirut,97,Lebanon,1,21357
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,98,"Torneo de Lesotho",98,Maseru,98,Lesotho,1,21030
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,99,"Torneo de Liberia",99,Monrovia,99,Liberia,1,19766
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,100,"Torneo de Libya",100,Tripoli,100,Libya,1,21392
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,101,"Torneo de Liechtenstein",101,Vaduz,101,Liechtenstein,1,20737
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,102,"Torneo de Lithuania",102,Vilnius,102,Lithuania,1,19737
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,103,"Torneo de Luxembourg",103,Luxembourg,103,Luxembourg,1,20268
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,104,"Torneo de Madagascar",104,Antananarivo,104,Madagascar,1,20237
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,105,"Torneo de Malawi",105,Lilongwe,105,Malawi,1,20256
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,106,"Torneo de Malaysia",106,"Kuala Lumpur",106,Malaysia,1,20732
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,107,"Torneo de Maldives",107,Male,107,Maldives,1,21159
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,108,"Torneo de Mali",108,Bamako,108,Mali,1,20480
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,109,"Torneo de Malta",109,Valletta,109,Malta,1,20468
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,110,"Torneo de Marshall Islands",110,Majuro,110,"Marshall Islands",1,20403
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,111,"Torneo de Mauritania",111,Nouakchott,111,Mauritania,1,21427
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,112,"Torneo de Mauritius",112,"Port Louis",112,Mauritius,1,20312
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,113,"Torneo de Mexico",113,"Mexico City",113,Mexico,1,20422
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,114,"Torneo de Moldova",114,Chisinau,114,Moldova,1,20725
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,115,"Torneo de Monaco",115,Monaco,115,Monaco,1,19718
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,116,"Torneo de Mongolia",116,Ulaanbaatar,116,Mongolia,1,19532
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,117,"Torneo de Montenegro",117,Podgorica,117,Montenegro,1,21099
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,118,"Torneo de Morocco",118,Rabat,118,Morocco,1,20154
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,119,"Torneo de Mozambique",119,Maputo,119,Mozambique,1,20733
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,120,"Torneo de Myanmar",120,"Nay Pyi Taw",120,Myanmar,1,20814
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,121,"Torneo de Namibia",121,Windhoek,121,Namibia,1,20976
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,122,"Torneo de Nauru",122,"No official capital",122,Nauru,1,21192
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,123,"Torneo de Nepal",123,Kathmandu,123,Nepal,1,20326
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,124,"Torneo de Netherlands",124,Amsterdam,124,Netherlands,1,20656
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,125,"Torneo de New Zealand",125,Wellington,125,"New Zealand",1,20772
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,126,"Torneo de Nicaragua",126,Managua,126,Nicaragua,1,19731
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,127,"Torneo de Niger",127,Niamey,127,Niger,1,19829
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,128,"Torneo de Nigeria",128,Abuja,128,Nigeria,1,19520
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,129,"Torneo de North Korea",129,Pyongyang,129,"North Korea",1,20817
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,130,"Torneo de Macedonia",130,Skopje,130,Macedonia,1,20343
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,131,"Torneo de Northern Ireland",131,Belfast,131,"Northern Ireland",1,20920
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,132,"Torneo de Norway",132,Oslo,132,Norway,1,21041
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,133,"Torneo de Oman",133,Muscat,133,Oman,1,20861
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,134,"Torneo de Pakistan",134,Islamabad,134,Pakistan,1,20222
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,135,"Torneo de Palau",135,Melekeok,135,Palau,1,20218
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,136,"Torneo de Panama",136,"Panama City",136,Panama,1,19903
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,137,"Torneo de Papua New Guinea",137,"Port Moresby",137,"Papua New Guinea",1,19872
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,138,"Torneo de Paraguay",138,Asuncion,138,Paraguay,1,19566
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,139,"Torneo de Peru",139,Lima,139,Peru,1,19738
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,140,"Torneo de Philippines",140,Manila,140,Philippines,1,19606
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,141,"Torneo de Poland",141,Warsaw,141,Poland,1,21179
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,142,"Torneo de Portugal",142,Lisbon,142,Portugal,1,20397
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,143,"Torneo de Qatar",143,Doha,143,Qatar,1,19770
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,144,"Torneo de Romania",144,Bucharest,144,Romania,1,21372
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,145,"Torneo de Russia",145,Moscow,145,Russia,1,21341
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,146,"Torneo de Rwanda",146,Kigali,146,Rwanda,1,20604
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,147,"Torneo de Saint Kitts and Nevis",147,Basseterre,147,"Saint Kitts and Nevis",1,20661
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,148,"Torneo de Saint Lucia",148,Castries,148,"Saint Lucia",1,19643
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,149,"Torneo de Saint Vincent and the Grenadines",149,Kingstown,149,"Saint Vincent and the Grenadines",1,20546
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,150,"Torneo de Samoa",150,Apia,150,Samoa,1,21211
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,151,"Torneo de San Marino",151,"San Marino",151,"San Marino",1,20179
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,152,"Torneo de Sao Tome and Principe",152,"Sao Tome",152,"Sao Tome and Principe",1,21421
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,153,"Torneo de Saudi Arabia",153,Riyadh,153,"Saudi Arabia",1,20141
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,154,"Torneo de Scotland",154,Edinburgh,154,Scotland,1,21405
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,155,"Torneo de Senegal",155,Dakar,155,Senegal,1,20800
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,156,"Torneo de Serbia",156,Belgrade,156,Serbia,1,19805
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,157,"Torneo de Seychelles",157,Victoria,157,Seychelles,1,20224
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,158,"Torneo de Sierra Leone",158,Freetown,158,"Sierra Leone",1,19728
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,159,"Torneo de Singapore",159,Singapore,159,Singapore,1,19929
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,160,"Torneo de Slovakia",160,Bratislava,160,Slovakia,1,21062
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,161,"Torneo de Slovenia",161,Ljubljana,161,Slovenia,1,20907
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,162,"Torneo de Solomon Islands",162,Honiara,162,"Solomon Islands",1,19504
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,163,"Torneo de Somalia",163,Mogadishu,163,Somalia,1,20040
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,164,"Torneo de South Africa",164,"Pretoria-Bloemfontein-Cape Town",164,"South Africa",1,19780
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,165,"Torneo de South Korea",165,Seoul,165,"South Korea",1,20989
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,166,"Torneo de South Sudan",166,Juba,166,"South Sudan",1,19649
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,167,"Torneo de Spain",167,Madrid,167,Spain,1,20759
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,168,"Torneo de Sri Lanka",168,Colombo,168,"Sri Lanka",1,21390
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,169,"Torneo de Sudan",169,Khartoum,169,Sudan,1,19973
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,170,"Torneo de Suriname",170,Paramaribo,170,Suriname,1,21311
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,171,"Torneo de Sweden",171,Stockholm,171,Sweden,1,21035
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,172,"Torneo de Switzerland",172,Bern,172,Switzerland,1,20723
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,173,"Torneo de Syria",173,Damascus,173,Syria,1,20963
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,174,"Torneo de Taiwan",174,Taipei,174,Taiwan,1,20138
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,175,"Torneo de Tajikistan",175,Dushanbe,175,Tajikistan,1,20245
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,176,"Torneo de Tanzania",176,Dodoma,176,Tanzania,1,20568
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,177,"Torneo de Thailand",177,Bangkok,177,Thailand,1,19998
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,178,"Torneo de Togo",178,Lome,178,Togo,1,19996
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,179,"Torneo de Tonga",179,Nukualofa,179,Tonga,1,19503
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,180,"Torneo de Trinidad and Tobago",180,"Port of Spain",180,"Trinidad and Tobago",1,19861
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,181,"Torneo de Tunisia",181,Tunis,181,Tunisia,1,21370
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,182,"Torneo de Turkey",182,Ankara,182,Turkey,1,20535
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,183,"Torneo de Turkmenistan",183,Ashgabat,183,Turkmenistan,1,19744
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,184,"Torneo de Tuvalu",184,Funafuti,184,Tuvalu,1,20776
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,185,"Torneo de Uganda",185,Kampala,185,Uganda,1,20766
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,186,"Torneo de Ukraine",186,Kiev,186,Ukraine,1,20266
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,187,"Torneo de United Arab Emirates",187,"Abu Dhabi",187,"United Arab Emirates",1,21209
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,188,"Torneo de United Kingdom",188,London,188,"United Kingdom",1,20372
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,189,"Torneo de United States",189,"Washington D.C.",189,"United States",1,20904
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,190,"Torneo de Uruguay",190,Montevideo,190,Uruguay,1,20336
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,191,"Torneo de Uzbekistan",191,Tashkent,191,Uzbekistan,1,20796
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,192,"Torneo de Vanuatu",192,"Port Vila",192,Vanuatu,1,21090
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,193,"Torneo de Vatican City",193,"Vatican City",193,"Vatican City",1,19572
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,194,"Torneo de Venezuela",194,Caracas,194,Venezuela,1,20866
+3,"Divine ODUDURU",1996-10-07,128,Nigeria,2,"carrera 200 m",1,tiempo,195,"Torneo de Vietnam",195,Hanoi,195,Vietnam,1,19766
