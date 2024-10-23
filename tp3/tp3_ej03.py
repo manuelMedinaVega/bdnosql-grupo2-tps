@@ -103,11 +103,12 @@ def generar_reporte(db):
     
     with open(nombre_archivo_resultado_ejercicio, 'w', encoding='utf-8') as archivo:
         rows_esportistas = db.execute(query_esportistas)
+        archivo.write("NombreTipoEspecialidade, IdDeportista, NombreDeportista, NombresEspecialidades\n")
         for row in rows_esportistas:
             grabar_linea(archivo, (row.nombre_tipo_especialidad + ", " + str(row.id_deportista) + ", " + row.nombre_deportista + ", " + ", ".join(row.nombres_especialidades)))
 
         
-        archivo.write("\nCantidad de registros por especialidad:\n")
+        archivo.write("\nNombreTipoEspecialidade, Cantidad\n")
         rows_conteo = db.execute(query_conteo)
         for row in rows_conteo:
             grabar_linea(archivo, (row.nombre_tipo_especialidad + " = " + str(row.cantidad)))

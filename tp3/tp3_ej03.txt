@@ -1,6 +1,724 @@
+NombreTipoEspecialidade, IdDeportista, NombreDeportista, NombresEspecialidades
+lanzamiento, 101, Jonathan JONES, lanzamiento de bala
+lanzamiento, 645, Joe KOVACS, lanzamiento de bala
+lanzamiento, 646, Ryan CROUSER, lanzamiento de bala
+lanzamiento, 647, Tomas WALSH, lanzamiento de bala
+lanzamiento, 648, Darlan ROMANI, lanzamiento de bala
+lanzamiento, 649, Darrell HILL, lanzamiento de bala
+lanzamiento, 650, Michał HARATYK, lanzamiento de bala
+lanzamiento, 651, Konrad BUKOWIECKI, lanzamiento de bala
+lanzamiento, 652, Bob BERTEMES, lanzamiento de bala
+lanzamiento, 653, Filip MIHALJEVIĆ, lanzamiento de bala
+lanzamiento, 654, Chukwuebuka ENEKWECHI, lanzamiento de bala
+lanzamiento, 655, Tomáš STANĚK, lanzamiento de bala
+lanzamiento, 657, Jordan GEIST, lanzamiento de bala
+lanzamiento, 658, Orazio CREMONA, lanzamiento de bala
+lanzamiento, 659, Armin SINANČEVIĆ, lanzamiento de bala
+lanzamiento, 660, Mesud PEZER, lanzamiento de bala
+lanzamiento, 661, Eldred HENRY, lanzamiento de bala
+lanzamiento, 662, Jacko GILL, lanzamiento de bala
+lanzamiento, 663, Payton OTTERDAHL, lanzamiento de bala
+lanzamiento, 664, Tim NEDOW, lanzamiento de bala
+lanzamiento, 665, Lijiao GONG, lanzamiento de bala
+lanzamiento, 666, Chase EALEY, lanzamiento de bala
+lanzamiento, 667, Danniel THOMAS-DODD, lanzamiento de bala
+lanzamiento, 668, Maggie EWEN, lanzamiento de bala, lanzamiento de martillo
+lanzamiento, 669, Christina SCHWANITZ, lanzamiento de bala
+lanzamiento, 670, Brittany CREW, lanzamiento de bala
+lanzamiento, 671, Aliona DUBITSKAYA, lanzamiento de bala
+lanzamiento, 672, Fanny ROOS, lanzamiento de bala
+lanzamiento, 673, Jessica RAMSEY, lanzamiento de bala
+lanzamiento, 674, Anita MÁRTON, lanzamiento de bala
+lanzamiento, 675, Michelle CARTER, lanzamiento de bala
+lanzamiento, 676, Daniella HILL, lanzamiento de bala
+lanzamiento, 677, Jeneva STEVENS, lanzamiento de bala
+lanzamiento, 678, Dimitriana SURDU, lanzamiento de bala
+lanzamiento, 679, Paulina GUBA, lanzamiento de bala
+lanzamiento, 680, Portious WARREN, lanzamiento de bala
+lanzamiento, 681, Sophie MCKINNA, lanzamiento de bala
+lanzamiento, 682, Anna AVDEYEVA, lanzamiento de bala
+lanzamiento, 683, Alyona GORDEYEVA, lanzamiento de bala
+lanzamiento, 684, Rachel FATHERLY, lanzamiento de bala
+lanzamiento, 685, Daniel STÅHL, lanzamiento de disco
+lanzamiento, 686, Fedrick DACRES, lanzamiento de disco
+lanzamiento, 687, Lukas WEISSHAIDINGER, lanzamiento de disco
+lanzamiento, 688, Lois Maikel MARTÍNEZ, lanzamiento de disco
+lanzamiento, 689, Ola STUNES ISENE, lanzamiento de disco
+lanzamiento, 690, Andrius GUDŽIUS, lanzamiento de disco
+lanzamiento, 691, Traves SMIKLE, lanzamiento de disco
+lanzamiento, 692, Alin Alexandru FIRFIRICA, lanzamiento de disco
+lanzamiento, 693, Piotr MAŁACHOWSKI, lanzamiento de disco
+lanzamiento, 694, Ehsan HADADI, lanzamiento de disco
+lanzamiento, 695, Mason FINLEY, lanzamiento de disco
+lanzamiento, 696, Sam MATTIS, lanzamiento de disco
+lanzamiento, 697, Reggie JAGERS III, lanzamiento de disco
+lanzamiento, 698, Simon PETTERSSON, lanzamiento de disco
+lanzamiento, 699, Apostolos PARELLIS, lanzamiento de disco
+lanzamiento, 700, Alex ROSE, lanzamiento de disco
+lanzamiento, 701, Martin WIERIG, lanzamiento de disco
+lanzamiento, 702, Christoph HARTING, lanzamiento de disco
+lanzamiento, 703, David WROBEL, lanzamiento de disco
+lanzamiento, 704, Robert URBANEK, lanzamiento de disco
+lanzamiento, 705, Yaimé PÉREZ, lanzamiento de disco
+lanzamiento, 706, Denia CABALLERO, lanzamiento de disco
+lanzamiento, 707, Sandra PERKOVIĆ, lanzamiento de disco
+lanzamiento, 708, Valarie ALLMAN, lanzamiento de disco
+lanzamiento, 709, Claudine VITA, lanzamiento de disco
+lanzamiento, 710, Andressa DE MORAIS, lanzamiento de disco
+lanzamiento, 711, Dani STEVENS, lanzamiento de disco
+lanzamiento, 712, Bin FENG, lanzamiento de disco
+lanzamiento, 713, Shadae LAWRENCE, lanzamiento de disco
+lanzamiento, 714, Yang CHEN, lanzamiento de disco
+lanzamiento, 715, Nadine MÜLLER, lanzamiento de disco
+lanzamiento, 716, Kristin PUDENZ, lanzamiento de disco
+lanzamiento, 717, Fernanda MARTINS, lanzamiento de disco
+lanzamiento, 718, Mélina ROBERT-MICHON, lanzamiento de disco
+lanzamiento, 719, Laulauga TAUSAGA, lanzamiento de disco
+lanzamiento, 720, Yekaterina STROKOVA, lanzamiento de disco
+lanzamiento, 721, Xinyue SU, lanzamiento de disco
+lanzamiento, 722, Whitney ASHLEY, lanzamiento de disco
+lanzamiento, 723, Yelena PANOVA, lanzamiento de disco
+lanzamiento, 724, Kelsey CARD, lanzamiento de disco
+lanzamiento, 725, Marike STEINACKER, lanzamiento de disco
+lanzamiento, 726, Wojciech NOWICKI, lanzamiento de martillo
+lanzamiento, 727, Paweł FAJDEK, lanzamiento de martillo
+lanzamiento, 728, Javier CIENFUEGOS, lanzamiento de martillo
+lanzamiento, 729, Valeriy PRONKIN, lanzamiento de martillo
+lanzamiento, 730, Denis LUKYANOV, lanzamiento de martillo
+lanzamiento, 731, Bence HALÁSZ, lanzamiento de martillo
+lanzamiento, 732, Nick MILLER, lanzamiento de martillo
+lanzamiento, 733, Hleb DUDARAU, lanzamiento de martillo
+lanzamiento, 734, Eivind HENRIKSEN, lanzamiento de martillo
+lanzamiento, 735, Serghei MARGHIEV, lanzamiento de martillo
+lanzamiento, 736, Quentin BIGOT, lanzamiento de martillo
+lanzamiento, 737, Conor MCCULLOUGH, lanzamiento de martillo
+lanzamiento, 738, Sean DONNELLY, lanzamiento de martillo
+lanzamiento, 739, Özkan BALTACI, lanzamiento de martillo
+lanzamiento, 740, Mykhaylo KOKHAN, lanzamiento de martillo
+lanzamiento, 741, Yevgeniy KOROTOVSKIY, lanzamiento de martillo
+lanzamiento, 742, Marcel LOMNICKÝ, lanzamiento de martillo
+lanzamiento, 743, Rudy WINKLER, lanzamiento de martillo
+lanzamiento, 744, Serhiy PEREVOZNIKOV, lanzamiento de martillo
+lanzamiento, 745, Serhiy REHEDA, lanzamiento de martillo
+lanzamiento, 746, DeAnna PRICE, lanzamiento de martillo
+lanzamiento, 747, Brooke ANDERSEN, lanzamiento de martillo
+lanzamiento, 748, Gwen BERRY, lanzamiento de martillo
+lanzamiento, 749, Joanna FIODOROW, lanzamiento de martillo
+lanzamiento, 750, Zheng WANG, lanzamiento de martillo
+lanzamiento, 751, Anita WŁODARCZYK, lanzamiento de martillo
+lanzamiento, 752, Janeah STEWART, lanzamiento de martillo
+lanzamiento, 753, Malwina KOPRON, lanzamiento de martillo
+lanzamiento, 755, Hanna MALYSHIK, lanzamiento de martillo
+lanzamiento, 756, Alexandra TAVERNIER, lanzamiento de martillo
+lanzamiento, 757, Zalina PETRIVSKAYA, lanzamiento de martillo
+lanzamiento, 758, Laura IGAUNE, lanzamiento de martillo
+lanzamiento, 759, Iryna KLYMETS, lanzamiento de martillo
+lanzamiento, 760, Hanna SKYDAN, lanzamiento de martillo
+lanzamiento, 761, Janee KASSANAVOID, lanzamiento de martillo
+lanzamiento, 762, Na LUO, lanzamiento de martillo
+lanzamiento, 763, Réka GYURÁTZ, lanzamiento de martillo
+lanzamiento, 764, Sofiya PALKINA, lanzamiento de martillo
+lanzamiento, 765, Yelizaveta TSAREVA, lanzamiento de martillo
+lanzamiento, 766, Huihui LYU, lanzamiento de jabalina
+lanzamiento, 767, Kelsey-Lee BARBER, lanzamiento de jabalina
+lanzamiento, 768, Nikola OGRODNÍKOVÁ, lanzamiento de jabalina
+lanzamiento, 769, Tatsiana KHALADOVICH, lanzamiento de jabalina
+lanzamiento, 770, Christin HUSSONG, lanzamiento de jabalina
+lanzamiento, 771, Sara KOLAK, lanzamiento de jabalina
+lanzamiento, 772, Haruka KITAGUCHI, lanzamiento de jabalina
+lanzamiento, 773, Shiying LIU, lanzamiento de jabalina
+lanzamiento, 774, Kara WINGER, lanzamiento de jabalina
+lanzamiento, 775, Lina MUZE, lanzamiento de jabalina
+lanzamiento, 776, Eda TUĞSUZ, lanzamiento de jabalina
+lanzamiento, 777, Liveta JASIŪNAITĖ, lanzamiento de jabalina
+lanzamiento, 778, Barbora ŠPOTÁKOVÁ, lanzamiento de jabalina
+lanzamiento, 779, Martina RATEJ, lanzamiento de jabalina
+lanzamiento, 780, Elizabeth GLEADLE, lanzamiento de jabalina
+lanzamiento, 781, Annika Marie FUCHS, lanzamiento de jabalina
+lanzamiento, 782, Yekaterina STARYGINA, lanzamiento de jabalina
+lanzamiento, 783, Ariana INCE, lanzamiento de jabalina
+lanzamiento, 784, Alexie ALAÏS, lanzamiento de jabalina
+lanzamiento, 785, Maria ANDREJCZYK, lanzamiento de jabalina
+lanzamiento, 786, Magnus KIRT, lanzamiento de jabalina
+lanzamiento, 787, Johannes VETTER, lanzamiento de jabalina
+lanzamiento, 788, Andreas HOFMANN, lanzamiento de jabalina
+lanzamiento, 789, Edis MATUSEVIČIUS, lanzamiento de jabalina
+lanzamiento, 790, Bernhard SEIFERT, lanzamiento de jabalina
+lanzamiento, 791, Chao-Tsun CHENG, lanzamiento de jabalina
+lanzamiento, 792, Julius YEGO, lanzamiento de jabalina
+lanzamiento, 793, Anderson PETERS, lanzamiento de jabalina
+lanzamiento, 794, Thomas RÖHLER, lanzamiento de jabalina
+lanzamiento, 795, Oliver HELANDER, lanzamiento de jabalina
+lanzamiento, 796, Julian WEBER, lanzamiento de jabalina
+lanzamiento, 797, Arshad NADEEM, lanzamiento de jabalina
+lanzamiento, 798, Shivpal SINGH, lanzamiento de jabalina
+lanzamiento, 799, Keshorn WALCOTT, lanzamiento de jabalina
+lanzamiento, 800, Kim AMB, lanzamiento de jabalina
+lanzamiento, 801, Jakub VADLEJCH, lanzamiento de jabalina
+lanzamiento, 802, Marcin KRUKOWSKI, lanzamiento de jabalina
+lanzamiento, 803, Dmitriy TARABIN, lanzamiento de jabalina
+lanzamiento, 804, Antti RUUSKANEN, lanzamiento de jabalina
+lanzamiento, 805, Cyprian MRZYGŁÓD, lanzamiento de jabalina
 tiempo, 1, Christian COLEMAN, carrera 100 m, carrera 200 m
 tiempo, 2, Noah LYLES, carrera 100 m, carrera 200 m
-tiempo, 3, Divine ODUDURU, carrera 200 m
+tiempo, 3, Divine ODUDURU, carrera 100 m, carrera 200 m
+tiempo, 4, Justin GATLIN, carrera 100 m
+tiempo, 5, Andre DE GRASSE, carrera 100 m, carrera 200 m
+tiempo, 6, Cravon GILLESPIE, carrera 100 m, carrera 200 m
+tiempo, 7, Akani SIMBINE, carrera 100 m
+tiempo, 8, Arthur CISSÉ, carrera 100 m
+tiempo, 9, Zharnel HUGHES, carrera 100 m
+tiempo, 10, Yohan BLAKE, carrera 100 m
+tiempo, 11, Aaron BROWN, carrera 100 m, carrera 200 m
+tiempo, 12, Raymond EKEVWO, carrera 100 m
+tiempo, 13, Reece PRESCOD, carrera 100 m
+tiempo, 14, Abdul Hakim SANI BROWN, carrera 100 m, carrera 200 m
+tiempo, 15, Michael RODGERS, carrera 100 m
+tiempo, 16, Roberto SKYERS, carrera 100 m
+tiempo, 17, Mario BURKE, carrera 100 m, carrera 200 m
+tiempo, 18, Yuki KOIKE, carrera 100 m
+tiempo, 19, Isiah YOUNG, carrera 100 m
+tiempo, 20, Tyquendo TRACEY, carrera 100 m
+tiempo, 21, Shelly-Ann FRASER-PRYCE, carrera 100 m, carrera 200 m
+tiempo, 22, Elaine THOMPSON, carrera 100 m, carrera 200 m
+tiempo, 23, ShaCarri RICHARDSON, carrera 100 m, carrera 200 m
+tiempo, 24, Dina ASHER-SMITH, carrera 100 m, carrera 200 m
+tiempo, 25, Marie-Josée TA LOU, carrera 100 m, carrera 200 m
+tiempo, 26, Kayla WHITE, carrera 100 m, carrera 200 m
+tiempo, 27, Twanisha TERRY, carrera 100 m
+tiempo, 28, Teahna DANIELS, carrera 100 m, carrera 200 m
+tiempo, 29, Mujinga KAMBUNDJI, carrera 100 m, carrera 200 m
+tiempo, 30, Carina HORN, carrera 100 m
+tiempo, 31, Kiara PARKER, carrera 100 m
+tiempo, 32, Briana WILLIAMS, carrera 100 m
+tiempo, 33, Murielle AHOURÉ, carrera 100 m
+tiempo, 34, Aleia HOBBS, carrera 100 m
+tiempo, 35, Kiara GRANT, carrera 100 m
+tiempo, 36, Jonielle SMITH, carrera 100 m
+tiempo, 37, Tebogo MAMATHU, carrera 100 m
+tiempo, 38, Yongli WEI, carrera 100 m
+tiempo, 39, Dafne SCHIPPERS, carrera 100 m, carrera 200 m
+tiempo, 40, Manqi GE, carrera 100 m
+tiempo, 41, Tynia GAITHER, carrera 100 m
+tiempo, 42, Blessing OKAGBARE, carrera 100 m, carrera 200 m
+tiempo, 43, Shaunae MILLER-UIBO, carrera 200 m, carrera 400 m
+tiempo, 47, Anglerne ANNELUS, carrera 200 m
+tiempo, 50, Brittany BROWN, carrera 200 m
+tiempo, 53, Cambrea STURGIS, carrera 200 m
+tiempo, 54, Janeek BROWN, carrera 110 m con vallas, carrera 200 m
+tiempo, 55, Amy HUNT, carrera 200 m
+tiempo, 57, Ivet LALOVA-COLLIO, carrera 200 m
+tiempo, 58, Dezerea BRYANT, carrera 200 m
+tiempo, 59, Beth DOBBIN, carrera 200 m
+tiempo, 61, Salwa Eid NASER, carrera 200 m, carrera 400 m
+tiempo, 64, Michael NORMAN, carrera 200 m, carrera 400 m
+tiempo, 66, Kenneth BEDNAREK, carrera 200 m, carrera 400 m
+tiempo, 67, Ramil GULIYEV, carrera 200 m
+tiempo, 68, Alex QUIÑÓNEZ, carrera 200 m
+tiempo, 70, Zhenye XIE, carrera 200 m
+tiempo, 74, Miguel FRANCIS, carrera 200 m
+tiempo, 75, Alex WILSON, carrera 200 m
+tiempo, 76, Adam GEMILI, carrera 200 m
+tiempo, 77, Steven GARDINER, carrera 200 m, carrera 400 m
+tiempo, 78, Andrew HUDSON, carrera 200 m
+tiempo, 79, Clarence MUNYAI, carrera 200 m
+tiempo, 80, Bernardo BALOYES, carrera 200 m
+tiempo, 81, Joseph Paul AMOAH, carrera 200 m
+tiempo, 86, Fred KERLEY, carrera 400 m
+tiempo, 87, Anthony José ZAMBRANO, carrera 400 m
+tiempo, 88, Kahmari MONTGOMERY, carrera 400 m
+tiempo, 89, Kirani JAMES, carrera 400 m
+tiempo, 90, Trevor STEWART, carrera 400 m
+tiempo, 91, Nathan STROTHER, carrera 400 m
+tiempo, 92, Rai BENJAMIN, carrera 400 m, carrera 400 m con vallas
+tiempo, 93, Emmanuel Kipkurui KORIR, carrera 400 m, carrera 800 m
+tiempo, 94, Akeem BLOOMFIELD, carrera 400 m
+tiempo, 95, Vernon NORWOOD, carrera 400 m
+tiempo, 96, Machel CEDENIO, carrera 400 m
+tiempo, 97, ​Demish GAYE, carrera 400 m
+tiempo, 98, Quincy HALL, carrera 400 m, carrera 400 m con vallas
+tiempo, 99, Abderrahman SAMBA, carrera 400 m, carrera 400 m con vallas
+tiempo, 100, Wilbert LONDON, carrera 400 m
+tiempo, 101, Jonathan JONES, carrera 400 m
+tiempo, 102, Michael CHERRY, carrera 400 m
+tiempo, 106, Aminatou SEYNI, carrera 400 m
+tiempo, 107, Shericka JACKSON, carrera 400 m
+tiempo, 108, Wadeline JONATHAS, carrera 400 m
+tiempo, 109, Phyllis FRANCIS, carrera 400 m
+tiempo, 110, Shakima WIMBLEY, carrera 400 m
+tiempo, 111, Kendall ELLIS, carrera 400 m
+tiempo, 112, Christine BOTLOGETSWE, carrera 400 m
+tiempo, 113, Galefele MOROKO, carrera 400 m
+tiempo, 114, Dalilah MUHAMMAD, carrera 400 m, carrera 400 m con vallas
+tiempo, 115, Chrisann GORDON, carrera 400 m
+tiempo, 116, Stephenie Ann MCPHERSON, carrera 400 m
+tiempo, 117, Sydney MCLAUGHLIN, carrera 400 m, carrera 400 m con vallas
+tiempo, 118, Courtney OKOLO, carrera 400 m
+tiempo, 119, Laviai NIELSEN, carrera 400 m
+tiempo, 120, Justyna ŚWIĘTY-ERSETIC, carrera 400 m
+tiempo, 121, Anastasia LE-ROY, carrera 400 m
+tiempo, 122, Sharrika BARNETT, carrera 400 m
+tiempo, 123, Chloe ABBOTT, carrera 400 m
+tiempo, 124, Nijel AMOS, carrera 800 m
+tiempo, 125, Donavan BRAZIER, carrera 800 m
+tiempo, 126, Ferguson Cheruiyot ROTICH, carrera 800 m
+tiempo, 127, Timothy CHERUIYOT, carrera 1500 m, carrera 800 m
+tiempo, 128, Amel TUKA, carrera 800 m
+tiempo, 129, Wyclife KINYAMAL, carrera 800 m
+tiempo, 130, Brandon MCBRIDE, carrera 800 m
+tiempo, 132, Michael SARUNI, carrera 800 m
+tiempo, 133, Marcin LEWANDOWSKI, carrera 1500 m, carrera 800 m
+tiempo, 134, Wesley VÁZQUEZ, carrera 800 m
+tiempo, 135, Cornelius TUWEI, carrera 800 m
+tiempo, 136, Clayton MURPHY, carrera 800 m
+tiempo, 137, Marco AROP, carrera 800 m
+tiempo, 138, Bryce HOPPEL, carrera 800 m
+tiempo, 139, Abubaker Haydar ABDALLA, carrera 800 m
+tiempo, 140, Ayanleh SOULEIMAN, carrera 1500 m, carrera 800 m
+tiempo, 141, Collins KIPRUTO, carrera 800 m
+tiempo, 142, Jonathan KITILIT, carrera 800 m
+tiempo, 143, Alfred KIPKETER, carrera 800 m
+tiempo, 144, Caster SEMENYA, carrera 800 m
+tiempo, 145, Ajee WILSON, carrera 800 m
+tiempo, 146, Francine NIYONSABA, carrera 800 m
+tiempo, 147, Natoya GOULE, carrera 800 m
+tiempo, 148, Halimah NAKAAYI, carrera 800 m
+tiempo, 149, Raevyn ROGERS, carrera 800 m
+tiempo, 150, Hanna GREEN, carrera 800 m
+tiempo, 151, Laura MUIR, carrera 1500 m, carrera 800 m
+tiempo, 152, Lynsey SHARP, carrera 800 m
+tiempo, 153, Catriona BISSET, carrera 800 m
+tiempo, 154, Jackline WAMBUI, carrera 800 m
+tiempo, 155, Winnie NANYONDO, carrera 1500 m, carrera 800 m
+tiempo, 156, Eunice Jepkoech SUM, carrera 800 m
+tiempo, 157, Nelly JEPKOSGEI, carrera 800 m
+tiempo, 158, Rose Mary ALMANZA, carrera 800 m
+tiempo, 159, Natalya PRYSHCHEPA, carrera 800 m
+tiempo, 160, Olha LYAKHOVA, carrera 800 m
+tiempo, 161, Emily Cherotich TUEI, carrera 800 m
+tiempo, 162, Habitam ALEMU, carrera 800 m
+tiempo, 163, Kate GRACE, carrera 800 m
+tiempo, 165, Jakob INGEBRIGTSEN, carrera 1500 m, carrera 5000 m
+tiempo, 166, Ronald MUSAGALA, carrera 1500 m
+tiempo, 167, Charlie DAVALL GRICE, carrera 1500 m
+tiempo, 169, Filip INGEBRIGTSEN, carrera 1500 m
+tiempo, 170, Taoufik MAKHLOUFI, carrera 1500 m
+tiempo, 171, Samuel TEFERA, carrera 1500 m
+tiempo, 172, Bethwell BIRGEN, carrera 1500 m
+tiempo, 174, George Meitamei MANANGOI, carrera 1500 m
+tiempo, 175, Abdelaati IGUIDER, carrera 1500 m
+tiempo, 176, Stewart MCSWEYN, carrera 10000 m, carrera 1500 m
+tiempo, 177, Jake WIGHTMAN, carrera 1500 m
+tiempo, 178, Elijah Motonei MANANGOI, carrera 1500 m
+tiempo, 179, Josh KERR, carrera 1500 m
+tiempo, 180, Ronald KWEMOI, carrera 1500 m
+tiempo, 181, Matthew CENTROWITZ, carrera 1500 m, carrera 5000 m
+tiempo, 182, Rabii DOUKKANA, carrera 1500 m
+tiempo, 183, Vincent KIBET, carrera 1500 m
+tiempo, 184, Sifan HASSAN, carrera 10000 m, carrera 1500 m, carrera 21000 m, carrera 5000 m
+tiempo, 185, Faith KIPYEGON, carrera 1500 m
+tiempo, 186, Gudaf TSEGAY, carrera 1500 m
+tiempo, 187, Shelby HOULIHAN, carrera 1500 m
+tiempo, 188, Genzebe DIBABA, carrera 1500 m
+tiempo, 190, Gabriela DEBUES-STAFFORD, carrera 1500 m, carrera 5000 m
+tiempo, 191, Winny CHEBET, carrera 1500 m
+tiempo, 192, Jenny SIMPSON, carrera 1500 m
+tiempo, 193, Rababe ARAFI, carrera 1500 m
+tiempo, 194, Axumawit EMBAYE, carrera 1500 m
+tiempo, 195, Konstanze KLOSTERHALFEN, carrera 1500 m, carrera 5000 m
+tiempo, 197, Ciara MAGEEAN, carrera 1500 m
+tiempo, 198, Sarah MCDONALD, carrera 1500 m
+tiempo, 199, Laura WEIGHTMAN, carrera 1500 m, carrera 5000 m
+tiempo, 200, Eilish MCCOLGAN, carrera 1500 m, carrera 5000 m
+tiempo, 201, Dawit SEYAUM, carrera 1500 m
+tiempo, 202, Nikki HILTZ, carrera 1500 m
+tiempo, 203, Shannon OSIKA, carrera 1500 m
+tiempo, 204, Telahun Haile BEKELE, carrera 5000 m
+tiempo, 205, Selemon BAREGA, carrera 10000 m, carrera 5000 m
+tiempo, 206, Hagos GEBRHIWET, carrera 10000 m, carrera 5000 m
+tiempo, 207, Birhanu BALEW, carrera 5000 m
+tiempo, 208, Abadi HADIS, carrera 10000 m, carrera 21000 m, carrera 5000 m
+tiempo, 209, Joshua CHEPTEGEI, carrera 10000 m, carrera 5000 m
+tiempo, 210, Nicholas Kipkorir KIMELI, carrera 5000 m
+tiempo, 211, William KINCAID, carrera 5000 m
+tiempo, 212, Mohammed AHMED, carrera 10000 m, carrera 5000 m
+tiempo, 213, Muktar EDRIS, carrera 5000 m
+tiempo, 214, Lopez LOMONG, carrera 10000 m, carrera 5000 m
+tiempo, 216, Yomif KEJELCHA, carrera 10000 m, carrera 21000 m, carrera 5000 m
+tiempo, 218, Solomon BERIHU, carrera 10000 m, carrera 21000 m, carrera 5000 m
+tiempo, 219, Jacob KROP, carrera 5000 m
+tiempo, 220, Edward Zakayo PINGUA, carrera 5000 m
+tiempo, 221, Edward CHESEREK, carrera 5000 m
+tiempo, 222, Paul CHELIMO, carrera 5000 m
+tiempo, 223, Stanley Waithaka MBURU, carrera 5000 m
+tiempo, 224, Hellen OBIRI, carrera 10000 m, carrera 5000 m
+tiempo, 225, Agnes Jebet TIROP, carrera 10000 m, carrera 5000 m
+tiempo, 228, Margaret Chelimo KIPKEMBOI, carrera 5000 m
+tiempo, 229, Letesenbet GIDEY, carrera 10000 m, carrera 5000 m
+tiempo, 230, Tsehay GEMECHU, carrera 10000 m, carrera 21000 m, carrera 5000 m
+tiempo, 231, Lilian Kasait RENGERUK, carrera 5000 m
+tiempo, 232, Caroline Chepkoech KIPKIRUI, carrera 21000 m, carrera 5000 m
+tiempo, 233, Hawi FEYSA, carrera 5000 m
+tiempo, 234, Eva CHERONO, carrera 5000 m
+tiempo, 235, Fantu WORKU, carrera 5000 m
+tiempo, 238, Karissa SCHWEIZER, carrera 5000 m
+tiempo, 239, Beatrice CHEBET, carrera 5000 m
+tiempo, 241, Beatrice CHEPKOECH, carrera 3000 m con vallas, carrera 5000 m
+tiempo, 242, Gloriah KITE, carrera 5000 m
+tiempo, 243, Karoline Bjerkeli GRØVDAL, carrera 3000 m con vallas, carrera 5000 m
+tiempo, 247, Rosemary Monica WANJIRU, carrera 10000 m
+tiempo, 249, Netsanet GUDETA, carrera 10000 m, carrera 21000 m
+tiempo, 250, Senbere TEFERI, carrera 10000 m, carrera 21000 m
+tiempo, 251, Zeineba YIMER, carrera 10000 m, carrera 21000 m, carrera 42000 m
+tiempo, 252, Emily SISSON, carrera 10000 m
+tiempo, 253, Dera DIDA, carrera 10000 m
+tiempo, 255, Gete ALEMAYEHU, carrera 10000 m
+tiempo, 256, Girmawit GEBRZIHAIR, carrera 10000 m
+tiempo, 257, Tsigie GEBRESELAMA, carrera 10000 m
+tiempo, 258, Molly HUDDLE, carrera 10000 m
+tiempo, 259, Yasemin CAN, carrera 10000 m
+tiempo, 260, Degitu AZIMERAW, carrera 10000 m, carrera 21000 m, carrera 42000 m
+tiempo, 261, Susan KRUMINS, carrera 10000 m
+tiempo, 262, Marielle HALL, carrera 10000 m
+tiempo, 263, Stephanie TWELL, carrera 10000 m
+tiempo, 268, Rhonex KIPRUTO, carrera 10000 m
+tiempo, 269, Andamlak BELIHU, carrera 10000 m, carrera 21000 m
+tiempo, 270, Jemal Yimer MEKONNEN, carrera 10000 m, carrera 21000 m
+tiempo, 271, Rodgers KWEMOI, carrera 10000 m
+tiempo, 274, Berehanu TSEGU, carrera 10000 m, carrera 21000 m
+tiempo, 277, Yemaneberhan CRIPPA, carrera 10000 m
+tiempo, 278, Julien WANDERS, carrera 10000 m, carrera 21000 m
+tiempo, 279, Tamirat TOLA, carrera 10000 m
+tiempo, 280, Abdallah Kibet MANDE, carrera 10000 m
+tiempo, 281, Mogos TUEMAY, carrera 10000 m
+tiempo, 283, Vincent Kiprotich KIBET, carrera 10000 m
+tiempo, 284, Geoffrey KAMWOROR, carrera 21000 m
+tiempo, 285, Stephen KIPROP, carrera 21000 m
+tiempo, 287, Bedan KAROKI, carrera 21000 m
+tiempo, 289, Benard KIMELI, carrera 21000 m
+tiempo, 291, Fikadu HAFTU, carrera 21000 m
+tiempo, 292, Felix KIBITOK, carrera 21000 m
+tiempo, 294, Leonard BARSOTON, carrera 21000 m
+tiempo, 297, Seifu TURA, carrera 21000 m
+tiempo, 299, Morris Munene GACHAGA, carrera 21000 m
+tiempo, 301, Edwin KIPTOO, carrera 21000 m
+tiempo, 302, Leonard LANGAT, carrera 21000 m
+tiempo, 303, Kibiwott KANDIE, carrera 21000 m
+tiempo, 304, Brigid KOSGEI, carrera 21000 m, carrera 42000 m
+tiempo, 305, Ruth CHEPNGETICH, carrera 21000 m, carrera 42000 m
+tiempo, 311, Birhane DIBABA, carrera 21000 m, carrera 42000 m
+tiempo, 313, Roza DEREJE, carrera 21000 m, carrera 42000 m
+tiempo, 314, Yalemzerf YEHUALAW, carrera 21000 m
+tiempo, 316, Lonah Chemtai SALPETER, carrera 21000 m, carrera 42000 m
+tiempo, 317, Joan Chelimo MELLY, carrera 21000 m
+tiempo, 318, Valary JEMELI, carrera 21000 m, carrera 42000 m
+tiempo, 319, Evaline CHIRCHIR, carrera 21000 m
+tiempo, 320, Dorcas Jepchirchir TUITOEK, carrera 21000 m
+tiempo, 321, Vivian J. CHERUIYOT, carrera 21000 m, carrera 42000 m
+tiempo, 322, Alemu MEGERTU, carrera 21000 m
+tiempo, 323, Dibabe KUMA, carrera 21000 m
+tiempo, 326, Worknesh DEGEFA, carrera 42000 m
+tiempo, 328, Azmera ABREHA, carrera 42000 m
+tiempo, 336, Ashete BEKERE, carrera 42000 m
+tiempo, 337, Mare DIBABA, carrera 42000 m
+tiempo, 338, Workenesh EDESA, carrera 42000 m
+tiempo, 339, Purity Cherotich RIONORIPO, carrera 42000 m
+tiempo, 340, Ruti AGA, carrera 42000 m
+tiempo, 341, Azmera GEBRU, carrera 42000 m
+tiempo, 342, Ababel YESHANEH, carrera 42000 m
+tiempo, 343, Gladys CHERONO, carrera 42000 m
+tiempo, 344, Kenenisa BEKELE, carrera 42000 m
+tiempo, 345, Eliud KIPCHOGE, carrera 42000 m
+tiempo, 346, Birhanu LEGESE, carrera 42000 m
+tiempo, 347, Mosinet GEREMEW, carrera 42000 m
+tiempo, 348, Mule WASIHUN, carrera 42000 m
+tiempo, 349, Getaneh MOLLA, carrera 42000 m
+tiempo, 350, Sisay LEMMA, carrera 42000 m
+tiempo, 351, Herpasa NEGASA, carrera 42000 m
+tiempo, 352, Kinde ATANAW, carrera 42000 m
+tiempo, 353, Marius KIPSEREM, carrera 42000 m
+tiempo, 354, Kaan Kigen ÖZBILEN, carrera 42000 m
+tiempo, 355, Asefa MENGSTU, carrera 42000 m
+tiempo, 356, Reuben Kiprop KIPYEGO, carrera 42000 m
+tiempo, 357, Guye Idemo ADOLA, carrera 42000 m
+tiempo, 358, Titus EKIRU, carrera 42000 m
+tiempo, 359, Abebe Negewo DEGEFA, carrera 42000 m
+tiempo, 360, Evans CHEBET, carrera 42000 m
+tiempo, 361, Philemon RONO, carrera 42000 m
+tiempo, 362, Shura KITATA, carrera 42000 m
+tiempo, 363, Emmanuel SAINA, carrera 42000 m
+tiempo, 364, Grant HOLLOWAY, carrera 110 m con vallas
+tiempo, 365, Daniel ROBERTS, carrera 110 m con vallas
+tiempo, 366, Orlando ORTEGA, carrera 110 m con vallas
+tiempo, 367, Omar MCLEOD, carrera 110 m con vallas
+tiempo, 368, Sergey SHUBENKOV, carrera 110 m con vallas
+tiempo, 369, Pascal MARTINOT-LAGARDE, carrera 110 m con vallas
+tiempo, 370, Wenjun XIE, carrera 110 m con vallas
+tiempo, 371, Freddie CRITTENDEN, carrera 110 m con vallas
+tiempo, 372, Gabriel CONSTANTINO, carrera 110 m con vallas
+tiempo, 373, Ronald LEVY, carrera 110 m con vallas
+tiempo, 374, Shunya TAKAYAMA, carrera 110 m con vallas
+tiempo, 375, Orlando BENNETT, carrera 110 m con vallas
+tiempo, 376, Wilhem BELOCIAN, carrera 110 m con vallas
+tiempo, 377, Andrew POZZI, carrera 110 m con vallas
+tiempo, 378, Milan TRAJKOVIC, carrera 110 m con vallas
+tiempo, 379, Antonio ALKANA, carrera 110 m con vallas
+tiempo, 380, Eduardo RODRIGUES, carrera 110 m con vallas
+tiempo, 381, Shane BRATHWAITE, carrera 110 m con vallas
+tiempo, 382, Andrew RILEY, carrera 110 m con vallas
+tiempo, 383, Devon ALLEN, carrera 110 m con vallas
+tiempo, 384, Danielle WILLIAMS, carrera 110 m con vallas
+tiempo, 385, Nia ALI, carrera 110 m con vallas
+tiempo, 387, Kendra HARRISON, carrera 110 m con vallas
+tiempo, 388, Tobi AMUSAN, carrera 110 m con vallas
+tiempo, 389, Chanel BRISSETT, carrera 110 m con vallas
+tiempo, 390, Tonea MARSHALL, carrera 110 m con vallas
+tiempo, 391, Christina CLEMONS, carrera 110 m con vallas
+tiempo, 392, Kendell WILLIAMS, carrera 110 m con vallas
+tiempo, 393, Brianna MCNEAL, carrera 110 m con vallas
+tiempo, 394, Megan TAPPER, carrera 110 m con vallas
+tiempo, 395, Nadine VISSER, carrera 110 m con vallas
+tiempo, 396, Queen CLAYE, carrera 110 m con vallas
+tiempo, 397, Andrea Carolina VARGAS, carrera 110 m con vallas
+tiempo, 398, Sharika NELVIS, carrera 110 m con vallas
+tiempo, 399, Anna COCKRELL, carrera 110 m con vallas
+tiempo, 400, Payton CHADWICK, carrera 110 m con vallas
+tiempo, 401, Sally PEARSON, carrera 110 m con vallas
+tiempo, 402, Elvira HERMAN, carrera 110 m con vallas
+tiempo, 403, Britany ANDERSON, carrera 110 m con vallas
+tiempo, 404, Karsten WARHOLM, carrera 400 m con vallas
+tiempo, 407, Kyron MCMASTER, carrera 400 m con vallas
+tiempo, 408, TJ HOLMES, carrera 400 m con vallas
+tiempo, 409, Yasmani COPELLO, carrera 400 m con vallas
+tiempo, 410, Alison DOS SANTOS, carrera 400 m con vallas
+tiempo, 411, Ludvy VAILLANT, carrera 400 m con vallas
+tiempo, 412, Abdelmalik LAHOULOU, carrera 400 m con vallas
+tiempo, 414, Marcio TELES, carrera 400 m con vallas
+tiempo, 415, Amere LATTIN, carrera 400 m con vallas
+tiempo, 416, Norman GRIMES, carrera 400 m con vallas
+tiempo, 417, David KENDZIERA, carrera 400 m con vallas
+tiempo, 418, Kemar MOWATT, carrera 400 m con vallas
+tiempo, 419, Sokwakhana ZAZINI, carrera 400 m con vallas
+tiempo, 420, Dharun AYYASAMY, carrera 400 m con vallas
+tiempo, 421, Takatoshi ABE, carrera 400 m con vallas
+tiempo, 422, Patryk DOBEK, carrera 400 m con vallas
+tiempo, 423, Lindsay HANEKOM, carrera 400 m con vallas
+tiempo, 426, Ashley SPENCER, carrera 400 m con vallas
+tiempo, 427, Shamier LITTLE, carrera 400 m con vallas
+tiempo, 428, Rushell CLAYTON, carrera 400 m con vallas
+tiempo, 429, Lea SPRUNGER, carrera 400 m con vallas
+tiempo, 430, Zuzana HEJNOVÁ, carrera 400 m con vallas
+tiempo, 431, Tia-Adana BELLE, carrera 400 m con vallas
+tiempo, 432, Sage WATSON, carrera 400 m con vallas
+tiempo, 433, Anna RYZHYKOVA, carrera 400 m con vallas
+tiempo, 434, Janieve RUSSELL, carrera 400 m con vallas
+tiempo, 435, Amalie IUEL, carrera 400 m con vallas
+tiempo, 436, Ayomide FOLORUNSO, carrera 400 m con vallas
+tiempo, 437, Lauren WELLS, carrera 400 m con vallas
+tiempo, 438, Sara Slott PETERSEN, carrera 400 m con vallas
+tiempo, 439, Nikita TRACEY, carrera 400 m con vallas
+tiempo, 440, Cassandra TATE, carrera 400 m con vallas
+tiempo, 441, Zurian HECHAVARRÍA, carrera 400 m con vallas
+tiempo, 442, Kori CARTER, carrera 400 m con vallas
+tiempo, 443, Aminat JAMAL, carrera 400 m con vallas
+tiempo, 444, Conseslus KIPRUTO, carrera 3000 m con vallas
+tiempo, 445, Lamecha GIRMA, carrera 3000 m con vallas
+tiempo, 446, Soufiane EL BAKKALI, carrera 3000 m con vallas
+tiempo, 447, Benjamin KIGEN, carrera 3000 m con vallas
+tiempo, 448, Getnet WALE, carrera 3000 m con vallas
+tiempo, 449, Djilali BEDRANI, carrera 3000 m con vallas
+tiempo, 450, Fernando CARRO, carrera 3000 m con vallas
+tiempo, 451, Abraham KIBIWOT, carrera 3000 m con vallas
+tiempo, 452, Chala BEYO, carrera 3000 m con vallas
+tiempo, 453, Hillary BOR, carrera 3000 m con vallas
+tiempo, 454, Leonard Kipkemoi BETT, carrera 3000 m con vallas
+tiempo, 455, Takele NIGATE, carrera 3000 m con vallas
+tiempo, 456, Stanley Kipkoech KEBENEI, carrera 3000 m con vallas
+tiempo, 457, Lawrence Kemboi KIPSANG, carrera 3000 m con vallas
+tiempo, 458, Nicholas Kiptanui BETT, carrera 3000 m con vallas
+tiempo, 459, Albert CHEMUTAI, carrera 3000 m con vallas
+tiempo, 460, Andrew BAYER, carrera 3000 m con vallas
+tiempo, 461, Mohamed TINDOUFT, carrera 3000 m con vallas
+tiempo, 462, Barnabas KIPYEGO, carrera 3000 m con vallas
+tiempo, 463, Matthew HUGHES, carrera 3000 m con vallas
+tiempo, 465, Emma COBURN, carrera 3000 m con vallas
+tiempo, 466, Gesa Felicitas KRAUSE, carrera 3000 m con vallas
+tiempo, 467, Norah JERUTO, carrera 3000 m con vallas
+tiempo, 468, Hyvin KIYENG, carrera 3000 m con vallas
+tiempo, 469, Winfred Mutile YAVI, carrera 3000 m con vallas
+tiempo, 470, Daisy JEPKEMEI, carrera 3000 m con vallas
+tiempo, 471, Celliphine Chepteek CHESPOL, carrera 3000 m con vallas
+tiempo, 472, Courtney FRERICHS, carrera 3000 m con vallas
+tiempo, 473, Peruth CHEMUTAI, carrera 3000 m con vallas
+tiempo, 474, Colleen QUIGLEY, carrera 3000 m con vallas
+tiempo, 475, Anna Emilie MØLLER, carrera 3000 m con vallas
+tiempo, 476, Luiza GEGA, carrera 3000 m con vallas
+tiempo, 478, Maruša MIŠMAŠ, carrera 3000 m con vallas
+tiempo, 479, Mercy CHEPKURUI, carrera 3000 m con vallas
+tiempo, 480, Genevieve GREGSON, carrera 3000 m con vallas
+tiempo, 481, Mekides ABEBE, carrera 3000 m con vallas
+tiempo, 482, Mercy WANJIRU, carrera 3000 m con vallas
+tiempo, 483, Zita KÁCSER, carrera 3000 m con vallas
+altura, 484, Mutaz Essa BARSHIM, salto de altura
+altura, 485, Maksim NEDASEKAU, salto de altura
+altura, 486, Mikhail AKIMENKO, salto de altura
+altura, 487, Ilya IVANYUK, salto de altura
+altura, 488, Stefano SOTTILE, salto de altura
+altura, 489, Andriy PROTSENKO, salto de altura
+altura, 490, Michael MASON, salto de altura
+altura, 491, Majd Eddin GHAZAL, salto de altura
+altura, 492, Yu WANG, salto de altura
+altura, 493, Bohdan BONDARENKO, salto de altura
+altura, 494, Daniil TSYPLAKOV, salto de altura
+altura, 495, Joel BADEN, salto de altura
+altura, 496, Django LOVETT, salto de altura
+altura, 497, Takashi ETO, salto de altura
+altura, 498, Mateusz PRZYBYLKO, salto de altura
+altura, 499, Hamish KERR, salto de altura
+altura, 500, Tihomir IVANOV, salto de altura
+altura, 501, Jeron ROBINSON, salto de altura
+altura, 502, Shelby MCEWEN, salto de altura
+altura, 503, Dzmitry NABOKAU, salto de altura
+altura, 504, Luis Enrique ZAYAS, salto de altura
+altura, 505, Mariya LASITSKENE, salto de altura
+altura, 506, Yaroslava MAHUCHIKH, salto de altura
+altura, 507, Nafissatou THIAM, salto de altura
+altura, 508, Yuliya LEVCHENKO, salto de altura
+altura, 509, Anna CHICHEROVA, salto de altura
+altura, 510, Vashti CUNNINGHAM, salto de altura
+altura, 511, Karyna DEMIDIK, salto de altura
+altura, 512, Iryna GERASHCHENKO, salto de altura
+altura, 513, Kamila LIĆWINKO, salto de altura
+altura, 514, Mirela DEMIREVA, salto de altura
+altura, 515, Erika KINSEY, salto de altura
+altura, 516, Nicola MCDERMOTT, salto de altura
+altura, 517, Marie-Laurence JUNGFLEISCH, salto de altura
+altura, 518, Daniela STANCIU, salto de altura
+altura, 519, Svetlana RADZIVIL, salto de altura
+altura, 520, Katarina JOHNSON-THOMPSON, salto de altura
+altura, 521, Ella JUNNILA, salto de altura
+altura, 522, María Fernanda MURILLO, salto de altura
+altura, 523, Ana ŠIMIĆ, salto de altura
+altura, 524, Sam KENDRICKS, salto con pertiga
+altura, 525, Piotr LISEK, salto con pertiga
+altura, 526, Armand DUPLANTIS, salto con pertiga
+altura, 527, Christopher NILSEN, salto con pertiga
+altura, 528, Thiago BRAZ, salto con pertiga
+altura, 529, Paweł WOJCIECHOWSKI, salto con pertiga
+altura, 530, Renaud LAVILLENIE, salto con pertiga
+altura, 531, Cole WALSH, salto con pertiga
+altura, 532, Valentin LAVILLENIE, salto con pertiga
+altura, 533, Kurtis MARSCHALL, salto con pertiga
+altura, 534, Ernest John OBIENA, salto con pertiga
+altura, 535, Andrew IRWIN, salto con pertiga
+altura, 536, Torben BLECH, salto con pertiga
+altura, 537, Sondre GUTTORMSEN, salto con pertiga
+altura, 538, Raphael HOLZDEPPE, salto con pertiga
+altura, 539, Augusto DUTRA, salto con pertiga
+altura, 540, Zachery BRADFORD, salto con pertiga
+altura, 541, Ben BROEDERS, salto con pertiga
+altura, 542, Kc LIGHTFOOT, salto con pertiga
+altura, 543, Anzhelika SIDOROVA, salto con pertiga
+altura, 544, Jennifer SUHR, salto con pertiga
+altura, 545, Sandi MORRIS, salto con pertiga
+altura, 546, Eliza MCCARTNEY, salto con pertiga
+altura, 547, Katerina STEFANIDI, salto con pertiga
+altura, 548, Katie NAGEOTTE, salto con pertiga
+altura, 549, Alysha NEWMAN, salto con pertiga
+altura, 550, Holly BRADSHAW, salto con pertiga
+altura, 551, Angelica BENGTSSON, salto con pertiga
+altura, 552, Yarisley SILVA, salto con pertiga
+altura, 553, Olivia GRUVER, salto con pertiga
+altura, 554, Tina ŠUTEJ, salto con pertiga
+altura, 555, Ling LI, salto con pertiga
+altura, 556, Nikoleta KIRIAKOPOULOU, salto con pertiga
+altura, 557, Michaela MEIJER, salto con pertiga
+altura, 558, Huiqin XU, salto con pertiga
+altura, 559, Emily GROVE, salto con pertiga
+altura, 560, Iryna ZHUK, salto con pertiga
+altura, 561, Robeilys PEINADO, salto con pertiga
+altura, 562, Ninon GUILLON-ROMARIN, salto con pertiga
+largo, 507, Nafissatou THIAM, salto largo
+largo, 520, Katarina JOHNSON-THOMPSON, salto largo
+largo, 563, Tajay GAYLE, salto largo
+largo, 564, Juan Miguel ECHEVARRÍA, salto largo
+largo, 565, Zarck VISSER, salto largo
+largo, 566, Shoutarou SHIROYAMA, salto largo
+largo, 567, Jeff HENDERSON, salto largo
+largo, 568, Luvo MANYONGA, salto largo
+largo, 569, Miltiadis TENTOGLOU, salto largo
+largo, 570, Yuki HASHIOKA, salto largo
+largo, 571, Yaoguang ZHANG, salto largo
+largo, 572, Andwuelle WRIGHT, salto largo
+largo, 573, Steffin MCCARTER, salto largo
+largo, 574, Changzhou HUANG, salto largo
+largo, 575, Xinglong GAO, salto largo
+largo, 576, Hibiki TSUHA, salto largo
+largo, 577, Ruswahl SAMAAI, salto largo
+largo, 578, Maykel MASSÓ, salto largo
+largo, 579, Thobias MONTLER, salto largo
+largo, 580, Will CLAYE, salto largo, salto triple
+largo, 581, JuVaughn HARRISON, salto largo
+largo, 582, Jianan WANG, salto largo
+largo, 583, Malaika MIHAMBO, salto largo
+largo, 584, Ese BRUME, salto largo
+largo, 585, Brittney REESE, salto largo
+largo, 586, Kenyattia HACKWORTH, salto largo
+largo, 587, Florentina Costina IUSCO, salto largo
+largo, 588, Maryna BEKH-ROMANCHUK, salto largo
+largo, 589, Alina ROTARU, salto largo
+largo, 590, Chantel MALONE, salto largo
+largo, 591, Caterine IBARGUEN, salto largo, salto triple
+largo, 593, Abigail IROZURU, salto largo
+largo, 594, Ivana ŠPANOVIĆ, salto largo
+largo, 596, Yanis Esmeralda DAVID, salto largo, salto triple
+largo, 597, Darya KLISHINA, salto largo
+largo, 598, Shara PROCTOR, salto largo
+largo, 599, Tissanna HICKLING, salto largo
+largo, 600, Naa ANANG, salto largo
+largo, 601, Yelena SOKOLOVA, salto largo
+largo, 602, Hilary KPATCHA, salto largo
+largo, 603, Tori BOWIE, salto largo
+largo, 604, Keturah ORJI, salto largo, salto triple
+largo, 605, Yulimar ROJAS, salto triple
+largo, 606, Shanieka RICKETTS, salto triple
+largo, 608, Liadagmis POVEA, salto triple
+largo, 610, Darya NIDBAYKINA, salto triple
+largo, 611, Kimberly WILLIAMS, salto triple
+largo, 612, Kristin GIERISCH, salto triple
+largo, 613, Ana PELETEIRO, salto triple
+largo, 614, Olha SALADUKHA, salto triple
+largo, 615, Paraskevi PAPACHRISTOU, salto triple
+largo, 616, Diana ZAGAINOVA, salto triple
+largo, 617, Yekaterina KONEVA, salto triple
+largo, 618, Patrícia MAMONA, salto triple
+largo, 619, Thea LAFOND, salto triple
+largo, 620, Olga RYPAKOVA, salto triple
+largo, 621, Yosiris URRUTIA, salto triple
+largo, 622, Tori FRANKLIN, salto triple
+largo, 624, Nadia EKE, salto triple
+largo, 626, Christian TAYLOR, salto triple
+largo, 627, Omar CRADDOCK, salto triple
+largo, 628, Hugues Fabrice ZANGO, salto triple
+largo, 629, Pedro Pablo PICHARDO, salto triple
+largo, 630, Jordan Alejandro DÍAZ FORTUN, salto triple
+largo, 631, Ruiting WU, salto triple
+largo, 632, Donald SCOTT, salto triple
+largo, 633, Yaming ZHU, salto triple
+largo, 634, Cristian NÁPOLES, salto triple
+largo, 635, Necatí ER, salto triple
+largo, 636, Alexsandro MELO, salto triple
+largo, 637, Dmitriy SOROKIN, salto triple
+largo, 638, Benjamin WILLIAMS, salto triple
+largo, 639, Almir DOS SANTOS, salto triple
+largo, 640, Andy DÍAZ, salto triple
+largo, 641, Yaoqing FANG, salto triple
+largo, 642, Chengetayi MAPAYA, salto triple
+largo, 643, Nelson ÉVORA, salto triple
+largo, 644, Alexis COPELLO, salto triple
 
-Cantidad de registros por especialidad:
-tiempo = 3
+NombreTipoEspecialidade, Cantidad
+lanzamiento = 160
+tiempo = 400
+altura = 79
+largo = 78

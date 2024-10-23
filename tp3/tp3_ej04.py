@@ -105,15 +105,12 @@ def generar_reporte(db):
     
     # Abre o arquivo para escrever o resultado
     with open(nombre_archivo_resultado_ejercicio, 'w', encoding='utf-8') as archivo:
+        archivo.write("IdDeportista, Deportista, Especialidad, Torneo, MejorMarca, PeorMarca, Intento\n")
         deportistas = db.execute(query)
         for deportista in deportistas:
-            linea = f"ID: {deportista.id_deportista} - Deportista: {deportista.nombre_deportista}, " \
-                    f"Especialidad: {deportista.nombre_tipo_especialidad}, " \
-                    f"Torneo: {deportista.nombre_torneo}, " \
-                    f"Mejor Marca: {deportista.mejor_marca}, " \
-                    f"Peor Marca: {deportista.peor_marca}, " \
-                    f"Intento: {deportista.intento}"
-            grabar_linea(archivo, linea)
+            grabar_linea(archivo, (deportista.id_deportista, deportista.nombre_deportista, 
+                                    deportista.nombre_tipo_especialidad, deportista.nombre_torneo, deportista.mejor_marca, 
+                                    deportista.peor_marca, deportista.intento))
 
 
 # Funcion para el borrado de estructuras generadas para este ejercicio
