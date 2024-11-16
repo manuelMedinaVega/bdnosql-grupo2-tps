@@ -1,0 +1,19 @@
+db = db.getSiblingDB("TP4");
+db.getCollection("primera_parte").find(
+    {
+        "_id" : {
+            "$in" : [
+                10.0,
+                20.0,
+                30.0
+            ]
+        }
+    }, 
+    {
+        "_id" : 1.0,
+        "nombre" : 1.0
+    }
+);
+
+
+#Por algún motivo si agrego los demas atributos en studio 3t con 0 como valor en el segundo json me devuelve error.

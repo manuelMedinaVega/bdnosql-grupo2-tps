@@ -1,0 +1,10 @@
+db = db.getSiblingDB("TP4");
+db.getCollection("primera_parte").aggregate([{
+    "$group":{"_id": "$pais",
+        "cantidad": {"$sum": 1} }
+},
+{
+ "$sort":{"cantidad": -1}   
+}
+
+])
