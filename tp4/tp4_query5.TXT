@@ -1,0 +1,10 @@
+db = db.getSiblingDB("TP4");
+db.getCollection("segunda_parte").aggregate(
+    {
+        "$group" : {
+            "_id": "$id_tipo",
+            "nombre": {"$first": "$nombre_tipo"},
+            "especialidades": {"$addToSet": "$nom_esp"} 
+        }
+    }
+);

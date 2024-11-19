@@ -1,0 +1,34 @@
+db = db.getSiblingDB("TP4");
+db.getCollection("segunda_parte").aggregate(   
+    {
+            "$sort":{    
+            "id_esp": 1,        
+            "marca":1
+            
+        }
+    },
+    {
+        "$group":{
+            "_id": {"especialidad": "$nom_esp", "tipo": "$id_tipo", "torneo": "$id_torneo"},
+            "nom_torneo":{"$first": "$nombre_torneo"},
+            "marcas": {"$push": {
+                "marca": "$marca",
+                "deportista": "$nombre"
+                                }
+                        }
+        }
+    },
+    {
+        "$project":{
+        "especialidad": "$_id.especialidad",
+        "torneo":"$nom_torneo",
+        "podio":{
+            "$cond":[
+            {"$eq": ["$_id.tipo", "1"]},
+            {"$slice":["$marcas", 3]},
+            {"$slice":[{"$reverseArray":"$marcas"}, 3]}            
+            ]
+        }
+        }
+    }
+);

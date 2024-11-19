@@ -1,0 +1,67 @@
+db = db.getSiblingDB("TP4");
+db.getCollection("segunda_parte").aggregate(   
+    {
+            "$sort":{    
+            "id_esp": 1,        
+            "marca":1
+            
+        }
+    },
+    {
+        "$group":{
+            "_id": {"especialidad": "$nom_esp", "tipo": "$id_tipo"},
+            
+            "marcas": {"$push": {
+                "marca": "$marca",
+                "deportista": "$nombre"
+                                }
+                        }
+        }
+    },
+    {
+        "$project":{
+        "especialidad": "$_id.especialidad",
+        "primer_puesto":{
+            "$arrayElemAt":[
+            {
+                "$cond":[
+                {"$eq": ["$_id.tipo", "1"]},
+                {"$slice":["$marcas", 3]},
+                {"$slice":[{"$reverseArray":"$marcas"}, 3]}            
+                ]
+            }
+            ,
+            0
+            ]
+        },
+        "segundo_puesto":{
+            "$arrayElemAt":[
+            {
+                "$cond":[
+                {"$eq": ["$_id.tipo", "1"]},
+                {"$slice":["$marcas", 3]},
+                {"$slice":[{"$reverseArray":"$marcas"}, 3]}            
+                ]
+            }
+            ,
+            1
+            ]
+        },
+        "tercer_puesto":{
+            "$arrayElemAt":[
+            {
+                "$cond":[
+                {"$eq": ["$_id.tipo", "1"]},
+                {"$slice":["$marcas", 3]},
+                {"$slice":[{"$reverseArray":"$marcas"}, 3]}            
+                ]
+            }
+            ,
+            2
+            ]
+        }
+        
+        
+        }
+    }
+);

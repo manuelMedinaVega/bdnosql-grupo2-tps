@@ -1,0 +1,27 @@
+db = db.getSiblingDB("TP4");
+db.getCollection("segunda_parte").aggregate(   
+    {
+        "$group" : {
+            "_id": {"deportista":"$id_deportista", "especialidad": "$id_esp", "tipo": "$id_tipo"} ,
+            "id_tipo": {"$first": "$id_tipo"},            
+            "nombre": {"$first": "$nombre"},
+            "especialidad": {"$first": "$nom_esp"},
+            "menor_marca": {"$min": "$marca"},
+            "mayor_marca": {"$max": "$marca"}
+        }
+    },
+    {
+        "$project":{
+            "_id":1,
+            "id_tipo":1,
+            "nombre": 1,
+            "especialidad":1,
+            "mejor_marca":{"$cond":[{"$eq":["$_id.tipo", "1"]},
+                "$menor_marca",
+                "$mayor_marca"]},
+            "peor_marca":{"$cond":[{"$eq":["$_id.tipo", "1"]},
+                "$mayor_marca",
+                "$menor_marca"]}
+        }
+    }
+);

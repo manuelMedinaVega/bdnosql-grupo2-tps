@@ -2,7 +2,7 @@ import csv
 from pymongo import MongoClient
 
 # Ubicacion del archivo CSV con el contenido provisto por la catedra
-archivo_entrada = '../tp2/full_export.csv'
+archivo_entrada = './tp2/full_export.csv'
 nombre_archivo_resultado_ejercicio = 'tpY_ejXX.txt'
 
 # Objeto de configuracion para conectarse a la base de datos usada en este ejercicio
@@ -72,7 +72,7 @@ def procesar_fila(client, fila):
     id_pais_torneo = fila["id_pais_torneo"]
     nombre_pais_torneo = fila["nombre_pais_torneo"]
     intento = fila["intento"]
-    marca = fila["marca"]
+    marca = int(fila["marca"])
 
     
     documento = {"id_deportista": id,
