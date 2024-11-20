@@ -3,9 +3,8 @@ from cassandra.cluster import Cluster
 import os
 
 # Ubicacion del archivo CSV con el contenido provisto por la catedra
-directorio_actual = os.path.dirname(os.path.abspath(__file__))
-archivo_entrada =  os.path.join(directorio_actual, '..', 'datos', 'full_export.csv')
-nombre_archivo_resultado_ejercicio = os.path.join(directorio_actual, 'tp3_ej06.txt')
+archivo_entrada = './tp3/full_export.csv'
+nombre_archivo_resultado_ejercicio = './tp3/tp3_ej06.txt'
 
 # Objeto de configuracion para conectarse a la base de datos usada en este ejercicio
 conexion = {
