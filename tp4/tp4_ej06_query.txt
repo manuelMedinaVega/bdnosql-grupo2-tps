@@ -1,0 +1,17 @@
+db.marcas.aggregate([
+    {
+        $group:
+        {
+            _id:"$especialidad.id_tipo", 
+            nombre:{$first:"$especialidad.nombre_tipo"},
+            cantidad:{$sum:1}
+        }
+    },
+    {
+        "$project":{
+            "_id":0,
+            "nombre": 1,
+            "cantidad":1
+        }
+    }
+]);

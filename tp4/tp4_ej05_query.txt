@@ -1,0 +1,10 @@
+db.marcas.aggregate([
+    {
+        $group:
+        {
+            _id:"$especialidad.id_tipo", 
+            nombre:{$first:"$especialidad.nombre_tipo"},
+            especialidades:{$addToSet:"$especialidad.nombre"}
+        }
+    }
+]);

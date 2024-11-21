@@ -1,0 +1,1 @@
+db.deportistas.find({"id_pais": 189});

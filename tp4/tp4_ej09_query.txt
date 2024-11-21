@@ -1,0 +1,39 @@
+db.marcas.aggregate([
+    {
+          $sort: {
+              "especialidad.id": 1,
+              "torneo.id": 1,
+              "marca.valor": 1
+          }  
+    },
+    {
+        $group:{
+            _id: {
+                id_especialidad: "$especialidad.id",
+                id_torneo: "$torneo.id"
+            },
+            especialidad: {$first:"$especialidad.nombre"},
+            torneo: {$first:"$torneo.nombre"},
+            tipo_especialidad: {$first:"$especialidad.nombre_tipo"},
+            marcas: {
+                $push: {
+                    "marca": "$marca.valor",
+                    "deportista": "$deportista.nombre"
+                }
+            }
+        }
+    },
+    {
+        $project: {
+            "especialidad": "$especialidad",
+            "torneo": "$torneo",
+            "podio": {
+                $cond: [
+                    {$eq: ["$tipo_especialidad", "tiempo"]},
+                    {$slice: ["$marcas", 3]},
+                    {$slice: [{$reverseArray: "$marcas"}, 3]},
+                ]
+            }
+        }
+    }
+]);

@@ -1,0 +1,1 @@
+db.deportistas.aggregate([{$sortByCount:"$pais"}]);

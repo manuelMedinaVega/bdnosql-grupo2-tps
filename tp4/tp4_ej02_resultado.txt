@@ -1,0 +1,4 @@
+"_id","fecha_nacimiento","id_pais","nombre","pais"
+"10","1989-12-26","86","Yohan BLAKE","Jamaica"
+"20","1993-06-10","86","Tyquendo TRACEY","Jamaica"
+"30","1989-03-09","164","Carina HORN","South Africa"

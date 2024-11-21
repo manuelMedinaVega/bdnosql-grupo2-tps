@@ -1,0 +1,1 @@
+db.deportistas.find({"_id": {$in: [10, 20, 30]}});

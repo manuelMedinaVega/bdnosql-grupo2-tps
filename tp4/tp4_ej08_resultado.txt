@@ -1,0 +1,400 @@
+{
+    "_id" : {
+        "id_especialidad" : NumberInt(13)
+    },
+    "especialidad" : "salto de altura",
+    "podio" : [
+        {
+            "marca" : NumberInt(261),
+            "deportista" : "Luis Enrique ZAYAS"
+        },
+        {
+            "marca" : NumberInt(261),
+            "deportista" : "Luis Enrique ZAYAS"
+        },
+        {
+            "marca" : NumberInt(261),
+            "deportista" : "Luis Enrique ZAYAS"
+        }
+    ]
+}
+{
+    "_id" : {
+        "id_especialidad" : NumberInt(14)
+    },
+    "especialidad" : "salto con pertiga",
+    "podio" : [
+        {
+            "marca" : NumberInt(667),
+            "deportista" : "Piotr LISEK"
+        },
+        {
+            "marca" : NumberInt(667),
+            "deportista" : "Raphael HOLZDEPPE"
+        },
+        {
+            "marca" : NumberInt(667),
+            "deportista" : "Anzhelika SIDOROVA"
+        }
+    ]
+}
+{
+    "_id" : {
+        "id_especialidad" : NumberInt(6)
+    },
+    "especialidad" : "carrera 5000 m",
+    "podio" : [
+        {
+            "marca" : NumberInt(772098),
+            "deportista" : "Sifan HASSAN"
+        },
+        {
+            "marca" : NumberInt(772110),
+            "deportista" : "Birhanu BALEW"
+        },
+        {
+            "marca" : NumberInt(772111),
+            "deportista" : "Selemon BAREGA"
+        }
+    ]
+}
+{
+    "_id" : {
+        "id_especialidad" : NumberInt(7)
+    },
+    "especialidad" : "carrera 10000 m",
+    "podio" : [
+        {
+            "marca" : NumberInt(1608036),
+            "deportista" : "Lopez LOMONG"
+        },
+        {
+            "marca" : NumberInt(1608063),
+            "deportista" : "Abdallah Kibet MANDE"
+        },
+        {
+            "marca" : NumberInt(1608075),
+            "deportista" : "Rodgers KWEMOI"
+        }
+    ]
+}
+{
+    "_id" : {
+        "id_especialidad" : NumberInt(5)
+    },
+    "especialidad" : "carrera 1500 m",
+    "podio" : [
+        {
+            "marca" : NumberInt(208771),
+            "deportista" : "Sifan HASSAN"
+        },
+        {
+            "marca" : NumberInt(208772),
+            "deportista" : "Dawit SEYAUM"
+        },
+        {
+            "marca" : NumberInt(208772),
+            "deportista" : "Matthew CENTROWITZ"
+        }
+    ]
+}
+{
+    "_id" : {
+        "id_especialidad" : NumberInt(19)
+    },
+    "especialidad" : "lanzamiento de martillo",
+    "podio" : [
+        {
+            "marca" : NumberInt(8992),
+            "deportista" : "Zalina PETRIVSKAYA"
+        },
+        {
+            "marca" : NumberInt(8992),
+            "deportista" : "Serhiy PEREVOZNIKOV"
+        },
+        {
+            "marca" : NumberInt(8992),
+            "deportista" : "Hanna MALYSHIK"
+        }
+    ]
+}
+{
+    "_id" : {
+        "id_especialidad" : NumberInt(11)
+    },
+    "especialidad" : "carrera 400 m con vallas",
+    "podio" : [
+        {
+            "marca" : NumberInt(46092),
+            "deportista" : "Ashley SPENCER"
+        },
+        {
+            "marca" : NumberInt(46092),
+            "deportista" : "Lindsay HANEKOM"
+        },
+        {
+            "marca" : NumberInt(46094),
+            "deportista" : "Kyron MCMASTER"
+        }
+    ]
+}
+{
+    "_id" : {
+        "id_especialidad" : NumberInt(12)
+    },
+    "especialidad" : "carrera 3000 m con vallas",
+    "podio" : [
+        {
+            "marca" : NumberInt(481036),
+            "deportista" : "Andrew BAYER"
+        },
+        {
+            "marca" : NumberInt(481040),
+            "deportista" : "Chala BEYO"
+        },
+        {
+            "marca" : NumberInt(481044),
+            "deportista" : "Norah JERUTO"
+        }
+    ]
+}
+{
+    "_id" : {
+        "id_especialidad" : NumberInt(8)
+    },
+    "especialidad" : "carrera 21000 m",
+    "podio" : [
+        {
+            "marca" : NumberInt(3481005),
+            "deportista" : "Evaline CHIRCHIR"
+        },
+        {
+            "marca" : NumberInt(3481062),
+            "deportista" : "Zeineba YIMER"
+        },
+        {
+            "marca" : NumberInt(3481121),
+            "deportista" : "Roza DEREJE"
+        }
+    ]
+}
+{
+    "_id" : {
+        "id_especialidad" : NumberInt(1)
+    },
+    "especialidad" : "carrera 100 m",
+    "podio" : [
+        {
+            "marca" : NumberInt(9760),
+            "deportista" : "Noah LYLES"
+        },
+        {
+            "marca" : NumberInt(9760),
+            "deportista" : "Kiara GRANT"
+        },
+        {
+            "marca" : NumberInt(9760),
+            "deportista" : "Tynia GAITHER"
+        }
+    ]
+}
+{
+    "_id" : {
+        "id_especialidad" : NumberInt(17)
+    },
+    "especialidad" : "lanzamiento de bala",
+    "podio" : [
+        {
+            "marca" : NumberInt(2521),
+            "deportista" : "Tomas WALSH"
+        },
+        {
+            "marca" : NumberInt(2521),
+            "deportista" : "Jeneva STEVENS"
+        },
+        {
+            "marca" : NumberInt(2521),
+            "deportista" : "Tomáš STANĚK"
+        }
+    ]
+}
+{
+    "_id" : {
+        "id_especialidad" : NumberInt(16)
+    },
+    "especialidad" : "salto triple",
+    "podio" : [
+        {
+            "marca" : NumberInt(1996),
+            "deportista" : "Nelson ÉVORA"
+        },
+        {
+            "marca" : NumberInt(1996),
+            "deportista" : "Diana ZAGAINOVA"
+        },
+        {
+            "marca" : NumberInt(1996),
+            "deportista" : "Jordan Alejandro DÍAZ FORTUN"
+        }
+    ]
+}
+{
+    "_id" : {
+        "id_especialidad" : NumberInt(4)
+    },
+    "especialidad" : "carrera 800 m",
+    "podio" : [
+        {
+            "marca" : NumberInt(101892),
+            "deportista" : "Francine NIYONSABA"
+        },
+        {
+            "marca" : NumberInt(101893),
+            "deportista" : "Natalya PRYSHCHEPA"
+        },
+        {
+            "marca" : NumberInt(101893),
+            "deportista" : "Raevyn ROGERS"
+        }
+    ]
+}
+{
+    "_id" : {
+        "id_especialidad" : NumberInt(18)
+    },
+    "especialidad" : "lanzamiento de disco",
+    "podio" : [
+        {
+            "marca" : NumberInt(7905),
+            "deportista" : "Kelsey CARD"
+        },
+        {
+            "marca" : NumberInt(7905),
+            "deportista" : "Daniel STÅHL"
+        },
+        {
+            "marca" : NumberInt(7905),
+            "deportista" : "Robert URBANEK"
+        }
+    ]
+}
+{
+    "_id" : {
+        "id_especialidad" : NumberInt(10)
+    },
+    "especialidad" : "carrera 110 m con vallas",
+    "podio" : [
+        {
+            "marca" : NumberInt(12098),
+            "deportista" : "Queen CLAYE"
+        },
+        {
+            "marca" : NumberInt(12098),
+            "deportista" : "Gabriel CONSTANTINO"
+        },
+        {
+            "marca" : NumberInt(12098),
+            "deportista" : "Anna COCKRELL"
+        }
+    ]
+}
+{
+    "_id" : {
+        "id_especialidad" : NumberInt(9)
+    },
+    "especialidad" : "carrera 42000 m",
+    "podio" : [
+        {
+            "marca" : NumberInt(7301146),
+            "deportista" : "Zeineba YIMER"
+        },
+        {
+            "marca" : NumberInt(7301386),
+            "deportista" : "Kinde ATANAW"
+        },
+        {
+            "marca" : NumberInt(7301499),
+            "deportista" : "Kinde ATANAW"
+        }
+    ]
+}
+{
+    "_id" : {
+        "id_especialidad" : NumberInt(3)
+    },
+    "especialidad" : "carrera 400 m",
+    "podio" : [
+        {
+            "marca" : NumberInt(43450),
+            "deportista" : "Phyllis FRANCIS"
+        },
+        {
+            "marca" : NumberInt(43451),
+            "deportista" : "Courtney OKOLO"
+        },
+        {
+            "marca" : NumberInt(43452),
+            "deportista" : "Sharrika BARNETT"
+        }
+    ]
+}
+{
+    "_id" : {
+        "id_especialidad" : NumberInt(2)
+    },
+    "especialidad" : "carrera 200 m",
+    "podio" : [
+        {
+            "marca" : NumberInt(19500),
+            "deportista" : "Kayla WHITE"
+        },
+        {
+            "marca" : NumberInt(19500),
+            "deportista" : "Elaine THOMPSON"
+        },
+        {
+            "marca" : NumberInt(19500),
+            "deportista" : "Mario BURKE"
+        }
+    ]
+}
+{
+    "_id" : {
+        "id_especialidad" : NumberInt(15)
+    },
+    "especialidad" : "salto largo",
+    "podio" : [
+        {
+            "marca" : NumberInt(956),
+            "deportista" : "Ivana ŠPANOVIĆ"
+        },
+        {
+            "marca" : NumberInt(956),
+            "deportista" : "Shara PROCTOR"
+        },
+        {
+            "marca" : NumberInt(956),
+            "deportista" : "Shara PROCTOR"
+        }
+    ]
+}
+{
+    "_id" : {
+        "id_especialidad" : NumberInt(20)
+    },
+    "especialidad" : "lanzamiento de jabalina",
+    "podio" : [
+        {
+            "marca" : NumberInt(9968),
+            "deportista" : "Julian WEBER"
+        },
+        {
+            "marca" : NumberInt(9968),
+            "deportista" : "Kim AMB"
+        },
+        {
+            "marca" : NumberInt(9968),
+            "deportista" : "Martina RATEJ"
+        }
+    ]
+}
